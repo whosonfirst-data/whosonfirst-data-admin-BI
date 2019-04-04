@@ -1,0 +1,67 @@
+{
+  "id": 1326792401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0414,-3.795,30.0414,-3.795",
+    "geom:latitude":-3.795,
+    "geom:longitude":30.0414,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Sakirugu",
+    "gn:country_code":"BI",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422750,
+    "gn:latitude":-3.795,
+    "gn:longitude":30.0414,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Sakirugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422750
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ebf26149e0957b276aa2b1f5c881e869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1326792401,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1326792401,
+    "wof:lastmodified":1536606218,
+    "wof:name":"Sakirugu",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0414,
+    -3.795,
+    30.0414,
+    -3.795
+],
+  "geometry": {"coordinates":[30.0414,-3.795],"type":"Point"}
+}

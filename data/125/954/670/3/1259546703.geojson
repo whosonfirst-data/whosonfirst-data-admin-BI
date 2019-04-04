@@ -1,0 +1,68 @@
+{
+  "id": 1259546703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3197,-2.7163,30.3197,-2.7163",
+    "geom:latitude":-2.7163,
+    "geom:longitude":30.3197,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Butihinda",
+    "gn:country_code":"BI",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":431575,
+    "gn:latitude":-2.7163,
+    "gn:longitude":30.3197,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Butihinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431575,
+        "wk:page":"Butihinda"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"54a3500ea47d6af0bb5f8fb6f97c9505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759353,
+            "locality_id":1259546703,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1259546703,
+    "wof:lastmodified":1537487821,
+    "wof:name":"Butihinda",
+    "wof:parent_id":1108759353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3197,
+    -2.7163,
+    30.3197,
+    -2.7163
+],
+  "geometry": {"coordinates":[30.3197,-2.7163],"type":"Point"}
+}

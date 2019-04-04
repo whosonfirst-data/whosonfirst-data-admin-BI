@@ -1,0 +1,67 @@
+{
+  "id": 1226405911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7827,-4.1482,29.7827,-4.1482",
+    "geom:latitude":-4.1482,
+    "geom:longitude":29.7827,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nyetongwe",
+    "gn:country_code":"BI",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":422261,
+    "gn:latitude":-4.1482,
+    "gn:longitude":29.7827,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyetongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422261
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"788e6e17540fcecb661aea15f1a70012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759441,
+            "locality_id":1226405911,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1226405911,
+    "wof:lastmodified":1536703305,
+    "wof:name":"Nyetongwe",
+    "wof:parent_id":1108759441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7827,
+    -4.1482,
+    29.7827,
+    -4.1482
+],
+  "geometry": {"coordinates":[29.7827,-4.1482],"type":"Point"}
+}

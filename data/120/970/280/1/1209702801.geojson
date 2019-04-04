@@ -1,0 +1,67 @@
+{
+  "id": 1209702801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1529,-2.8072,29.1529,-2.8072",
+    "geom:latitude":-2.8072,
+    "geom:longitude":29.1529,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bumba",
+    "gn:country_code":"BI",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429947,
+    "gn:latitude":-2.8072,
+    "gn:longitude":29.1529,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429947
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b6e815ddb55055f096697a4579cf7a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1209702801,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1209702801,
+    "wof:lastmodified":1536394202,
+    "wof:name":"Bumba",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1529,
+    -2.8072,
+    29.1529,
+    -2.8072
+],
+  "geometry": {"coordinates":[29.1529,-2.8072],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226603321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7616,-3.3138,29.7616,-3.3138",
+    "geom:latitude":-3.3138,
+    "geom:longitude":29.7616,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Rutegama",
+    "gn:country_code":"BI",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426062,
+    "gn:latitude":-3.3138,
+    "gn:longitude":29.7616,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rutegama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rutegana",
+        "Rutegama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426062
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"05081e66b6868b4d770f9b803ac41943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759541,
+            "locality_id":1226603321,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1226603321,
+    "wof:lastmodified":1537587829,
+    "wof:name":"Rutegama",
+    "wof:parent_id":1108759541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7616,
+    -3.3138,
+    29.7616,
+    -3.3138
+],
+  "geometry": {"coordinates":[29.7616,-3.3138],"type":"Point"}
+}

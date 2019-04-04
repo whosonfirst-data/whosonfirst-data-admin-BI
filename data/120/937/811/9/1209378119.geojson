@@ -1,0 +1,61 @@
+{
+  "id": 1209378119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4522,-2.5614,30.4522,-2.5614",
+    "geom:latitude":-2.5614,
+    "geom:longitude":30.4522,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nyamisagara",
+    "gn:country_code":"BI",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431391,
+    "gn:latitude":-2.5614,
+    "gn:longitude":30.4522,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nyamisagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431391
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d10ac5c9db60d3e45d2967f64c0a04b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209378119
+        }
+    ],
+    "wof:id":1209378119,
+    "wof:lastmodified":1536288878,
+    "wof:name":"Nyamisagara",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4522,
+    -2.5614,
+    30.4522,
+    -2.5614
+],
+  "geometry": {"coordinates":[30.4522,-2.5614],"type":"Point"}
+}

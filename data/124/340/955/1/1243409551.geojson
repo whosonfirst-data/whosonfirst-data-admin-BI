@@ -1,0 +1,67 @@
+{
+  "id": 1243409551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2557,-3.334,29.2557,-3.334",
+    "geom:latitude":-3.334,
+    "geom:longitude":29.2557,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Muyange",
+    "gn:country_code":"BI",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":425315,
+    "gn:latitude":-3.334,
+    "gn:longitude":29.2557,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Muyange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        421204423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425315
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"aeea96cbcfb6abb469e6f457781a39f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421204423,
+            "locality_id":1243409551,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1243409551,
+    "wof:lastmodified":1536857516,
+    "wof:name":"Muyange",
+    "wof:parent_id":421204423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2557,
+    -3.334,
+    29.2557,
+    -3.334
+],
+  "geometry": {"coordinates":[29.2557,-3.334],"type":"Point"}
+}

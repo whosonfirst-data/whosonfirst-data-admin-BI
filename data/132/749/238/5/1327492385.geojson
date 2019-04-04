@@ -1,0 +1,67 @@
+{
+  "id": 1327492385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40213,-3.34501,30.40213,-3.34501",
+    "geom:latitude":-3.34501,
+    "geom:longitude":30.40213,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Rubimba",
+    "gn:country_code":"BI",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426911,
+    "gn:latitude":-3.34501,
+    "gn:longitude":30.40213,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Rubimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426911
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b431ab6e3396d31cce1fad46500922ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1327492385,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1327492385,
+    "wof:lastmodified":1537088820,
+    "wof:name":"Rubimba",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40213,
+    -3.34501,
+    30.40213,
+    -3.34501
+],
+  "geometry": {"coordinates":[30.40213,-3.34501],"type":"Point"}
+}

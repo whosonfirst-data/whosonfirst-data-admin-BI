@@ -1,0 +1,67 @@
+{
+  "id": 1259357073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.47328,-3.32061,30.47328,-3.32061",
+    "geom:latitude":-3.32061,
+    "geom:longitude":30.47328,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kirambi",
+    "gn:country_code":"BI",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426877,
+    "gn:latitude":-3.32061,
+    "gn:longitude":30.47328,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kirambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426877
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e7ce62596beddc954cf2665e11a38d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1259357073,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1259357073,
+    "wof:lastmodified":1537038699,
+    "wof:name":"Kirambi",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.47328,
+    -3.32061,
+    30.47328,
+    -3.32061
+],
+  "geometry": {"coordinates":[30.47328,-3.32061],"type":"Point"}
+}

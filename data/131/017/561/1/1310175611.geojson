@@ -1,0 +1,67 @@
+{
+  "id": 1310175611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5817,-2.9086,29.5817,-2.9086",
+    "geom:latitude":-2.9086,
+    "geom:longitude":29.5817,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kibakwe",
+    "gn:country_code":"BI",
+    "gn:dem":2039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430917,
+    "gn:latitude":-2.9086,
+    "gn:longitude":29.5817,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Kibakwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430917
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c8e2bd505f6c3c9502ce07de6c10f692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759483,
+            "locality_id":1310175611,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1310175611,
+    "wof:lastmodified":1536895348,
+    "wof:name":"Kibakwe",
+    "wof:parent_id":1108759483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5817,
+    -2.9086,
+    29.5817,
+    -2.9086
+],
+  "geometry": {"coordinates":[29.5817,-2.9086],"type":"Point"}
+}

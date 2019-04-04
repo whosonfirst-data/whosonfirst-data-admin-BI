@@ -1,0 +1,67 @@
+{
+  "id": 1260143413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2247,-2.7486,30.2247,-2.7486",
+    "geom:latitude":-2.7486,
+    "geom:longitude":30.2247,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kimati",
+    "gn:country_code":"BI",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432719,
+    "gn:latitude":-2.7486,
+    "gn:longitude":30.2247,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kimati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432719
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6d4e30f3ba9302629e8ddb4ec28f6253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759371,
+            "locality_id":1260143413,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1260143413,
+    "wof:lastmodified":1536903071,
+    "wof:name":"Kimati",
+    "wof:parent_id":1108759371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2247,
+    -2.7486,
+    30.2247,
+    -2.7486
+],
+  "geometry": {"coordinates":[30.2247,-2.7486],"type":"Point"}
+}

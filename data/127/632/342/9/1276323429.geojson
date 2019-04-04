@@ -1,0 +1,67 @@
+{
+  "id": 1276323429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4316,-3.0483,29.4316,-3.0483",
+    "geom:latitude":-3.0483,
+    "geom:longitude":29.4316,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gitonganikwa",
+    "gn:country_code":"BI",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428472,
+    "gn:latitude":-3.0483,
+    "gn:longitude":29.4316,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gitonganikwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428472
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"99eea5b6465107bc11457a1d5e2be0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1276323429,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1276323429,
+    "wof:lastmodified":1536792340,
+    "wof:name":"Gitonganikwa",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4316,
+    -3.0483,
+    29.4316,
+    -3.0483
+],
+  "geometry": {"coordinates":[29.4316,-3.0483],"type":"Point"}
+}

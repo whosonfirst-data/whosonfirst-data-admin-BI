@@ -1,0 +1,67 @@
+{
+  "id": 1243525997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7417,-3.6483,29.7417,-3.6483",
+    "geom:latitude":-3.6483,
+    "geom:longitude":29.7417,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gasozwa",
+    "gn:country_code":"BI",
+    "gn:dem":1857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424000,
+    "gn:latitude":-3.6483,
+    "gn:longitude":29.7417,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gasozwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424000
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5172e43e27b5c70a4a042504c9844688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759549,
+            "locality_id":1243525997,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1243525997,
+    "wof:lastmodified":1536691109,
+    "wof:name":"Gasozwa",
+    "wof:parent_id":1108759549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7417,
+    -3.6483,
+    29.7417,
+    -3.6483
+],
+  "geometry": {"coordinates":[29.7417,-3.6483],"type":"Point"}
+}

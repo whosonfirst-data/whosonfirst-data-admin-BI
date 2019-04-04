@@ -1,0 +1,67 @@
+{
+  "id": 1242929951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5946,-3.2265,29.5946,-3.2265",
+    "geom:latitude":-3.2265,
+    "geom:longitude":29.5946,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Shumba",
+    "gn:country_code":"BI",
+    "gn:dem":1981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429167,
+    "gn:latitude":-3.2265,
+    "gn:longitude":29.5946,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Shumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429167
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cc0152a91d57247f8b1780cfc58e7ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759327,
+            "locality_id":1242929951,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1242929951,
+    "wof:lastmodified":1537051198,
+    "wof:name":"Shumba",
+    "wof:parent_id":1108759327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5946,
+    -3.2265,
+    29.5946,
+    -3.2265
+],
+  "geometry": {"coordinates":[29.5946,-3.2265],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226509535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5098,-3.9883,29.5098,-3.9883",
+    "geom:latitude":-3.9883,
+    "geom:longitude":29.5098,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Muhanda",
+    "gn:country_code":"BI",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423385,
+    "gn:latitude":-3.9883,
+    "gn:longitude":29.5098,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Muhanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423385
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1025bdf2fb39318dee2812f350702128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759537,
+            "locality_id":1226509535,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1226509535,
+    "wof:lastmodified":1537048299,
+    "wof:name":"Muhanda",
+    "wof:parent_id":1108759537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5098,
+    -3.9883,
+    29.5098,
+    -3.9883
+],
+  "geometry": {"coordinates":[29.5098,-3.9883],"type":"Point"}
+}

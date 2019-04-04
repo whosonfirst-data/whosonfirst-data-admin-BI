@@ -1,0 +1,67 @@
+{
+  "id": 1343933057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0397,-2.8132,30.0397,-2.8132",
+    "geom:latitude":-2.8132,
+    "geom:longitude":30.0397,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bitagazwa",
+    "gn:country_code":"BI",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432046,
+    "gn:latitude":-2.8132,
+    "gn:longitude":30.0397,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bitagazwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432046
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"57f1bb78e157f6f95096e62009edd6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759431,
+            "locality_id":1343933057,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1343933057,
+    "wof:lastmodified":1537057102,
+    "wof:name":"Bitagazwa",
+    "wof:parent_id":1108759431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0397,
+    -2.8132,
+    30.0397,
+    -2.8132
+],
+  "geometry": {"coordinates":[30.0397,-2.8132],"type":"Point"}
+}

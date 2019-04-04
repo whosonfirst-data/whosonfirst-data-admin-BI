@@ -1,0 +1,67 @@
+{
+  "id": 1276319741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0507,-3.43,30.0507,-3.43",
+    "geom:latitude":-3.43,
+    "geom:longitude":30.0507,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Murirwe",
+    "gn:country_code":"BI",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426647,
+    "gn:latitude":-3.43,
+    "gn:longitude":30.0507,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Murirwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426647
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cdcbeaf9c8ebed06607b37df19ea6f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759397,
+            "locality_id":1276319741,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1276319741,
+    "wof:lastmodified":1536797159,
+    "wof:name":"Murirwe",
+    "wof:parent_id":1108759397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0507,
+    -3.43,
+    30.0507,
+    -3.43
+],
+  "geometry": {"coordinates":[30.0507,-3.43],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276210373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7444,-3.6869,29.7444,-3.6869",
+    "geom:latitude":-3.6869,
+    "geom:longitude":29.7444,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gitanga",
+    "gn:country_code":"BI",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424052,
+    "gn:latitude":-3.6869,
+    "gn:longitude":29.7444,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gitanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424052
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a894fe55a49d3a38cb2e92ff2c3fb621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759447,
+            "locality_id":1276210373,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1276210373,
+    "wof:lastmodified":1536944370,
+    "wof:name":"Gitanga",
+    "wof:parent_id":1108759447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7444,
+    -3.6869,
+    29.7444,
+    -3.6869
+],
+  "geometry": {"coordinates":[29.7444,-3.6869],"type":"Point"}
+}

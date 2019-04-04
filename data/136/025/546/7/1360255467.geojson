@@ -1,0 +1,67 @@
+{
+  "id": 1360255467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5991,-3.1046,29.5991,-3.1046",
+    "geom:latitude":-3.1046,
+    "geom:longitude":29.5991,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Macorwe",
+    "gn:country_code":"BI",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428902,
+    "gn:latitude":-3.1046,
+    "gn:longitude":29.5991,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Macorwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428902
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6b6db2a0f8dd2fd0ebe1147a3f3c539c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759449,
+            "locality_id":1360255467,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1360255467,
+    "wof:lastmodified":1536700205,
+    "wof:name":"Macorwe",
+    "wof:parent_id":1108759449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5991,
+    -3.1046,
+    29.5991,
+    -3.1046
+],
+  "geometry": {"coordinates":[29.5991,-3.1046],"type":"Point"}
+}

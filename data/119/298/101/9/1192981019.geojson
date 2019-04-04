@@ -1,0 +1,67 @@
+{
+  "id": 1192981019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8787,-2.7686,29.8787,-2.7686",
+    "geom:latitude":-2.7686,
+    "geom:longitude":29.8787,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kayanga",
+    "gn:country_code":"BI",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430307,
+    "gn:latitude":-2.7686,
+    "gn:longitude":29.8787,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kayanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430307
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8fb977ceb45efac473ad9f43d36e8424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759521,
+            "locality_id":1192981019,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1192981019,
+    "wof:lastmodified":1536367866,
+    "wof:name":"Kayanga",
+    "wof:parent_id":1108759521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8787,
+    -2.7686,
+    29.8787,
+    -2.7686
+],
+  "geometry": {"coordinates":[29.8787,-2.7686],"type":"Point"}
+}

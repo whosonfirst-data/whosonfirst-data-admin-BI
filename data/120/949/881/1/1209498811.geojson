@@ -1,0 +1,61 @@
+{
+  "id": 1209498811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.668,-3.6613,29.668,-3.6613",
+    "geom:latitude":-3.6613,
+    "geom:longitude":29.668,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kanyinya",
+    "gn:country_code":"BI",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424017,
+    "gn:latitude":-3.6613,
+    "gn:longitude":29.668,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Kanyinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424017
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"56c2256437bbc4eb6c849f4d658de4df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209498811
+        }
+    ],
+    "wof:id":1209498811,
+    "wof:lastmodified":1536285249,
+    "wof:name":"Kanyinya",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.668000000000006,
+    -3.6613,
+    29.668000000000006,
+    -3.6613
+],
+  "geometry": {"coordinates":[29.66800000000001,-3.6613],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209085689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8192,-3.7017,29.8192,-3.7017",
+    "geom:latitude":-3.7017,
+    "geom:longitude":29.8192,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nyarwonga",
+    "gn:country_code":"BI",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424501,
+    "gn:latitude":-3.7017,
+    "gn:longitude":29.8192,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyarwonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424501
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"52be6e39da3f5482b8d0bc14a5f23bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209085689
+        }
+    ],
+    "wof:id":1209085689,
+    "wof:lastmodified":1536298194,
+    "wof:name":"Nyarwonga",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8192,
+    -3.7017,
+    29.8192,
+    -3.7017
+],
+  "geometry": {"coordinates":[29.8192,-3.7017],"type":"Point"}
+}

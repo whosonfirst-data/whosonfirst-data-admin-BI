@@ -1,0 +1,67 @@
+{
+  "id": 1310674703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1691,-3.2608,30.1691,-3.2608",
+    "geom:latitude":-3.2608,
+    "geom:longitude":30.1691,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buyogora",
+    "gn:country_code":"BI",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426433,
+    "gn:latitude":-3.2608,
+    "gn:longitude":30.1691,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Buyogora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426433
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"990476b4d960ca4f0f29a6c986ec1641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759515,
+            "locality_id":1310674703,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1310674703,
+    "wof:lastmodified":1536672817,
+    "wof:name":"Buyogora",
+    "wof:parent_id":1108759515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1691,
+    -3.2608,
+    30.1691,
+    -3.2608
+],
+  "geometry": {"coordinates":[30.1691,-3.2608],"type":"Point"}
+}

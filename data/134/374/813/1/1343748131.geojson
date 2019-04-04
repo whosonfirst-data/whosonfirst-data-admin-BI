@@ -1,0 +1,67 @@
+{
+  "id": 1343748131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9417,-3.5274,29.9417,-3.5274",
+    "geom:latitude":-3.5274,
+    "geom:longitude":29.9417,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Muhurika",
+    "gn:country_code":"BI",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424170,
+    "gn:latitude":-3.5274,
+    "gn:longitude":29.9417,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muhurika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424170
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8179d4d8a0cbf7daa6dbef5f1bfa70bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759443,
+            "locality_id":1343748131,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1343748131,
+    "wof:lastmodified":1536827751,
+    "wof:name":"Muhurika",
+    "wof:parent_id":1108759443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9417,
+    -3.5274,
+    29.9417,
+    -3.5274
+],
+  "geometry": {"coordinates":[29.9417,-3.5274],"type":"Point"}
+}

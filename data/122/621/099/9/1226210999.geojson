@@ -1,0 +1,67 @@
+{
+  "id": 1226210999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7112,-3.5519,29.7112,-3.5519",
+    "geom:latitude":-3.5519,
+    "geom:longitude":29.7112,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ngara",
+    "gn:country_code":"BI",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423870,
+    "gn:latitude":-3.5519,
+    "gn:longitude":29.7112,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Ngara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423870
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"43d3c72e672bf842fe8bbe31822c14a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759421,
+            "locality_id":1226210999,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1226210999,
+    "wof:lastmodified":1536983091,
+    "wof:name":"Ngara",
+    "wof:parent_id":1108759421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7112,
+    -3.5519,
+    29.7112,
+    -3.5519
+],
+  "geometry": {"coordinates":[29.7112,-3.5519],"type":"Point"}
+}

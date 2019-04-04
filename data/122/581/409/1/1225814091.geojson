@@ -1,0 +1,67 @@
+{
+  "id": 1225814091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7825,-3.2174,29.7825,-3.2174",
+    "geom:latitude":-3.2174,
+    "geom:longitude":29.7825,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Migezi-Nete",
+    "gn:country_code":"BI",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429553,
+    "gn:latitude":-3.2174,
+    "gn:longitude":29.7825,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Migezi-Nete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429553
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4cfe37453d4777a175e973b574b1bb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759451,
+            "locality_id":1225814091,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1225814091,
+    "wof:lastmodified":1537056959,
+    "wof:name":"Migezi-Nete",
+    "wof:parent_id":1108759451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7825,
+    -3.2174,
+    29.7825,
+    -3.2174
+],
+  "geometry": {"coordinates":[29.7825,-3.2174],"type":"Point"}
+}

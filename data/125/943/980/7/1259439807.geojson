@@ -1,0 +1,67 @@
+{
+  "id": 1259439807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5186,-3.9715,29.5186,-3.9715",
+    "geom:latitude":-3.9715,
+    "geom:longitude":29.5186,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kavimvira",
+    "gn:country_code":"BI",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423363,
+    "gn:latitude":-3.9715,
+    "gn:longitude":29.5186,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Kavimvira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423363
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2bc1eaa6c1d827024c6bcaabb96aaa5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759537,
+            "locality_id":1259439807,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1259439807,
+    "wof:lastmodified":1536922387,
+    "wof:name":"Kavimvira",
+    "wof:parent_id":1108759537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5186,
+    -3.9715,
+    29.5186,
+    -3.9715
+],
+  "geometry": {"coordinates":[29.5186,-3.9715],"type":"Point"}
+}

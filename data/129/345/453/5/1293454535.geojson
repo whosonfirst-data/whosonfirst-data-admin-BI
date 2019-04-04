@@ -1,0 +1,67 @@
+{
+  "id": 1293454535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.009,-3.9228,30.009,-3.9228",
+    "geom:latitude":-3.9228,
+    "geom:longitude":30.009,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Rutana",
+    "gn:country_code":"BI",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422929,
+    "gn:latitude":-3.9228,
+    "gn:longitude":30.009,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Rutana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422929
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"986a975e509ad025407ce4dce0849da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1293454535,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1293454535,
+    "wof:lastmodified":1536833698,
+    "wof:name":"Rutana",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.009,
+    -3.9228,
+    30.009,
+    -3.9228
+],
+  "geometry": {"coordinates":[30.009,-3.9228],"type":"Point"}
+}

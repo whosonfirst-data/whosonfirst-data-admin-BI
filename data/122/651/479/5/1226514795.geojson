@@ -1,0 +1,67 @@
+{
+  "id": 1226514795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.109,-2.765,30.109,-2.765",
+    "geom:latitude":-2.765,
+    "geom:longitude":30.109,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kabuye-Shororo",
+    "gn:country_code":"BI",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431972,
+    "gn:latitude":-2.765,
+    "gn:longitude":30.109,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kabuye-Shororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431972
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c518cd8f3357d06bbb072bb91ca2ec20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1226514795,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1226514795,
+    "wof:lastmodified":1537041033,
+    "wof:name":"Kabuye-Shororo",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.109,
+    -2.765,
+    30.109,
+    -2.765
+],
+  "geometry": {"coordinates":[30.109,-2.765],"type":"Point"}
+}

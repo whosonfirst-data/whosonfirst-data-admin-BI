@@ -1,0 +1,67 @@
+{
+  "id": 1292963951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2207,-2.7252,30.2207,-2.7252",
+    "geom:latitude":-2.7252,
+    "geom:longitude":30.2207,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Butaramuka",
+    "gn:country_code":"BI",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432685,
+    "gn:latitude":-2.7252,
+    "gn:longitude":30.2207,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Butaramuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432685
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a90cf8b1a0bb4781e526328ca77d2718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759371,
+            "locality_id":1292963951,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1292963951,
+    "wof:lastmodified":1537043079,
+    "wof:name":"Butaramuka",
+    "wof:parent_id":1108759371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2207,
+    -2.7252,
+    30.2207,
+    -2.7252
+],
+  "geometry": {"coordinates":[30.2207,-2.7252],"type":"Point"}
+}

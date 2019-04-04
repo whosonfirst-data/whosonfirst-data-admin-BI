@@ -1,0 +1,67 @@
+{
+  "id": 1276288851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5175,-3.322,29.5175,-3.322",
+    "geom:latitude":-3.322,
+    "geom:longitude":29.5175,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Vuma",
+    "gn:country_code":"BI",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425650,
+    "gn:latitude":-3.322,
+    "gn:longitude":29.5175,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Vuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425650
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"efeb44319ca75826dfa124004bd692dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759461,
+            "locality_id":1276288851,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1276288851,
+    "wof:lastmodified":1536837418,
+    "wof:name":"Vuma",
+    "wof:parent_id":1108759461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5175,
+    -3.322,
+    29.5175,
+    -3.322
+],
+  "geometry": {"coordinates":[29.5175,-3.322],"type":"Point"}
+}

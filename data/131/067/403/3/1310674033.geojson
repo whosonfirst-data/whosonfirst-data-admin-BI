@@ -1,0 +1,67 @@
+{
+  "id": 1310674033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.652,-2.7994,29.652,-2.7994",
+    "geom:latitude":-2.7994,
+    "geom:longitude":29.652,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rugerero",
+    "gn:country_code":"BI",
+    "gn:dem":1756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430725,
+    "gn:latitude":-2.7994,
+    "gn:longitude":29.652,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Rugerero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430725
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e5a22d8753b356d34b17d886108a8a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759409,
+            "locality_id":1310674033,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1310674033,
+    "wof:lastmodified":1536673798,
+    "wof:name":"Rugerero",
+    "wof:parent_id":1108759409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.652,
+    -2.7994,
+    29.652,
+    -2.7994
+],
+  "geometry": {"coordinates":[29.652,-2.7994],"type":"Point"}
+}

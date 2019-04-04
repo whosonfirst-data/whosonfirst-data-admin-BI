@@ -1,0 +1,61 @@
+{
+  "id": 1209188267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3662,-3.2698,30.3662,-3.2698",
+    "geom:latitude":-3.2698,
+    "geom:longitude":30.3662,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kirugungu",
+    "gn:country_code":"BI",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426793,
+    "gn:latitude":-3.2698,
+    "gn:longitude":30.3662,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kirugungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426793
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d0fccb07a2fa34163a79899214fe7dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209188267
+        }
+    ],
+    "wof:id":1209188267,
+    "wof:lastmodified":1536295024,
+    "wof:name":"Kirugungu",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3662,
+    -3.2698,
+    30.3662,
+    -3.2698
+],
+  "geometry": {"coordinates":[30.3662,-3.2698],"type":"Point"}
+}

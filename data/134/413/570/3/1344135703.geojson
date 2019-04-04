@@ -1,0 +1,67 @@
+{
+  "id": 1344135703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0982,-3.3076,30.0982,-3.3076",
+    "geom:latitude":-3.3076,
+    "geom:longitude":30.0982,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Rwakagari",
+    "gn:country_code":"BI",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426485,
+    "gn:latitude":-3.3076,
+    "gn:longitude":30.0982,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rwakagari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426485
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4261788124eb7964e3863794cfbee310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759515,
+            "locality_id":1344135703,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1344135703,
+    "wof:lastmodified":1536767483,
+    "wof:name":"Rwakagari",
+    "wof:parent_id":1108759515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0982,
+    -3.3076,
+    30.0982,
+    -3.3076
+],
+  "geometry": {"coordinates":[30.0982,-3.3076],"type":"Point"}
+}

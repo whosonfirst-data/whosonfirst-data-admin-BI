@@ -1,0 +1,67 @@
+{
+  "id": 1243523155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.60367,-3.37091,29.60367,-3.37091",
+    "geom:latitude":-3.37091,
+    "geom:longitude":29.60367,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mucamo",
+    "gn:country_code":"BI",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306470,
+    "gn:latitude":-3.37091,
+    "gn:longitude":29.60367,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mucamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306470
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8a2dc183983a7855b6fcd2dd80585a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759539,
+            "locality_id":1243523155,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1243523155,
+    "wof:lastmodified":1536695269,
+    "wof:name":"Mucamo",
+    "wof:parent_id":1108759539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.60367,
+    -3.37091,
+    29.60367,
+    -3.37091
+],
+  "geometry": {"coordinates":[29.60367,-3.37091],"type":"Point"}
+}

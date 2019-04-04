@@ -1,0 +1,67 @@
+{
+  "id": 1343914385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5507,-3.2383,29.5507,-3.2383",
+    "geom:latitude":-3.2383,
+    "geom:longitude":29.5507,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Busekera",
+    "gn:country_code":"BI",
+    "gn:dem":2252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429190,
+    "gn:latitude":-3.2383,
+    "gn:longitude":29.5507,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Busekera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429190
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7e4d07f113d8f29633a56a9d6223278e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759327,
+            "locality_id":1343914385,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1343914385,
+    "wof:lastmodified":1537083436,
+    "wof:name":"Busekera",
+    "wof:parent_id":1108759327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5507,
+    -3.2383,
+    29.5507,
+    -3.2383
+],
+  "geometry": {"coordinates":[29.5507,-3.2383],"type":"Point"}
+}

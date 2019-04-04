@@ -1,0 +1,67 @@
+{
+  "id": 1276740241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3462,-2.8662,29.3462,-2.8662",
+    "geom:latitude":-2.8662,
+    "geom:longitude":29.3462,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kididaguzo",
+    "gn:country_code":"BI",
+    "gn:dem":1509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429704,
+    "gn:latitude":-2.8662,
+    "gn:longitude":29.3462,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kididaguzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429704
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"69d0b271f9c5f53481841db4f1bc6a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759331,
+            "locality_id":1276740241,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1276740241,
+    "wof:lastmodified":1536731014,
+    "wof:name":"Kididaguzo",
+    "wof:parent_id":1108759331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3462,
+    -2.8662,
+    29.3462,
+    -2.8662
+],
+  "geometry": {"coordinates":[29.3462,-2.8662],"type":"Point"}
+}

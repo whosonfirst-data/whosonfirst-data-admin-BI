@@ -1,0 +1,67 @@
+{
+  "id": 1193000505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0797,-2.6832,30.0797,-2.6832",
+    "geom:latitude":-2.6832,
+    "geom:longitude":30.0797,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bukuba",
+    "gn:country_code":"BI",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432608,
+    "gn:latitude":-2.6832,
+    "gn:longitude":30.0797,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bukuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432608
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1fbe18f2d62d3a81ab14dc691995b7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1193000505,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1193000505,
+    "wof:lastmodified":1536371149,
+    "wof:name":"Bukuba",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0797,
+    -2.6832,
+    30.0797,
+    -2.6832
+],
+  "geometry": {"coordinates":[30.0797,-2.6832],"type":"Point"}
+}

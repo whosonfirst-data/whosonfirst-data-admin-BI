@@ -1,0 +1,67 @@
+{
+  "id": 1225800023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4246,-3.7616,29.4246,-3.7616",
+    "geom:latitude":-3.7616,
+    "geom:longitude":29.4246,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Buhinyuza",
+    "gn:country_code":"BI",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423414,
+    "gn:latitude":-3.7616,
+    "gn:longitude":29.4246,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Buhinyuza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423414
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"255ecf5db18d66a6b31a188aeab01b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759335,
+            "locality_id":1225800023,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1225800023,
+    "wof:lastmodified":1537076658,
+    "wof:name":"Buhinyuza",
+    "wof:parent_id":1108759335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4246,
+    -3.7616,
+    29.4246,
+    -3.7616
+],
+  "geometry": {"coordinates":[29.4246,-3.7616],"type":"Point"}
+}

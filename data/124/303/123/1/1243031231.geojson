@@ -1,0 +1,67 @@
+{
+  "id": 1243031231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3591,-2.8139,30.3591,-2.8139",
+    "geom:latitude":-2.8139,
+    "geom:longitude":30.3591,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rango",
+    "gn:country_code":"BI",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306976,
+    "gn:latitude":-2.8139,
+    "gn:longitude":30.3591,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Rango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306976
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9d409e4681e4bb8f7cd39ec6304f5e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759499,
+            "locality_id":1243031231,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1243031231,
+    "wof:lastmodified":1536907451,
+    "wof:name":"Rango",
+    "wof:parent_id":1108759499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3591,
+    -2.8139,
+    30.3591,
+    -2.8139
+],
+  "geometry": {"coordinates":[30.3591,-2.8139],"type":"Point"}
+}

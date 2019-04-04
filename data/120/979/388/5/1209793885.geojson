@@ -1,0 +1,67 @@
+{
+  "id": 1209793885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6894,-3.2026,30.6894,-3.2026",
+    "geom:latitude":-3.2026,
+    "geom:longitude":30.6894,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gisagara",
+    "gn:country_code":"BI",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427675,
+    "gn:latitude":-3.2026,
+    "gn:longitude":30.6894,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gisagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427675
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"74961667cb99a986ab0284b6b4cf9d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759387,
+            "locality_id":1209793885,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1209793885,
+    "wof:lastmodified":1536393773,
+    "wof:name":"Gisagara",
+    "wof:parent_id":1108759387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6894,
+    -3.2026,
+    30.6894,
+    -3.2026
+],
+  "geometry": {"coordinates":[30.6894,-3.2026],"type":"Point"}
+}

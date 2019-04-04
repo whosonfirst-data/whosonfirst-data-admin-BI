@@ -1,0 +1,67 @@
+{
+  "id": 1343718123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8274,-3.3473,29.8274,-3.3473",
+    "geom:latitude":-3.3473,
+    "geom:longitude":29.8274,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nyambeho",
+    "gn:country_code":"BI",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426132,
+    "gn:latitude":-3.3473,
+    "gn:longitude":29.8274,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyambeho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426132
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"aa4647c9591f11cb0a977efc9b7bed3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759505,
+            "locality_id":1343718123,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1343718123,
+    "wof:lastmodified":1536870996,
+    "wof:name":"Nyambeho",
+    "wof:parent_id":1108759505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8274,
+    -3.3473,
+    29.8274,
+    -3.3473
+],
+  "geometry": {"coordinates":[29.8274,-3.3473],"type":"Point"}
+}

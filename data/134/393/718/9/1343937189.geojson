@@ -1,0 +1,67 @@
+{
+  "id": 1343937189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9631,-3.7015,29.9631,-3.7015",
+    "geom:latitude":-3.7015,
+    "geom:longitude":29.9631,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bukirasazi",
+    "gn:country_code":"BI",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":424507,
+    "gn:latitude":-3.7015,
+    "gn:longitude":29.9631,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Bukirasazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424507
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4a40047b6bc26b0f2226726741332111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759333,
+            "locality_id":1343937189,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1343937189,
+    "wof:lastmodified":1537051475,
+    "wof:name":"Bukirasazi",
+    "wof:parent_id":1108759333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9631,
+    -3.7015,
+    29.9631,
+    -3.7015
+],
+  "geometry": {"coordinates":[29.9631,-3.7015],"type":"Point"}
+}

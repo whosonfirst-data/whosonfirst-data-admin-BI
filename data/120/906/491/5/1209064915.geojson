@@ -1,0 +1,61 @@
+{
+  "id": 1209064915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6775,-3.2344,29.6775,-3.2344",
+    "geom:latitude":-3.2344,
+    "geom:longitude":29.6775,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Coganyi",
+    "gn:country_code":"BI",
+    "gn:dem":1934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429181,
+    "gn:latitude":-3.2344,
+    "gn:longitude":29.6775,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Coganyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429181
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ddfed0b99a55e14aa7ebe019066bc306",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209064915
+        }
+    ],
+    "wof:id":1209064915,
+    "wof:lastmodified":1536298836,
+    "wof:name":"Coganyi",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6775,
+    -3.2344,
+    29.6775,
+    -3.2344
+],
+  "geometry": {"coordinates":[29.6775,-3.2344],"type":"Point"}
+}

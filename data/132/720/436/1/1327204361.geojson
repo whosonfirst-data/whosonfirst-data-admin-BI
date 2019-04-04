@@ -1,0 +1,67 @@
+{
+  "id": 1327204361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7567,-3.0787,29.7567,-3.0787",
+    "geom:latitude":-3.0787,
+    "geom:longitude":29.7567,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gashoka",
+    "gn:country_code":"BI",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429344,
+    "gn:latitude":-3.0787,
+    "gn:longitude":29.7567,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gashoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429344
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4cba9eecd5747f1a0768ae92ba666fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759349,
+            "locality_id":1327204361,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1327204361,
+    "wof:lastmodified":1537009527,
+    "wof:name":"Gashoka",
+    "wof:parent_id":1108759349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7567,
+    -3.0787,
+    29.7567,
+    -3.0787
+],
+  "geometry": {"coordinates":[29.7567,-3.0787],"type":"Point"}
+}

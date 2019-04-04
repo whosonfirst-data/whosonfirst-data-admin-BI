@@ -1,0 +1,67 @@
+{
+  "id": 1343226893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.211,-3.7235,30.211,-3.7235",
+    "geom:latitude":-3.7235,
+    "geom:longitude":30.211,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Rugari",
+    "gn:country_code":"BI",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424938,
+    "gn:latitude":-3.7235,
+    "gn:longitude":30.211,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rugari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424938
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a5e17bd72c3d8f0882f20a75778571b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759459,
+            "locality_id":1343226893,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1343226893,
+    "wof:lastmodified":1537080407,
+    "wof:name":"Rugari",
+    "wof:parent_id":1108759459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.211,
+    -3.7235,
+    30.211,
+    -3.7235
+],
+  "geometry": {"coordinates":[30.211,-3.7235],"type":"Point"}
+}

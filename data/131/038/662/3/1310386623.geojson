@@ -1,0 +1,67 @@
+{
+  "id": 1310386623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7973,-3.1037,30.7973,-3.1037",
+    "geom:latitude":-3.1037,
+    "geom:longitude":30.7973,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mwiruzi",
+    "gn:country_code":"BI",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427411,
+    "gn:latitude":-3.1037,
+    "gn:longitude":30.7973,
+    "gn:modification_date":"2009-02-11",
+    "gn:name":"Mwiruzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427411
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8c5f2c4e0adcb570036f256661ef4ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759453,
+            "locality_id":1310386623,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1310386623,
+    "wof:lastmodified":1537085312,
+    "wof:name":"Mwiruzi",
+    "wof:parent_id":1108759453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7973,
+    -3.1037,
+    30.7973,
+    -3.1037
+],
+  "geometry": {"coordinates":[30.7973,-3.1037],"type":"Point"}
+}

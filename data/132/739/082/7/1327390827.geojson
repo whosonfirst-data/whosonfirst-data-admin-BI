@@ -1,0 +1,67 @@
+{
+  "id": 1327390827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3555,-3.6064,29.3555,-3.6064",
+    "geom:latitude":-3.6064,
+    "geom:longitude":29.3555,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Gabaniro",
+    "gn:country_code":"BI",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423670,
+    "gn:latitude":-3.6064,
+    "gn:longitude":29.3555,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Gabaniro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423670
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"fc5f97145714a8a2349847b33ccdf822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759475,
+            "locality_id":1327390827,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1327390827,
+    "wof:lastmodified":1536740741,
+    "wof:name":"Gabaniro",
+    "wof:parent_id":1108759475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3555,
+    -3.6064,
+    29.3555,
+    -3.6064
+],
+  "geometry": {"coordinates":[29.3555,-3.6064],"type":"Point"}
+}

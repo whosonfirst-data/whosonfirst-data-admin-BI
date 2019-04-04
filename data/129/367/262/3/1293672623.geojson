@@ -1,0 +1,67 @@
+{
+  "id": 1293672623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.047,-3.2249,30.047,-3.2249",
+    "geom:latitude":-3.2249,
+    "geom:longitude":30.047,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rukindu",
+    "gn:country_code":"BI",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428363,
+    "gn:latitude":-3.2249,
+    "gn:longitude":30.047,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rukindu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428363
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d0206b7d4c59567485f7bf2b5a352fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759551,
+            "locality_id":1293672623,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1293672623,
+    "wof:lastmodified":1537016702,
+    "wof:name":"Rukindu",
+    "wof:parent_id":1108759551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.047,
+    -3.2249,
+    30.047,
+    -3.2249
+],
+  "geometry": {"coordinates":[30.047,-3.2249],"type":"Point"}
+}

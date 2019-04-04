@@ -1,0 +1,67 @@
+{
+  "id": 1292974161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7044,-3.0718,29.7044,-3.0718",
+    "geom:latitude":-3.0718,
+    "geom:longitude":29.7044,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rutobo",
+    "gn:country_code":"BI",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428838,
+    "gn:latitude":-3.0718,
+    "gn:longitude":29.7044,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Rutobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428838
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"be850342c9e18e038f36728ed3b624c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759349,
+            "locality_id":1292974161,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1292974161,
+    "wof:lastmodified":1537028888,
+    "wof:name":"Rutobo",
+    "wof:parent_id":1108759349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7044,
+    -3.0718,
+    29.7044,
+    -3.0718
+],
+  "geometry": {"coordinates":[29.7044,-3.0718],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226706909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4679,-3.9571,29.4679,-3.9571",
+    "geom:latitude":-3.9571,
+    "geom:longitude":29.4679,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Nyabihanga",
+    "gn:country_code":"BI",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423546,
+    "gn:latitude":-3.9571,
+    "gn:longitude":29.4679,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Nyabihanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyabihange",
+        "Nyabihanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423546
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2cf88cae126944b10310ae8db2af2c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759537,
+            "locality_id":1226706909,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1226706909,
+    "wof:lastmodified":1537587824,
+    "wof:name":"Nyabihanga",
+    "wof:parent_id":1108759537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4679,
+    -3.9571,
+    29.4679,
+    -3.9571
+],
+  "geometry": {"coordinates":[29.4679,-3.9571],"type":"Point"}
+}

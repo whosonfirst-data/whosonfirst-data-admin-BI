@@ -1,0 +1,71 @@
+{
+  "id": 1226307821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.068,-3.7458,30.068,-3.7458",
+    "geom:latitude":-3.7458,
+    "geom:longitude":30.068,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gisuriro",
+    "gn:country_code":"BI",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424986,
+    "gn:latitude":-3.7458,
+    "gn:longitude":30.068,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gisuriro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisuriro",
+        "Gisuriro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424986
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d8293c3b44d99ee32b11defcfcd25bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1226307821,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1226307821,
+    "wof:lastmodified":1537587827,
+    "wof:name":"Gisuriro",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.068,
+    -3.7458,
+    30.068,
+    -3.7458
+],
+  "geometry": {"coordinates":[30.068,-3.7458],"type":"Point"}
+}

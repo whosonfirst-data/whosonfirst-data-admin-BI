@@ -1,0 +1,67 @@
+{
+  "id": 1310388941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9281,-3.1404,29.9281,-3.1404",
+    "geom:latitude":-3.1404,
+    "geom:longitude":29.9281,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Munanira",
+    "gn:country_code":"BI",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429434,
+    "gn:latitude":-3.1404,
+    "gn:longitude":29.9281,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Munanira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429434
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b908b0e86c5cefb6679791db3351d487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759385,
+            "locality_id":1310388941,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1310388941,
+    "wof:lastmodified":1537081948,
+    "wof:name":"Munanira",
+    "wof:parent_id":1108759385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9281,
+    -3.1404,
+    29.9281,
+    -3.1404
+],
+  "geometry": {"coordinates":[29.9281,-3.1404],"type":"Point"}
+}

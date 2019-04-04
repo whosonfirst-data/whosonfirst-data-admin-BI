@@ -1,0 +1,67 @@
+{
+  "id": 1259834989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4406,-3.4676,29.4406,-3.4676",
+    "geom:latitude":-3.4676,
+    "geom:longitude":29.4406,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Bugongo",
+    "gn:country_code":"BI",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425483,
+    "gn:latitude":-3.4676,
+    "gn:longitude":29.4406,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bugongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425483
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"296fca07eb4766daba6c7d37568ceb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759517,
+            "locality_id":1259834989,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1259834989,
+    "wof:lastmodified":1536848083,
+    "wof:name":"Bugongo",
+    "wof:parent_id":1108759517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4406,
+    -3.4676,
+    29.4406,
+    -3.4676
+],
+  "geometry": {"coordinates":[29.4406,-3.4676],"type":"Point"}
+}

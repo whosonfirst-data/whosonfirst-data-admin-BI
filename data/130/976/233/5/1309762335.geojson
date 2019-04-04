@@ -1,0 +1,67 @@
+{
+  "id": 1309762335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6608,-3.4454,29.6608,-3.4454",
+    "geom:latitude":-3.4454,
+    "geom:longitude":29.6608,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nyagashanga",
+    "gn:country_code":"BI",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425858,
+    "gn:latitude":-3.4454,
+    "gn:longitude":29.6608,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyagashanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425858
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"535c9c2ab66a34b38a293d24ca24666a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759505,
+            "locality_id":1309762335,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1309762335,
+    "wof:lastmodified":1536993054,
+    "wof:name":"Nyagashanga",
+    "wof:parent_id":1108759505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6608,
+    -3.4454,
+    29.6608,
+    -3.4454
+],
+  "geometry": {"coordinates":[29.6608,-3.4454],"type":"Point"}
+}

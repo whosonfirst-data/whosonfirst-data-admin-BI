@@ -1,0 +1,61 @@
+{
+  "id": 1209285877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9101,-3.3017,29.9101,-3.3017",
+    "geom:latitude":-3.3017,
+    "geom:longitude":29.9101,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nyarurama",
+    "gn:country_code":"BI",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426035,
+    "gn:latitude":-3.3017,
+    "gn:longitude":29.9101,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyarurama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426035
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6dc8ea1ad7cd6981b6e6890cb2f2a798",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209285877
+        }
+    ],
+    "wof:id":1209285877,
+    "wof:lastmodified":1536291863,
+    "wof:name":"Nyarurama",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9101,
+    -3.3017,
+    29.9101,
+    -3.3017
+],
+  "geometry": {"coordinates":[29.9101,-3.3017],"type":"Point"}
+}

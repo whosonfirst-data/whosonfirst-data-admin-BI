@@ -1,0 +1,67 @@
+{
+  "id": 1225800021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5925,-3.7908,29.5925,-3.7908",
+    "geom:latitude":-3.7908,
+    "geom:longitude":29.5925,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hayi",
+    "gn:country_code":"BI",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423103,
+    "gn:latitude":-3.7908,
+    "gn:longitude":29.5925,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Hayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423103
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"371b1076fd1b009ff29449bc55323ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759355,
+            "locality_id":1225800021,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1225800021,
+    "wof:lastmodified":1537076661,
+    "wof:name":"Hayi",
+    "wof:parent_id":1108759355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5925,
+    -3.7908,
+    29.5925,
+    -3.7908
+],
+  "geometry": {"coordinates":[29.5925,-3.7908],"type":"Point"}
+}

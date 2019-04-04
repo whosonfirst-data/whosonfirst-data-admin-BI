@@ -1,0 +1,67 @@
+{
+  "id": 1344037745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1785,-2.7758,29.1785,-2.7758",
+    "geom:latitude":-2.7758,
+    "geom:longitude":29.1785,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyakibanda",
+    "gn:country_code":"BI",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429916,
+    "gn:latitude":-2.7758,
+    "gn:longitude":29.1785,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyakibanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429916
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"de317972ad1db1fac371d7583326d7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759465,
+            "locality_id":1344037745,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1344037745,
+    "wof:lastmodified":1536908758,
+    "wof:name":"Nyakibanda",
+    "wof:parent_id":1108759465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1785,
+    -2.7758,
+    29.1785,
+    -2.7758
+],
+  "geometry": {"coordinates":[29.1785,-2.7758],"type":"Point"}
+}

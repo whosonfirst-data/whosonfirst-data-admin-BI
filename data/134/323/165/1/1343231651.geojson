@@ -1,0 +1,67 @@
+{
+  "id": 1343231651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0711,-2.7028,30.0711,-2.7028",
+    "geom:latitude":-2.7028,
+    "geom:longitude":30.0711,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nyabirembe",
+    "gn:country_code":"BI",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432642,
+    "gn:latitude":-2.7028,
+    "gn:longitude":30.0711,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nyabirembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432642
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"500d6e3788bc01a24dbf1e3c786b66e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1343231651,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1343231651,
+    "wof:lastmodified":1537073567,
+    "wof:name":"Nyabirembe",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0711,
+    -2.7028,
+    30.0711,
+    -2.7028
+],
+  "geometry": {"coordinates":[30.0711,-2.7028],"type":"Point"}
+}

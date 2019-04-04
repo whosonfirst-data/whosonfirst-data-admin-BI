@@ -1,0 +1,67 @@
+{
+  "id": 1293553793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1641,-3.5431,30.1641,-3.5431",
+    "geom:latitude":-3.5431,
+    "geom:longitude":30.1641,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nini",
+    "gn:country_code":"BI",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424650,
+    "gn:latitude":-3.5431,
+    "gn:longitude":30.1641,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424650
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ce1e80029f285005de617168452700d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1293553793,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293553793,
+    "wof:lastmodified":1536691834,
+    "wof:name":"Nini",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1641,
+    -3.5431,
+    30.1641,
+    -3.5431
+],
+  "geometry": {"coordinates":[30.1641,-3.5431],"type":"Point"}
+}

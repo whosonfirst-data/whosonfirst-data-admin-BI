@@ -1,0 +1,74 @@
+{
+  "id": 421184281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.901833,-3.8122505,29.901833,-3.8122505",
+    "geom:latitude":-3.812251,
+    "geom:longitude":29.901833,
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Colline Yamagendera",
+    "qs:name_adm0":"Burundi",
+    "qs:name_adm1":"Rutana",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":992726,
+    "qs:woe_adm0":23424774,
+    "qs:woe_id":1270155,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1270155,
+        "qs:id":992726
+    },
+    "wof:country":"BI",
+    "wof:created":1459009406,
+    "wof:geomhash":"6e53c3121e3827296de319932fb997ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759543,
+            "locality_id":421184281,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":421184281,
+    "wof:lastmodified":1496497988,
+    "wof:name":"Colline Yamagendera",
+    "wof:parent_id":1108759543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.901833,
+    -3.8122505,
+    29.901833,
+    -3.8122505
+],
+  "geometry": {"coordinates":[29.901833,-3.8122505],"type":"Point"}
+}

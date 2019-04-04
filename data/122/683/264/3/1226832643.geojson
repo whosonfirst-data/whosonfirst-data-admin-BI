@@ -1,0 +1,67 @@
+{
+  "id": 1226832643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0939,-3.3141,30.0939,-3.3141",
+    "geom:latitude":-3.3141,
+    "geom:longitude":30.0939,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kuwigitabu",
+    "gn:country_code":"BI",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426489,
+    "gn:latitude":-3.3141,
+    "gn:longitude":30.0939,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kuwigitabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426489
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0b9a45e729265a05c8bdabc57a6c6597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759515,
+            "locality_id":1226832643,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1226832643,
+    "wof:lastmodified":1537084023,
+    "wof:name":"Kuwigitabu",
+    "wof:parent_id":1108759515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0939,
+    -3.3141,
+    30.0939,
+    -3.3141
+],
+  "geometry": {"coordinates":[30.0939,-3.3141],"type":"Point"}
+}

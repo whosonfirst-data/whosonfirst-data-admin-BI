@@ -1,0 +1,67 @@
+{
+  "id": 1309779165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.777,-3.0761,29.777,-3.0761",
+    "geom:latitude":-3.0761,
+    "geom:longitude":29.777,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gatura",
+    "gn:country_code":"BI",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429338,
+    "gn:latitude":-3.0761,
+    "gn:longitude":29.777,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gatura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429338
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9f88a08b9ab049171b27720a6b825322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759471,
+            "locality_id":1309779165,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1309779165,
+    "wof:lastmodified":1536969298,
+    "wof:name":"Gatura",
+    "wof:parent_id":1108759471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.777,
+    -3.0761,
+    29.777,
+    -3.0761
+],
+  "geometry": {"coordinates":[29.777,-3.0761],"type":"Point"}
+}

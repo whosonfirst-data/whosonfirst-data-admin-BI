@@ -1,0 +1,67 @@
+{
+  "id": 1293072001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1093,-2.9693,30.1093,-2.9693",
+    "geom:latitude":-2.9693,
+    "geom:longitude":30.1093,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Karemera",
+    "gn:country_code":"BI",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432301,
+    "gn:latitude":-2.9693,
+    "gn:longitude":30.1093,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Karemera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432301
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2b0432e40dbba8c5a23444ba8dff6e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1293072001,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1293072001,
+    "wof:lastmodified":1536888767,
+    "wof:name":"Karemera",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1093,
+    -2.9693,
+    30.1093,
+    -2.9693
+],
+  "geometry": {"coordinates":[30.1093,-2.9693],"type":"Point"}
+}

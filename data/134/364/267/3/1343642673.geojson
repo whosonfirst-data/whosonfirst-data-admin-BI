@@ -1,0 +1,67 @@
+{
+  "id": 1343642673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6011,-3.289,30.6011,-3.289",
+    "geom:latitude":-3.289,
+    "geom:longitude":30.6011,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cendajuru",
+    "gn:country_code":"BI",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427204,
+    "gn:latitude":-3.289,
+    "gn:longitude":30.6011,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Cendajuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427204
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7e09447acbecc89fe1219ae0b6116738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759363,
+            "locality_id":1343642673,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1343642673,
+    "wof:lastmodified":1536980092,
+    "wof:name":"Cendajuru",
+    "wof:parent_id":1108759363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6011,
+    -3.289,
+    30.6011,
+    -3.289
+],
+  "geometry": {"coordinates":[30.6011,-3.289],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293749921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3144,-3.0553,30.3144,-3.0553",
+    "geom:latitude":-3.0553,
+    "geom:longitude":30.3144,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Rwimbogo",
+    "gn:country_code":"BI",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427827,
+    "gn:latitude":-3.0553,
+    "gn:longitude":30.3144,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Rwimbogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427827
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f2845e93773b20c36f4eaba931daa9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759501,
+            "locality_id":1293749921,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1293749921,
+    "wof:lastmodified":1536906205,
+    "wof:name":"Rwimbogo",
+    "wof:parent_id":1108759501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3144,
+    -3.0553,
+    30.3144,
+    -3.0553
+],
+  "geometry": {"coordinates":[30.3144,-3.0553],"type":"Point"}
+}

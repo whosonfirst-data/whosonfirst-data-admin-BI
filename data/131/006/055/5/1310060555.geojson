@@ -1,0 +1,67 @@
+{
+  "id": 1310060555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5151,-3.7127,29.5151,-3.7127",
+    "geom:latitude":-3.7127,
+    "geom:longitude":29.5151,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Ngoma",
+    "gn:country_code":"BI",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424088,
+    "gn:latitude":-3.7127,
+    "gn:longitude":29.5151,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ngoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424088
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"664c468c2533d5f4786dbc7318b8ef7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759335,
+            "locality_id":1310060555,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1310060555,
+    "wof:lastmodified":1537058887,
+    "wof:name":"Ngoma",
+    "wof:parent_id":1108759335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5151,
+    -3.7127,
+    29.5151,
+    -3.7127
+],
+  "geometry": {"coordinates":[29.5151,-3.7127],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193258527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18297,-2.88839,29.18297,-2.88839",
+    "geom:latitude":-2.88839,
+    "geom:longitude":29.18297,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Murwi",
+    "gn:country_code":"BI",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430026,
+    "gn:latitude":-2.88839,
+    "gn:longitude":29.18297,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Murwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430026
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"91b394e7779caf2305736e78e5d3481c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759485,
+            "locality_id":1193258527,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1193258527,
+    "wof:lastmodified":1536383398,
+    "wof:name":"Murwi",
+    "wof:parent_id":1108759485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18297,
+    -2.88839,
+    29.18297,
+    -2.88839
+],
+  "geometry": {"coordinates":[29.18297,-2.88839],"type":"Point"}
+}

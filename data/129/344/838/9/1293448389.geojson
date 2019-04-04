@@ -1,0 +1,71 @@
+{
+  "id": 1293448389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5952,-3.2221,29.5952,-3.2221",
+    "geom:latitude":-3.2221,
+    "geom:longitude":29.5952,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gasenyi",
+    "gn:country_code":"BI",
+    "gn:dem":1935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429155,
+    "gn:latitude":-3.2221,
+    "gn:longitude":29.5952,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gasenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasenyi",
+        "Gasenyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429155
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"76a9072740b969fc3ad2a5fe25df8a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759327,
+            "locality_id":1293448389,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1293448389,
+    "wof:lastmodified":1537587833,
+    "wof:name":"Gasenyi",
+    "wof:parent_id":1108759327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5952,
+    -3.2221,
+    29.5952,
+    -3.2221
+],
+  "geometry": {"coordinates":[29.5952,-3.2221],"type":"Point"}
+}

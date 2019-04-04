@@ -1,0 +1,67 @@
+{
+  "id": 1327313213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8838,-3.6555,29.8838,-3.6555",
+    "geom:latitude":-3.6555,
+    "geom:longitude":29.8838,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gatsiro",
+    "gn:country_code":"BI",
+    "gn:dem":1841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424417,
+    "gn:latitude":-3.6555,
+    "gn:longitude":29.8838,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gatsiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424417
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"eb9f43abc813a737940192de87eec952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759389,
+            "locality_id":1327313213,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1327313213,
+    "wof:lastmodified":1536851895,
+    "wof:name":"Gatsiro",
+    "wof:parent_id":1108759389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8838,
+    -3.6555,
+    29.8838,
+    -3.6555
+],
+  "geometry": {"coordinates":[29.8838,-3.6555],"type":"Point"}
+}

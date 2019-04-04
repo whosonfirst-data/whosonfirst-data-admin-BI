@@ -1,0 +1,67 @@
+{
+  "id": 1344027581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1639,-2.6166,30.1639,-2.6166",
+    "geom:latitude":-2.6166,
+    "geom:longitude":30.1639,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gakana",
+    "gn:country_code":"BI",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432504,
+    "gn:latitude":-2.6166,
+    "gn:longitude":30.1639,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gakana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432504
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"20c25e70404d04b8dc278b3ef23f948a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759433,
+            "locality_id":1344027581,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1344027581,
+    "wof:lastmodified":1536923872,
+    "wof:name":"Gakana",
+    "wof:parent_id":1108759433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1639,
+    -2.6166,
+    30.1639,
+    -2.6166
+],
+  "geometry": {"coordinates":[30.1639,-2.6166],"type":"Point"}
+}

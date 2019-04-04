@@ -1,0 +1,71 @@
+{
+  "id": 1277132217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4766,-3.4277,29.4766,-3.4277",
+    "geom:latitude":-3.4277,
+    "geom:longitude":29.4766,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Gisenyi",
+    "gn:country_code":"BI",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425443,
+    "gn:latitude":-3.4277,
+    "gn:longitude":29.4766,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gisenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisenyi",
+        "Gisenyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425443
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d1843e77df6fde19fd563e66a408ff0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759517,
+            "locality_id":1277132217,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1277132217,
+    "wof:lastmodified":1537587828,
+    "wof:name":"Gisenyi",
+    "wof:parent_id":1108759517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4766,
+    -3.4277,
+    29.4766,
+    -3.4277
+],
+  "geometry": {"coordinates":[29.4766,-3.4277],"type":"Point"}
+}

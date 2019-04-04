@@ -1,0 +1,67 @@
+{
+  "id": 1226831261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2994,-2.644,30.2994,-2.644",
+    "geom:latitude":-2.644,
+    "geom:longitude":30.2994,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rukobero",
+    "gn:country_code":"BI",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431488,
+    "gn:latitude":-2.644,
+    "gn:longitude":30.2994,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rukobero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431488
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"92a3250e2df15aa428275e3ee2ad8b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759357,
+            "locality_id":1226831261,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1226831261,
+    "wof:lastmodified":1537086015,
+    "wof:name":"Rukobero",
+    "wof:parent_id":1108759357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2994,
+    -2.644,
+    30.2994,
+    -2.644
+],
+  "geometry": {"coordinates":[30.2994,-2.644],"type":"Point"}
+}

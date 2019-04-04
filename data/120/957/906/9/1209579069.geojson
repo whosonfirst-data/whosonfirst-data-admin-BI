@@ -1,0 +1,61 @@
+{
+  "id": 1209579069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8814,-4.1852,29.8814,-4.1852",
+    "geom:latitude":-4.1852,
+    "geom:longitude":29.8814,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nyagaharo",
+    "gn:country_code":"BI",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422302,
+    "gn:latitude":-4.1852,
+    "gn:longitude":29.8814,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyagaharo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422302
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a8066f774b28fd676fea320f445e6f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209579069
+        }
+    ],
+    "wof:id":1209579069,
+    "wof:lastmodified":1536282846,
+    "wof:name":"Nyagaharo",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8814,
+    -4.1852,
+    29.8814,
+    -4.1852
+],
+  "geometry": {"coordinates":[29.8814,-4.1852],"type":"Point"}
+}

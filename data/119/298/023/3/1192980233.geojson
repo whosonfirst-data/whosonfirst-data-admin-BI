@@ -1,0 +1,71 @@
+{
+  "id": 1192980233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2329,-3.801,30.2329,-3.801",
+    "geom:latitude":-3.801,
+    "geom:longitude":30.2329,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Buhogo",
+    "gn:country_code":"BI",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422759,
+    "gn:latitude":-3.801,
+    "gn:longitude":30.2329,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buhogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buhongo",
+        "Buhogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422759
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"529c06c057740eb680b67dca6aeb0321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1192980233,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1192980233,
+    "wof:lastmodified":1537587823,
+    "wof:name":"Buhogo",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2329,
+    -3.801,
+    30.2329,
+    -3.801
+],
+  "geometry": {"coordinates":[30.2329,-3.801],"type":"Point"}
+}

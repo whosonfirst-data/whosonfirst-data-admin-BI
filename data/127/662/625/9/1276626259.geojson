@@ -1,0 +1,67 @@
+{
+  "id": 1276626259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8295,-4.3452,29.8295,-4.3452",
+    "geom:latitude":-4.3452,
+    "geom:longitude":29.8295,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Muremure",
+    "gn:country_code":"BI",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":421782,
+    "gn:latitude":-4.3452,
+    "gn:longitude":29.8295,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muremure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421782
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7be25bfe242ba87c6b97e1763b00cda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759423,
+            "locality_id":1276626259,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1276626259,
+    "wof:lastmodified":1536883017,
+    "wof:name":"Muremure",
+    "wof:parent_id":1108759423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8295,
+    -4.3452,
+    29.8295,
+    -4.3452
+],
+  "geometry": {"coordinates":[29.8295,-4.3452],"type":"Point"}
+}

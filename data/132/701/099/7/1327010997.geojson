@@ -1,0 +1,67 @@
+{
+  "id": 1327010997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6152,-3.2474,30.6152,-3.2474",
+    "geom:latitude":-3.2474,
+    "geom:longitude":30.6152,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gahama",
+    "gn:country_code":"BI",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306915,
+    "gn:latitude":-3.2474,
+    "gn:longitude":30.6152,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gahama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306915
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bd4d9a2f54af98f51fb5d076a08e61ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759361,
+            "locality_id":1327010997,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1327010997,
+    "wof:lastmodified":1536791750,
+    "wof:name":"Gahama",
+    "wof:parent_id":1108759361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6152,
+    -3.2474,
+    30.6152,
+    -3.2474
+],
+  "geometry": {"coordinates":[30.6152,-3.2474],"type":"Point"}
+}

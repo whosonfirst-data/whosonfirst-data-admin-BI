@@ -1,0 +1,70 @@
+{
+  "id": 1226518503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8896,-4.219,29.8896,-4.219",
+    "geom:latitude":-4.219,
+    "geom:longitude":29.8896,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Rusunwe",
+    "gn:country_code":"BI",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422340,
+    "gn:latitude":-4.219,
+    "gn:longitude":29.8896,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rusunwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusurwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422340
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"33b26a49b1f10d3f3c4cbf602ad9bccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759423,
+            "locality_id":1226518503,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1226518503,
+    "wof:lastmodified":1537587822,
+    "wof:name":"Rusunwe",
+    "wof:parent_id":1108759423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8896,
+    -4.219,
+    29.8896,
+    -4.219
+],
+  "geometry": {"coordinates":[29.8896,-4.219],"type":"Point"}
+}

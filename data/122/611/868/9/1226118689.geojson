@@ -1,0 +1,67 @@
+{
+  "id": 1226118689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7313,-4.0899,29.7313,-4.0899",
+    "geom:latitude":-4.0899,
+    "geom:longitude":29.7313,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kiyazi",
+    "gn:country_code":"BI",
+    "gn:dem":1977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":421913,
+    "gn:latitude":-4.0899,
+    "gn:longitude":29.7313,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kiyazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421913
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7fbc75c5791e18532cc1911b493f2b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759557,
+            "locality_id":1226118689,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1226118689,
+    "wof:lastmodified":1536617691,
+    "wof:name":"Kiyazi",
+    "wof:parent_id":1108759557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7313,
+    -4.0899,
+    29.7313,
+    -4.0899
+],
+  "geometry": {"coordinates":[29.7313,-4.0899],"type":"Point"}
+}

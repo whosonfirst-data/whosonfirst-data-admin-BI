@@ -1,0 +1,67 @@
+{
+  "id": 1309769395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3667,-2.7221,30.3667,-2.7221",
+    "geom:latitude":-2.7221,
+    "geom:longitude":30.3667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rwamfu",
+    "gn:country_code":"BI",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431584,
+    "gn:latitude":-2.7221,
+    "gn:longitude":30.3667,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rwamfu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431584
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"41dc15c64e6aeb1f500baadf1a720f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759353,
+            "locality_id":1309769395,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1309769395,
+    "wof:lastmodified":1536982966,
+    "wof:name":"Rwamfu",
+    "wof:parent_id":1108759353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3667,
+    -2.7221,
+    30.3667,
+    -2.7221
+],
+  "geometry": {"coordinates":[30.3667,-2.7221],"type":"Point"}
+}

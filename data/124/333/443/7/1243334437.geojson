@@ -1,0 +1,67 @@
+{
+  "id": 1243334437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1675,-2.9243,30.1675,-2.9243",
+    "geom:latitude":-2.9243,
+    "geom:longitude":30.1675,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Intamba",
+    "gn:country_code":"BI",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7746409,
+    "gn:latitude":-2.9243,
+    "gn:longitude":30.1675,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Intamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746409
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ebc335ec927015c6fce13ada6c43edd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1243334437,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1243334437,
+    "wof:lastmodified":1536966910,
+    "wof:name":"Intamba",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1675,
+    -2.9243,
+    30.1675,
+    -2.9243
+],
+  "geometry": {"coordinates":[30.1675,-2.9243],"type":"Point"}
+}

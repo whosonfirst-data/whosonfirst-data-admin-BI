@@ -1,0 +1,67 @@
+{
+  "id": 1225926701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6648,-2.8859,29.6648,-2.8859",
+    "geom:latitude":-2.8859,
+    "geom:longitude":29.6648,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Benga",
+    "gn:country_code":"BI",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430876,
+    "gn:latitude":-2.8859,
+    "gn:longitude":29.6648,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Benga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430876
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0ba3705f0b0a5b61594cdcd645d63a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759415,
+            "locality_id":1225926701,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1225926701,
+    "wof:lastmodified":1536896846,
+    "wof:name":"Benga",
+    "wof:parent_id":1108759415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6648,
+    -2.8859,
+    29.6648,
+    -2.8859
+],
+  "geometry": {"coordinates":[29.6648,-2.8859],"type":"Point"}
+}

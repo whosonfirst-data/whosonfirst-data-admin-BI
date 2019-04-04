@@ -1,0 +1,67 @@
+{
+  "id": 1293069349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3993,-3.3581,29.3993,-3.3581",
+    "geom:latitude":-3.3581,
+    "geom:longitude":29.3993,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kamenge",
+    "gn:country_code":"BI",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425348,
+    "gn:latitude":-3.3581,
+    "gn:longitude":29.3993,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kamenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668791,
+        1108759507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425348
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"fb1fe60983b841c4c5e6ddcbcbe43118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759507,
+            "locality_id":1293069349,
+            "region_id":85668791
+        }
+    ],
+    "wof:id":1293069349,
+    "wof:lastmodified":1536892737,
+    "wof:name":"Kamenge",
+    "wof:parent_id":1108759507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3993,
+    -3.3581,
+    29.3993,
+    -3.3581
+],
+  "geometry": {"coordinates":[29.3993,-3.3581],"type":"Point"}
+}

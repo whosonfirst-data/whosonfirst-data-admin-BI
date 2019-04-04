@@ -1,0 +1,67 @@
+{
+  "id": 1243427567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7545,-3.0316,29.7545,-3.0316",
+    "geom:latitude":-3.0316,
+    "geom:longitude":29.7545,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Taba",
+    "gn:country_code":"BI",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429269,
+    "gn:latitude":-3.0316,
+    "gn:longitude":29.7545,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Taba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429269
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0a002ac2f4b3182fb7f56e7ddd81a1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759471,
+            "locality_id":1243427567,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1243427567,
+    "wof:lastmodified":1536831758,
+    "wof:name":"Taba",
+    "wof:parent_id":1108759471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7545,
+    -3.0316,
+    29.7545,
+    -3.0316
+],
+  "geometry": {"coordinates":[29.7545,-3.0316],"type":"Point"}
+}

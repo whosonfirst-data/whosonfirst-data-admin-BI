@@ -1,0 +1,67 @@
+{
+  "id": 1277044037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.818,-3.35,29.818,-3.35",
+    "geom:latitude":-3.35,
+    "geom:longitude":29.818,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Nyamugari",
+    "gn:country_code":"BI",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429004,
+    "gn:latitude":-3.35,
+    "gn:longitude":29.818,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyamugari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429004
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"df6225d9002f134cf48b429f7a014a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759505,
+            "locality_id":1277044037,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1277044037,
+    "wof:lastmodified":1536820335,
+    "wof:name":"Nyamugari",
+    "wof:parent_id":1108759505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.818,
+    -3.35,
+    29.818,
+    -3.35
+],
+  "geometry": {"coordinates":[29.818,-3.35],"type":"Point"}
+}

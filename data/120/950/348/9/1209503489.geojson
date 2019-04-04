@@ -1,0 +1,61 @@
+{
+  "id": 1209503489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6199,-3.2854,30.6199,-3.2854",
+    "geom:latitude":-3.2854,
+    "geom:longitude":30.6199,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kigarika",
+    "gn:country_code":"BI",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427201,
+    "gn:latitude":-3.2854,
+    "gn:longitude":30.6199,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kigarika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427201
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"316ad539d315a90f6218b2723017e9d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209503489
+        }
+    ],
+    "wof:id":1209503489,
+    "wof:lastmodified":1536285108,
+    "wof:name":"Kigarika",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6199,
+    -3.2854,
+    30.6199,
+    -3.2854
+],
+  "geometry": {"coordinates":[30.6199,-3.2854],"type":"Point"}
+}

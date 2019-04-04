@@ -1,0 +1,67 @@
+{
+  "id": 1209781275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8095,-3.0116,29.8095,-3.0116",
+    "geom:latitude":-3.0116,
+    "geom:longitude":29.8095,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mbaba",
+    "gn:country_code":"BI",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429226,
+    "gn:latitude":-3.0116,
+    "gn:longitude":29.8095,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mbaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        421201115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429226
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"00c4eb4367b37562d4c9e3d8b3d5d69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421201115,
+            "locality_id":1209781275,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1209781275,
+    "wof:lastmodified":1536373414,
+    "wof:name":"Mbaba",
+    "wof:parent_id":421201115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8095,
+    -3.0116,
+    29.8095,
+    -3.0116
+],
+  "geometry": {"coordinates":[29.8095,-3.0116],"type":"Point"}
+}

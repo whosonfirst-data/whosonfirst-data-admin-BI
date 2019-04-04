@@ -1,0 +1,67 @@
+{
+  "id": 1293349417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2196,-3.5966,30.2196,-3.5966",
+    "geom:latitude":-3.5966,
+    "geom:longitude":30.2196,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyamasenga",
+    "gn:country_code":"BI",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424737,
+    "gn:latitude":-3.5966,
+    "gn:longitude":30.2196,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamasenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424737
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2e54a28183b1bb997b0852cf20da3687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759519,
+            "locality_id":1293349417,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293349417,
+    "wof:lastmodified":1536985408,
+    "wof:name":"Nyamasenga",
+    "wof:parent_id":1108759519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2196,
+    -3.5966,
+    30.2196,
+    -3.5966
+],
+  "geometry": {"coordinates":[30.2196,-3.5966],"type":"Point"}
+}

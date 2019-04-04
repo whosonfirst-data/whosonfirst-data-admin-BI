@@ -1,0 +1,67 @@
+{
+  "id": 1276510207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2012,-2.7231,30.2012,-2.7231",
+    "geom:latitude":-2.7231,
+    "geom:longitude":30.2012,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kiguruka",
+    "gn:country_code":"BI",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432680,
+    "gn:latitude":-2.7231,
+    "gn:longitude":30.2012,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kiguruka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432680
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d523e9b4bee96f269faf07d1f5cbe90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759371,
+            "locality_id":1276510207,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1276510207,
+    "wof:lastmodified":1537037587,
+    "wof:name":"Kiguruka",
+    "wof:parent_id":1108759371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2012,
+    -2.7231,
+    30.2012,
+    -2.7231
+],
+  "geometry": {"coordinates":[30.2012,-2.7231],"type":"Point"}
+}

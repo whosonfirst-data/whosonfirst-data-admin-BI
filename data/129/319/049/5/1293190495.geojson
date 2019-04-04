@@ -1,0 +1,67 @@
+{
+  "id": 1293190495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3293,-3.0162,29.3293,-3.0162",
+    "geom:latitude":-3.0162,
+    "geom:longitude":29.3293,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Karonge",
+    "gn:country_code":"BI",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428416,
+    "gn:latitude":-3.0162,
+    "gn:longitude":29.3293,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Karonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428416
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"29ab588fce7b6625b4c714fb77c03e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759307,
+            "locality_id":1293190495,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1293190495,
+    "wof:lastmodified":1536718612,
+    "wof:name":"Karonge",
+    "wof:parent_id":1108759307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3293,
+    -3.0162,
+    29.3293,
+    -3.0162
+],
+  "geometry": {"coordinates":[29.3293,-3.0162],"type":"Point"}
+}

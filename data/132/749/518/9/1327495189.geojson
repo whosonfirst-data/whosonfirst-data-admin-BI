@@ -1,0 +1,71 @@
+{
+  "id": 1327495189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0907,-3.7845,30.0907,-3.7845",
+    "geom:latitude":-3.7845,
+    "geom:longitude":30.0907,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Sananda",
+    "gn:country_code":"BI",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422735,
+    "gn:latitude":-3.7845,
+    "gn:longitude":30.0907,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sananda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samanda",
+        "Sananda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422735
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7f671fc0987b852acef3eca97826786e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1327495189,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1327495189,
+    "wof:lastmodified":1537587823,
+    "wof:name":"Sananda",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0907,
+    -3.7845,
+    30.0907,
+    -3.7845
+],
+  "geometry": {"coordinates":[30.0907,-3.7845],"type":"Point"}
+}

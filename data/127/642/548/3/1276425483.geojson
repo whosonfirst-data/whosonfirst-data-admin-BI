@@ -1,0 +1,68 @@
+{
+  "id": 1276425483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2549,-3.1584,29.2549,-3.1584",
+    "geom:latitude":-3.1584,
+    "geom:longitude":29.2549,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mukindu",
+    "gn:country_code":"BI",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428616,
+    "gn:latitude":-3.1584,
+    "gn:longitude":29.2549,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mukindu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428616,
+        "wk:page":"Mukindu"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a2ff4b7a54ab2e98c370f1feaa6dc5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759377,
+            "locality_id":1276425483,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1276425483,
+    "wof:lastmodified":1537487818,
+    "wof:name":"Mukindu",
+    "wof:parent_id":1108759377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2549,
+    -3.1584,
+    29.2549,
+    -3.1584
+],
+  "geometry": {"coordinates":[29.2549,-3.1584],"type":"Point"}
+}

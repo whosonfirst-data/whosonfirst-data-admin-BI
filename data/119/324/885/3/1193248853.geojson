@@ -1,0 +1,67 @@
+{
+  "id": 1193248853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.62942,-2.84979,29.62942,-2.84979",
+    "geom:latitude":-2.84979,
+    "geom:longitude":29.62942,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jene",
+    "gn:country_code":"BI",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430830,
+    "gn:latitude":-2.84979,
+    "gn:longitude":29.62942,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Jene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430830
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1b94c7ad3ce4d5955edbf700614612dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759409,
+            "locality_id":1193248853,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1193248853,
+    "wof:lastmodified":1536370348,
+    "wof:name":"Jene",
+    "wof:parent_id":1108759409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.62942,
+    -2.84979,
+    29.62942,
+    -2.84979
+],
+  "geometry": {"coordinates":[29.62942,-2.84979],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226307747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2056,-3.706,30.2056,-3.706",
+    "geom:latitude":-3.706,
+    "geom:longitude":30.2056,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gisoro",
+    "gn:country_code":"BI",
+    "gn:dem":1799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424910,
+    "gn:latitude":-3.706,
+    "gn:longitude":30.2056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gisoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisoro",
+        "Gisoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424910
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"80a695e35cc7631cce03e12360e1b0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759459,
+            "locality_id":1226307747,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1226307747,
+    "wof:lastmodified":1537587827,
+    "wof:name":"Gisoro",
+    "wof:parent_id":1108759459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2056,
+    -3.706,
+    30.2056,
+    -3.706
+],
+  "geometry": {"coordinates":[30.2056,-3.706],"type":"Point"}
+}

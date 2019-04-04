@@ -1,0 +1,67 @@
+{
+  "id": 1242962389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.63322,-3.82281,29.63322,-3.82281",
+    "geom:latitude":-3.82281,
+    "geom:longitude":29.63322,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muzamba",
+    "gn:country_code":"BI",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423148,
+    "gn:latitude":-3.82281,
+    "gn:longitude":29.63322,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muzamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423148
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f528ecc5c5076941322fbb918224c9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759553,
+            "locality_id":1242962389,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1242962389,
+    "wof:lastmodified":1537005733,
+    "wof:name":"Muzamba",
+    "wof:parent_id":1108759553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63322,
+    -3.82281,
+    29.63322,
+    -3.82281
+],
+  "geometry": {"coordinates":[29.63322,-3.82281],"type":"Point"}
+}

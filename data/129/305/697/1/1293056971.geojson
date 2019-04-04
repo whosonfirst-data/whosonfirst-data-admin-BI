@@ -1,0 +1,67 @@
+{
+  "id": 1293056971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3361,-3.3272,29.3361,-3.3272",
+    "geom:latitude":-3.3272,
+    "geom:longitude":29.3361,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Murukaramu",
+    "gn:country_code":"BI",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425306,
+    "gn:latitude":-3.3272,
+    "gn:longitude":29.3361,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Murukaramu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668791,
+        1108759507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425306
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"719826c1afc34d493a74580d125ff51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759507,
+            "locality_id":1293056971,
+            "region_id":85668791
+        }
+    ],
+    "wof:id":1293056971,
+    "wof:lastmodified":1536911312,
+    "wof:name":"Murukaramu",
+    "wof:parent_id":1108759507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3361,
+    -3.3272,
+    29.3361,
+    -3.3272
+],
+  "geometry": {"coordinates":[29.3361,-3.3272],"type":"Point"}
+}

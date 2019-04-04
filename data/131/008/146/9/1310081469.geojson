@@ -1,0 +1,67 @@
+{
+  "id": 1310081469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2176,-2.7894,30.2176,-2.7894",
+    "geom:latitude":-2.7894,
+    "geom:longitude":30.2176,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gishuha",
+    "gn:country_code":"BI",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432013,
+    "gn:latitude":-2.7894,
+    "gn:longitude":30.2176,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gishuha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432013
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"29f78e75549fbacc2d15fc2923753f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759373,
+            "locality_id":1310081469,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1310081469,
+    "wof:lastmodified":1537029937,
+    "wof:name":"Gishuha",
+    "wof:parent_id":1108759373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2176,
+    -2.7894,
+    30.2176,
+    -2.7894
+],
+  "geometry": {"coordinates":[30.2176,-2.7894],"type":"Point"}
+}

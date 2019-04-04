@@ -1,0 +1,67 @@
+{
+  "id": 1276213877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3521,-2.9554,29.3521,-2.9554",
+    "geom:latitude":-2.9554,
+    "geom:longitude":29.3521,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyabuyonga",
+    "gn:country_code":"BI",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429826,
+    "gn:latitude":-2.9554,
+    "gn:longitude":29.3521,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyabuyonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429826
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"485d64a2d3cf14e29c1a3598f1bd0f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759485,
+            "locality_id":1276213877,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1276213877,
+    "wof:lastmodified":1536939873,
+    "wof:name":"Nyabuyonga",
+    "wof:parent_id":1108759485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3521,
+    -2.9554,
+    29.3521,
+    -2.9554
+],
+  "geometry": {"coordinates":[29.3521,-2.9554],"type":"Point"}
+}

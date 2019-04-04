@@ -1,0 +1,67 @@
+{
+  "id": 1276750095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88,-3.1224,29.88,-3.1224",
+    "geom:latitude":-3.1224,
+    "geom:longitude":29.88,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bigera",
+    "gn:country_code":"BI",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429407,
+    "gn:latitude":-3.1224,
+    "gn:longitude":29.88,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Bigera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429407
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f86cd3ef3bc237b8ed8cb0973be5fba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1276750095,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1276750095,
+    "wof:lastmodified":1536717846,
+    "wof:name":"Bigera",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88,
+    -3.1224,
+    29.88,
+    -3.1224
+],
+  "geometry": {"coordinates":[29.88,-3.1224],"type":"Point"}
+}

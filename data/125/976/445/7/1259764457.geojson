@@ -1,0 +1,67 @@
+{
+  "id": 1259764457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6829,-3.0668,30.6829,-3.0668",
+    "geom:latitude":-3.0668,
+    "geom:longitude":30.6829,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gishungo",
+    "gn:country_code":"BI",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427530,
+    "gn:latitude":-3.0668,
+    "gn:longitude":30.6829,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gishungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427530
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f5d95f755e04469fb955f509e30f814a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759453,
+            "locality_id":1259764457,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1259764457,
+    "wof:lastmodified":1536950801,
+    "wof:name":"Gishungo",
+    "wof:parent_id":1108759453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6829,
+    -3.0668,
+    30.6829,
+    -3.0668
+],
+  "geometry": {"coordinates":[30.6829,-3.0668],"type":"Point"}
+}

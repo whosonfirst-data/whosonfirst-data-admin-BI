@@ -1,0 +1,67 @@
+{
+  "id": 1327317169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17627,-3.0514,30.17627,-3.0514",
+    "geom:latitude":-3.0514,
+    "geom:longitude":30.17627,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rwankonge",
+    "gn:country_code":"BI",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428145,
+    "gn:latitude":-3.0514,
+    "gn:longitude":30.17627,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rwankonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428145
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7be7911d1db111c6a43b4957c884d5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1327317169,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1327317169,
+    "wof:lastmodified":1536846166,
+    "wof:name":"Rwankonge",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17627,
+    -3.0514,
+    30.17627,
+    -3.0514
+],
+  "geometry": {"coordinates":[30.17627,-3.0514],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242635865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6509,-3.1659,29.6509,-3.1659",
+    "geom:latitude":-3.1659,
+    "geom:longitude":29.6509,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Rushiha",
+    "gn:country_code":"BI",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429003,
+    "gn:latitude":-3.1659,
+    "gn:longitude":29.6509,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rushiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rushiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429003
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b9c5c6520ac42fd8e7a79dc49c5fdf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759327,
+            "locality_id":1242635865,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1242635865,
+    "wof:lastmodified":1537587833,
+    "wof:name":"Rushiha",
+    "wof:parent_id":1108759327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6509,
+    -3.1659,
+    29.6509,
+    -3.1659
+],
+  "geometry": {"coordinates":[29.6509,-3.1659],"type":"Point"}
+}

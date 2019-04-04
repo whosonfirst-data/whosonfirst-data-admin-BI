@@ -1,0 +1,67 @@
+{
+  "id": 1259356209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6428,-2.892,29.6428,-2.892",
+    "geom:latitude":-2.892,
+    "geom:longitude":29.6428,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabureye",
+    "gn:country_code":"BI",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430886,
+    "gn:latitude":-2.892,
+    "gn:longitude":29.6428,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Kabureye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430886
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"48347c3601f8b46e1e899800fc0e834c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759415,
+            "locality_id":1259356209,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1259356209,
+    "wof:lastmodified":1537039911,
+    "wof:name":"Kabureye",
+    "wof:parent_id":1108759415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6428,
+    -2.892,
+    29.6428,
+    -2.892
+],
+  "geometry": {"coordinates":[29.6428,-2.892],"type":"Point"}
+}

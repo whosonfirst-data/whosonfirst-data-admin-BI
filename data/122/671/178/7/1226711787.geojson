@@ -1,0 +1,67 @@
+{
+  "id": 1226711787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1459,-3.9308,30.1459,-3.9308",
+    "geom:latitude":-3.9308,
+    "geom:longitude":30.1459,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Shembe",
+    "gn:country_code":"BI",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":422941,
+    "gn:latitude":-3.9308,
+    "gn:longitude":30.1459,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Shembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422941
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0c9984f8aa98c4019b36c848fb915745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1226711787,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1226711787,
+    "wof:lastmodified":1536765045,
+    "wof:name":"Shembe",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1459,
+    -3.9308,
+    30.1459,
+    -3.9308
+],
+  "geometry": {"coordinates":[30.1459,-3.9308],"type":"Point"}
+}

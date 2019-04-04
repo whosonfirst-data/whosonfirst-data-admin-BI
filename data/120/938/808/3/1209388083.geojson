@@ -1,0 +1,61 @@
+{
+  "id": 1209388083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4927,-2.8339,29.4927,-2.8339",
+    "geom:latitude":-2.8339,
+    "geom:longitude":29.4927,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kibati",
+    "gn:country_code":"BI",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429674,
+    "gn:latitude":-2.8339,
+    "gn:longitude":29.4927,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kibati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429674
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"77f0d52ed4916d5826b453ccf36f3547",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209388083
+        }
+    ],
+    "wof:id":1209388083,
+    "wof:lastmodified":1536288555,
+    "wof:name":"Kibati",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4927,
+    -2.8339,
+    29.4927,
+    -2.8339
+],
+  "geometry": {"coordinates":[29.4927,-2.8339],"type":"Point"}
+}

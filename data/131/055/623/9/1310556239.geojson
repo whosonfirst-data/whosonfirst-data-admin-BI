@@ -1,0 +1,67 @@
+{
+  "id": 1310556239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.485,-3.7704,29.485,-3.7704",
+    "geom:latitude":-3.7704,
+    "geom:longitude":29.485,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Nyangwa",
+    "gn:country_code":"BI",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423419,
+    "gn:latitude":-3.7704,
+    "gn:longitude":29.485,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Nyangwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423419
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b42e5107abcc5c6320408e0d771296dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759335,
+            "locality_id":1310556239,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1310556239,
+    "wof:lastmodified":1536842843,
+    "wof:name":"Nyangwa",
+    "wof:parent_id":1108759335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.485,
+    -3.7704,
+    29.485,
+    -3.7704
+],
+  "geometry": {"coordinates":[29.485,-3.7704],"type":"Point"}
+}

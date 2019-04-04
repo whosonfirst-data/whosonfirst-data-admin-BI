@@ -1,0 +1,67 @@
+{
+  "id": 1293353621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4298,-2.4341,30.4298,-2.4341",
+    "geom:latitude":-2.4341,
+    "geom:longitude":30.4298,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bugoma",
+    "gn:country_code":"BI",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":431136,
+    "gn:latitude":-2.4341,
+    "gn:longitude":30.4298,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bugoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431136
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0d728122ace69f062c97ad1f384ef20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759399,
+            "locality_id":1293353621,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1293353621,
+    "wof:lastmodified":1536979541,
+    "wof:name":"Bugoma",
+    "wof:parent_id":1108759399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4298,
+    -2.4341,
+    30.4298,
+    -2.4341
+],
+  "geometry": {"coordinates":[30.4298,-2.4341],"type":"Point"}
+}

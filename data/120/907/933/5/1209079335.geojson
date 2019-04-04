@@ -1,0 +1,61 @@
+{
+  "id": 1209079335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5942,-2.9767,29.5942,-2.9767",
+    "geom:latitude":-2.9767,
+    "geom:longitude":29.5942,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Campazi",
+    "gn:country_code":"BI",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431038,
+    "gn:latitude":-2.9767,
+    "gn:longitude":29.5942,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Campazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431038
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"96c7323d26161b72f68eb27bf790d2e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209079335
+        }
+    ],
+    "wof:id":1209079335,
+    "wof:lastmodified":1536298390,
+    "wof:name":"Campazi",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5942,
+    -2.9767,
+    29.5942,
+    -2.9767
+],
+  "geometry": {"coordinates":[29.5942,-2.9767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277052361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9331,-3.441,29.9331,-3.441",
+    "geom:latitude":-3.441,
+    "geom:longitude":29.9331,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mushasha",
+    "gn:country_code":"BI",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426308,
+    "gn:latitude":-3.441,
+    "gn:longitude":29.9331,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mushasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426308
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"72edd1768c1f68753e363d4b21846382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759397,
+            "locality_id":1277052361,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1277052361,
+    "wof:lastmodified":1536809516,
+    "wof:name":"Mushasha",
+    "wof:parent_id":1108759397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9331,
+    -3.441,
+    29.9331,
+    -3.441
+],
+  "geometry": {"coordinates":[29.9331,-3.441],"type":"Point"}
+}

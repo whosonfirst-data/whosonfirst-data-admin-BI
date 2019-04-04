@@ -1,0 +1,67 @@
+{
+  "id": 1277059791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1653,-3.0714,30.1653,-3.0714",
+    "geom:latitude":-3.0714,
+    "geom:longitude":30.1653,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Vyerwa",
+    "gn:country_code":"BI",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428175,
+    "gn:latitude":-3.0714,
+    "gn:longitude":30.1653,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Vyerwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428175
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1bd3abc2b4d09229f05fd057ab934d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1277059791,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1277059791,
+    "wof:lastmodified":1536799850,
+    "wof:name":"Vyerwa",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1653,
+    -3.0714,
+    30.1653,
+    -3.0714
+],
+  "geometry": {"coordinates":[30.1653,-3.0714],"type":"Point"}
+}

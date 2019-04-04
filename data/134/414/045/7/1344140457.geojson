@@ -1,0 +1,67 @@
+{
+  "id": 1344140457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04917,-3.28083,30.04917,-3.28083",
+    "geom:latitude":-3.28083,
+    "geom:longitude":30.04917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shombo",
+    "gn:country_code":"BI",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447829,
+    "gn:latitude":-3.28083,
+    "gn:longitude":30.04917,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Shombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447829
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"857598040cae61382ee230a34081fa94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759551,
+            "locality_id":1344140457,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1344140457,
+    "wof:lastmodified":1536760402,
+    "wof:name":"Shombo",
+    "wof:parent_id":1108759551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04917,
+    -3.28083,
+    30.04917,
+    -3.28083
+],
+  "geometry": {"coordinates":[30.04917,-3.28083],"type":"Point"}
+}

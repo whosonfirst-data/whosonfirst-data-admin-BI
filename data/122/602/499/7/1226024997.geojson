@@ -1,0 +1,63 @@
+{
+  "id": 1226024997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4722,-2.9146,29.4722,-2.9146",
+    "geom:latitude":-2.9146,
+    "geom:longitude":29.4722,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyarucamo",
+    "gn:country_code":"BI",
+    "gn:dem":2176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429762,
+    "gn:latitude":-2.9146,
+    "gn:longitude":29.4722,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyarucamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429762
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"de49f8395909846bae73d88be2fdf828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226024997,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226024997,
+    "wof:lastmodified":1536755182,
+    "wof:name":"Nyarucamo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4722,
+    -2.9146,
+    29.4722,
+    -2.9146
+],
+  "geometry": {"coordinates":[29.4722,-2.9146],"type":"Point"}
+}

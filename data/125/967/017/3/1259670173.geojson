@@ -1,0 +1,67 @@
+{
+  "id": 1259670173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.90865,-3.40743,29.90865,-3.40743",
+    "geom:latitude":-3.40743,
+    "geom:longitude":29.90865,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kwibuka",
+    "gn:country_code":"BI",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426247,
+    "gn:latitude":-3.40743,
+    "gn:longitude":29.90865,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Kwibuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426247
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f608bc9ec77f2e90d07e7d40c45b0198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759397,
+            "locality_id":1259670173,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1259670173,
+    "wof:lastmodified":1537083054,
+    "wof:name":"Kwibuka",
+    "wof:parent_id":1108759397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.90865,
+    -3.40743,
+    29.90865,
+    -3.40743
+],
+  "geometry": {"coordinates":[29.90865,-3.40743],"type":"Point"}
+}

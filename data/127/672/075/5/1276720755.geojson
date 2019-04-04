@@ -1,0 +1,67 @@
+{
+  "id": 1276720755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4893,-3.517,30.4893,-3.517",
+    "geom:latitude":-3.517,
+    "geom:longitude":30.4893,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Musenga",
+    "gn:country_code":"BI",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425016,
+    "gn:latitude":-3.517,
+    "gn:longitude":30.4893,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Musenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425016
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f8124cbaecc8bcab78c406f0fcbb709b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1276720755,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1276720755,
+    "wof:lastmodified":1536756941,
+    "wof:name":"Musenga",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4893,
+    -3.517,
+    30.4893,
+    -3.517
+],
+  "geometry": {"coordinates":[30.4893,-3.517],"type":"Point"}
+}

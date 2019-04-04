@@ -1,0 +1,78 @@
+{
+  "id": 1126008641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.469,-3.5086,29.469,-3.5086",
+    "geom:latitude":-3.5086,
+    "geom:longitude":29.469,
+    "gn:gn_country":"BI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"BI",
+    "lbl:latitude":-3.5086,
+    "lbl:longitude":29.469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BI",
+    "qs_pg:gn_country":"BI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":423566,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Manga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":547904,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423566,
+        "qs_pg:id":547904
+    },
+    "wof:country":"BI",
+    "wof:created":1497300133,
+    "wof:geomhash":"cd6c6bab374cd5a1be05da6d12ed5372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759517,
+            "locality_id":1126008641,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1126008641,
+    "wof:lastmodified":1509406538,
+    "wof:name":"Manga",
+    "wof:parent_id":1108759517,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.469,
+    -3.5086,
+    29.469,
+    -3.5086
+],
+  "geometry": {"coordinates":[29.469,-3.5086],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276416347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5023,-2.456,30.5023,-2.456",
+    "geom:latitude":-2.456,
+    "geom:longitude":30.5023,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kinyami",
+    "gn:country_code":"BI",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431152,
+    "gn:latitude":-2.456,
+    "gn:longitude":30.5023,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kinyami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431152
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4c79e613f58e50e9db45bbf0a466e5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759399,
+            "locality_id":1276416347,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1276416347,
+    "wof:lastmodified":1536667514,
+    "wof:name":"Kinyami",
+    "wof:parent_id":1108759399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5023,
+    -2.456,
+    30.5023,
+    -2.456
+],
+  "geometry": {"coordinates":[30.5023,-2.456],"type":"Point"}
+}

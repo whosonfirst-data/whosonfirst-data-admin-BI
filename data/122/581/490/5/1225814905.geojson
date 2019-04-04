@@ -1,0 +1,67 @@
+{
+  "id": 1225814905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1688,-2.469,30.1688,-2.469",
+    "geom:latitude":-2.469,
+    "geom:longitude":30.1688,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Karago",
+    "gn:country_code":"BI",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431281,
+    "gn:latitude":-2.469,
+    "gn:longitude":30.1688,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Karago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431281
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6584a34a61ff47a0535efe3598ea512a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759343,
+            "locality_id":1225814905,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1225814905,
+    "wof:lastmodified":1537055856,
+    "wof:name":"Karago",
+    "wof:parent_id":1108759343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1688,
+    -2.469,
+    30.1688,
+    -2.469
+],
+  "geometry": {"coordinates":[30.1688,-2.469],"type":"Point"}
+}

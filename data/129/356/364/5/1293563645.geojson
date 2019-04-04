@@ -1,0 +1,67 @@
+{
+  "id": 1293563645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9507,-3.9322,29.9507,-3.9322",
+    "geom:latitude":-3.9322,
+    "geom:longitude":29.9507,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nemba",
+    "gn:country_code":"BI",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":433646,
+    "gn:latitude":-3.9322,
+    "gn:longitude":29.9507,
+    "gn:modification_date":"2001-06-14",
+    "gn:name":"Nemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433646
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"811db6c0c2666e18b9badc44025cc2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1293563645,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1293563645,
+    "wof:lastmodified":1536677369,
+    "wof:name":"Nemba",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9507,
+    -3.9322,
+    29.9507,
+    -3.9322
+],
+  "geometry": {"coordinates":[29.9507,-3.9322],"type":"Point"}
+}

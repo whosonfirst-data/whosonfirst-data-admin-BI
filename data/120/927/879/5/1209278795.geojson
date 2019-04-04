@@ -1,0 +1,61 @@
+{
+  "id": 1209278795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3315,-3.2725,30.3315,-3.2725",
+    "geom:latitude":-3.2725,
+    "geom:longitude":30.3315,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kayongozi",
+    "gn:country_code":"BI",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426804,
+    "gn:latitude":-3.2725,
+    "gn:longitude":30.3315,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kayongozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426804
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"869e17274be655c2d8e9384e1f1fc5a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209278795
+        }
+    ],
+    "wof:id":1209278795,
+    "wof:lastmodified":1536292097,
+    "wof:name":"Kayongozi",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3315,
+    -3.2725,
+    30.3315,
+    -3.2725
+],
+  "geometry": {"coordinates":[30.3315,-3.2725],"type":"Point"}
+}

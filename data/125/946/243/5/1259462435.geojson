@@ -1,0 +1,71 @@
+{
+  "id": 1259462435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0294,-3.4657,30.0294,-3.4657",
+    "geom:latitude":-3.4657,
+    "geom:longitude":30.0294,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ruhona",
+    "gn:country_code":"BI",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426697,
+    "gn:latitude":-3.4657,
+    "gn:longitude":30.0294,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruhona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubona",
+        "Ruhona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426697
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d8f1625f21836ff9361573f4d4e3cb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759397,
+            "locality_id":1259462435,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1259462435,
+    "wof:lastmodified":1537587830,
+    "wof:name":"Ruhona",
+    "wof:parent_id":1108759397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0294,
+    -3.4657,
+    30.0294,
+    -3.4657
+],
+  "geometry": {"coordinates":[30.0294,-3.4657],"type":"Point"}
+}

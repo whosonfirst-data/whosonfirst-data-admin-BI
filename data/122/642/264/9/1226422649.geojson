@@ -1,0 +1,67 @@
+{
+  "id": 1226422649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.32604,-2.85137,29.32604,-2.85137",
+    "geom:latitude":-2.85137,
+    "geom:longitude":29.32604,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mikungu",
+    "gn:country_code":"BI",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8305669,
+    "gn:latitude":-2.85137,
+    "gn:longitude":29.32604,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mikungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305669
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b09eda3066503553f15957745319d680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759331,
+            "locality_id":1226422649,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1226422649,
+    "wof:lastmodified":1536678792,
+    "wof:name":"Mikungu",
+    "wof:parent_id":1108759331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.32604000000001,
+    -2.85137,
+    29.32604000000001,
+    -2.85137
+],
+  "geometry": {"coordinates":[29.32604000000001,-2.85137],"type":"Point"}
+}

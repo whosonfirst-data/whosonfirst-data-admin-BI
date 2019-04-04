@@ -1,0 +1,67 @@
+{
+  "id": 1243330817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3257,-3.735,29.3257,-3.735",
+    "geom:latitude":-3.735,
+    "geom:longitude":29.3257,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Rutumo",
+    "gn:country_code":"BI",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":423773,
+    "gn:latitude":-3.735,
+    "gn:longitude":29.3257,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Rutumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423773
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"185fff7b2f6ec25aba76db18b75bcb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759537,
+            "locality_id":1243330817,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1243330817,
+    "wof:lastmodified":1536971983,
+    "wof:name":"Rutumo",
+    "wof:parent_id":1108759537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3257,
+    -3.735,
+    29.3257,
+    -3.735
+],
+  "geometry": {"coordinates":[29.3257,-3.735],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310467451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9789,-2.8869,29.9789,-2.8869",
+    "geom:latitude":-2.8869,
+    "geom:longitude":29.9789,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Munagano",
+    "gn:country_code":"BI",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430516,
+    "gn:latitude":-2.8869,
+    "gn:longitude":29.9789,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Munagano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430516
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4d8473062603c07799f34ec200fac631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759431,
+            "locality_id":1310467451,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1310467451,
+    "wof:lastmodified":1536971514,
+    "wof:name":"Munagano",
+    "wof:parent_id":1108759431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9789,
+    -2.8869,
+    29.9789,
+    -2.8869
+],
+  "geometry": {"coordinates":[29.9789,-2.8869],"type":"Point"}
+}

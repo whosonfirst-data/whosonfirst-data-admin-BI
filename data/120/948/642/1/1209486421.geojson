@@ -1,0 +1,61 @@
+{
+  "id": 1209486421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14678,-3.01081,30.14678,-3.01081",
+    "geom:latitude":-3.01081,
+    "geom:longitude":30.14678,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngayane",
+    "gn:country_code":"BI",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428088,
+    "gn:latitude":-3.01081,
+    "gn:longitude":30.14678,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ngayane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428088
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"195a10462a61878f2b1c3d6626f3ad39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209486421
+        }
+    ],
+    "wof:id":1209486421,
+    "wof:lastmodified":1536285622,
+    "wof:name":"Ngayane",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14678,
+    -3.01081,
+    30.14678,
+    -3.01081
+],
+  "geometry": {"coordinates":[30.14678,-3.01081],"type":"Point"}
+}

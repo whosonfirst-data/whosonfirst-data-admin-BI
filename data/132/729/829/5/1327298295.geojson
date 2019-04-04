@@ -1,0 +1,67 @@
+{
+  "id": 1327298295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1213,-3.4767,30.1213,-3.4767",
+    "geom:latitude":-3.4767,
+    "geom:longitude":30.1213,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Bishikuzi",
+    "gn:country_code":"BI",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426722,
+    "gn:latitude":-3.4767,
+    "gn:longitude":30.1213,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bishikuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426722
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"80133abcaed947e0badda97bcaaf2f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1327298295,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1327298295,
+    "wof:lastmodified":1536873616,
+    "wof:name":"Bishikuzi",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1213,
+    -3.4767,
+    30.1213,
+    -3.4767
+],
+  "geometry": {"coordinates":[30.1213,-3.4767],"type":"Point"}
+}

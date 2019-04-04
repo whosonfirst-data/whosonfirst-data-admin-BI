@@ -1,0 +1,70 @@
+{
+  "id": 1209780577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9161,-3.9853,29.9161,-3.9853",
+    "geom:latitude":-3.9853,
+    "geom:longitude":29.9161,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bukemba",
+    "gn:country_code":"BI",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":422636,
+    "gn:latitude":-3.9853,
+    "gn:longitude":29.9161,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bukemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gitanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421193019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422636
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a1ce152825dd0bf4e89f00e5d9fb9ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421193019,
+            "locality_id":1209780577,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1209780577,
+    "wof:lastmodified":1537587823,
+    "wof:name":"Bukemba",
+    "wof:parent_id":421193019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9161,
+    -3.9853,
+    29.9161,
+    -3.9853
+],
+  "geometry": {"coordinates":[29.9161,-3.9853],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310169785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2249,-3.4381,30.2249,-3.4381",
+    "geom:latitude":-3.4381,
+    "geom:longitude":30.2249,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kebuko",
+    "gn:country_code":"BI",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426659,
+    "gn:latitude":-3.4381,
+    "gn:longitude":30.2249,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kebuko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426659
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8d07e0c36462e2f0e5181500dd991040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759547,
+            "locality_id":1310169785,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1310169785,
+    "wof:lastmodified":1536904168,
+    "wof:name":"Kebuko",
+    "wof:parent_id":1108759547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2249,
+    -3.4381,
+    30.2249,
+    -3.4381
+],
+  "geometry": {"coordinates":[30.2249,-3.4381],"type":"Point"}
+}

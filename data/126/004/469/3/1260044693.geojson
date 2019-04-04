@@ -1,0 +1,67 @@
+{
+  "id": 1260044693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9618,-4.0786,29.9618,-4.0786",
+    "geom:latitude":-4.0786,
+    "geom:longitude":29.9618,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Busango",
+    "gn:country_code":"BI",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422164,
+    "gn:latitude":-4.0786,
+    "gn:longitude":29.9618,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Busango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421193019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422164
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"35f5a6d5112cc02126a7b93955360573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421193019,
+            "locality_id":1260044693,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1260044693,
+    "wof:lastmodified":1537042277,
+    "wof:name":"Busango",
+    "wof:parent_id":421193019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9618,
+    -4.0786,
+    29.9618,
+    -4.0786
+],
+  "geometry": {"coordinates":[29.9618,-4.0786],"type":"Point"}
+}

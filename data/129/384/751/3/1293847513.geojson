@@ -1,0 +1,67 @@
+{
+  "id": 1293847513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6164,-4.3512,29.6164,-4.3512",
+    "geom:latitude":-4.3512,
+    "geom:longitude":29.6164,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nyabutare",
+    "gn:country_code":"BI",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":433696,
+    "gn:latitude":-4.3512,
+    "gn:longitude":29.6164,
+    "gn:modification_date":"2001-06-14",
+    "gn:name":"Nyabutare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433696
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"3d24797507140fe1cb3f1206b05ce985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759525,
+            "locality_id":1293847513,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1293847513,
+    "wof:lastmodified":1536765682,
+    "wof:name":"Nyabutare",
+    "wof:parent_id":1108759525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6164,
+    -4.3512,
+    29.6164,
+    -4.3512
+],
+  "geometry": {"coordinates":[29.6164,-4.3512],"type":"Point"}
+}

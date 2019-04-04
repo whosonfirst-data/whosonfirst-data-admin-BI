@@ -1,0 +1,71 @@
+{
+  "id": 1293373515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9856,-3.0303,29.9856,-3.0303",
+    "geom:latitude":-3.0303,
+    "geom:longitude":29.9856,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Teme",
+    "gn:country_code":"BI",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429261,
+    "gn:latitude":-3.0303,
+    "gn:longitude":29.9856,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Teme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iteme",
+        "Teme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429261
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bcb9955cb84abf966aff4aebf45c806c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759319,
+            "locality_id":1293373515,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1293373515,
+    "wof:lastmodified":1537587833,
+    "wof:name":"Teme",
+    "wof:parent_id":1108759319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9856,
+    -3.0303,
+    29.9856,
+    -3.0303
+],
+  "geometry": {"coordinates":[29.9856,-3.0303],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276534797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9342,-3.6185,29.9342,-3.6185",
+    "geom:latitude":-3.6185,
+    "geom:longitude":29.9342,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mwumba",
+    "gn:country_code":"BI",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424339,
+    "gn:latitude":-3.6185,
+    "gn:longitude":29.9342,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mwumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424339
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4131bdc27044e9f33c827c1991c6c837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759443,
+            "locality_id":1276534797,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1276534797,
+    "wof:lastmodified":1537005300,
+    "wof:name":"Mwumba",
+    "wof:parent_id":1108759443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9342,
+    -3.6185,
+    29.9342,
+    -3.6185
+],
+  "geometry": {"coordinates":[29.9342,-3.6185],"type":"Point"}
+}

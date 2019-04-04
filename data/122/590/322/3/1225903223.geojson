@@ -1,0 +1,67 @@
+{
+  "id": 1225903223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4038,-3.6007,30.4038,-3.6007",
+    "geom:latitude":-3.6007,
+    "geom:longitude":30.4038,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gicike",
+    "gn:country_code":"BI",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425081,
+    "gn:latitude":-3.6007,
+    "gn:longitude":30.4038,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gicike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425081
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"606d92114f4f14fc39c8f94d690b5b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759429,
+            "locality_id":1225903223,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1225903223,
+    "wof:lastmodified":1536931741,
+    "wof:name":"Gicike",
+    "wof:parent_id":1108759429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4038,
+    -3.6007,
+    30.4038,
+    -3.6007
+],
+  "geometry": {"coordinates":[30.4038,-3.6007],"type":"Point"}
+}

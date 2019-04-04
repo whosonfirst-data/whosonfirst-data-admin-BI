@@ -1,0 +1,67 @@
+{
+  "id": 1276958845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0965,-2.8627,29.0965,-2.8627",
+    "geom:latitude":-2.8627,
+    "geom:longitude":29.0965,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kigazura",
+    "gn:country_code":"BI",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430002,
+    "gn:latitude":-2.8627,
+    "gn:longitude":29.0965,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kigazura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430002
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"718d69f941557ed7130cfe6335827a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1276958845,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1276958845,
+    "wof:lastmodified":1536936295,
+    "wof:name":"Kigazura",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0965,
+    -2.8627,
+    29.0965,
+    -2.8627
+],
+  "geometry": {"coordinates":[29.0965,-2.8627],"type":"Point"}
+}

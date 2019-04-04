@@ -1,0 +1,71 @@
+{
+  "id": 1260249821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3577,-3.2749,29.3577,-3.2749",
+    "geom:latitude":-3.2749,
+    "geom:longitude":29.3577,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Nyamwera",
+    "gn:country_code":"BI",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425249,
+    "gn:latitude":-3.2749,
+    "gn:longitude":29.3577,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nyamwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamwere",
+        "Nyamwera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        421204423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425249
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"3540a429ec70dc22fe0fc9e28b740939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421204423,
+            "locality_id":1260249821,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1260249821,
+    "wof:lastmodified":1537587827,
+    "wof:name":"Nyamwera",
+    "wof:parent_id":421204423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3577,
+    -3.2749,
+    29.3577,
+    -3.2749
+],
+  "geometry": {"coordinates":[29.3577,-3.2749],"type":"Point"}
+}

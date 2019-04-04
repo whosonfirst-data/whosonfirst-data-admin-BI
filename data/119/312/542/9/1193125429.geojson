@@ -1,0 +1,67 @@
+{
+  "id": 1193125429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5275,-2.9754,30.5275,-2.9754",
+    "geom:latitude":-2.9754,
+    "geom:longitude":30.5275,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kibungo",
+    "gn:country_code":"BI",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432748,
+    "gn:latitude":-2.9754,
+    "gn:longitude":30.5275,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kibungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432748
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1bd5c9cf0f31a00408dbd190e94f5581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759425,
+            "locality_id":1193125429,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1193125429,
+    "wof:lastmodified":1536381464,
+    "wof:name":"Kibungo",
+    "wof:parent_id":1108759425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5275,
+    -2.9754,
+    30.5275,
+    -2.9754
+],
+  "geometry": {"coordinates":[30.5275,-2.9754],"type":"Point"}
+}

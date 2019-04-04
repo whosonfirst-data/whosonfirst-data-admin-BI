@@ -1,0 +1,67 @@
+{
+  "id": 1310170927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9946,-2.8304,29.9946,-2.8304",
+    "geom:latitude":-2.8304,
+    "geom:longitude":29.9946,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gitaro",
+    "gn:country_code":"BI",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430424,
+    "gn:latitude":-2.8304,
+    "gn:longitude":29.9946,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Gitaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430424
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0db27271b0c17369fc0eae7d8111d06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759431,
+            "locality_id":1310170927,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1310170927,
+    "wof:lastmodified":1536902450,
+    "wof:name":"Gitaro",
+    "wof:parent_id":1108759431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9946,
+    -2.8304,
+    29.9946,
+    -2.8304
+],
+  "geometry": {"coordinates":[29.9946,-2.8304],"type":"Point"}
+}

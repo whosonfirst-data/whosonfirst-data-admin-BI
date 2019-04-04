@@ -1,0 +1,67 @@
+{
+  "id": 1293349427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0632,-3.3782,30.0632,-3.3782",
+    "geom:latitude":-3.3782,
+    "geom:longitude":30.0632,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kivoga",
+    "gn:country_code":"BI",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426563,
+    "gn:latitude":-3.3782,
+    "gn:longitude":30.0632,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kivoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426563
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2aa53c57c2eba01249d47fb101bd03c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759351,
+            "locality_id":1293349427,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293349427,
+    "wof:lastmodified":1536985394,
+    "wof:name":"Kivoga",
+    "wof:parent_id":1108759351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0632,
+    -3.3782,
+    30.0632,
+    -3.3782
+],
+  "geometry": {"coordinates":[30.0632,-3.3782],"type":"Point"}
+}

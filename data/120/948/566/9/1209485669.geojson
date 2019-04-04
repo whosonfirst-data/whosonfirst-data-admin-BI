@@ -1,0 +1,61 @@
+{
+  "id": 1209485669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.687,-3.0169,29.687,-3.0169",
+    "geom:latitude":-3.0169,
+    "geom:longitude":29.687,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nyakabindi",
+    "gn:country_code":"BI",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428744,
+    "gn:latitude":-3.0169,
+    "gn:longitude":29.687,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyakabindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428744
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"88905de1e1de028f02a97bec68df65db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209485669
+        }
+    ],
+    "wof:id":1209485669,
+    "wof:lastmodified":1536285644,
+    "wof:name":"Nyakabindi",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.687,
+    -3.0169,
+    29.687,
+    -3.0169
+],
+  "geometry": {"coordinates":[29.687,-3.0169],"type":"Point"}
+}

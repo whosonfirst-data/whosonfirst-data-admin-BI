@@ -1,0 +1,61 @@
+{
+  "id": 1209586083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73528,-3.2193,29.73528,-3.2193",
+    "geom:latitude":-3.2193,
+    "geom:longitude":29.73528,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Murehe",
+    "gn:country_code":"BI",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429150,
+    "gn:latitude":-3.2193,
+    "gn:longitude":29.73528,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Murehe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429150
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"85c28a936b350d2547ad4229b371c23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209586083
+        }
+    ],
+    "wof:id":1209586083,
+    "wof:lastmodified":1536282632,
+    "wof:name":"Murehe",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73528,
+    -3.2193,
+    29.73528,
+    -3.2193
+],
+  "geometry": {"coordinates":[29.73528,-3.2193],"type":"Point"}
+}

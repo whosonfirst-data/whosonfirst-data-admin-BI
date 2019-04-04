@@ -1,0 +1,67 @@
+{
+  "id": 1327495183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.009,-4.0151,30.009,-4.0151",
+    "geom:latitude":-4.0151,
+    "geom:longitude":30.009,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kimanga",
+    "gn:country_code":"BI",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422382,
+    "gn:latitude":-4.0151,
+    "gn:longitude":30.009,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kimanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422382
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"05975ec029a3159ed605e249eef3ae73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759325,
+            "locality_id":1327495183,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1327495183,
+    "wof:lastmodified":1537084841,
+    "wof:name":"Kimanga",
+    "wof:parent_id":1108759325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.009,
+    -4.0151,
+    30.009,
+    -4.0151
+],
+  "geometry": {"coordinates":[30.009,-4.0151],"type":"Point"}
+}

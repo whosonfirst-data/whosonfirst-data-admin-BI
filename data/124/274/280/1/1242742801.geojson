@@ -1,0 +1,67 @@
+{
+  "id": 1242742801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0888,-3.8562,30.0888,-3.8562",
+    "geom:latitude":-3.8562,
+    "geom:longitude":30.0888,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kabingo",
+    "gn:country_code":"BI",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422849,
+    "gn:latitude":-3.8562,
+    "gn:longitude":30.0888,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Kabingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422849
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d686239d2eae24de9e5e803dbf74c6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759459,
+            "locality_id":1242742801,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1242742801,
+    "wof:lastmodified":1536824965,
+    "wof:name":"Kabingo",
+    "wof:parent_id":1108759459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0888,
+    -3.8562,
+    30.0888,
+    -3.8562
+],
+  "geometry": {"coordinates":[30.0888,-3.8562],"type":"Point"}
+}

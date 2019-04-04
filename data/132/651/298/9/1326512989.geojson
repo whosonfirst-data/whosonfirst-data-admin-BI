@@ -1,0 +1,67 @@
+{
+  "id": 1326512989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8585,-3.0152,29.8585,-3.0152",
+    "geom:latitude":-3.0152,
+    "geom:longitude":29.8585,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rushenza",
+    "gn:country_code":"BI",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429234,
+    "gn:latitude":-3.0152,
+    "gn:longitude":29.8585,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Rushenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429234
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7865efa181664de29f51af2246bf3efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759471,
+            "locality_id":1326512989,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1326512989,
+    "wof:lastmodified":1537011102,
+    "wof:name":"Rushenza",
+    "wof:parent_id":1108759471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8585,
+    -3.0152,
+    29.8585,
+    -3.0152
+],
+  "geometry": {"coordinates":[29.8585,-3.0152],"type":"Point"}
+}

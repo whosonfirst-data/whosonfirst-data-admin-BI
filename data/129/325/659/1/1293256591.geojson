@@ -1,0 +1,67 @@
+{
+  "id": 1293256591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4565,-3.5313,30.4565,-3.5313",
+    "geom:latitude":-3.5313,
+    "geom:longitude":30.4565,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ibuga",
+    "gn:country_code":"BI",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300755,
+    "gn:latitude":-3.5313,
+    "gn:longitude":30.4565,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Ibuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300755
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5c5cd122639086fa1b051e1bcd50d68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1293256591,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293256591,
+    "wof:lastmodified":1536620902,
+    "wof:name":"Ibuga",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4565,
+    -3.5313,
+    30.4565,
+    -3.5313
+],
+  "geometry": {"coordinates":[30.4565,-3.5313],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209209595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2616,-3.1278,29.2616,-3.1278",
+    "geom:latitude":-3.1278,
+    "geom:longitude":29.2616,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kagwena",
+    "gn:country_code":"BI",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428579,
+    "gn:latitude":-3.1278,
+    "gn:longitude":29.2616,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kagwena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428579,
+        "wk:page":"Kagwena"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ee7f6d533b29a029fff9a2082d8ea144",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209209595
+        }
+    ],
+    "wof:id":1209209595,
+    "wof:lastmodified":1537487818,
+    "wof:name":"Kagwena",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2616,
+    -3.1278,
+    29.2616,
+    -3.1278
+],
+  "geometry": {"coordinates":[29.2616,-3.1278],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1192992377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2629,-3.3392,30.2629,-3.3392",
+    "geom:latitude":-3.3392,
+    "geom:longitude":30.2629,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Rukukumbo",
+    "gn:country_code":"BI",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426899,
+    "gn:latitude":-3.3392,
+    "gn:longitude":30.2629,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rukukumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukukumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426899
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"22ccd103853d4d1de4fb2a0b0e662b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759351,
+            "locality_id":1192992377,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1192992377,
+    "wof:lastmodified":1537587830,
+    "wof:name":"Rukukumbo",
+    "wof:parent_id":1108759351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2629,
+    -3.3392,
+    30.2629,
+    -3.3392
+],
+  "geometry": {"coordinates":[30.2629,-3.3392],"type":"Point"}
+}

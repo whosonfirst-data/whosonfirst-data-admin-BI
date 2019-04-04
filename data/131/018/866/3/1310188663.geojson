@@ -1,0 +1,67 @@
+{
+  "id": 1310188663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2155,-3.0394,30.2155,-3.0394",
+    "geom:latitude":-3.0394,
+    "geom:longitude":30.2155,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shanga",
+    "gn:country_code":"BI",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428133,
+    "gn:latitude":-3.0394,
+    "gn:longitude":30.2155,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Shanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428133
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"083d864810f4549eb9ac26333bbfbfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1310188663,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1310188663,
+    "wof:lastmodified":1536875688,
+    "wof:name":"Shanga",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2155,
+    -3.0394,
+    30.2155,
+    -3.0394
+],
+  "geometry": {"coordinates":[30.2155,-3.0394],"type":"Point"}
+}

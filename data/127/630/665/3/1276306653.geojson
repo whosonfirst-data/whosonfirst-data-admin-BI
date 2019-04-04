@@ -1,0 +1,67 @@
+{
+  "id": 1276306653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35766,-3.23491,30.35766,-3.23491",
+    "geom:latitude":-3.23491,
+    "geom:longitude":30.35766,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabumba",
+    "gn:country_code":"BI",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428055,
+    "gn:latitude":-3.23491,
+    "gn:longitude":30.35766,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kabumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428055
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b30d1800c8c2fb4ec978a07205c8281a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1276306653,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1276306653,
+    "wof:lastmodified":1536813840,
+    "wof:name":"Kabumba",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35766,
+    -3.23491,
+    30.35766,
+    -3.23491
+],
+  "geometry": {"coordinates":[30.35766,-3.23491],"type":"Point"}
+}

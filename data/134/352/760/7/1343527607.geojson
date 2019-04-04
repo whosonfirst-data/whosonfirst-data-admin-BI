@@ -1,0 +1,67 @@
+{
+  "id": 1343527607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3118,-2.8637,30.3118,-2.8637",
+    "geom:latitude":-2.8637,
+    "geom:longitude":30.3118,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gatoke",
+    "gn:country_code":"BI",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431767,
+    "gn:latitude":-2.8637,
+    "gn:longitude":30.3118,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gatoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431767
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"091615109e867958adb1a3354858178e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759499,
+            "locality_id":1343527607,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1343527607,
+    "wof:lastmodified":1536649179,
+    "wof:name":"Gatoke",
+    "wof:parent_id":1108759499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3118,
+    -2.8637,
+    30.3118,
+    -2.8637
+],
+  "geometry": {"coordinates":[30.3118,-2.8637],"type":"Point"}
+}

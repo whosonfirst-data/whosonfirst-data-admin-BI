@@ -1,0 +1,67 @@
+{
+  "id": 1276843301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.516,-2.9174,29.516,-2.9174",
+    "geom:latitude":-2.9174,
+    "geom:longitude":29.516,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rwegura",
+    "gn:country_code":"BI",
+    "gn:dem":2311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":430930,
+    "gn:latitude":-2.9174,
+    "gn:longitude":29.516,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Rwegura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430930
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6a75ecf31c2e4f115f51e58de3a4ccc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759483,
+            "locality_id":1276843301,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1276843301,
+    "wof:lastmodified":1537086970,
+    "wof:name":"Rwegura",
+    "wof:parent_id":1108759483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.516,
+    -2.9174,
+    29.516,
+    -2.9174
+],
+  "geometry": {"coordinates":[29.516,-2.9174],"type":"Point"}
+}

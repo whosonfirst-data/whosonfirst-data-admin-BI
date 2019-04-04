@@ -1,0 +1,67 @@
+{
+  "id": 1209785475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1692,-2.6336,30.1692,-2.6336",
+    "geom:latitude":-2.6336,
+    "geom:longitude":30.1692,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kabirizi",
+    "gn:country_code":"BI",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432534,
+    "gn:latitude":-2.6336,
+    "gn:longitude":30.1692,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kabirizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432534
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"adf2b5ae5c89715bc9e43d126c380319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1209785475,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1209785475,
+    "wof:lastmodified":1536368977,
+    "wof:name":"Kabirizi",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1692,
+    -2.6336,
+    30.1692,
+    -2.6336
+],
+  "geometry": {"coordinates":[30.1692,-2.6336],"type":"Point"}
+}

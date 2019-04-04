@@ -1,0 +1,67 @@
+{
+  "id": 1242956621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9953,-3.1086,29.9953,-3.1086",
+    "geom:latitude":-3.1086,
+    "geom:longitude":29.9953,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maruri",
+    "gn:country_code":"BI",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429386,
+    "gn:latitude":-3.1086,
+    "gn:longitude":29.9953,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Maruri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429386
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8b212c549104c1392d76445a24c87acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759385,
+            "locality_id":1242956621,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1242956621,
+    "wof:lastmodified":1537014090,
+    "wof:name":"Maruri",
+    "wof:parent_id":1108759385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9953,
+    -3.1086,
+    29.9953,
+    -3.1086
+],
+  "geometry": {"coordinates":[29.9953,-3.1086],"type":"Point"}
+}

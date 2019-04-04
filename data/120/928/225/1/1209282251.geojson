@@ -1,0 +1,61 @@
+{
+  "id": 1209282251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4663,-3.4379,29.4663,-3.4379",
+    "geom:latitude":-3.4379,
+    "geom:longitude":29.4663,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mukabarangara",
+    "gn:country_code":"BI",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425453,
+    "gn:latitude":-3.4379,
+    "gn:longitude":29.4663,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mukabarangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425453
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9981d390b6ebc03241972b542f503fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209282251
+        }
+    ],
+    "wof:id":1209282251,
+    "wof:lastmodified":1536291981,
+    "wof:name":"Mukabarangara",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4663,
+    -3.4379,
+    29.4663,
+    -3.4379
+],
+  "geometry": {"coordinates":[29.4663,-3.4379],"type":"Point"}
+}

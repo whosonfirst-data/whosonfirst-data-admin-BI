@@ -1,0 +1,63 @@
+{
+  "id": 1259470981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5334,-2.9454,30.5334,-2.9454",
+    "geom:latitude":-2.9454,
+    "geom:longitude":30.5334,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kanoso",
+    "gn:country_code":"BI",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432731,
+    "gn:latitude":-2.9454,
+    "gn:longitude":30.5334,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kanoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432731
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"11bb61781b43f5512be9bb91db6faedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259470981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259470981,
+    "wof:lastmodified":1536875838,
+    "wof:name":"Kanoso",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5334,
+    -2.9454,
+    30.5334,
+    -2.9454
+],
+  "geometry": {"coordinates":[30.5334,-2.9454],"type":"Point"}
+}

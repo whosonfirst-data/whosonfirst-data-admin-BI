@@ -1,0 +1,67 @@
+{
+  "id": 1327208007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2377,-3.5146,30.2377,-3.5146",
+    "geom:latitude":-3.5146,
+    "geom:longitude":30.2377,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Rusohanya",
+    "gn:country_code":"BI",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424606,
+    "gn:latitude":-3.5146,
+    "gn:longitude":30.2377,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rusohanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424606
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"05b0df5916f31803f6bda08d9bbc2c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1327208007,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1327208007,
+    "wof:lastmodified":1537004167,
+    "wof:name":"Rusohanya",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2377,
+    -3.5146,
+    30.2377,
+    -3.5146
+],
+  "geometry": {"coordinates":[30.2377,-3.5146],"type":"Point"}
+}

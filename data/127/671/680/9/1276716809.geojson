@@ -1,0 +1,67 @@
+{
+  "id": 1276716809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5046,-3.359,29.5046,-3.359",
+    "geom:latitude":-3.359,
+    "geom:longitude":29.5046,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ruhinga",
+    "gn:country_code":"BI",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425712,
+    "gn:latitude":-3.359,
+    "gn:longitude":29.5046,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ruhinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425712
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"349ab98bbff11befaba7ae10c6df6626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759405,
+            "locality_id":1276716809,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1276716809,
+    "wof:lastmodified":1536762381,
+    "wof:name":"Ruhinga",
+    "wof:parent_id":1108759405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5046,
+    -3.359,
+    29.5046,
+    -3.359
+],
+  "geometry": {"coordinates":[29.5046,-3.359],"type":"Point"}
+}

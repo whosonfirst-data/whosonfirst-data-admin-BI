@@ -1,0 +1,63 @@
+{
+  "id": 1276402647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37289,-3.07709,30.37289,-3.07709",
+    "geom:latitude":-3.07709,
+    "geom:longitude":30.37289,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kwibuye",
+    "gn:country_code":"BI",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427867,
+    "gn:latitude":-3.07709,
+    "gn:longitude":30.37289,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kwibuye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427867
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"90f30c4d12564fbf35ceb4573418fe74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276402647,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276402647,
+    "wof:lastmodified":1536685849,
+    "wof:name":"Kwibuye",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37289,
+    -3.07709,
+    30.37289,
+    -3.07709
+],
+  "geometry": {"coordinates":[30.37289,-3.07709],"type":"Point"}
+}

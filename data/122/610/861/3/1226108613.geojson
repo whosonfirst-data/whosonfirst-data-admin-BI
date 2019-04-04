@@ -1,0 +1,67 @@
+{
+  "id": 1226108613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31675,-2.97286,30.31675,-2.97286",
+    "geom:latitude":-2.97286,
+    "geom:longitude":30.31675,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ruhoha",
+    "gn:country_code":"BI",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":431904,
+    "gn:latitude":-2.97286,
+    "gn:longitude":30.31675,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ruhoha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431904
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"faf0de2995b77b0b4f93d25d43ee277d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759323,
+            "locality_id":1226108613,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1226108613,
+    "wof:lastmodified":1536633080,
+    "wof:name":"Ruhoha",
+    "wof:parent_id":1108759323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31675,
+    -2.97286,
+    30.31675,
+    -2.97286
+],
+  "geometry": {"coordinates":[30.31675,-2.97286],"type":"Point"}
+}

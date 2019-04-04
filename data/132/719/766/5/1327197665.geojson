@@ -1,0 +1,67 @@
+{
+  "id": 1327197665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6835,-4.1933,29.6835,-4.1933",
+    "geom:latitude":-4.1933,
+    "geom:longitude":29.6835,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nyamirinzi",
+    "gn:country_code":"BI",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422049,
+    "gn:latitude":-4.1933,
+    "gn:longitude":29.6835,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamirinzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422049
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"52930fc631e3dbe7740952a7968ba3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759557,
+            "locality_id":1327197665,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1327197665,
+    "wof:lastmodified":1537019045,
+    "wof:name":"Nyamirinzi",
+    "wof:parent_id":1108759557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6835,
+    -4.1933,
+    29.6835,
+    -4.1933
+],
+  "geometry": {"coordinates":[29.6835,-4.1933],"type":"Point"}
+}

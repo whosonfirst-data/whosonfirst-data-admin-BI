@@ -1,0 +1,67 @@
+{
+  "id": 1310267307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9731,-3.0065,29.9731,-3.0065",
+    "geom:latitude":-3.0065,
+    "geom:longitude":29.9731,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nzunga",
+    "gn:country_code":"BI",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429214,
+    "gn:latitude":-3.0065,
+    "gn:longitude":29.9731,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nzunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429214
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7ea6781c52dad31e639a25251b7e4123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759535,
+            "locality_id":1310267307,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1310267307,
+    "wof:lastmodified":1536763438,
+    "wof:name":"Nzunga",
+    "wof:parent_id":1108759535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9731,
+    -3.0065,
+    29.9731,
+    -3.0065
+],
+  "geometry": {"coordinates":[29.9731,-3.0065],"type":"Point"}
+}

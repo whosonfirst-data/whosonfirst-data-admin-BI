@@ -1,0 +1,70 @@
+{
+  "id": 1226620239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0837,-3.3903,30.0837,-3.3903",
+    "geom:latitude":-3.3903,
+    "geom:longitude":30.0837,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Mubira",
+    "gn:country_code":"BI",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426580,
+    "gn:latitude":-3.3903,
+    "gn:longitude":30.0837,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mubira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mibira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426580
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e356d1bdc45c4b7383f6e279ea05646e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759351,
+            "locality_id":1226620239,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1226620239,
+    "wof:lastmodified":1537587830,
+    "wof:name":"Mubira",
+    "wof:parent_id":1108759351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0837,
+    -3.3903,
+    30.0837,
+    -3.3903
+],
+  "geometry": {"coordinates":[30.0837,-3.3903],"type":"Point"}
+}

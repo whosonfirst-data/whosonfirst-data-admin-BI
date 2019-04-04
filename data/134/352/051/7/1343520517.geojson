@@ -1,0 +1,67 @@
+{
+  "id": 1343520517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1369,-3.3881,30.1369,-3.3881",
+    "geom:latitude":-3.3881,
+    "geom:longitude":30.1369,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nkongwe",
+    "gn:country_code":"BI",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426578,
+    "gn:latitude":-3.3881,
+    "gn:longitude":30.1369,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nkongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426578
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"726042ef5c037a85531a5eaf598b80d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759351,
+            "locality_id":1343520517,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343520517,
+    "wof:lastmodified":1536659768,
+    "wof:name":"Nkongwe",
+    "wof:parent_id":1108759351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1369,
+    -3.3881,
+    30.1369,
+    -3.3881
+],
+  "geometry": {"coordinates":[30.1369,-3.3881],"type":"Point"}
+}

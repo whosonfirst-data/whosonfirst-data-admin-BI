@@ -1,0 +1,67 @@
+{
+  "id": 1209982699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2857,-2.9103,30.2857,-2.9103",
+    "geom:latitude":-2.9103,
+    "geom:longitude":30.2857,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gaconge",
+    "gn:country_code":"BI",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431825,
+    "gn:latitude":-2.9103,
+    "gn:longitude":30.2857,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gaconge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431825
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"43d97f90cdb230e8321880d8297fd8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759499,
+            "locality_id":1209982699,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1209982699,
+    "wof:lastmodified":1536390003,
+    "wof:name":"Gaconge",
+    "wof:parent_id":1108759499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2857,
+    -2.9103,
+    30.2857,
+    -2.9103
+],
+  "geometry": {"coordinates":[30.2857,-2.9103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293347789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4716,-3.5377,29.4716,-3.5377",
+    "geom:latitude":-3.5377,
+    "geom:longitude":29.4716,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kinonko",
+    "gn:country_code":"BI",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":423604,
+    "gn:latitude":-3.5377,
+    "gn:longitude":29.4716,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kinonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423604
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f9fa5723c4b1e2f51b5976811023dc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759479,
+            "locality_id":1293347789,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1293347789,
+    "wof:lastmodified":1536987732,
+    "wof:name":"Kinonko",
+    "wof:parent_id":1108759479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4716,
+    -3.5377,
+    29.4716,
+    -3.5377
+],
+  "geometry": {"coordinates":[29.4716,-3.5377],"type":"Point"}
+}

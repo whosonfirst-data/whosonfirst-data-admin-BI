@@ -1,0 +1,71 @@
+{
+  "id": 1343832393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1269,-3.8636,30.1269,-3.8636",
+    "geom:latitude":-3.8636,
+    "geom:longitude":30.1269,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ruranga",
+    "gn:country_code":"BI",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422856,
+    "gn:latitude":-3.8636,
+    "gn:longitude":30.1269,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buranga",
+        "Ruranga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422856
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c7f9b1874cc341791edfee1149a391ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759459,
+            "locality_id":1343832393,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1343832393,
+    "wof:lastmodified":1537587823,
+    "wof:name":"Ruranga",
+    "wof:parent_id":1108759459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1269,
+    -3.8636,
+    30.1269,
+    -3.8636
+],
+  "geometry": {"coordinates":[30.1269,-3.8636],"type":"Point"}
+}

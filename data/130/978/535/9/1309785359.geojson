@@ -1,0 +1,67 @@
+{
+  "id": 1309785359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98,-3.6943,29.98,-3.6943",
+    "geom:latitude":-3.6943,
+    "geom:longitude":29.98,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rwinyana",
+    "gn:country_code":"BI",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424495,
+    "gn:latitude":-3.6943,
+    "gn:longitude":29.98,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rwinyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424495
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6c96eacf0fb40ac92ccedfc16c80a231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759333,
+            "locality_id":1309785359,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1309785359,
+    "wof:lastmodified":1536960502,
+    "wof:name":"Rwinyana",
+    "wof:parent_id":1108759333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98,
+    -3.6943,
+    29.98,
+    -3.6943
+],
+  "geometry": {"coordinates":[29.98,-3.6943],"type":"Point"}
+}

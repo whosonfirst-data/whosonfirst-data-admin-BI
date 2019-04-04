@@ -1,0 +1,67 @@
+{
+  "id": 1226817913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7559,-3.3561,29.7559,-3.3561",
+    "geom:latitude":-3.3561,
+    "geom:longitude":29.7559,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ntabwome",
+    "gn:country_code":"BI",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426148,
+    "gn:latitude":-3.3561,
+    "gn:longitude":29.7559,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Ntabwome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426148
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"29249ec1e6effff911fe809636f1ebbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759541,
+            "locality_id":1226817913,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1226817913,
+    "wof:lastmodified":1536609010,
+    "wof:name":"Ntabwome",
+    "wof:parent_id":1108759541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7559,
+    -3.3561,
+    29.7559,
+    -3.3561
+],
+  "geometry": {"coordinates":[29.7559,-3.3561],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326813899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1691,-2.9571,30.1691,-2.9571",
+    "geom:latitude":-2.9571,
+    "geom:longitude":30.1691,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngugo",
+    "gn:country_code":"BI",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432283,
+    "gn:latitude":-2.9571,
+    "gn:longitude":30.1691,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ngugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432283
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f0027e82ccc2a34f2cd096a77bf8d6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1326813899,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1326813899,
+    "wof:lastmodified":1537072111,
+    "wof:name":"Ngugo",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1691,
+    -2.9571,
+    30.1691,
+    -2.9571
+],
+  "geometry": {"coordinates":[30.1691,-2.9571],"type":"Point"}
+}

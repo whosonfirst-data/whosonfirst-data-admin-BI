@@ -1,0 +1,67 @@
+{
+  "id": 1243154285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1035,-2.6876,30.1035,-2.6876",
+    "geom:latitude":-2.6876,
+    "geom:longitude":30.1035,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gasura",
+    "gn:country_code":"BI",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432604,
+    "gn:latitude":-2.6876,
+    "gn:longitude":30.1035,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gasura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432604
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a083ca235724c9049cc66b0586a82f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1243154285,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1243154285,
+    "wof:lastmodified":1536730188,
+    "wof:name":"Gasura",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1035,
+    -2.6876,
+    30.1035,
+    -2.6876
+],
+  "geometry": {"coordinates":[30.1035,-2.6876],"type":"Point"}
+}

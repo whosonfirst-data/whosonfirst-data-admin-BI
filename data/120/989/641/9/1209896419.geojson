@@ -1,0 +1,67 @@
+{
+  "id": 1209896419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1637,-2.8229,29.1637,-2.8229",
+    "geom:latitude":-2.8229,
+    "geom:longitude":29.1637,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rusororo",
+    "gn:country_code":"BI",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429966,
+    "gn:latitude":-2.8229,
+    "gn:longitude":29.1637,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rusororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429966
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e4b2a71a7d192ec7e9bac77c7f2d350f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1209896419,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1209896419,
+    "wof:lastmodified":1536388409,
+    "wof:name":"Rusororo",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1637,
+    -2.8229,
+    29.1637,
+    -2.8229
+],
+  "geometry": {"coordinates":[29.1637,-2.8229],"type":"Point"}
+}

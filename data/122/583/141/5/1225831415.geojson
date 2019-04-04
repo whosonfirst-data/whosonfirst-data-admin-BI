@@ -1,0 +1,67 @@
+{
+  "id": 1225831415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0074,-3.692,30.0074,-3.692",
+    "geom:latitude":-3.692,
+    "geom:longitude":30.0074,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bitaka",
+    "gn:country_code":"BI",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424885,
+    "gn:latitude":-3.692,
+    "gn:longitude":30.0074,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bitaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424885
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f5e357ba70ba9417c3b7c490e4ec6a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759333,
+            "locality_id":1225831415,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1225831415,
+    "wof:lastmodified":1537032916,
+    "wof:name":"Bitaka",
+    "wof:parent_id":1108759333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0074,
+    -3.692,
+    30.0074,
+    -3.692
+],
+  "geometry": {"coordinates":[30.0074,-3.692],"type":"Point"}
+}

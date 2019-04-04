@@ -1,0 +1,67 @@
+{
+  "id": 1276422941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0882,-2.6908,30.0882,-2.6908",
+    "geom:latitude":-2.6908,
+    "geom:longitude":30.0882,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Burarana",
+    "gn:country_code":"BI",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432624,
+    "gn:latitude":-2.6908,
+    "gn:longitude":30.0882,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Burarana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432624
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0fcdcf305742208aa2cb6fb8fae4e579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1276422941,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1276422941,
+    "wof:lastmodified":1536658726,
+    "wof:name":"Burarana",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0882,
+    -2.6908,
+    30.0882,
+    -2.6908
+],
+  "geometry": {"coordinates":[30.0882,-2.6908],"type":"Point"}
+}

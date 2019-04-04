@@ -1,0 +1,67 @@
+{
+  "id": 1326509563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9219,-3.8116,29.9219,-3.8116",
+    "geom:latitude":-3.8116,
+    "geom:longitude":29.9219,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ndago",
+    "gn:country_code":"BI",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422547,
+    "gn:latitude":-3.8116,
+    "gn:longitude":29.9219,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ndago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422547
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ed6dabf5187ce46a229a91cb73f7662e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759337,
+            "locality_id":1326509563,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1326509563,
+    "wof:lastmodified":1537016038,
+    "wof:name":"Ndago",
+    "wof:parent_id":1108759337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9219,
+    -3.8116,
+    29.9219,
+    -3.8116
+],
+  "geometry": {"coordinates":[29.9219,-3.8116],"type":"Point"}
+}

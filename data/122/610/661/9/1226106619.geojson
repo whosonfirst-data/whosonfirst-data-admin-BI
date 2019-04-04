@@ -1,0 +1,71 @@
+{
+  "id": 1226106619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3109,-3.6356,30.3109,-3.6356",
+    "geom:latitude":-3.6356,
+    "geom:longitude":30.3109,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyamuyenzure",
+    "gn:country_code":"BI",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425103,
+    "gn:latitude":-3.6356,
+    "gn:longitude":30.3109,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nyamuyenzure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamuyenzuri",
+        "Nyamuyenzure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425103
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a45c45c8ae150772a48ff4eda4d44064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759429,
+            "locality_id":1226106619,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1226106619,
+    "wof:lastmodified":1537587827,
+    "wof:name":"Nyamuyenzure",
+    "wof:parent_id":1108759429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3109,
+    -3.6356,
+    30.3109,
+    -3.6356
+],
+  "geometry": {"coordinates":[30.3109,-3.6356],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277148403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9015,-3.5217,29.9015,-3.5217",
+    "geom:latitude":-3.5217,
+    "geom:longitude":29.9015,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kaganda",
+    "gn:country_code":"BI",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424160,
+    "gn:latitude":-3.5217,
+    "gn:longitude":29.9015,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kaganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424160
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8e64269721dd3f376990b99455be55fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759523,
+            "locality_id":1277148403,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1277148403,
+    "wof:lastmodified":1536673052,
+    "wof:name":"Kaganda",
+    "wof:parent_id":1108759523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9015,
+    -3.5217,
+    29.9015,
+    -3.5217
+],
+  "geometry": {"coordinates":[29.9015,-3.5217],"type":"Point"}
+}

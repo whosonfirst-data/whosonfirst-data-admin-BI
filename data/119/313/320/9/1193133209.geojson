@@ -1,0 +1,67 @@
+{
+  "id": 1193133209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.39313,-2.96265,29.39313,-2.96265",
+    "geom:latitude":-2.96265,
+    "geom:longitude":29.39313,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Butega",
+    "gn:country_code":"BI",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429834,
+    "gn:latitude":-2.96265,
+    "gn:longitude":29.39313,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Butega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429834
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"15d51cf3d9286e80f5c42e11b9edf0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1193133209,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1193133209,
+    "wof:lastmodified":1536373555,
+    "wof:name":"Butega",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.39313,
+    -2.96265,
+    29.39313,
+    -2.96265
+],
+  "geometry": {"coordinates":[29.39313,-2.96265],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209270941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6682,-3.1787,29.6682,-3.1787",
+    "geom:latitude":-3.1787,
+    "geom:longitude":29.6682,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gitega",
+    "gn:country_code":"BI",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429084,
+    "gn:latitude":-3.1787,
+    "gn:longitude":29.6682,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gitega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429084
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2d4dfc4d5bfd133745bebfca03a1c38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209270941
+        }
+    ],
+    "wof:id":1209270941,
+    "wof:lastmodified":1536292361,
+    "wof:name":"Gitega",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6682,
+    -3.1787,
+    29.6682,
+    -3.1787
+],
+  "geometry": {"coordinates":[29.6682,-3.1787],"type":"Point"}
+}

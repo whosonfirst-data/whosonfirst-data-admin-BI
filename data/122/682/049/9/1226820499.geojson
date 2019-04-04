@@ -1,0 +1,72 @@
+{
+  "id": 1226820499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8432,-3.0928,29.8432,-3.0928",
+    "geom:latitude":-3.0928,
+    "geom:longitude":29.8432,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kibungere",
+    "gn:country_code":"BI",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429370,
+    "gn:latitude":-3.0928,
+    "gn:longitude":29.8432,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kibungere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibingere",
+        "Kibungure",
+        "Kibungere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429370
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"3aa4690678e8195aa44d4612db084ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1226820499,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1226820499,
+    "wof:lastmodified":1537587833,
+    "wof:name":"Kibungere",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8432,
+    -3.0928,
+    29.8432,
+    -3.0928
+],
+  "geometry": {"coordinates":[29.8432,-3.0928],"type":"Point"}
+}

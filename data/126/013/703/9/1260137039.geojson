@@ -1,0 +1,67 @@
+{
+  "id": 1260137039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3923,-3.6643,29.3923,-3.6643",
+    "geom:latitude":-3.6643,
+    "geom:longitude":29.3923,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Gahuni",
+    "gn:country_code":"BI",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423719,
+    "gn:latitude":-3.6643,
+    "gn:longitude":29.3923,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Gahuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423719
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"798eb33276a7428eea0d287a984b705b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759315,
+            "locality_id":1260137039,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1260137039,
+    "wof:lastmodified":1536912034,
+    "wof:name":"Gahuni",
+    "wof:parent_id":1108759315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3923,
+    -3.6643,
+    29.3923,
+    -3.6643
+],
+  "geometry": {"coordinates":[29.3923,-3.6643],"type":"Point"}
+}

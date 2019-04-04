@@ -1,0 +1,67 @@
+{
+  "id": 1260253511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0936,-3.2907,30.0936,-3.2907",
+    "geom:latitude":-3.2907,
+    "geom:longitude":30.0936,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Migina",
+    "gn:country_code":"BI",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426467,
+    "gn:latitude":-3.2907,
+    "gn:longitude":30.0936,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Migina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426467
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"eadf5de3d6bfda7463d282b37a6ad6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759515,
+            "locality_id":1260253511,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1260253511,
+    "wof:lastmodified":1536752491,
+    "wof:name":"Migina",
+    "wof:parent_id":1108759515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0936,
+    -3.2907,
+    30.0936,
+    -3.2907
+],
+  "geometry": {"coordinates":[30.0936,-3.2907],"type":"Point"}
+}

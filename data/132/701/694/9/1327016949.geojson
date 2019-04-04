@@ -1,0 +1,67 @@
+{
+  "id": 1327016949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1262,-2.7937,29.1262,-2.7937",
+    "geom:latitude":-2.7937,
+    "geom:longitude":29.1262,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mugina",
+    "gn:country_code":"BI",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429934,
+    "gn:latitude":-2.7937,
+    "gn:longitude":29.1262,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mugina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429934
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8f6a5470df8aa496a6985f11e61ab870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759465,
+            "locality_id":1327016949,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1327016949,
+    "wof:lastmodified":1536783280,
+    "wof:name":"Mugina",
+    "wof:parent_id":1108759465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1262,
+    -2.7937,
+    29.1262,
+    -2.7937
+],
+  "geometry": {"coordinates":[29.1262,-2.7937],"type":"Point"}
+}

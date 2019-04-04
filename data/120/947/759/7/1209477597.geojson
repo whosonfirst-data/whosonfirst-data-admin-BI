@@ -1,0 +1,61 @@
+{
+  "id": 1209477597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0902,-2.8882,30.0902,-2.8882",
+    "geom:latitude":-2.8882,
+    "geom:longitude":30.0902,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Canamo",
+    "gn:country_code":"BI",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432178,
+    "gn:latitude":-2.8882,
+    "gn:longitude":30.0902,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Canamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432178
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"14962332f0936a58361858cab85eec3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209477597
+        }
+    ],
+    "wof:id":1209477597,
+    "wof:lastmodified":1536285886,
+    "wof:name":"Canamo",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0902,
+    -2.8882,
+    30.0902,
+    -2.8882
+],
+  "geometry": {"coordinates":[30.0902,-2.8882],"type":"Point"}
+}

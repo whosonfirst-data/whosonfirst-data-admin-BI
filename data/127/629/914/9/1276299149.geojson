@@ -1,0 +1,67 @@
+{
+  "id": 1276299149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3887,-3.8586,29.3887,-3.8586",
+    "geom:latitude":-3.8586,
+    "geom:longitude":29.3887,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kizuka",
+    "gn:country_code":"BI",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423505,
+    "gn:latitude":-3.8586,
+    "gn:longitude":29.3887,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Kizuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423505
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"572e38a29c2c1556aa36bfb6349b828d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759537,
+            "locality_id":1276299149,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1276299149,
+    "wof:lastmodified":1536823742,
+    "wof:name":"Kizuka",
+    "wof:parent_id":1108759537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3887,
+    -3.8586,
+    29.3887,
+    -3.8586
+],
+  "geometry": {"coordinates":[29.3887,-3.8586],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276397357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6427,-3.5127,29.6427,-3.5127",
+    "geom:latitude":-3.5127,
+    "geom:longitude":29.6427,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Butora",
+    "gn:country_code":"BI",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":423803,
+    "gn:latitude":-3.5127,
+    "gn:longitude":29.6427,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Butora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423803
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"53e71101e550bbfeef3334c2bfca0dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759539,
+            "locality_id":1276397357,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1276397357,
+    "wof:lastmodified":1536693097,
+    "wof:name":"Butora",
+    "wof:parent_id":1108759539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6427,
+    -3.5127,
+    29.6427,
+    -3.5127
+],
+  "geometry": {"coordinates":[29.6427,-3.5127],"type":"Point"}
+}

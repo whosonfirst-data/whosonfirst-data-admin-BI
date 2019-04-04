@@ -1,0 +1,67 @@
+{
+  "id": 1277154305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3896,-2.9175,29.3896,-2.9175",
+    "geom:latitude":-2.9175,
+    "geom:longitude":29.3896,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ndora",
+    "gn:country_code":"BI",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429772,
+    "gn:latitude":-2.9175,
+    "gn:longitude":29.3896,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ndora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429772
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4443b0cb6384dc371c5e13a3eec9e8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759331,
+            "locality_id":1277154305,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1277154305,
+    "wof:lastmodified":1536664589,
+    "wof:name":"Ndora",
+    "wof:parent_id":1108759331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3896,
+    -2.9175,
+    29.3896,
+    -2.9175
+],
+  "geometry": {"coordinates":[29.3896,-2.9175],"type":"Point"}
+}

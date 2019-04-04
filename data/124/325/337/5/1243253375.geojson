@@ -1,0 +1,67 @@
+{
+  "id": 1243253375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3681,-3.0163,29.3681,-3.0163",
+    "geom:latitude":-3.0163,
+    "geom:longitude":29.3681,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kiraba",
+    "gn:country_code":"BI",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428417,
+    "gn:latitude":-3.0163,
+    "gn:longitude":29.3681,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kiraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428417
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ad5a21a23a82ace8b902fb652e2ad8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759307,
+            "locality_id":1243253375,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1243253375,
+    "wof:lastmodified":1537080709,
+    "wof:name":"Kiraba",
+    "wof:parent_id":1108759307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3681,
+    -3.0163,
+    29.3681,
+    -3.0163
+],
+  "geometry": {"coordinates":[29.3681,-3.0163],"type":"Point"}
+}

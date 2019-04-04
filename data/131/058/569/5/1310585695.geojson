@@ -1,0 +1,67 @@
+{
+  "id": 1310585695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4407,-3.1871,29.4407,-3.1871",
+    "geom:latitude":-3.1871,
+    "geom:longitude":29.4407,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nyomvyi",
+    "gn:country_code":"BI",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428652,
+    "gn:latitude":-3.1871,
+    "gn:longitude":29.4407,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyomvyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428652
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c79a3a3c99811a8b9f49b6eabff7c505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759457,
+            "locality_id":1310585695,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1310585695,
+    "wof:lastmodified":1536801331,
+    "wof:name":"Nyomvyi",
+    "wof:parent_id":1108759457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4407,
+    -3.1871,
+    29.4407,
+    -3.1871
+],
+  "geometry": {"coordinates":[29.4407,-3.1871],"type":"Point"}
+}

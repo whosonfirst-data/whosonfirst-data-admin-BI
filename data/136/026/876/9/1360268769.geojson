@@ -1,0 +1,67 @@
+{
+  "id": 1360268769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2046,-3.2027,30.2046,-3.2027",
+    "geom:latitude":-3.2027,
+    "geom:longitude":30.2046,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yagizo",
+    "gn:country_code":"BI",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428329,
+    "gn:latitude":-3.2027,
+    "gn:longitude":30.2046,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Yagizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428329
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a41d645117af12772bcb57d7e0fe6d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759497,
+            "locality_id":1360268769,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1360268769,
+    "wof:lastmodified":1536680681,
+    "wof:name":"Yagizo",
+    "wof:parent_id":1108759497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2046,
+    -3.2027,
+    30.2046,
+    -3.2027
+],
+  "geometry": {"coordinates":[30.2046,-3.2027],"type":"Point"}
+}

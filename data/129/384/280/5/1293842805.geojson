@@ -1,0 +1,67 @@
+{
+  "id": 1293842805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.124,-3.5793,30.124,-3.5793",
+    "geom:latitude":-3.5793,
+    "geom:longitude":30.124,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Maramya",
+    "gn:country_code":"BI",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424715,
+    "gn:latitude":-3.5793,
+    "gn:longitude":30.124,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Maramya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424715
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"645d0bee931a68b0e2028ee87666a554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1293842805,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293842805,
+    "wof:lastmodified":1536772705,
+    "wof:name":"Maramya",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.124,
+    -3.5793,
+    30.124,
+    -3.5793
+],
+  "geometry": {"coordinates":[30.124,-3.5793],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259561587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6724,-3.1183,30.6724,-3.1183",
+    "geom:latitude":-3.1183,
+    "geom:longitude":30.6724,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ruvumu",
+    "gn:country_code":"BI",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427575,
+    "gn:latitude":-3.1183,
+    "gn:longitude":30.6724,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ruvumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427575
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4673d89d7fcb70bc93f86bacb2bd4cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759453,
+            "locality_id":1259561587,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1259561587,
+    "wof:lastmodified":1536746168,
+    "wof:name":"Ruvumu",
+    "wof:parent_id":1108759453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6724,
+    -3.1183,
+    30.6724,
+    -3.1183
+],
+  "geometry": {"coordinates":[30.6724,-3.1183],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209386465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9126,-3.3748,29.9126,-3.3748",
+    "geom:latitude":-3.3748,
+    "geom:longitude":29.9126,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mutobo",
+    "gn:country_code":"BI",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426179,
+    "gn:latitude":-3.3748,
+    "gn:longitude":29.9126,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mutobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426179
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"21ff28b3f39fa1a5072f8b5627259113",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209386465
+        }
+    ],
+    "wof:id":1209386465,
+    "wof:lastmodified":1536288608,
+    "wof:name":"Mutobo",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9126,
+    -3.3748,
+    29.9126,
+    -3.3748
+],
+  "geometry": {"coordinates":[29.9126,-3.3748],"type":"Point"}
+}

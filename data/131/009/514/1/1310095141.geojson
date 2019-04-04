@@ -1,0 +1,67 @@
+{
+  "id": 1310095141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3819,-3.0955,29.3819,-3.0955",
+    "geom:latitude":-3.0955,
+    "geom:longitude":29.3819,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gahongore",
+    "gn:country_code":"BI",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428541,
+    "gn:latitude":-3.0955,
+    "gn:longitude":29.3819,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gahongore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428541
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"55a0fd6ed81139bb25d00735d33b67ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759307,
+            "locality_id":1310095141,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1310095141,
+    "wof:lastmodified":1537010768,
+    "wof:name":"Gahongore",
+    "wof:parent_id":1108759307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3819,
+    -3.0955,
+    29.3819,
+    -3.0955
+],
+  "geometry": {"coordinates":[29.3819,-3.0955],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209774613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.29645,-3.22365,30.29645,-3.22365",
+    "geom:latitude":-3.22365,
+    "geom:longitude":30.29645,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Butare",
+    "gn:country_code":"BI",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428035,
+    "gn:latitude":-3.22365,
+    "gn:longitude":30.29645,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Butare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428035
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e00ab4805babac2c22c9920499610380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209774613,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209774613,
+    "wof:lastmodified":1536380218,
+    "wof:name":"Butare",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.29645,
+    -3.22365,
+    30.29645,
+    -3.22365
+],
+  "geometry": {"coordinates":[30.29645,-3.22365],"type":"Point"}
+}

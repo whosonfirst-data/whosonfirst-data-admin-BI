@@ -1,0 +1,67 @@
+{
+  "id": 1260044329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4033,-3.2367,30.4033,-3.2367",
+    "geom:latitude":-3.2367,
+    "geom:longitude":30.4033,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kidogo",
+    "gn:country_code":"BI",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428058,
+    "gn:latitude":-3.2367,
+    "gn:longitude":30.4033,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kidogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428058
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ee2d73f0d8362bba15bd77e56527e9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1260044329,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1260044329,
+    "wof:lastmodified":1537042802,
+    "wof:name":"Kidogo",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4033,
+    -3.2367,
+    30.4033,
+    -3.2367
+],
+  "geometry": {"coordinates":[30.4033,-3.2367],"type":"Point"}
+}

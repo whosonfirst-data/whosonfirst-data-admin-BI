@@ -1,0 +1,61 @@
+{
+  "id": 1209587163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7399,-4.2338,29.7399,-4.2338",
+    "geom:latitude":-4.2338,
+    "geom:longitude":29.7399,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mubondo",
+    "gn:country_code":"BI",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422076,
+    "gn:latitude":-4.2338,
+    "gn:longitude":29.7399,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mubondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422076
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e3f5ebe9f7354bcf5a8401aa80f5662a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209587163
+        }
+    ],
+    "wof:id":1209587163,
+    "wof:lastmodified":1536282597,
+    "wof:name":"Mubondo",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7399,
+    -4.2338,
+    29.7399,
+    -4.2338
+],
+  "geometry": {"coordinates":[29.7399,-4.2338],"type":"Point"}
+}

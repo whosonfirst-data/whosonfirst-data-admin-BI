@@ -1,0 +1,67 @@
+{
+  "id": 1360061599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6533,-4.1475,29.6533,-4.1475",
+    "geom:latitude":-4.1475,
+    "geom:longitude":29.6533,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mazuru",
+    "gn:country_code":"BI",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":421995,
+    "gn:latitude":-4.1475,
+    "gn:longitude":29.6533,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mazuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421995
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"66ca7f73d3c919af4ea4d6622f8a34a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759557,
+            "locality_id":1360061599,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1360061599,
+    "wof:lastmodified":1536979021,
+    "wof:name":"Mazuru",
+    "wof:parent_id":1108759557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6533,
+    -4.1475,
+    29.6533,
+    -4.1475
+],
+  "geometry": {"coordinates":[29.6533,-4.1475],"type":"Point"}
+}

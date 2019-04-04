@@ -1,0 +1,67 @@
+{
+  "id": 1343736323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2227,-3.5013,30.2227,-3.5013",
+    "geom:latitude":-3.5013,
+    "geom:longitude":30.2227,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kazimya",
+    "gn:country_code":"BI",
+    "gn:dem":1654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426768,
+    "gn:latitude":-3.5013,
+    "gn:longitude":30.2227,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kazimya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426768
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2137c8868714ab9a597ebfe745929ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759547,
+            "locality_id":1343736323,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343736323,
+    "wof:lastmodified":1536844678,
+    "wof:name":"Kazimya",
+    "wof:parent_id":1108759547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2227,
+    -3.5013,
+    30.2227,
+    -3.5013
+],
+  "geometry": {"coordinates":[30.2227,-3.5013],"type":"Point"}
+}

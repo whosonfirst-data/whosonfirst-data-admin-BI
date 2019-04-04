@@ -1,0 +1,67 @@
+{
+  "id": 1327392851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31685,-3.28986,30.31685,-3.28986",
+    "geom:latitude":-3.28986,
+    "geom:longitude":30.31685,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyankanda",
+    "gn:country_code":"BI",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426825,
+    "gn:latitude":-3.28986,
+    "gn:longitude":30.31685,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Nyankanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426825
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f968dea30bb596ec7ed17b1f63fe33d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759351,
+            "locality_id":1327392851,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1327392851,
+    "wof:lastmodified":1536737926,
+    "wof:name":"Nyankanda",
+    "wof:parent_id":1108759351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31685,
+    -3.28986,
+    30.31685,
+    -3.28986
+],
+  "geometry": {"coordinates":[30.31685,-3.28986],"type":"Point"}
+}

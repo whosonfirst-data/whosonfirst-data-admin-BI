@@ -1,0 +1,67 @@
+{
+  "id": 1242936251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3206,-3.1439,30.3206,-3.1439",
+    "geom:latitude":-3.1439,
+    "geom:longitude":30.3206,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kagano",
+    "gn:country_code":"BI",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427960,
+    "gn:latitude":-3.1439,
+    "gn:longitude":30.3206,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kagano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427960
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cc51c809075a7389c4572215fd764d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759501,
+            "locality_id":1242936251,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1242936251,
+    "wof:lastmodified":1537042482,
+    "wof:name":"Kagano",
+    "wof:parent_id":1108759501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3206,
+    -3.1439,
+    30.3206,
+    -3.1439
+],
+  "geometry": {"coordinates":[30.3206,-3.1439],"type":"Point"}
+}

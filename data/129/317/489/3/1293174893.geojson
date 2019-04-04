@@ -1,0 +1,67 @@
+{
+  "id": 1293174893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1089,-3.5246,30.1089,-3.5246",
+    "geom:latitude":-3.5246,
+    "geom:longitude":30.1089,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyamiyaga",
+    "gn:country_code":"BI",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424618,
+    "gn:latitude":-3.5246,
+    "gn:longitude":30.1089,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamiyaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424618
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7a13df67e777941d7b8b4bd379e5747e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1293174893,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293174893,
+    "wof:lastmodified":1536740683,
+    "wof:name":"Nyamiyaga",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1089,
+    -3.5246,
+    30.1089,
+    -3.5246
+],
+  "geometry": {"coordinates":[30.1089,-3.5246],"type":"Point"}
+}

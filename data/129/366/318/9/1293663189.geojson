@@ -1,0 +1,67 @@
+{
+  "id": 1293663189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5222,-3.4519,30.5222,-3.4519",
+    "geom:latitude":-3.4519,
+    "geom:longitude":30.5222,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gicaca",
+    "gn:country_code":"BI",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427346,
+    "gn:latitude":-3.4519,
+    "gn:longitude":30.5222,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gicaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427346
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8584daa5212b7a4146cc0553eb533d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1293663189,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293663189,
+    "wof:lastmodified":1537029782,
+    "wof:name":"Gicaca",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5222,
+    -3.4519,
+    30.5222,
+    -3.4519
+],
+  "geometry": {"coordinates":[30.5222,-3.4519],"type":"Point"}
+}

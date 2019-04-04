@@ -1,0 +1,67 @@
+{
+  "id": 1226513183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03007,-3.12348,30.03007,-3.12348",
+    "geom:latitude":-3.12348,
+    "geom:longitude":30.03007,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bihogana",
+    "gn:country_code":"BI",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428240,
+    "gn:latitude":-3.12348,
+    "gn:longitude":30.03007,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bihogana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428240
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f77c243bf5c66aafc1350972ff1d3eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759319,
+            "locality_id":1226513183,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1226513183,
+    "wof:lastmodified":1537043299,
+    "wof:name":"Bihogana",
+    "wof:parent_id":1108759319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03007,
+    -3.12348,
+    30.03007,
+    -3.12348
+],
+  "geometry": {"coordinates":[30.03007,-3.12348],"type":"Point"}
+}

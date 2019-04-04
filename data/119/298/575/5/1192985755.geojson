@@ -1,0 +1,67 @@
+{
+  "id": 1192985755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3853,-3.8187,29.3853,-3.8187",
+    "geom:latitude":-3.8187,
+    "geom:longitude":29.3853,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bisaka",
+    "gn:country_code":"BI",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423466,
+    "gn:latitude":-3.8187,
+    "gn:longitude":29.3853,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Bisaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423466
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"feae8da1a093d889c851f12046b517e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759335,
+            "locality_id":1192985755,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1192985755,
+    "wof:lastmodified":1536364431,
+    "wof:name":"Bisaka",
+    "wof:parent_id":1108759335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3853,
+    -3.8187,
+    29.3853,
+    -3.8187
+],
+  "geometry": {"coordinates":[29.3853,-3.8187],"type":"Point"}
+}

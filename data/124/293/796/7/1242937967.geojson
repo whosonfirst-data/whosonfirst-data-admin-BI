@@ -1,0 +1,71 @@
+{
+  "id": 1242937967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.022,-3.9926,30.022,-3.9926",
+    "geom:latitude":-3.9926,
+    "geom:longitude":30.022,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bugiga",
+    "gn:country_code":"BI",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422995,
+    "gn:latitude":-3.9926,
+    "gn:longitude":30.022,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bugiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mubugiga",
+        "Bugiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422995
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ee9ceabf2510b8668fa50dd3feec30af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759325,
+            "locality_id":1242937967,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1242937967,
+    "wof:lastmodified":1537587824,
+    "wof:name":"Bugiga",
+    "wof:parent_id":1108759325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.022,
+    -3.9926,
+    30.022,
+    -3.9926
+],
+  "geometry": {"coordinates":[30.022,-3.9926],"type":"Point"}
+}

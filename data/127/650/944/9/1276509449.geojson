@@ -1,0 +1,70 @@
+{
+  "id": 1276509449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9897,-2.8005,29.9897,-2.8005",
+    "geom:latitude":-2.8005,
+    "geom:longitude":29.9897,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kinyana",
+    "gn:country_code":"BI",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430362,
+    "gn:latitude":-2.8005,
+    "gn:longitude":29.9897,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kinyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430362
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"3dea4f70a7a263a670ebd361043f7f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759431,
+            "locality_id":1276509449,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1276509449,
+    "wof:lastmodified":1537587834,
+    "wof:name":"Kinyana",
+    "wof:parent_id":1108759431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9897,
+    -2.8005,
+    29.9897,
+    -2.8005
+],
+  "geometry": {"coordinates":[29.9897,-2.8005],"type":"Point"}
+}

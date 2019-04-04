@@ -1,0 +1,67 @@
+{
+  "id": 1277152145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9947,-2.7428,29.9947,-2.7428",
+    "geom:latitude":-2.7428,
+    "geom:longitude":29.9947,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Marangara",
+    "gn:country_code":"BI",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":430292,
+    "gn:latitude":-2.7428,
+    "gn:longitude":29.9947,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Marangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430292
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"89ba4b5a0841d4400afa6a1e17b77d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759445,
+            "locality_id":1277152145,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1277152145,
+    "wof:lastmodified":1536667709,
+    "wof:name":"Marangara",
+    "wof:parent_id":1108759445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9947,
+    -2.7428,
+    29.9947,
+    -2.7428
+],
+  "geometry": {"coordinates":[29.9947,-2.7428],"type":"Point"}
+}

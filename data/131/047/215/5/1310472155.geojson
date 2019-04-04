@@ -1,0 +1,67 @@
+{
+  "id": 1310472155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6518,-2.9388,29.6518,-2.9388",
+    "geom:latitude":-2.9388,
+    "geom:longitude":29.6518,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mwendo",
+    "gn:country_code":"BI",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430979,
+    "gn:latitude":-2.9388,
+    "gn:longitude":29.6518,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Mwendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430979
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"230b918ee882b4b76a98dc098fccb8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759415,
+            "locality_id":1310472155,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1310472155,
+    "wof:lastmodified":1536964887,
+    "wof:name":"Mwendo",
+    "wof:parent_id":1108759415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6518,
+    -2.9388,
+    29.6518,
+    -2.9388
+],
+  "geometry": {"coordinates":[29.6518,-2.9388],"type":"Point"}
+}

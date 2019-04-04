@@ -1,0 +1,67 @@
+{
+  "id": 1309777469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7906,-3.5626,29.7906,-3.5626",
+    "geom:latitude":-3.5626,
+    "geom:longitude":29.7906,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nyamazi",
+    "gn:country_code":"BI",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424240,
+    "gn:latitude":-3.5626,
+    "gn:longitude":29.7906,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424240
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"65b800796070c0e33e88c0dc0e3f915e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759523,
+            "locality_id":1309777469,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1309777469,
+    "wof:lastmodified":1536971637,
+    "wof:name":"Nyamazi",
+    "wof:parent_id":1108759523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7906,
+    -3.5626,
+    29.7906,
+    -3.5626
+],
+  "geometry": {"coordinates":[29.7906,-3.5626],"type":"Point"}
+}

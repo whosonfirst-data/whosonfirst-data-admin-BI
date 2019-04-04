@@ -1,0 +1,67 @@
+{
+  "id": 1276947961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5569,-2.9205,29.5569,-2.9205",
+    "geom:latitude":-2.9205,
+    "geom:longitude":29.5569,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kirwa",
+    "gn:country_code":"BI",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430940,
+    "gn:latitude":-2.9205,
+    "gn:longitude":29.5569,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Kirwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430940
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"fa410b2ee7e8187ec239e3c5bb4050e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759483,
+            "locality_id":1276947961,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1276947961,
+    "wof:lastmodified":1536950411,
+    "wof:name":"Kirwa",
+    "wof:parent_id":1108759483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5569,
+    -2.9205,
+    29.5569,
+    -2.9205
+],
+  "geometry": {"coordinates":[29.5569,-2.9205],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310178439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5853,-2.8218,29.5853,-2.8218",
+    "geom:latitude":-2.8218,
+    "geom:longitude":29.5853,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rwira",
+    "gn:country_code":"BI",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":430745,
+    "gn:latitude":-2.8218,
+    "gn:longitude":29.5853,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Rwira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430745
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"98f2402982fa8c9d88b14d37859a0378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759409,
+            "locality_id":1310178439,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1310178439,
+    "wof:lastmodified":1536891098,
+    "wof:name":"Rwira",
+    "wof:parent_id":1108759409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5853,
+    -2.8218,
+    29.5853,
+    -2.8218
+],
+  "geometry": {"coordinates":[29.5853,-2.8218],"type":"Point"}
+}

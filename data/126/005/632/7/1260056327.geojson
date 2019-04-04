@@ -1,0 +1,67 @@
+{
+  "id": 1260056327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8345,-4.3192,29.8345,-4.3192",
+    "geom:latitude":-4.3192,
+    "geom:longitude":29.8345,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nyamirande",
+    "gn:country_code":"BI",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":421764,
+    "gn:latitude":-4.3192,
+    "gn:longitude":29.8345,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamirande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421764
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1793dc2d3b7dfe3f8cafdf0976ed0804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759423,
+            "locality_id":1260056327,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1260056327,
+    "wof:lastmodified":1537026050,
+    "wof:name":"Nyamirande",
+    "wof:parent_id":1108759423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8345,
+    -4.3192,
+    29.8345,
+    -4.3192
+],
+  "geometry": {"coordinates":[29.8345,-4.3192],"type":"Point"}
+}

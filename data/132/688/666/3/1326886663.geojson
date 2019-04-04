@@ -1,0 +1,67 @@
+{
+  "id": 1326886663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6492,-3.6242,29.6492,-3.6242",
+    "geom:latitude":-3.6242,
+    "geom:longitude":29.6492,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kigabiro",
+    "gn:country_code":"BI",
+    "gn:dem":1969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306380,
+    "gn:latitude":-3.6242,
+    "gn:longitude":29.6492,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kigabiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306380
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"450b79a4db86c63b5dc506a0e8620890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759305,
+            "locality_id":1326886663,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1326886663,
+    "wof:lastmodified":1536970194,
+    "wof:name":"Kigabiro",
+    "wof:parent_id":1108759305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6492,
+    -3.6242,
+    29.6492,
+    -3.6242
+],
+  "geometry": {"coordinates":[29.6492,-3.6242],"type":"Point"}
+}

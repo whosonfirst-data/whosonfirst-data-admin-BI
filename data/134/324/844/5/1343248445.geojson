@@ -1,0 +1,67 @@
+{
+  "id": 1343248445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9639,-3.2707,29.9639,-3.2707",
+    "geom:latitude":-3.2707,
+    "geom:longitude":29.9639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nkanda",
+    "gn:country_code":"BI",
+    "gn:dem":1695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425979,
+    "gn:latitude":-3.2707,
+    "gn:longitude":29.9639,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nkanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425979
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"83afaa534807663197e3a05da4035fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759317,
+            "locality_id":1343248445,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1343248445,
+    "wof:lastmodified":1537050213,
+    "wof:name":"Nkanda",
+    "wof:parent_id":1108759317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9639,
+    -3.2707,
+    29.9639,
+    -3.2707
+],
+  "geometry": {"coordinates":[29.9639,-3.2707],"type":"Point"}
+}

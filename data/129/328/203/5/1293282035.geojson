@@ -1,0 +1,67 @@
+{
+  "id": 1293282035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3786,-3.1874,29.3786,-3.1874",
+    "geom:latitude":-3.1874,
+    "geom:longitude":29.3786,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nyamabere I",
+    "gn:country_code":"BI",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428649,
+    "gn:latitude":-3.1874,
+    "gn:longitude":29.3786,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamabere I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428649
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e1344357124096a7a104ee15069a3dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759457,
+            "locality_id":1293282035,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1293282035,
+    "wof:lastmodified":1537080066,
+    "wof:name":"Nyamabere I",
+    "wof:parent_id":1108759457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3786,
+    -3.1874,
+    29.3786,
+    -3.1874
+],
+  "geometry": {"coordinates":[29.3786,-3.1874],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276294107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.793,-2.7744,29.793,-2.7744",
+    "geom:latitude":-2.7744,
+    "geom:longitude":29.793,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gitundwe",
+    "gn:country_code":"BI",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430316,
+    "gn:latitude":-2.7744,
+    "gn:longitude":29.793,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gitundwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gifundwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430316
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1dadc3d5132141292cb375e85d18904b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759503,
+            "locality_id":1276294107,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1276294107,
+    "wof:lastmodified":1537587834,
+    "wof:name":"Gitundwe",
+    "wof:parent_id":1108759503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79300000000001,
+    -2.7744,
+    29.79300000000001,
+    -2.7744
+],
+  "geometry": {"coordinates":[29.79300000000001,-2.7744],"type":"Point"}
+}

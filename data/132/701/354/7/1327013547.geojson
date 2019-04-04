@@ -1,0 +1,67 @@
+{
+  "id": 1327013547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7847,-3.9045,29.7847,-3.9045",
+    "geom:latitude":-3.9045,
+    "geom:longitude":29.7847,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kuwigaro",
+    "gn:country_code":"BI",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":433602,
+    "gn:latitude":-3.9045,
+    "gn:longitude":29.7847,
+    "gn:modification_date":"2001-06-14",
+    "gn:name":"Kuwigaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433602
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"880c637692db89e3b8d20299dc362b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759339,
+            "locality_id":1327013547,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1327013547,
+    "wof:lastmodified":1536788186,
+    "wof:name":"Kuwigaro",
+    "wof:parent_id":1108759339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7847,
+    -3.9045,
+    29.7847,
+    -3.9045
+],
+  "geometry": {"coordinates":[29.7847,-3.9045],"type":"Point"}
+}

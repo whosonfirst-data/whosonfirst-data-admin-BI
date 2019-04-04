@@ -1,0 +1,67 @@
+{
+  "id": 1310572639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9091,-3.4339,29.9091,-3.4339",
+    "geom:latitude":-3.4339,
+    "geom:longitude":29.9091,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Masenga",
+    "gn:country_code":"BI",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426292,
+    "gn:latitude":-3.4339,
+    "gn:longitude":29.9091,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Masenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426292
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f66871bcb71f099f33b1607838df0cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759397,
+            "locality_id":1310572639,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1310572639,
+    "wof:lastmodified":1536819313,
+    "wof:name":"Masenga",
+    "wof:parent_id":1108759397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9091,
+    -3.4339,
+    29.9091,
+    -3.4339
+],
+  "geometry": {"coordinates":[29.9091,-3.4339],"type":"Point"}
+}

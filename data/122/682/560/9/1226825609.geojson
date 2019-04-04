@@ -1,0 +1,67 @@
+{
+  "id": 1226825609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8476,-3.179,29.8476,-3.179",
+    "geom:latitude":-3.179,
+    "geom:longitude":29.8476,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nyarure",
+    "gn:country_code":"BI",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429502,
+    "gn:latitude":-3.179,
+    "gn:longitude":29.8476,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyarure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429502
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5f344c7c31d69688686d512d83a8592f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1226825609,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1226825609,
+    "wof:lastmodified":1537094171,
+    "wof:name":"Nyarure",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8476,
+    -3.179,
+    29.8476,
+    -3.179
+],
+  "geometry": {"coordinates":[29.8476,-3.179],"type":"Point"}
+}

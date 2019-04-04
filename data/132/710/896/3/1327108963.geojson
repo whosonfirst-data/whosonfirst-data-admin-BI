@@ -1,0 +1,67 @@
+{
+  "id": 1327108963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1217,-3.6746,30.1217,-3.6746",
+    "geom:latitude":-3.6746,
+    "geom:longitude":30.1217,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mbizi",
+    "gn:country_code":"BI",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424858,
+    "gn:latitude":-3.6746,
+    "gn:longitude":30.1217,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mbizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424858
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"27c167f4b50f4d2eb3bc5be57607c6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1327108963,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1327108963,
+    "wof:lastmodified":1536649820,
+    "wof:name":"Mbizi",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1217,
+    -3.6746,
+    30.1217,
+    -3.6746
+],
+  "geometry": {"coordinates":[30.1217,-3.6746],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209903167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4571,-2.9028,29.4571,-2.9028",
+    "geom:latitude":-2.9028,
+    "geom:longitude":29.4571,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mirudi",
+    "gn:country_code":"BI",
+    "gn:dem":2245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429751,
+    "gn:latitude":-2.9028,
+    "gn:longitude":29.4571,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mirudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429751
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"23d6d40b2c5f8e753cd270f7c7279f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209903167,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209903167,
+    "wof:lastmodified":1536385509,
+    "wof:name":"Mirudi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4571,
+    -2.9028,
+    29.4571,
+    -2.9028
+],
+  "geometry": {"coordinates":[29.4571,-2.9028],"type":"Point"}
+}

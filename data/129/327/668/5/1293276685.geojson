@@ -1,0 +1,67 @@
+{
+  "id": 1293276685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4564,-3.1074,29.4564,-3.1074",
+    "geom:latitude":-3.1074,
+    "geom:longitude":29.4564,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndonde",
+    "gn:country_code":"BI",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428552,
+    "gn:latitude":-3.1074,
+    "gn:longitude":29.4564,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ndonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428552
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9b24f181cbb03050cb00ec225776011a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1293276685,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1293276685,
+    "wof:lastmodified":1537087774,
+    "wof:name":"Ndonde",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4564,
+    -3.1074,
+    29.4564,
+    -3.1074
+],
+  "geometry": {"coordinates":[29.4564,-3.1074],"type":"Point"}
+}

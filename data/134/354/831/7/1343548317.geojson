@@ -1,0 +1,67 @@
+{
+  "id": 1343548317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0753,-2.7632,29.0753,-2.7632",
+    "geom:latitude":-2.7632,
+    "geom:longitude":29.0753,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyankubushi",
+    "gn:country_code":"BI",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429900,
+    "gn:latitude":-2.7632,
+    "gn:longitude":29.0753,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyankubushi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429900
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cd726b37891b7b3ef9e0b6db2620791a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1343548317,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1343548317,
+    "wof:lastmodified":1536617245,
+    "wof:name":"Nyankubushi",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0753,
+    -2.7632,
+    29.0753,
+    -2.7632
+],
+  "geometry": {"coordinates":[29.0753,-2.7632],"type":"Point"}
+}

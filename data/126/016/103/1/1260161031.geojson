@@ -1,0 +1,70 @@
+{
+  "id": 1260161031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0995,-2.8591,29.0995,-2.8591",
+    "geom:latitude":-2.8591,
+    "geom:longitude":29.0995,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mparambo II",
+    "gn:country_code":"BI",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430001,
+    "gn:latitude":-2.8591,
+    "gn:longitude":29.0995,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mparambo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mparambo 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430001
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e4ccf0d4bf50a202d9982c5afbb5ff08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1260161031,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1260161031,
+    "wof:lastmodified":1537587834,
+    "wof:name":"Mparambo II",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0995,
+    -2.8591,
+    29.0995,
+    -2.8591
+],
+  "geometry": {"coordinates":[29.0995,-2.8591],"type":"Point"}
+}

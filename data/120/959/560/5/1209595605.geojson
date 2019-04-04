@@ -1,0 +1,61 @@
+{
+  "id": 1209595605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3063,-2.8804,29.3063,-2.8804",
+    "geom:latitude":-2.8804,
+    "geom:longitude":29.3063,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kumparo",
+    "gn:country_code":"BI",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429721,
+    "gn:latitude":-2.8804,
+    "gn:longitude":29.3063,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kumparo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429721
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bcc0813b0a11596eb34970ed08538ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209595605
+        }
+    ],
+    "wof:id":1209595605,
+    "wof:lastmodified":1536282334,
+    "wof:name":"Kumparo",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3063,
+    -2.8804,
+    29.3063,
+    -2.8804
+],
+  "geometry": {"coordinates":[29.3063,-2.8804],"type":"Point"}
+}

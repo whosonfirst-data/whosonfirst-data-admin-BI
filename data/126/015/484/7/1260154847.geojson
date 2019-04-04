@@ -1,0 +1,67 @@
+{
+  "id": 1260154847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3397,-3.6898,30.3397,-3.6898",
+    "geom:latitude":-3.6898,
+    "geom:longitude":30.3397,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kumubanga",
+    "gn:country_code":"BI",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425140,
+    "gn:latitude":-3.6898,
+    "gn:longitude":30.3397,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kumubanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425140
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ee5156d42dcb425f2851ffeb3ca86ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759429,
+            "locality_id":1260154847,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1260154847,
+    "wof:lastmodified":1536886836,
+    "wof:name":"Kumubanga",
+    "wof:parent_id":1108759429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3397,
+    -3.6898,
+    30.3397,
+    -3.6898
+],
+  "geometry": {"coordinates":[30.3397,-3.6898],"type":"Point"}
+}

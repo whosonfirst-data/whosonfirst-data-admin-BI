@@ -1,0 +1,67 @@
+{
+  "id": 1193259589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7132,-3.191,30.7132,-3.191",
+    "geom:latitude":-3.191,
+    "geom:longitude":30.7132,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gerero",
+    "gn:country_code":"BI",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427650,
+    "gn:latitude":-3.191,
+    "gn:longitude":30.7132,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gerero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427650
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0a1569fbe1f6db654e0f932c91354da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759387,
+            "locality_id":1193259589,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1193259589,
+    "wof:lastmodified":1536382322,
+    "wof:name":"Gerero",
+    "wof:parent_id":1108759387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7132,
+    -3.191,
+    30.7132,
+    -3.191
+],
+  "geometry": {"coordinates":[30.7132,-3.191],"type":"Point"}
+}

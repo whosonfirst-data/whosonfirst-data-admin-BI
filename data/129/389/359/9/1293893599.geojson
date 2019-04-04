@@ -1,0 +1,67 @@
+{
+  "id": 1293893599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1375,-2.8375,29.1375,-2.8375",
+    "geom:latitude":-2.8375,
+    "geom:longitude":29.1375,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gwanira",
+    "gn:country_code":"BI",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443789,
+    "gn:latitude":-2.8375,
+    "gn:longitude":29.1375,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Gwanira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443789
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"38ad32b99056aeae3499e431a2099a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1293893599,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1293893599,
+    "wof:lastmodified":1536698978,
+    "wof:name":"Gwanira",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1375,
+    -2.8375,
+    29.1375,
+    -2.8375
+],
+  "geometry": {"coordinates":[29.1375,-2.8375],"type":"Point"}
+}

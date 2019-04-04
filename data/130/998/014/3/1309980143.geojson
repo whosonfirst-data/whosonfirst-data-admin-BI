@@ -1,0 +1,67 @@
+{
+  "id": 1309980143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1966,-3.4204,30.1966,-3.4204",
+    "geom:latitude":-3.4204,
+    "geom:longitude":30.1966,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyarunazi",
+    "gn:country_code":"BI",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426631,
+    "gn:latitude":-3.4204,
+    "gn:longitude":30.1966,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyarunazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426631
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"51a0d93973bb333b9e5c768491b5cfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759547,
+            "locality_id":1309980143,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1309980143,
+    "wof:lastmodified":1536679876,
+    "wof:name":"Nyarunazi",
+    "wof:parent_id":1108759547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1966,
+    -3.4204,
+    30.1966,
+    -3.4204
+],
+  "geometry": {"coordinates":[30.1966,-3.4204],"type":"Point"}
+}

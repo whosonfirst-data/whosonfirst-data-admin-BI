@@ -1,0 +1,67 @@
+{
+  "id": 1343333185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9161,-4.2281,29.9161,-4.2281",
+    "geom:latitude":-4.2281,
+    "geom:longitude":29.9161,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kiyange",
+    "gn:country_code":"BI",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422350,
+    "gn:latitude":-4.2281,
+    "gn:longitude":29.9161,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kiyange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422350
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"63d32eb3c77005dc2cc8749dc0c44602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759423,
+            "locality_id":1343333185,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1343333185,
+    "wof:lastmodified":1536930814,
+    "wof:name":"Kiyange",
+    "wof:parent_id":1108759423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9161,
+    -4.2281,
+    29.9161,
+    -4.2281
+],
+  "geometry": {"coordinates":[29.9161,-4.2281],"type":"Point"}
+}

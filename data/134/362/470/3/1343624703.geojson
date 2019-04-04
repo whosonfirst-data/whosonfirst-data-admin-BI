@@ -1,0 +1,67 @@
+{
+  "id": 1343624703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2814,-2.8799,30.2814,-2.8799",
+    "geom:latitude":-2.8799,
+    "geom:longitude":30.2814,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kiremba",
+    "gn:country_code":"BI",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431787,
+    "gn:latitude":-2.8799,
+    "gn:longitude":30.2814,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kiremba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431787
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"565a08819a95ef2d58aab46ef602be1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759373,
+            "locality_id":1343624703,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1343624703,
+    "wof:lastmodified":1537006025,
+    "wof:name":"Kiremba",
+    "wof:parent_id":1108759373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2814,
+    -2.8799,
+    30.2814,
+    -2.8799
+],
+  "geometry": {"coordinates":[30.2814,-2.8799],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260243469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0813,-3.8431,30.0813,-3.8431",
+    "geom:latitude":-3.8431,
+    "geom:longitude":30.0813,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bunya",
+    "gn:country_code":"BI",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422834,
+    "gn:latitude":-3.8431,
+    "gn:longitude":30.0813,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Bunya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422834
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f45a90c53d7ec40c6b4ddf9c7238a678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759459,
+            "locality_id":1260243469,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1260243469,
+    "wof:lastmodified":1536766641,
+    "wof:name":"Bunya",
+    "wof:parent_id":1108759459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0813,
+    -3.8431,
+    30.0813,
+    -3.8431
+],
+  "geometry": {"coordinates":[30.0813,-3.8431],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310379853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2348,-3.7791,30.2348,-3.7791",
+    "geom:latitude":-3.7791,
+    "geom:longitude":30.2348,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Giharo",
+    "gn:country_code":"BI",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":422724,
+    "gn:latitude":-3.7791,
+    "gn:longitude":30.2348,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Giharo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422724
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0c78b90892128a701008b07d84ccdb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1310379853,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1310379853,
+    "wof:lastmodified":1537095057,
+    "wof:name":"Giharo",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2348,
+    -3.7791,
+    30.2348,
+    -3.7791
+],
+  "geometry": {"coordinates":[30.2348,-3.7791],"type":"Point"}
+}

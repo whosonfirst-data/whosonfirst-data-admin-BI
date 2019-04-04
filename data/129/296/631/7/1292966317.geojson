@@ -1,0 +1,67 @@
+{
+  "id": 1292966317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8737,-3.0441,29.8737,-3.0441",
+    "geom:latitude":-3.0441,
+    "geom:longitude":29.8737,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kayogoro",
+    "gn:country_code":"BI",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429294,
+    "gn:latitude":-3.0441,
+    "gn:longitude":29.8737,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Kayogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429294
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b5b36ef565588adb1da6c188017168a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759535,
+            "locality_id":1292966317,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1292966317,
+    "wof:lastmodified":1537039758,
+    "wof:name":"Kayogoro",
+    "wof:parent_id":1108759535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8737,
+    -3.0441,
+    29.8737,
+    -3.0441
+],
+  "geometry": {"coordinates":[29.8737,-3.0441],"type":"Point"}
+}

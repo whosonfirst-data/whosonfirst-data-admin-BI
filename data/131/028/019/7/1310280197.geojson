@@ -1,0 +1,67 @@
+{
+  "id": 1310280197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.833,-2.8519,29.833,-2.8519",
+    "geom:latitude":-2.8519,
+    "geom:longitude":29.833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hayiro",
+    "gn:country_code":"BI",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430464,
+    "gn:latitude":-2.8519,
+    "gn:longitude":29.833,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Hayiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430464
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9376203e45425a973dd2d8ef39c00d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759503,
+            "locality_id":1310280197,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1310280197,
+    "wof:lastmodified":1536744176,
+    "wof:name":"Hayiro",
+    "wof:parent_id":1108759503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.833,
+    -2.8519,
+    29.833,
+    -2.8519
+],
+  "geometry": {"coordinates":[29.833,-2.8519],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326904445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1194,-3.5111,30.1194,-3.5111",
+    "geom:latitude":-3.5111,
+    "geom:longitude":30.1194,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyabihuru",
+    "gn:country_code":"BI",
+    "gn:dem":1544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424605,
+    "gn:latitude":-3.5111,
+    "gn:longitude":30.1194,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyabihuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424605
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"81a1ec1acf49d564fc27f24c8be9381f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1326904445,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1326904445,
+    "wof:lastmodified":1536945312,
+    "wof:name":"Nyabihuru",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1194,
+    -3.5111,
+    30.1194,
+    -3.5111
+],
+  "geometry": {"coordinates":[30.1194,-3.5111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242758885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5969,-3.1658,30.5969,-3.1658",
+    "geom:latitude":-3.1658,
+    "geom:longitude":30.5969,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bihanga",
+    "gn:country_code":"BI",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427614,
+    "gn:latitude":-3.1658,
+    "gn:longitude":30.5969,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bihanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427614
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2c7c55e553085c18da5b86fc5c70dfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759361,
+            "locality_id":1242758885,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1242758885,
+    "wof:lastmodified":1536802567,
+    "wof:name":"Bihanga",
+    "wof:parent_id":1108759361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5969,
+    -3.1658,
+    30.5969,
+    -3.1658
+],
+  "geometry": {"coordinates":[30.5969,-3.1658],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309792307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9321,-3.6777,29.9321,-3.6777",
+    "geom:latitude":-3.6777,
+    "geom:longitude":29.9321,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mpingwe",
+    "gn:country_code":"BI",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424471,
+    "gn:latitude":-3.6777,
+    "gn:longitude":29.9321,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mpingwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424471
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"3c76cad10dcd3b6b785a797be0050386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759333,
+            "locality_id":1309792307,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1309792307,
+    "wof:lastmodified":1536950753,
+    "wof:name":"Mpingwe",
+    "wof:parent_id":1108759333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9321,
+    -3.6777,
+    29.9321,
+    -3.6777
+],
+  "geometry": {"coordinates":[29.9321,-3.6777],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243519257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2999,-3.7971,30.2999,-3.7971",
+    "geom:latitude":-3.7971,
+    "geom:longitude":30.2999,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Murwanzu",
+    "gn:country_code":"BI",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423020,
+    "gn:latitude":-3.7971,
+    "gn:longitude":30.2999,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Murwanzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423020
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5cda8b6dc4d930a27fea09cf8b04b95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1243519257,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1243519257,
+    "wof:lastmodified":1536700939,
+    "wof:name":"Murwanzu",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2999,
+    -3.7971,
+    30.2999,
+    -3.7971
+],
+  "geometry": {"coordinates":[30.2999,-3.7971],"type":"Point"}
+}

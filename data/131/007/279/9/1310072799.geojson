@@ -1,0 +1,67 @@
+{
+  "id": 1310072799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4311,-3.7824,29.4311,-3.7824",
+    "geom:latitude":-3.7824,
+    "geom:longitude":29.4311,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Buyenzi",
+    "gn:country_code":"BI",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423432,
+    "gn:latitude":-3.7824,
+    "gn:longitude":29.4311,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Buyenzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423432
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cadb8d2c85d8aae03d4734dc1ae4a25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759335,
+            "locality_id":1310072799,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1310072799,
+    "wof:lastmodified":1537042027,
+    "wof:name":"Buyenzi",
+    "wof:parent_id":1108759335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4311,
+    -3.7824,
+    29.4311,
+    -3.7824
+],
+  "geometry": {"coordinates":[29.4311,-3.7824],"type":"Point"}
+}

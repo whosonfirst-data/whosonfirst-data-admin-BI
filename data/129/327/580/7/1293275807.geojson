@@ -1,0 +1,67 @@
+{
+  "id": 1293275807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1632,-3.0678,30.1632,-3.0678",
+    "geom:latitude":-3.0678,
+    "geom:longitude":30.1632,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Karunyinya",
+    "gn:country_code":"BI",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428170,
+    "gn:latitude":-3.0678,
+    "gn:longitude":30.1632,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Karunyinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428170
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e38c3c3e8d78b211b1800553706ce85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1293275807,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1293275807,
+    "wof:lastmodified":1537089019,
+    "wof:name":"Karunyinya",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1632,
+    -3.0678,
+    30.1632,
+    -3.0678
+],
+  "geometry": {"coordinates":[30.1632,-3.0678],"type":"Point"}
+}

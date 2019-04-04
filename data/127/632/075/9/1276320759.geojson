@@ -1,0 +1,63 @@
+{
+  "id": 1276320759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3084,-2.8026,29.3084,-2.8026",
+    "geom:latitude":-2.8026,
+    "geom:longitude":29.3084,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bihembe",
+    "gn:country_code":"BI",
+    "gn:dem":2138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429648,
+    "gn:latitude":-2.8026,
+    "gn:longitude":29.3084,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bihembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429648
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5ff75e80887387a0e61f039dcd89a850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276320759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276320759,
+    "wof:lastmodified":1536795849,
+    "wof:name":"Bihembe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3084,
+    -2.8026,
+    29.3084,
+    -2.8026
+],
+  "geometry": {"coordinates":[29.3084,-2.8026],"type":"Point"}
+}

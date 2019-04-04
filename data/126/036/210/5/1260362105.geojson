@@ -1,0 +1,67 @@
+{
+  "id": 1260362105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0668,-2.5675,30.0668,-2.5675",
+    "geom:latitude":-2.5675,
+    "geom:longitude":30.0668,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mutwenzi",
+    "gn:country_code":"BI",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306933,
+    "gn:latitude":-2.5675,
+    "gn:longitude":30.0668,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mutwenzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306933
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b71aca873a7bcb5f67d16ccc0b665a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759433,
+            "locality_id":1260362105,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1260362105,
+    "wof:lastmodified":1536603577,
+    "wof:name":"Mutwenzi",
+    "wof:parent_id":1108759433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0668,
+    -2.5675,
+    30.0668,
+    -2.5675
+],
+  "geometry": {"coordinates":[30.0668,-2.5675],"type":"Point"}
+}

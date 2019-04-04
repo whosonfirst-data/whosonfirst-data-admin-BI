@@ -1,0 +1,67 @@
+{
+  "id": 1259855365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.318,-2.9207,30.318,-2.9207",
+    "geom:latitude":-2.9207,
+    "geom:longitude":30.318,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Burenza",
+    "gn:country_code":"BI",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431837,
+    "gn:latitude":-2.9207,
+    "gn:longitude":30.318,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Burenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431837
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"de9d1cf773f2bf281b8bb04b6b4ec05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759499,
+            "locality_id":1259855365,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1259855365,
+    "wof:lastmodified":1536818851,
+    "wof:name":"Burenza",
+    "wof:parent_id":1108759499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.318,
+    -2.9207,
+    30.318,
+    -2.9207
+],
+  "geometry": {"coordinates":[30.318,-2.9207],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226526731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4524,-2.9944,29.4524,-2.9944",
+    "geom:latitude":-2.9944,
+    "geom:longitude":29.4524,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nyaruronga",
+    "gn:country_code":"BI",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429880,
+    "gn:latitude":-2.9944,
+    "gn:longitude":29.4524,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyaruronga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429880
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e7c6c69cb944c071648f79cc902e1e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1226526731,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1226526731,
+    "wof:lastmodified":1537024398,
+    "wof:name":"Nyaruronga",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4524,
+    -2.9944,
+    29.4524,
+    -2.9944
+],
+  "geometry": {"coordinates":[29.4524,-2.9944],"type":"Point"}
+}

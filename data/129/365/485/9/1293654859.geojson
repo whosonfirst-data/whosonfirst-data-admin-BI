@@ -1,0 +1,67 @@
+{
+  "id": 1293654859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9752,-2.9059,29.9752,-2.9059",
+    "geom:latitude":-2.9059,
+    "geom:longitude":29.9752,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ryakarambo",
+    "gn:country_code":"BI",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430545,
+    "gn:latitude":-2.9059,
+    "gn:longitude":29.9752,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ryakarambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430545
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2ff2adac2d05f3169794bdf557813162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759555,
+            "locality_id":1293654859,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1293654859,
+    "wof:lastmodified":1537041350,
+    "wof:name":"Ryakarambo",
+    "wof:parent_id":1108759555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9752,
+    -2.9059,
+    29.9752,
+    -2.9059
+],
+  "geometry": {"coordinates":[29.9752,-2.9059],"type":"Point"}
+}

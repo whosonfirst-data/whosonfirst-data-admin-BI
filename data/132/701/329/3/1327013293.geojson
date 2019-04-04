@@ -1,0 +1,67 @@
+{
+  "id": 1327013293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0861,-3.0391,30.0861,-3.0391",
+    "geom:latitude":-3.0391,
+    "geom:longitude":30.0861,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyakabugu",
+    "gn:country_code":"BI",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428136,
+    "gn:latitude":-3.0391,
+    "gn:longitude":30.0861,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nyakabugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428136
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6888140a98f4eb0cc9a2e8533eb0e143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1327013293,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1327013293,
+    "wof:lastmodified":1536788542,
+    "wof:name":"Nyakabugu",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0861,
+    -3.0391,
+    30.0861,
+    -3.0391
+],
+  "geometry": {"coordinates":[30.0861,-3.0391],"type":"Point"}
+}

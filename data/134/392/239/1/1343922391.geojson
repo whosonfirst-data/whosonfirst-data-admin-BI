@@ -1,0 +1,67 @@
+{
+  "id": 1343922391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33683,-3.40705,30.33683,-3.40705",
+    "geom:latitude":-3.40705,
+    "geom:longitude":30.33683,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Magabo",
+    "gn:country_code":"BI",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426999,
+    "gn:latitude":-3.40705,
+    "gn:longitude":30.33683,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Magabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426999
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b3e8c43fcc9657fb5858053dcd927fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759547,
+            "locality_id":1343922391,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343922391,
+    "wof:lastmodified":1537071954,
+    "wof:name":"Magabo",
+    "wof:parent_id":1108759547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33683,
+    -3.40705,
+    30.33683,
+    -3.40705
+],
+  "geometry": {"coordinates":[30.33683,-3.40705],"type":"Point"}
+}

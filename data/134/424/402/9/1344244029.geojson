@@ -1,0 +1,67 @@
+{
+  "id": 1344244029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26342,-3.0669,29.26342,-3.0669",
+    "geom:latitude":-3.0669,
+    "geom:longitude":29.26342,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kagunuzi",
+    "gn:country_code":"BI",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428483,
+    "gn:latitude":-3.0669,
+    "gn:longitude":29.26342,
+    "gn:modification_date":"2012-06-18",
+    "gn:name":"Kagunuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428483
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0eec86ef2779d8362401e3a7fb006951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759313,
+            "locality_id":1344244029,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1344244029,
+    "wof:lastmodified":1536607925,
+    "wof:name":"Kagunuzi",
+    "wof:parent_id":1108759313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26342,
+    -3.0669,
+    29.26342,
+    -3.0669
+],
+  "geometry": {"coordinates":[29.26342,-3.0669],"type":"Point"}
+}

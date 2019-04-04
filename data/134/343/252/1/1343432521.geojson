@@ -1,0 +1,67 @@
+{
+  "id": 1343432521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6685,-4.0866,29.6685,-4.0866",
+    "geom:latitude":-4.0866,
+    "geom:longitude":29.6685,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Muramba",
+    "gn:country_code":"BI",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421911,
+    "gn:latitude":-4.0866,
+    "gn:longitude":29.6685,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muramba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421911
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"00e7a344851084809ce411035a8d5895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759557,
+            "locality_id":1343432521,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1343432521,
+    "wof:lastmodified":1536787140,
+    "wof:name":"Muramba",
+    "wof:parent_id":1108759557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6685,
+    -4.0866,
+    29.6685,
+    -4.0866
+],
+  "geometry": {"coordinates":[29.6685,-4.0866],"type":"Point"}
+}

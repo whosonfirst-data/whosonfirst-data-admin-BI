@@ -1,0 +1,67 @@
+{
+  "id": 1242856527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9896,-2.5058,29.9896,-2.5058",
+    "geom:latitude":-2.5058,
+    "geom:longitude":29.9896,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rutagara",
+    "gn:country_code":"BI",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430202,
+    "gn:latitude":-2.5058,
+    "gn:longitude":29.9896,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rutagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430202
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f07378f168b44449f7f5c414112f7a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759511,
+            "locality_id":1242856527,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1242856527,
+    "wof:lastmodified":1536661929,
+    "wof:name":"Rutagara",
+    "wof:parent_id":1108759511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9896,
+    -2.5058,
+    29.9896,
+    -2.5058
+],
+  "geometry": {"coordinates":[29.9896,-2.5058],"type":"Point"}
+}

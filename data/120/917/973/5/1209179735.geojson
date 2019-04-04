@@ -1,0 +1,61 @@
+{
+  "id": 1209179735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8118,-2.8242,29.8118,-2.8242",
+    "geom:latitude":-2.8242,
+    "geom:longitude":29.8118,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gatsinda",
+    "gn:country_code":"BI",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430408,
+    "gn:latitude":-2.8242,
+    "gn:longitude":29.8118,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Gatsinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430408
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ecd95448beb8ac092036b79b0f63187c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209179735
+        }
+    ],
+    "wof:id":1209179735,
+    "wof:lastmodified":1536295300,
+    "wof:name":"Gatsinda",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8118,
+    -2.8242,
+    29.8118,
+    -2.8242
+],
+  "geometry": {"coordinates":[29.8118,-2.8242],"type":"Point"}
+}

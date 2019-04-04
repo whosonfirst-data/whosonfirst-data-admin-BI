@@ -1,0 +1,67 @@
+{
+  "id": 1226630773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3745,-2.9925,29.3745,-2.9925",
+    "geom:latitude":-2.9925,
+    "geom:longitude":29.3745,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Karinzi",
+    "gn:country_code":"BI",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429879,
+    "gn:latitude":-2.9925,
+    "gn:longitude":29.3745,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Karinzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429879
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"003d1ab54854017c4d0eb59898194261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759307,
+            "locality_id":1226630773,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1226630773,
+    "wof:lastmodified":1536880328,
+    "wof:name":"Karinzi",
+    "wof:parent_id":1108759307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3745,
+    -2.9925,
+    29.3745,
+    -2.9925
+],
+  "geometry": {"coordinates":[29.3745,-2.9925],"type":"Point"}
+}

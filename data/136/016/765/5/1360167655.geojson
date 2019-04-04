@@ -1,0 +1,67 @@
+{
+  "id": 1360167655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7254,-2.9868,29.7254,-2.9868",
+    "geom:latitude":-2.9868,
+    "geom:longitude":29.7254,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rukago",
+    "gn:country_code":"BI",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":431047,
+    "gn:latitude":-2.9868,
+    "gn:longitude":29.7254,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Rukago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431047
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"71810088afddbb923b47d52987b8397d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759367,
+            "locality_id":1360167655,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1360167655,
+    "wof:lastmodified":1536825637,
+    "wof:name":"Rukago",
+    "wof:parent_id":1108759367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7254,
+    -2.9868,
+    29.7254,
+    -2.9868
+],
+  "geometry": {"coordinates":[29.7254,-2.9868],"type":"Point"}
+}

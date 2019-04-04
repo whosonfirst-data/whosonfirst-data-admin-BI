@@ -1,0 +1,67 @@
+{
+  "id": 1310391885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0701,-3.6819,30.0701,-3.6819",
+    "geom:latitude":-3.6819,
+    "geom:longitude":30.0701,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rusange",
+    "gn:country_code":"BI",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424872,
+    "gn:latitude":-3.6819,
+    "gn:longitude":30.0701,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rusange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424872
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b71fd7265f0493228c08b0929a4cf556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759407,
+            "locality_id":1310391885,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1310391885,
+    "wof:lastmodified":1537077777,
+    "wof:name":"Rusange",
+    "wof:parent_id":1108759407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0701,
+    -3.6819,
+    30.0701,
+    -3.6819
+],
+  "geometry": {"coordinates":[30.0701,-3.6819],"type":"Point"}
+}

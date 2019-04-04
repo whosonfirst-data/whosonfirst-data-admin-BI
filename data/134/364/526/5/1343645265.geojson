@@ -1,0 +1,67 @@
+{
+  "id": 1343645265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7951,-3.8565,29.7951,-3.8565",
+    "geom:latitude":-3.8565,
+    "geom:longitude":29.7951,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Muyogoro",
+    "gn:country_code":"BI",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306137,
+    "gn:latitude":-3.8565,
+    "gn:longitude":29.7951,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Muyogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306137
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"11a2e8753e2b7dd47975dc0b21a7d603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759543,
+            "locality_id":1343645265,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1343645265,
+    "wof:lastmodified":1536976440,
+    "wof:name":"Muyogoro",
+    "wof:parent_id":1108759543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7951,
+    -3.8565,
+    29.7951,
+    -3.8565
+],
+  "geometry": {"coordinates":[29.7951,-3.8565],"type":"Point"}
+}

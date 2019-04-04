@@ -1,0 +1,67 @@
+{
+  "id": 1327420859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3214,-2.8925,29.3214,-2.8925",
+    "geom:latitude":-2.8925,
+    "geom:longitude":29.3214,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyesinzo",
+    "gn:country_code":"BI",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8305673,
+    "gn:latitude":-2.8925,
+    "gn:longitude":29.3214,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Nyesinzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305673
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0c1ec5fcf9591ded2c247ec2fd3e5d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759331,
+            "locality_id":1327420859,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1327420859,
+    "wof:lastmodified":1536697702,
+    "wof:name":"Nyesinzo",
+    "wof:parent_id":1108759331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3214,
+    -2.8925,
+    29.3214,
+    -2.8925
+],
+  "geometry": {"coordinates":[29.3214,-2.8925],"type":"Point"}
+}

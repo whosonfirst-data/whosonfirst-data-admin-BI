@@ -1,0 +1,67 @@
+{
+  "id": 1343232357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8296,-3.1554,29.8296,-3.1554",
+    "geom:latitude":-3.1554,
+    "geom:longitude":29.8296,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mirayi",
+    "gn:country_code":"BI",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429467,
+    "gn:latitude":-3.1554,
+    "gn:longitude":29.8296,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mirayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429467
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7e6c09dc963e27d0baff04ba647bba2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759529,
+            "locality_id":1343232357,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1343232357,
+    "wof:lastmodified":1537072553,
+    "wof:name":"Mirayi",
+    "wof:parent_id":1108759529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8296,
+    -3.1554,
+    29.8296,
+    -3.1554
+],
+  "geometry": {"coordinates":[29.8296,-3.1554],"type":"Point"}
+}

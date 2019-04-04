@@ -1,0 +1,67 @@
+{
+  "id": 1310379819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8693,-3.9978,29.8693,-3.9978",
+    "geom:latitude":-3.9978,
+    "geom:longitude":29.8693,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Rumina",
+    "gn:country_code":"BI",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422672,
+    "gn:latitude":-3.9978,
+    "gn:longitude":29.8693,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rumina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421193019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422672
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a53c081f81d33786daea09060cbb8176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421193019,
+            "locality_id":1310379819,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1310379819,
+    "wof:lastmodified":1537095108,
+    "wof:name":"Rumina",
+    "wof:parent_id":421193019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8693,
+    -3.9978,
+    29.8693,
+    -3.9978
+],
+  "geometry": {"coordinates":[29.8693,-3.9978],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243126959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.52917,-3.83889,29.52917,-3.83889",
+    "geom:latitude":-3.83889,
+    "geom:longitude":29.52917,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bigoti",
+    "gn:country_code":"BI",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423408,
+    "gn:latitude":-3.83889,
+    "gn:longitude":29.52917,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Bigoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423408
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ace7cb8c5c165912941665cad89cb645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759355,
+            "locality_id":1243126959,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1243126959,
+    "wof:lastmodified":1536769808,
+    "wof:name":"Bigoti",
+    "wof:parent_id":1108759355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.52917,
+    -3.83889,
+    29.52917,
+    -3.83889
+],
+  "geometry": {"coordinates":[29.52917,-3.83889],"type":"Point"}
+}

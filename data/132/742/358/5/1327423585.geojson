@@ -1,0 +1,67 @@
+{
+  "id": 1327423585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2837,-3.2795,29.2837,-3.2795",
+    "geom:latitude":-3.2795,
+    "geom:longitude":29.2837,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Buringa",
+    "gn:country_code":"BI",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425251,
+    "gn:latitude":-3.2795,
+    "gn:longitude":29.2837,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Buringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425251
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6518e4764a69fb4923f11be2eae6c4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759377,
+            "locality_id":1327423585,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1327423585,
+    "wof:lastmodified":1536693757,
+    "wof:name":"Buringa",
+    "wof:parent_id":1108759377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2837,
+    -3.2795,
+    29.2837,
+    -3.2795
+],
+  "geometry": {"coordinates":[29.2837,-3.2795],"type":"Point"}
+}

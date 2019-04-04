@@ -1,0 +1,67 @@
+{
+  "id": 1310081899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9575,-4.1592,29.9575,-4.1592",
+    "geom:latitude":-4.1592,
+    "geom:longitude":29.9575,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Rweza",
+    "gn:country_code":"BI",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422279,
+    "gn:latitude":-4.1592,
+    "gn:longitude":29.9575,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422279
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cb2ac4860d6ef2aa183c1e6bf611656c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759417,
+            "locality_id":1310081899,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1310081899,
+    "wof:lastmodified":1537029342,
+    "wof:name":"Rweza",
+    "wof:parent_id":1108759417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9575,
+    -4.1592,
+    29.9575,
+    -4.1592
+],
+  "geometry": {"coordinates":[29.9575,-4.1592],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243337549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5098,-3.4509,30.5098,-3.4509",
+    "geom:latitude":-3.4509,
+    "geom:longitude":30.5098,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gisuru",
+    "gn:country_code":"BI",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427358,
+    "gn:latitude":-3.4509,
+    "gn:longitude":30.5098,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gisuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427358,
+        "wk:page":"Gisuru"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e686b94c8510e80b3eed1b551b6d3521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1243337549,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1243337549,
+    "wof:lastmodified":1537487817,
+    "wof:name":"Gisuru",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5098,
+    -3.4509,
+    30.5098,
+    -3.4509
+],
+  "geometry": {"coordinates":[30.5098,-3.4509],"type":"Point"}
+}

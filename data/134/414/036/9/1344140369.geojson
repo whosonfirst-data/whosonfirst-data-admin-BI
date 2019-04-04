@@ -1,0 +1,67 @@
+{
+  "id": 1344140369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.20162,-3.01729,30.20162,-3.01729",
+    "geom:latitude":-3.01729,
+    "geom:longitude":30.20162,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Magamba",
+    "gn:country_code":"BI",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428104,
+    "gn:latitude":-3.01729,
+    "gn:longitude":30.20162,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Magamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428104
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"70bd2a36a8b659d409c10bdee4cb423d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1344140369,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1344140369,
+    "wof:lastmodified":1536760533,
+    "wof:name":"Magamba",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.20162,
+    -3.01729,
+    30.20162,
+    -3.01729
+],
+  "geometry": {"coordinates":[30.20162,-3.01729],"type":"Point"}
+}

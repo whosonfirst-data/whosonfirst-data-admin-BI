@@ -1,0 +1,67 @@
+{
+  "id": 1277149429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3869,-2.5825,30.3869,-2.5825",
+    "geom:latitude":-2.5825,
+    "geom:longitude":30.3869,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gashikanwa",
+    "gn:country_code":"BI",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431422,
+    "gn:latitude":-2.5825,
+    "gn:longitude":30.3869,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gashikanwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431422
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8ccb7ed53a44f497a815fac4b555581d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759357,
+            "locality_id":1277149429,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1277149429,
+    "wof:lastmodified":1536671568,
+    "wof:name":"Gashikanwa",
+    "wof:parent_id":1108759357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3869,
+    -2.5825,
+    30.3869,
+    -2.5825
+],
+  "geometry": {"coordinates":[30.3869,-2.5825],"type":"Point"}
+}

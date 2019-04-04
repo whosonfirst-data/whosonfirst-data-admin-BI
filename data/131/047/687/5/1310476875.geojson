@@ -1,0 +1,67 @@
+{
+  "id": 1310476875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6651,-2.8587,29.6651,-2.8587",
+    "geom:latitude":-2.8587,
+    "geom:longitude":29.6651,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gitemezi",
+    "gn:country_code":"BI",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430826,
+    "gn:latitude":-2.8587,
+    "gn:longitude":29.6651,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Gitemezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430826
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0c1260587517de60b10f3bb41c1fd29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759341,
+            "locality_id":1310476875,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1310476875,
+    "wof:lastmodified":1536958203,
+    "wof:name":"Gitemezi",
+    "wof:parent_id":1108759341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6651,
+    -2.8587,
+    29.6651,
+    -2.8587
+],
+  "geometry": {"coordinates":[29.6651,-2.8587],"type":"Point"}
+}

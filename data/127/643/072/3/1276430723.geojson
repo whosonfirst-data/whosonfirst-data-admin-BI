@@ -1,0 +1,67 @@
+{
+  "id": 1276430723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2608,-3.2118,29.2608,-3.2118",
+    "geom:latitude":-3.2118,
+    "geom:longitude":29.2608,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Butamenwa",
+    "gn:country_code":"BI",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428678,
+    "gn:latitude":-3.2118,
+    "gn:longitude":29.2608,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Butamenwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428678
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"08cf4318672acc355cbce433c53c0301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759377,
+            "locality_id":1276430723,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1276430723,
+    "wof:lastmodified":1536647776,
+    "wof:name":"Butamenwa",
+    "wof:parent_id":1108759377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2608,
+    -3.2118,
+    29.2608,
+    -3.2118
+],
+  "geometry": {"coordinates":[29.2608,-3.2118],"type":"Point"}
+}

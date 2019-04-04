@@ -1,0 +1,67 @@
+{
+  "id": 1243326053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8826,-2.9575,29.8826,-2.9575",
+    "geom:latitude":-2.9575,
+    "geom:longitude":29.8826,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gatongo",
+    "gn:country_code":"BI",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430656,
+    "gn:latitude":-2.9575,
+    "gn:longitude":29.8826,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Gatongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        421201115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430656
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a9b0bca4751cc16eae7f7354b06f3823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421201115,
+            "locality_id":1243326053,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1243326053,
+    "wof:lastmodified":1536978670,
+    "wof:name":"Gatongo",
+    "wof:parent_id":421201115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8826,
+    -2.9575,
+    29.8826,
+    -2.9575
+],
+  "geometry": {"coordinates":[29.8826,-2.9575],"type":"Point"}
+}

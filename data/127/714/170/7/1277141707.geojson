@@ -1,0 +1,67 @@
+{
+  "id": 1277141707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9542,-4.0244,29.9542,-4.0244",
+    "geom:latitude":-4.0244,
+    "geom:longitude":29.9542,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Muyombwe",
+    "gn:country_code":"BI",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422106,
+    "gn:latitude":-4.0244,
+    "gn:longitude":29.9542,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muyombwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422106
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b41459fd7b3f8d13b2c69b9abb5face9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759325,
+            "locality_id":1277141707,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1277141707,
+    "wof:lastmodified":1536682688,
+    "wof:name":"Muyombwe",
+    "wof:parent_id":1108759325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9542,
+    -4.0244,
+    29.9542,
+    -4.0244
+],
+  "geometry": {"coordinates":[29.9542,-4.0244],"type":"Point"}
+}

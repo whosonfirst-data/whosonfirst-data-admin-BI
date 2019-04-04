@@ -1,0 +1,67 @@
+{
+  "id": 1260369733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.86232,-3.15606,29.86232,-3.15606",
+    "geom:latitude":-3.15606,
+    "geom:longitude":29.86232,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mutaho",
+    "gn:country_code":"BI",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429469,
+    "gn:latitude":-3.15606,
+    "gn:longitude":29.86232,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mutaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429469
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c304f87a4a6169346366ad1dc5c8a644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1260369733,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1260369733,
+    "wof:lastmodified":1537090155,
+    "wof:name":"Mutaho",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.86232,
+    -3.15606,
+    29.86232,
+    -3.15606
+],
+  "geometry": {"coordinates":[29.86232,-3.15606],"type":"Point"}
+}

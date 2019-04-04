@@ -1,0 +1,68 @@
+{
+  "id": 1209805295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4206,-3.2617,29.4206,-3.2617",
+    "geom:latitude":-3.2617,
+    "geom:longitude":29.4206,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Muzinda",
+    "gn:country_code":"BI",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":425236,
+    "gn:latitude":-3.2617,
+    "gn:longitude":29.4206,
+    "gn:modification_date":"2018-02-24",
+    "gn:name":"Muzinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425236,
+        "wk:page":"Muzinda"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"44447d23c1b08ac84456b9c14d350c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759531,
+            "locality_id":1209805295,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1209805295,
+    "wof:lastmodified":1537487815,
+    "wof:name":"Muzinda",
+    "wof:parent_id":1108759531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4206,
+    -3.2617,
+    29.4206,
+    -3.2617
+],
+  "geometry": {"coordinates":[29.4206,-3.2617],"type":"Point"}
+}

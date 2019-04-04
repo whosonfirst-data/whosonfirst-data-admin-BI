@@ -1,0 +1,67 @@
+{
+  "id": 1310468167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2942,-3.04555,30.2942,-3.04555",
+    "geom:latitude":-3.04555,
+    "geom:longitude":30.2942,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bubanga",
+    "gn:country_code":"BI",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427816,
+    "gn:latitude":-3.04555,
+    "gn:longitude":30.2942,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bubanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427816
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e35340f97d29d195d8822cb54c44c394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759501,
+            "locality_id":1310468167,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1310468167,
+    "wof:lastmodified":1536970525,
+    "wof:name":"Bubanga",
+    "wof:parent_id":1108759501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2942,
+    -3.04555,
+    30.2942,
+    -3.04555
+],
+  "geometry": {"coordinates":[30.2942,-3.04555],"type":"Point"}
+}

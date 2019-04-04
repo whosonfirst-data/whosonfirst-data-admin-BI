@@ -1,0 +1,67 @@
+{
+  "id": 1243540765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8472,-3.6857,29.8472,-3.6857",
+    "geom:latitude":-3.6857,
+    "geom:longitude":29.8472,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Buterama",
+    "gn:country_code":"BI",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424483,
+    "gn:latitude":-3.6857,
+    "gn:longitude":29.8472,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Buterama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424483
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f81d10b510fe9b8c8409fbdfcc900b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759549,
+            "locality_id":1243540765,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1243540765,
+    "wof:lastmodified":1536669610,
+    "wof:name":"Buterama",
+    "wof:parent_id":1108759549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8472,
+    -3.6857,
+    29.8472,
+    -3.6857
+],
+  "geometry": {"coordinates":[29.8472,-3.6857],"type":"Point"}
+}

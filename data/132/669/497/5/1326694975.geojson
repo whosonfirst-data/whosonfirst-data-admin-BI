@@ -1,0 +1,67 @@
+{
+  "id": 1326694975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2019,-3.7999,30.2019,-3.7999",
+    "geom:latitude":-3.7999,
+    "geom:longitude":30.2019,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Shasha",
+    "gn:country_code":"BI",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422762,
+    "gn:latitude":-3.7999,
+    "gn:longitude":30.2019,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Shasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422762
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ada24edbafd27f6ba276a1b7ee07bb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1326694975,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1326694975,
+    "wof:lastmodified":1536749428,
+    "wof:name":"Shasha",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2019,
+    -3.7999,
+    30.2019,
+    -3.7999
+],
+  "geometry": {"coordinates":[30.2019,-3.7999],"type":"Point"}
+}

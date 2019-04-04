@@ -1,0 +1,67 @@
+{
+  "id": 1259558011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9291,-3.8776,29.9291,-3.8776",
+    "geom:latitude":-3.8776,
+    "geom:longitude":29.9291,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Musenyi",
+    "gn:country_code":"BI",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7622544,
+    "gn:latitude":-3.8776,
+    "gn:longitude":29.9291,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Musenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622544
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"3cb5fb7acbba1eca6e2eef6c3014bfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1259558011,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1259558011,
+    "wof:lastmodified":1536751553,
+    "wof:name":"Musenyi",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9291,
+    -3.8776,
+    29.9291,
+    -3.8776
+],
+  "geometry": {"coordinates":[29.9291,-3.8776],"type":"Point"}
+}

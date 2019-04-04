@@ -1,0 +1,67 @@
+{
+  "id": 1293554217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1139,-3.7953,30.1139,-3.7953",
+    "geom:latitude":-3.7953,
+    "geom:longitude":30.1139,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ngarama",
+    "gn:country_code":"BI",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422748,
+    "gn:latitude":-3.7953,
+    "gn:longitude":30.1139,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Ngarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422748
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0785c6381fdc2ace971c79491e6606cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759459,
+            "locality_id":1293554217,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1293554217,
+    "wof:lastmodified":1536691221,
+    "wof:name":"Ngarama",
+    "wof:parent_id":1108759459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1139,
+    -3.7953,
+    30.1139,
+    -3.7953
+],
+  "geometry": {"coordinates":[30.1139,-3.7953],"type":"Point"}
+}

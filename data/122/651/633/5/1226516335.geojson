@@ -1,0 +1,67 @@
+{
+  "id": 1226516335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1015,-3.5808,30.1015,-3.5808",
+    "geom:latitude":-3.5808,
+    "geom:longitude":30.1015,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Giterama",
+    "gn:country_code":"BI",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424718,
+    "gn:latitude":-3.5808,
+    "gn:longitude":30.1015,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Giterama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424718
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cc5f4ab644a9289a9db7c59efc364149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1226516335,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1226516335,
+    "wof:lastmodified":1537038861,
+    "wof:name":"Giterama",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1015,
+    -3.5808,
+    30.1015,
+    -3.5808
+],
+  "geometry": {"coordinates":[30.1015,-3.5808],"type":"Point"}
+}

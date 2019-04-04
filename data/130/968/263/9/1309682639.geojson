@@ -1,0 +1,71 @@
+{
+  "id": 1309682639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6308,-2.8921,29.6308,-2.8921",
+    "geom:latitude":-2.8921,
+    "geom:longitude":29.6308,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mukogabami",
+    "gn:country_code":"BI",
+    "gn:dem":1912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430890,
+    "gn:latitude":-2.8921,
+    "gn:longitude":29.6308,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mukogabami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukogahami",
+        "Mukogabami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430890
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1315c302ad805da75eb0a7cf8e8841f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759415,
+            "locality_id":1309682639,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1309682639,
+    "wof:lastmodified":1537587835,
+    "wof:name":"Mukogabami",
+    "wof:parent_id":1108759415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6308,
+    -2.8921,
+    29.6308,
+    -2.8921
+],
+  "geometry": {"coordinates":[29.6308,-2.8921],"type":"Point"}
+}

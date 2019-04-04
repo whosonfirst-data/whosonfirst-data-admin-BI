@@ -1,0 +1,67 @@
+{
+  "id": 1259641765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5855,-3.5005,29.5855,-3.5005",
+    "geom:latitude":-3.5005,
+    "geom:longitude":29.5855,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ruhembe",
+    "gn:country_code":"BI",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425952,
+    "gn:latitude":-3.5005,
+    "gn:longitude":29.5855,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Ruhembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425952
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e935c5ac23e2f6c16edd466da4333d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759391,
+            "locality_id":1259641765,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1259641765,
+    "wof:lastmodified":1536629145,
+    "wof:name":"Ruhembe",
+    "wof:parent_id":1108759391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5855,
+    -3.5005,
+    29.5855,
+    -3.5005
+],
+  "geometry": {"coordinates":[29.5855,-3.5005],"type":"Point"}
+}

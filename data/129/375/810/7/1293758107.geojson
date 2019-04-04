@@ -1,0 +1,67 @@
+{
+  "id": 1293758107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0399,-3.8199,30.0399,-3.8199",
+    "geom:latitude":-3.8199,
+    "geom:longitude":30.0399,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Migezi",
+    "gn:country_code":"BI",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422800,
+    "gn:latitude":-3.8199,
+    "gn:longitude":30.0399,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Migezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422800
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"baae43196d4e8183a0a3395dc25936c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1293758107,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1293758107,
+    "wof:lastmodified":1536893829,
+    "wof:name":"Migezi",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0399,
+    -3.8199,
+    30.0399,
+    -3.8199
+],
+  "geometry": {"coordinates":[30.0399,-3.8199],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226315309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3469,-2.4388,30.3469,-2.4388",
+    "geom:latitude":-2.4388,
+    "geom:longitude":30.3469,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kumana",
+    "gn:country_code":"BI",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431137,
+    "gn:latitude":-2.4388,
+    "gn:longitude":30.3469,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kumana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431137
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5f78c971bba45637ff93dbee0131b520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759343,
+            "locality_id":1226315309,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1226315309,
+    "wof:lastmodified":1536832451,
+    "wof:name":"Kumana",
+    "wof:parent_id":1108759343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3469,
+    -2.4388,
+    30.3469,
+    -2.4388
+],
+  "geometry": {"coordinates":[30.3469,-2.4388],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226832799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5738,-3.8749,29.5738,-3.8749",
+    "geom:latitude":-3.8749,
+    "geom:longitude":29.5738,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muheka",
+    "gn:country_code":"BI",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423227,
+    "gn:latitude":-3.8749,
+    "gn:longitude":29.5738,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muheka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423227
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6d5f4541cf01e11447671836d350ae0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759553,
+            "locality_id":1226832799,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1226832799,
+    "wof:lastmodified":1537083800,
+    "wof:name":"Muheka",
+    "wof:parent_id":1108759553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5738,
+    -3.8749,
+    29.5738,
+    -3.8749
+],
+  "geometry": {"coordinates":[29.5738,-3.8749],"type":"Point"}
+}

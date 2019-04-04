@@ -1,0 +1,67 @@
+{
+  "id": 1259762635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8508,-3.611,29.8508,-3.611",
+    "geom:latitude":-3.611,
+    "geom:longitude":29.8508,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gishubi",
+    "gn:country_code":"BI",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424327,
+    "gn:latitude":-3.611,
+    "gn:longitude":29.8508,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gishubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424327
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"baf24c431130f7f4b6e98a5e369141d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759389,
+            "locality_id":1259762635,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1259762635,
+    "wof:lastmodified":1536953325,
+    "wof:name":"Gishubi",
+    "wof:parent_id":1108759389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8508,
+    -3.611,
+    29.8508,
+    -3.611
+],
+  "geometry": {"coordinates":[29.8508,-3.611],"type":"Point"}
+}

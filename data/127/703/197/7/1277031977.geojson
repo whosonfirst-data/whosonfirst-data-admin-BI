@@ -1,0 +1,67 @@
+{
+  "id": 1277031977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.417,-3.419,29.417,-3.419",
+    "geom:latitude":-3.419,
+    "geom:longitude":29.417,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mboza",
+    "gn:country_code":"BI",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425430,
+    "gn:latitude":-3.419,
+    "gn:longitude":29.417,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mboza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425430
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0dac11c4d3ee01d81a81a1208e71fd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759413,
+            "locality_id":1277031977,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1277031977,
+    "wof:lastmodified":1536836227,
+    "wof:name":"Mboza",
+    "wof:parent_id":1108759413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.417,
+    -3.419,
+    29.417,
+    -3.419
+],
+  "geometry": {"coordinates":[29.417,-3.419],"type":"Point"}
+}

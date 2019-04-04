@@ -1,0 +1,67 @@
+{
+  "id": 1260158151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0976,-2.6517,29.0976,-2.6517",
+    "geom:latitude":-2.6517,
+    "geom:longitude":29.0976,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Muntebe",
+    "gn:country_code":"BI",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430121,
+    "gn:latitude":-2.6517,
+    "gn:longitude":29.0976,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muntebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430121
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ab2095fb013d729094f7d7dca1e0a1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759465,
+            "locality_id":1260158151,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1260158151,
+    "wof:lastmodified":1536882115,
+    "wof:name":"Muntebe",
+    "wof:parent_id":1108759465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0976,
+    -2.6517,
+    29.0976,
+    -2.6517
+],
+  "geometry": {"coordinates":[29.0976,-2.6517],"type":"Point"}
+}

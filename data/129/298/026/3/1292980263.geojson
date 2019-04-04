@@ -1,0 +1,67 @@
+{
+  "id": 1292980263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8268,-3.6412,29.8268,-3.6412",
+    "geom:latitude":-3.6412,
+    "geom:longitude":29.8268,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gitaramuka",
+    "gn:country_code":"BI",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424388,
+    "gn:latitude":-3.6412,
+    "gn:longitude":29.8268,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gitaramuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424388
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c53e88d830b1877cc059a48f7812e234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759523,
+            "locality_id":1292980263,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1292980263,
+    "wof:lastmodified":1537020364,
+    "wof:name":"Gitaramuka",
+    "wof:parent_id":1108759523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8268,
+    -3.6412,
+    29.8268,
+    -3.6412
+],
+  "geometry": {"coordinates":[29.8268,-3.6412],"type":"Point"}
+}

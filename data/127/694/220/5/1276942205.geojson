@@ -1,0 +1,67 @@
+{
+  "id": 1276942205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1411,-3.6886,30.1411,-3.6886",
+    "geom:latitude":-3.6886,
+    "geom:longitude":30.1411,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Rusunu",
+    "gn:country_code":"BI",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424886,
+    "gn:latitude":-3.6886,
+    "gn:longitude":30.1411,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rusunu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424886
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"24ef7a75392cd7bc832e1fabca22c85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1276942205,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1276942205,
+    "wof:lastmodified":1536957855,
+    "wof:name":"Rusunu",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1411,
+    -3.6886,
+    30.1411,
+    -3.6886
+],
+  "geometry": {"coordinates":[30.1411,-3.6886],"type":"Point"}
+}

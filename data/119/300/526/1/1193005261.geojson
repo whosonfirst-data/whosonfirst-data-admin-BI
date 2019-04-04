@@ -1,0 +1,67 @@
+{
+  "id": 1193005261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1511,-2.835,29.1511,-2.835",
+    "geom:latitude":-2.835,
+    "geom:longitude":29.1511,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ruvumera",
+    "gn:country_code":"BI",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429978,
+    "gn:latitude":-2.835,
+    "gn:longitude":29.1511,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ruvumera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429978
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e24d93836c4d46381ed237b8b6a3b469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":1193005261,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1193005261,
+    "wof:lastmodified":1536366461,
+    "wof:name":"Ruvumera",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1511,
+    -2.835,
+    29.1511,
+    -2.835
+],
+  "geometry": {"coordinates":[29.1511,-2.835],"type":"Point"}
+}

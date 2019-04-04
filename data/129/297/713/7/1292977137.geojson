@@ -1,0 +1,67 @@
+{
+  "id": 1292977137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8907,-4.1441,29.8907,-4.1441",
+    "geom:latitude":-4.1441,
+    "geom:longitude":29.8907,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nyange",
+    "gn:country_code":"BI",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":422256,
+    "gn:latitude":-4.1441,
+    "gn:longitude":29.8907,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422256
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4cda040865da67ca0093c6bee0ec6811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759441,
+            "locality_id":1292977137,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1292977137,
+    "wof:lastmodified":1537024703,
+    "wof:name":"Nyange",
+    "wof:parent_id":1108759441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8907,
+    -4.1441,
+    29.8907,
+    -4.1441
+],
+  "geometry": {"coordinates":[29.8907,-4.1441],"type":"Point"}
+}

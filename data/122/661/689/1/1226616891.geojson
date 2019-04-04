@@ -1,0 +1,67 @@
+{
+  "id": 1226616891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.256,-2.9428,30.256,-2.9428",
+    "geom:latitude":-2.9428,
+    "geom:longitude":30.256,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyabikomo",
+    "gn:country_code":"BI",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431859,
+    "gn:latitude":-2.9428,
+    "gn:longitude":30.256,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nyabikomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431859
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2f0485787feb40641e9816c208cdab88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1226616891,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1226616891,
+    "wof:lastmodified":1536900913,
+    "wof:name":"Nyabikomo",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.256,
+    -2.9428,
+    30.256,
+    -2.9428
+],
+  "geometry": {"coordinates":[30.256,-2.9428],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293772757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8722,-3.8685,29.8722,-3.8685",
+    "geom:latitude":-3.8685,
+    "geom:longitude":29.8722,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bigamba",
+    "gn:country_code":"BI",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7622521,
+    "gn:latitude":-3.8685,
+    "gn:longitude":29.8722,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Bigamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622521
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ee024134eac3b6e59c54c4ad899b08e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759543,
+            "locality_id":1293772757,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1293772757,
+    "wof:lastmodified":1536871852,
+    "wof:name":"Bigamba",
+    "wof:parent_id":1108759543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8722,
+    -3.8685,
+    29.8722,
+    -3.8685
+],
+  "geometry": {"coordinates":[29.8722,-3.8685],"type":"Point"}
+}

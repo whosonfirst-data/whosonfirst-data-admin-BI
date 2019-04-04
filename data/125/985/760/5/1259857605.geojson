@@ -1,0 +1,67 @@
+{
+  "id": 1259857605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5843,-3.2922,30.5843,-3.2922",
+    "geom:latitude":-3.2922,
+    "geom:longitude":30.5843,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Karubati",
+    "gn:country_code":"BI",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427215,
+    "gn:latitude":-3.2922,
+    "gn:longitude":30.5843,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Karubati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427215
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4463170f1e9f625406f6f5358171a94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759363,
+            "locality_id":1259857605,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1259857605,
+    "wof:lastmodified":1536815723,
+    "wof:name":"Karubati",
+    "wof:parent_id":1108759363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5843,
+    -3.2922,
+    30.5843,
+    -3.2922
+],
+  "geometry": {"coordinates":[30.5843,-3.2922],"type":"Point"}
+}

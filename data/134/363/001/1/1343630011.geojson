@@ -1,0 +1,67 @@
+{
+  "id": 1343630011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5997,-3.5544,29.5997,-3.5544",
+    "geom:latitude":-3.5544,
+    "geom:longitude":29.5997,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Rurambi",
+    "gn:country_code":"BI",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423875,
+    "gn:latitude":-3.5544,
+    "gn:longitude":29.5997,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Rurambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423875
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"18174e6c5cfed6db5b33d4a97ac6bf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759391,
+            "locality_id":1343630011,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1343630011,
+    "wof:lastmodified":1536998321,
+    "wof:name":"Rurambi",
+    "wof:parent_id":1108759391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5997,
+    -3.5544,
+    29.5997,
+    -3.5544
+],
+  "geometry": {"coordinates":[29.5997,-3.5544],"type":"Point"}
+}

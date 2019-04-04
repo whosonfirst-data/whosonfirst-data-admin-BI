@@ -1,0 +1,67 @@
+{
+  "id": 1310073281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5332,-3.5081,29.5332,-3.5081",
+    "geom:latitude":-3.5081,
+    "geom:longitude":29.5332,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Gisogwe",
+    "gn:country_code":"BI",
+    "gn:dem":2316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423789,
+    "gn:latitude":-3.5081,
+    "gn:longitude":29.5332,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gisogwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423789
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"594994f8ec4978c2b2075f5417bbee4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759479,
+            "locality_id":1310073281,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1310073281,
+    "wof:lastmodified":1537041341,
+    "wof:name":"Gisogwe",
+    "wof:parent_id":1108759479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5332,
+    -3.5081,
+    29.5332,
+    -3.5081
+],
+  "geometry": {"coordinates":[29.5332,-3.5081],"type":"Point"}
+}

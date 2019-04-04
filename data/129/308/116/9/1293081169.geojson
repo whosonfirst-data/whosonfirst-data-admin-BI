@@ -1,0 +1,67 @@
+{
+  "id": 1293081169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1086,-2.6473,29.1086,-2.6473",
+    "geom:latitude":-2.6473,
+    "geom:longitude":29.1086,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyanturagara",
+    "gn:country_code":"BI",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430120,
+    "gn:latitude":-2.6473,
+    "gn:longitude":29.1086,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyanturagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430120
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"98a124b3836154dc06155e60fb53091b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759465,
+            "locality_id":1293081169,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1293081169,
+    "wof:lastmodified":1536874992,
+    "wof:name":"Nyanturagara",
+    "wof:parent_id":1108759465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1086,
+    -2.6473,
+    29.1086,
+    -2.6473
+],
+  "geometry": {"coordinates":[29.1086,-2.6473],"type":"Point"}
+}

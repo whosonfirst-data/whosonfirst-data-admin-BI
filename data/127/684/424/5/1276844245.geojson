@@ -1,0 +1,67 @@
+{
+  "id": 1276844245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.385,-3.5284,30.385,-3.5284",
+    "geom:latitude":-3.5284,
+    "geom:longitude":30.385,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Misasa",
+    "gn:country_code":"BI",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425027,
+    "gn:latitude":-3.5284,
+    "gn:longitude":30.385,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Misasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425027
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"2f730143746427b4ef3134d0f874580f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1276844245,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1276844245,
+    "wof:lastmodified":1537085707,
+    "wof:name":"Misasa",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.385,
+    -3.5284,
+    30.385,
+    -3.5284
+],
+  "geometry": {"coordinates":[30.385,-3.5284],"type":"Point"}
+}

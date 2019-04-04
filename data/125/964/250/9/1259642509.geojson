@@ -1,0 +1,67 @@
+{
+  "id": 1259642509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5871,-3.4225,30.5871,-3.4225",
+    "geom:latitude":-3.4225,
+    "geom:longitude":30.5871,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gakore",
+    "gn:country_code":"BI",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427317,
+    "gn:latitude":-3.4225,
+    "gn:longitude":30.5871,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gakore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427317
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"641843ff0c1d12ad1a3d4001c14df0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1259642509,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1259642509,
+    "wof:lastmodified":1536628048,
+    "wof:name":"Gakore",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5871,
+    -3.4225,
+    30.5871,
+    -3.4225
+],
+  "geometry": {"coordinates":[30.5871,-3.4225],"type":"Point"}
+}

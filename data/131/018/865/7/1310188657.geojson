@@ -1,0 +1,67 @@
+{
+  "id": 1310188657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1206,-2.959,30.1206,-2.959",
+    "geom:latitude":-2.959,
+    "geom:longitude":30.1206,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kigozi",
+    "gn:country_code":"BI",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432286,
+    "gn:latitude":-2.959,
+    "gn:longitude":30.1206,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kigozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432286
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"48f351d7928ae271f0984264ec288ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1310188657,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1310188657,
+    "wof:lastmodified":1536875698,
+    "wof:name":"Kigozi",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1206,
+    -2.959,
+    30.1206,
+    -2.959
+],
+  "geometry": {"coordinates":[30.1206,-2.959],"type":"Point"}
+}

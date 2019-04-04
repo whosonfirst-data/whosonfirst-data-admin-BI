@@ -1,0 +1,67 @@
+{
+  "id": 1327320033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9219,-3.3695,29.9219,-3.3695",
+    "geom:latitude":-3.3695,
+    "geom:longitude":29.9219,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Masasu",
+    "gn:country_code":"BI",
+    "gn:dem":1718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426171,
+    "gn:latitude":-3.3695,
+    "gn:longitude":29.9219,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Masasu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426171
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a66eca60aa0de5ec96baeedb5e28331d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759381,
+            "locality_id":1327320033,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1327320033,
+    "wof:lastmodified":1536842115,
+    "wof:name":"Masasu",
+    "wof:parent_id":1108759381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9219,
+    -3.3695,
+    29.9219,
+    -3.3695
+],
+  "geometry": {"coordinates":[29.9219,-3.3695],"type":"Point"}
+}

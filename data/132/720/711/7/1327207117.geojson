@@ -1,0 +1,67 @@
+{
+  "id": 1327207117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,-3.06806,29.81667,-3.06806",
+    "geom:latitude":-3.06806,
+    "geom:longitude":29.81667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mubogora",
+    "gn:country_code":"BI",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429319,
+    "gn:latitude":-3.06806,
+    "gn:longitude":29.81667,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mubogora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429319
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cfbbf9f532ba77216fb089ea64cd2aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759471,
+            "locality_id":1327207117,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1327207117,
+    "wof:lastmodified":1537005497,
+    "wof:name":"Mubogora",
+    "wof:parent_id":1108759471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    -3.06806,
+    29.81667,
+    -3.06806
+],
+  "geometry": {"coordinates":[29.81667,-3.06806],"type":"Point"}
+}

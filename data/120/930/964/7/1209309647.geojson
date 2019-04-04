@@ -1,0 +1,62 @@
+{
+  "id": 1209309647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8525,-3.8861,29.8525,-3.8861",
+    "geom:latitude":-3.8861,
+    "geom:longitude":29.8525,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rutovu",
+    "gn:country_code":"BI",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433562,
+    "gn:latitude":-3.8861,
+    "gn:longitude":29.8525,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Rutovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433562,
+        "wk:page":"Rutovu"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bd7e207dec7f0eb8f929e7e93e23824b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209309647
+        }
+    ],
+    "wof:id":1209309647,
+    "wof:lastmodified":1537487821,
+    "wof:name":"Rutovu",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8525,
+    -3.8861,
+    29.8525,
+    -3.8861
+],
+  "geometry": {"coordinates":[29.8525,-3.8861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277140463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8081,-4.0752,29.8081,-4.0752",
+    "geom:latitude":-4.0752,
+    "geom:longitude":29.8081,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ruhesu",
+    "gn:country_code":"BI",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422160,
+    "gn:latitude":-4.0752,
+    "gn:longitude":29.8081,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruhesu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buhesu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422160
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"002495c0af420d91f4d12e6a4723abe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759441,
+            "locality_id":1277140463,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1277140463,
+    "wof:lastmodified":1537587822,
+    "wof:name":"Ruhesu",
+    "wof:parent_id":1108759441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8081,
+    -4.0752,
+    29.8081,
+    -4.0752
+],
+  "geometry": {"coordinates":[29.8081,-4.0752],"type":"Point"}
+}

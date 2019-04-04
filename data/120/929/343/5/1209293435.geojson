@@ -1,0 +1,61 @@
+{
+  "id": 1209293435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06169,-3.09557,30.06169,-3.09557",
+    "geom:latitude":-3.09557,
+    "geom:longitude":30.06169,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bugenyuzi",
+    "gn:country_code":"BI",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428203,
+    "gn:latitude":-3.09557,
+    "gn:longitude":30.06169,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bugenyuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428203
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"95bd3991194d94c44d65359da73cc7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209293435
+        }
+    ],
+    "wof:id":1209293435,
+    "wof:lastmodified":1536291613,
+    "wof:name":"Bugenyuzi",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06169,
+    -3.09557,
+    30.06169,
+    -3.09557
+],
+  "geometry": {"coordinates":[30.06169,-3.09557],"type":"Point"}
+}

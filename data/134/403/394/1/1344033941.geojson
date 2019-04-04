@@ -1,0 +1,67 @@
+{
+  "id": 1344033941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0098,-4.0968,30.0098,-4.0968",
+    "geom:latitude":-4.0968,
+    "geom:longitude":30.0098,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mugeni",
+    "gn:country_code":"BI",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422421,
+    "gn:latitude":-4.0968,
+    "gn:longitude":30.0098,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mugeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422421
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"549549ea57fdc1de5b7bc4d556cd6b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759417,
+            "locality_id":1344033941,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1344033941,
+    "wof:lastmodified":1536914431,
+    "wof:name":"Mugeni",
+    "wof:parent_id":1108759417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0098,
+    -4.0968,
+    30.0098,
+    -4.0968
+],
+  "geometry": {"coordinates":[30.0098,-4.0968],"type":"Point"}
+}

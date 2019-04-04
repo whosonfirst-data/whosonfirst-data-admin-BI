@@ -1,0 +1,67 @@
+{
+  "id": 1360054049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8449,-3.5042,29.8449,-3.5042",
+    "geom:latitude":-3.5042,
+    "geom:longitude":29.8449,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Munago",
+    "gn:country_code":"BI",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424134,
+    "gn:latitude":-3.5042,
+    "gn:longitude":29.8449,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Munago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424134
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"96403eb6c434c3da11227c15cd9a6b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759513,
+            "locality_id":1360054049,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1360054049,
+    "wof:lastmodified":1536989755,
+    "wof:name":"Munago",
+    "wof:parent_id":1108759513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8449,
+    -3.5042,
+    29.8449,
+    -3.5042
+],
+  "geometry": {"coordinates":[29.8449,-3.5042],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344120445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1265,-4.0615,30.1265,-4.0615",
+    "geom:latitude":-4.0615,
+    "geom:longitude":30.1265,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gihofi-Bareremba",
+    "gn:country_code":"BI",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422413,
+    "gn:latitude":-4.0615,
+    "gn:longitude":30.1265,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gihofi-Bareremba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422413
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ee43b0f717be1e15e938cbe53f2b2f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759417,
+            "locality_id":1344120445,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1344120445,
+    "wof:lastmodified":1536789589,
+    "wof:name":"Gihofi-Bareremba",
+    "wof:parent_id":1108759417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1265,
+    -4.0615,
+    30.1265,
+    -4.0615
+],
+  "geometry": {"coordinates":[30.1265,-4.0615],"type":"Point"}
+}

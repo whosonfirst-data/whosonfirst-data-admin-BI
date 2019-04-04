@@ -1,0 +1,67 @@
+{
+  "id": 1226416541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5558,-3.4267,30.5558,-3.4267",
+    "geom:latitude":-3.4267,
+    "geom:longitude":30.5558,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyagisovu",
+    "gn:country_code":"BI",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427318,
+    "gn:latitude":-3.4267,
+    "gn:longitude":30.5558,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyagisovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427318
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e6259256a96ce57131d6b59d61c50d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1226416541,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1226416541,
+    "wof:lastmodified":1536687707,
+    "wof:name":"Nyagisovu",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5558,
+    -3.4267,
+    30.5558,
+    -3.4267
+],
+  "geometry": {"coordinates":[30.5558,-3.4267],"type":"Point"}
+}

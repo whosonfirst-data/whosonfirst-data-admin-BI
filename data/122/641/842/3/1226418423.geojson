@@ -1,0 +1,63 @@
+{
+  "id": 1226418423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4342,-2.9189,30.4342,-2.9189",
+    "geom:latitude":-2.9189,
+    "geom:longitude":30.4342,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gatabo",
+    "gn:country_code":"BI",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431833,
+    "gn:latitude":-2.9189,
+    "gn:longitude":30.4342,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gatabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431833
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"980eacaf0420e3d311cfa8f2bd1d0990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226418423,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226418423,
+    "wof:lastmodified":1536684904,
+    "wof:name":"Gatabo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4342,
+    -2.9189,
+    30.4342,
+    -2.9189
+],
+  "geometry": {"coordinates":[30.4342,-2.9189],"type":"Point"}
+}

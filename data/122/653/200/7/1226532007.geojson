@@ -1,0 +1,67 @@
+{
+  "id": 1226532007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43611,-3.04056,29.43611,-3.04056",
+    "geom:latitude":-3.04056,
+    "geom:longitude":29.43611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gakowe",
+    "gn:country_code":"BI",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428458,
+    "gn:latitude":-3.04056,
+    "gn:longitude":29.43611,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gakowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428458
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e20b754af9b7ac1b62dd56c2dd94bb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1226532007,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1226532007,
+    "wof:lastmodified":1537017144,
+    "wof:name":"Gakowe",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43611,
+    -3.04056,
+    29.43611,
+    -3.04056
+],
+  "geometry": {"coordinates":[29.43611,-3.04056],"type":"Point"}
+}

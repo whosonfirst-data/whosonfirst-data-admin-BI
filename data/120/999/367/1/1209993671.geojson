@@ -1,0 +1,67 @@
+{
+  "id": 1209993671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2661,-2.7503,29.2661,-2.7503",
+    "geom:latitude":-2.7503,
+    "geom:longitude":29.2661,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyagonda",
+    "gn:country_code":"BI",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429633,
+    "gn:latitude":-2.7503,
+    "gn:longitude":29.2661,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyagonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429633
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7dff53709c322d5dac357eb94de84b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759439,
+            "locality_id":1209993671,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1209993671,
+    "wof:lastmodified":1536385266,
+    "wof:name":"Nyagonda",
+    "wof:parent_id":1108759439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2661,
+    -2.7503,
+    29.2661,
+    -2.7503
+],
+  "geometry": {"coordinates":[29.2661,-2.7503],"type":"Point"}
+}

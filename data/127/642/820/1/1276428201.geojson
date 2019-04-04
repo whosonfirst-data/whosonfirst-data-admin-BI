@@ -1,0 +1,67 @@
+{
+  "id": 1276428201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.27263,-2.73686,29.27263,-2.73686",
+    "geom:latitude":-2.73686,
+    "geom:longitude":29.27263,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kumuvumu",
+    "gn:country_code":"BI",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429628,
+    "gn:latitude":-2.73686,
+    "gn:longitude":29.27263,
+    "gn:modification_date":"2009-05-07",
+    "gn:name":"Kumuvumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429628
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"01d1f4304594b1aaac0c03d220c56d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759439,
+            "locality_id":1276428201,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1276428201,
+    "wof:lastmodified":1536651368,
+    "wof:name":"Kumuvumu",
+    "wof:parent_id":1108759439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.27263,
+    -2.73686,
+    29.27263,
+    -2.73686
+],
+  "geometry": {"coordinates":[29.27263,-2.73686],"type":"Point"}
+}

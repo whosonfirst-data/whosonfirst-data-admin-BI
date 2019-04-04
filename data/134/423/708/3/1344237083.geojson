@@ -1,0 +1,71 @@
+{
+  "id": 1344237083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1623,-2.8497,29.1623,-2.8497",
+    "geom:latitude":-2.8497,
+    "geom:longitude":29.1623,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Muhabura",
+    "gn:country_code":"BI",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429985,
+    "gn:latitude":-2.8497,
+    "gn:longitude":29.1623,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muhabura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muhambura",
+        "Muhabura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429985
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8afe7ce475dbffa64cce55bb6561fd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759485,
+            "locality_id":1344237083,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1344237083,
+    "wof:lastmodified":1537587834,
+    "wof:name":"Muhabura",
+    "wof:parent_id":1108759485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1623,
+    -2.8497,
+    29.1623,
+    -2.8497
+],
+  "geometry": {"coordinates":[29.1623,-2.8497],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343237847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4837,-2.4896,30.4837,-2.4896",
+    "geom:latitude":-2.4896,
+    "geom:longitude":30.4837,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Karambi",
+    "gn:country_code":"BI",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431196,
+    "gn:latitude":-2.4896,
+    "gn:longitude":30.4837,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Karambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431196
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"29a78f84b3cba0e0ad7837f869f6a994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759399,
+            "locality_id":1343237847,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1343237847,
+    "wof:lastmodified":1537064801,
+    "wof:name":"Karambi",
+    "wof:parent_id":1108759399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4837,
+    -2.4896,
+    30.4837,
+    -2.4896
+],
+  "geometry": {"coordinates":[30.4837,-2.4896],"type":"Point"}
+}

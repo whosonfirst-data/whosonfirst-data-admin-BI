@@ -1,0 +1,71 @@
+{
+  "id": 1310275201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5699,-2.8928,29.5699,-2.8928",
+    "geom:latitude":-2.8928,
+    "geom:longitude":29.5699,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rwagongwe",
+    "gn:country_code":"BI",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430889,
+    "gn:latitude":-2.8928,
+    "gn:longitude":29.5699,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rwagongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rwagungwe",
+        "Rwagongwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430889
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"616ab6e19a4d06e848ff7c7b06b5d22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759483,
+            "locality_id":1310275201,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1310275201,
+    "wof:lastmodified":1537587835,
+    "wof:name":"Rwagongwe",
+    "wof:parent_id":1108759483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5699,
+    -2.8928,
+    29.5699,
+    -2.8928
+],
+  "geometry": {"coordinates":[29.5699,-2.8928],"type":"Point"}
+}

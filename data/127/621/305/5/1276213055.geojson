@@ -1,0 +1,67 @@
+{
+  "id": 1276213055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9925,-3.3756,29.9925,-3.3756",
+    "geom:latitude":-3.3756,
+    "geom:longitude":29.9925,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ryagahene",
+    "gn:country_code":"BI",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426183,
+    "gn:latitude":-3.3756,
+    "gn:longitude":29.9925,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Ryagahene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426183
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b481a9b9d3869ca0c0efa0e5e6c22727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759397,
+            "locality_id":1276213055,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1276213055,
+    "wof:lastmodified":1536940951,
+    "wof:name":"Ryagahene",
+    "wof:parent_id":1108759397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9925,
+    -3.3756,
+    29.9925,
+    -3.3756
+],
+  "geometry": {"coordinates":[29.9925,-3.3756],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209095365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6694,-3.7839,29.6694,-3.7839",
+    "geom:latitude":-3.7839,
+    "geom:longitude":29.6694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Murangara",
+    "gn:country_code":"BI",
+    "gn:dem":1895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423086,
+    "gn:latitude":-3.7839,
+    "gn:longitude":29.6694,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Murangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423086
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bf9357d8af256c3b882a72ab179e6b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209095365
+        }
+    ],
+    "wof:id":1209095365,
+    "wof:lastmodified":1536297904,
+    "wof:name":"Murangara",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6694,
+    -3.7839,
+    29.6694,
+    -3.7839
+],
+  "geometry": {"coordinates":[29.6694,-3.7839],"type":"Point"}
+}

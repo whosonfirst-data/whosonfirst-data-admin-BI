@@ -1,0 +1,67 @@
+{
+  "id": 1310284465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0199,-3.5874,30.0199,-3.5874",
+    "geom:latitude":-3.5874,
+    "geom:longitude":30.0199,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Buramba",
+    "gn:country_code":"BI",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424724,
+    "gn:latitude":-3.5874,
+    "gn:longitude":30.0199,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Buramba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424724
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6ed89688382a29149db999dbd610932b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759407,
+            "locality_id":1310284465,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1310284465,
+    "wof:lastmodified":1536738231,
+    "wof:name":"Buramba",
+    "wof:parent_id":1108759407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0199,
+    -3.5874,
+    30.0199,
+    -3.5874
+],
+  "geometry": {"coordinates":[30.0199,-3.5874],"type":"Point"}
+}

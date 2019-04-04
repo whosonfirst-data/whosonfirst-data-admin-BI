@@ -1,0 +1,67 @@
+{
+  "id": 1226504299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0806,-3.7311,30.0806,-3.7311",
+    "geom:latitude":-3.7311,
+    "geom:longitude":30.0806,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gahororo",
+    "gn:country_code":"BI",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424959,
+    "gn:latitude":-3.7311,
+    "gn:longitude":30.0806,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gahororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424959
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"674774bea0023303fd10cf412858f69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759489,
+            "locality_id":1226504299,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1226504299,
+    "wof:lastmodified":1537055514,
+    "wof:name":"Gahororo",
+    "wof:parent_id":1108759489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0806,
+    -3.7311,
+    30.0806,
+    -3.7311
+],
+  "geometry": {"coordinates":[30.0806,-3.7311],"type":"Point"}
+}

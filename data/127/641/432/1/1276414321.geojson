@@ -1,0 +1,67 @@
+{
+  "id": 1276414321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.465,-3.3845,30.465,-3.3845",
+    "geom:latitude":-3.3845,
+    "geom:longitude":30.465,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Akimpama",
+    "gn:country_code":"BI",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306758,
+    "gn:latitude":-3.3845,
+    "gn:longitude":30.465,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Akimpama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306758
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e4f0aa5125ce4b55b1d075b54880e9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1276414321,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1276414321,
+    "wof:lastmodified":1536670172,
+    "wof:name":"Akimpama",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.465,
+    -3.3845,
+    30.465,
+    -3.3845
+],
+  "geometry": {"coordinates":[30.465,-3.3845],"type":"Point"}
+}

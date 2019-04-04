@@ -1,0 +1,67 @@
+{
+  "id": 1226722601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25306,-2.44694,30.25306,-2.44694",
+    "geom:latitude":-2.44694,
+    "geom:longitude":30.25306,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rusenyi",
+    "gn:country_code":"BI",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9173226,
+    "gn:latitude":-2.44694,
+    "gn:longitude":30.25306,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Rusenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9173226
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b600d035724315074148a5adfb2ab127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759343,
+            "locality_id":1226722601,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1226722601,
+    "wof:lastmodified":1536748798,
+    "wof:name":"Rusenyi",
+    "wof:parent_id":1108759343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25306,
+    -2.44694,
+    30.25306,
+    -2.44694
+],
+  "geometry": {"coordinates":[30.25306,-2.44694],"type":"Point"}
+}

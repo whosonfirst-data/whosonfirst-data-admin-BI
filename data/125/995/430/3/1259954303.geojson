@@ -1,0 +1,67 @@
+{
+  "id": 1259954303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.941,-3.8986,29.941,-3.8986",
+    "geom:latitude":-3.8986,
+    "geom:longitude":29.941,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bugombe",
+    "gn:country_code":"BI",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306144,
+    "gn:latitude":-3.8986,
+    "gn:longitude":29.941,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bugombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306144
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"293987edf537f785973f5b54794e3557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1259954303,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1259954303,
+    "wof:lastmodified":1536677221,
+    "wof:name":"Bugombe",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.941,
+    -3.8986,
+    29.941,
+    -3.8986
+],
+  "geometry": {"coordinates":[29.941,-3.8986],"type":"Point"}
+}

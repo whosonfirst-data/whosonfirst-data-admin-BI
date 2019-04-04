@@ -1,0 +1,67 @@
+{
+  "id": 1360057873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1529,-2.6207,30.1529,-2.6207",
+    "geom:latitude":-2.6207,
+    "geom:longitude":30.1529,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Canika",
+    "gn:country_code":"BI",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432514,
+    "gn:latitude":-2.6207,
+    "gn:longitude":30.1529,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Canika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432514
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c025a95272c62f365dada84431cd7269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1360057873,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1360057873,
+    "wof:lastmodified":1536984257,
+    "wof:name":"Canika",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1529,
+    -2.6207,
+    30.1529,
+    -2.6207
+],
+  "geometry": {"coordinates":[30.1529,-2.6207],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193004453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9521,-3.749,29.9521,-3.749",
+    "geom:latitude":-3.749,
+    "geom:longitude":29.9521,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bunyuka",
+    "gn:country_code":"BI",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424581,
+    "gn:latitude":-3.749,
+    "gn:longitude":29.9521,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bunyuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424581
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"599fb87113fddccf8aeecf35f8d979f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759333,
+            "locality_id":1193004453,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1193004453,
+    "wof:lastmodified":1536367019,
+    "wof:name":"Bunyuka",
+    "wof:parent_id":1108759333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9521,
+    -3.749,
+    29.9521,
+    -3.749
+],
+  "geometry": {"coordinates":[29.9521,-3.749],"type":"Point"}
+}

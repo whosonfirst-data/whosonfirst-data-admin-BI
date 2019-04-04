@@ -1,0 +1,67 @@
+{
+  "id": 1277156543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0465,-3.7032,30.0465,-3.7032",
+    "geom:latitude":-3.7032,
+    "geom:longitude":30.0465,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kigera",
+    "gn:country_code":"BI",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424903,
+    "gn:latitude":-3.7032,
+    "gn:longitude":30.0465,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kigera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424903
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d11ab92fc56dd2999dce383a27dc47f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759407,
+            "locality_id":1277156543,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1277156543,
+    "wof:lastmodified":1536661371,
+    "wof:name":"Kigera",
+    "wof:parent_id":1108759407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0465,
+    -3.7032,
+    30.0465,
+    -3.7032
+],
+  "geometry": {"coordinates":[30.0465,-3.7032],"type":"Point"}
+}

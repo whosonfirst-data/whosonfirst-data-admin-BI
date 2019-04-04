@@ -1,0 +1,67 @@
+{
+  "id": 1343333075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.873,-3.0855,29.873,-3.0855",
+    "geom:latitude":-3.0855,
+    "geom:longitude":29.873,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kinyinya",
+    "gn:country_code":"BI",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429355,
+    "gn:latitude":-3.0855,
+    "gn:longitude":29.873,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Kinyinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429355
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6099fe84cd65c5ae7d835c1b2ae92a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1343333075,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1343333075,
+    "wof:lastmodified":1536930972,
+    "wof:name":"Kinyinya",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.873,
+    -3.0855,
+    29.873,
+    -3.0855
+],
+  "geometry": {"coordinates":[29.873,-3.0855],"type":"Point"}
+}

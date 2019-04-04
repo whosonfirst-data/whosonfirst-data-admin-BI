@@ -1,0 +1,67 @@
+{
+  "id": 1344118651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0536,-3.9884,30.0536,-3.9884",
+    "geom:latitude":-3.9884,
+    "geom:longitude":30.0536,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Rugombo",
+    "gn:country_code":"BI",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422990,
+    "gn:latitude":-3.9884,
+    "gn:longitude":30.0536,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Rugombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422990
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0d00ecbe8c8fd8590ed89986499196e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759325,
+            "locality_id":1344118651,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1344118651,
+    "wof:lastmodified":1536792110,
+    "wof:name":"Rugombo",
+    "wof:parent_id":1108759325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0536,
+    -3.9884,
+    30.0536,
+    -3.9884
+],
+  "geometry": {"coordinates":[30.0536,-3.9884],"type":"Point"}
+}

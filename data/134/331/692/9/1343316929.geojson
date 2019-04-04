@@ -1,0 +1,67 @@
+{
+  "id": 1343316929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5523,-3.824,29.5523,-3.824",
+    "geom:latitude":-3.824,
+    "geom:longitude":29.5523,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Higiro",
+    "gn:country_code":"BI",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423153,
+    "gn:latitude":-3.824,
+    "gn:longitude":29.5523,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Higiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        1108803107,
+        1108759355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423153
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9259741e98fcc3d7b517a9cad13465b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759355,
+            "locality_id":1343316929,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":1343316929,
+    "wof:lastmodified":1536953655,
+    "wof:name":"Higiro",
+    "wof:parent_id":1108759355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5523,
+    -3.824,
+    29.5523,
+    -3.824
+],
+  "geometry": {"coordinates":[29.5523,-3.824],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292974163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8365,-3.0768,29.8365,-3.0768",
+    "geom:latitude":-3.0768,
+    "geom:longitude":29.8365,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nyarurambi",
+    "gn:country_code":"BI",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429341,
+    "gn:latitude":-3.0768,
+    "gn:longitude":29.8365,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyarurambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429341
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"85e98bf47b49e458a6d9c2d633e3f3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759471,
+            "locality_id":1292974163,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1292974163,
+    "wof:lastmodified":1537028885,
+    "wof:name":"Nyarurambi",
+    "wof:parent_id":1108759471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8365,
+    -3.0768,
+    29.8365,
+    -3.0768
+],
+  "geometry": {"coordinates":[29.8365,-3.0768],"type":"Point"}
+}

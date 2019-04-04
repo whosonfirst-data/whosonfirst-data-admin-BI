@@ -1,0 +1,67 @@
+{
+  "id": 1310016215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3856,-3.4104,29.3856,-3.4104",
+    "geom:latitude":-3.4104,
+    "geom:longitude":29.3856,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gikoto",
+    "gn:country_code":"BI",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425410,
+    "gn:latitude":-3.4104,
+    "gn:longitude":29.3856,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gikoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425410
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f6e35a34088d8f437f774a90f8927080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759413,
+            "locality_id":1310016215,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1310016215,
+    "wof:lastmodified":1536625895,
+    "wof:name":"Gikoto",
+    "wof:parent_id":1108759413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3856,
+    -3.4104,
+    29.3856,
+    -3.4104
+],
+  "geometry": {"coordinates":[29.3856,-3.4104],"type":"Point"}
+}

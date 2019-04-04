@@ -1,0 +1,67 @@
+{
+  "id": 1276639361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96434,-3.13857,29.96434,-3.13857",
+    "geom:latitude":-3.13857,
+    "geom:longitude":29.96434,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gasongati",
+    "gn:country_code":"BI",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306399,
+    "gn:latitude":-3.13857,
+    "gn:longitude":29.96434,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gasongati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306399
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9b4c16aacc9d3417b06007ae7f9e1dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759385,
+            "locality_id":1276639361,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1276639361,
+    "wof:lastmodified":1536864573,
+    "wof:name":"Gasongati",
+    "wof:parent_id":1108759385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96434,
+    -3.13857,
+    29.96434,
+    -3.13857
+],
+  "geometry": {"coordinates":[29.96434,-3.13857],"type":"Point"}
+}

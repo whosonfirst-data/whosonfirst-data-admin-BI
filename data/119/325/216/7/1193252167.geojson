@@ -1,0 +1,67 @@
+{
+  "id": 1193252167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19187,-3.11814,30.19187,-3.11814",
+    "geom:latitude":-3.11814,
+    "geom:longitude":30.19187,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Twinyambo",
+    "gn:country_code":"BI",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428237,
+    "gn:latitude":-3.11814,
+    "gn:longitude":30.19187,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Twinyambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428237
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6e31182b3d06f3b4320f896f2b088823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1193252167,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1193252167,
+    "wof:lastmodified":1536366923,
+    "wof:name":"Twinyambo",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19187,
+    -3.11814,
+    30.19187,
+    -3.11814
+],
+  "geometry": {"coordinates":[30.19187,-3.11814],"type":"Point"}
+}

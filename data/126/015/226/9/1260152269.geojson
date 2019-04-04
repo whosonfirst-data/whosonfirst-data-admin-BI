@@ -1,0 +1,67 @@
+{
+  "id": 1260152269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9975,-4.2897,29.9975,-4.2897",
+    "geom:latitude":-4.2897,
+    "geom:longitude":29.9975,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ruremba",
+    "gn:country_code":"BI",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":421739,
+    "gn:latitude":-4.2897,
+    "gn:longitude":29.9975,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ruremba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421739
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bab3e4d4f02429f8fb0e4fc7fde09246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759423,
+            "locality_id":1260152269,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1260152269,
+    "wof:lastmodified":1536890410,
+    "wof:name":"Ruremba",
+    "wof:parent_id":1108759423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9975,
+    -4.2897,
+    29.9975,
+    -4.2897
+],
+  "geometry": {"coordinates":[29.9975,-4.2897],"type":"Point"}
+}

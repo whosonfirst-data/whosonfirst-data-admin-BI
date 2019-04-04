@@ -1,0 +1,67 @@
+{
+  "id": 1226603823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2194,-3.459,30.2194,-3.459",
+    "geom:latitude":-3.459,
+    "geom:longitude":30.2194,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kiganga",
+    "gn:country_code":"BI",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426683,
+    "gn:latitude":-3.459,
+    "gn:longitude":30.2194,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kiganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426683
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"18497a2d9c0cf71411f687a05f9e845c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759547,
+            "locality_id":1226603823,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1226603823,
+    "wof:lastmodified":1536918698,
+    "wof:name":"Kiganga",
+    "wof:parent_id":1108759547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2194,
+    -3.459,
+    30.2194,
+    -3.459
+],
+  "geometry": {"coordinates":[30.2194,-3.459],"type":"Point"}
+}

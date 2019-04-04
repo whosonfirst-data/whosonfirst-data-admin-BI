@@ -1,0 +1,67 @@
+{
+  "id": 1259355453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3576,-2.4262,30.3576,-2.4262",
+    "geom:latitude":-2.4262,
+    "geom:longitude":30.3576,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kwituro",
+    "gn:country_code":"BI",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431129,
+    "gn:latitude":-2.4262,
+    "gn:longitude":30.3576,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kwituro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431129
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c2d8a048e7af0cfb5b48886a66d0cd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759343,
+            "locality_id":1259355453,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1259355453,
+    "wof:lastmodified":1537040967,
+    "wof:name":"Kwituro",
+    "wof:parent_id":1108759343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3576,
+    -2.4262,
+    30.3576,
+    -2.4262
+],
+  "geometry": {"coordinates":[30.3576,-2.4262],"type":"Point"}
+}

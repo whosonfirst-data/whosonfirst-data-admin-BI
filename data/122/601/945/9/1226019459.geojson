@@ -1,0 +1,67 @@
+{
+  "id": 1226019459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0306,-3.8531,30.0306,-3.8531",
+    "geom:latitude":-3.8531,
+    "geom:longitude":30.0306,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mugarama",
+    "gn:country_code":"BI",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422844,
+    "gn:latitude":-3.8531,
+    "gn:longitude":30.0306,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Mugarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422844
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d0af96c72a707ba2da8133163c2e6251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1226019459,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1226019459,
+    "wof:lastmodified":1536763475,
+    "wof:name":"Mugarama",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0306,
+    -3.8531,
+    30.0306,
+    -3.8531
+],
+  "geometry": {"coordinates":[30.0306,-3.8531],"type":"Point"}
+}

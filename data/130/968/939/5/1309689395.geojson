@@ -1,0 +1,67 @@
+{
+  "id": 1309689395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3673,-2.8458,29.3673,-2.8458",
+    "geom:latitude":-2.8458,
+    "geom:longitude":29.3673,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bisiza",
+    "gn:country_code":"BI",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429684,
+    "gn:latitude":-2.8458,
+    "gn:longitude":29.3673,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Bisiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429684
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bd841b742ca0db4e98357fcf699f9fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759331,
+            "locality_id":1309689395,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1309689395,
+    "wof:lastmodified":1537095744,
+    "wof:name":"Bisiza",
+    "wof:parent_id":1108759331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3673,
+    -2.8458,
+    29.3673,
+    -2.8458
+],
+  "geometry": {"coordinates":[29.3673,-2.8458],"type":"Point"}
+}

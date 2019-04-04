@@ -1,0 +1,67 @@
+{
+  "id": 1260379927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5394,-4.0009,29.5394,-4.0009",
+    "geom:latitude":-4.0009,
+    "geom:longitude":29.5394,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mirango",
+    "gn:country_code":"BI",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":423404,
+    "gn:latitude":-4.0009,
+    "gn:longitude":29.5394,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mirango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423404
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"41043a667104e1626f11e590ae0d2a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759561,
+            "locality_id":1260379927,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1260379927,
+    "wof:lastmodified":1537076677,
+    "wof:name":"Mirango",
+    "wof:parent_id":1108759561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5394,
+    -4.0009,
+    29.5394,
+    -4.0009
+],
+  "geometry": {"coordinates":[29.5394,-4.0009],"type":"Point"}
+}

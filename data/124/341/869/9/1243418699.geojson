@@ -1,0 +1,71 @@
+{
+  "id": 1243418699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1663,-3.4534,30.1663,-3.4534",
+    "geom:latitude":-3.4534,
+    "geom:longitude":30.1663,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Masake",
+    "gn:country_code":"BI",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426677,
+    "gn:latitude":-3.4534,
+    "gn:longitude":30.1663,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Masake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamasake",
+        "Masake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426677
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"1e7e8d0db96a36618b4af6d62f256efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759345,
+            "locality_id":1243418699,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1243418699,
+    "wof:lastmodified":1537587830,
+    "wof:name":"Masake",
+    "wof:parent_id":1108759345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1663,
+    -3.4534,
+    30.1663,
+    -3.4534
+],
+  "geometry": {"coordinates":[30.1663,-3.4534],"type":"Point"}
+}

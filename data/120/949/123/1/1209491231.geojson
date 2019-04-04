@@ -1,0 +1,61 @@
+{
+  "id": 1209491231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23696,-3.11372,30.23696,-3.11372",
+    "geom:latitude":-3.11372,
+    "geom:longitude":30.23696,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rusheri",
+    "gn:country_code":"BI",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428226,
+    "gn:latitude":-3.11372,
+    "gn:longitude":30.23696,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rusheri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428226
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d77573b3804e37028d8f714da89b1d6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209491231
+        }
+    ],
+    "wof:id":1209491231,
+    "wof:lastmodified":1536285479,
+    "wof:name":"Rusheri",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23696,
+    -3.1137200000000003,
+    30.23696,
+    -3.1137200000000003
+],
+  "geometry": {"coordinates":[30.23696,-3.11372],"type":"Point"}
+}

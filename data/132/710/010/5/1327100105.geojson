@@ -1,0 +1,67 @@
+{
+  "id": 1327100105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7118,-2.833,29.7118,-2.833",
+    "geom:latitude":-2.833,
+    "geom:longitude":29.7118,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kinzuki",
+    "gn:country_code":"BI",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430770,
+    "gn:latitude":-2.833,
+    "gn:longitude":29.7118,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Kinzuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430770
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"93a1fd076200b96fb7b425fb358a05d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759341,
+            "locality_id":1327100105,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1327100105,
+    "wof:lastmodified":1536662888,
+    "wof:name":"Kinzuki",
+    "wof:parent_id":1108759341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7118,
+    -2.833,
+    29.7118,
+    -2.833
+],
+  "geometry": {"coordinates":[29.7118,-2.833],"type":"Point"}
+}

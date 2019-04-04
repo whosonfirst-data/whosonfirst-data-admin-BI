@@ -1,0 +1,67 @@
+{
+  "id": 1276524205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8938,-3.2392,29.8938,-3.2392",
+    "geom:latitude":-3.2392,
+    "geom:longitude":29.8938,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cunywe",
+    "gn:country_code":"BI",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429589,
+    "gn:latitude":-3.2392,
+    "gn:longitude":29.8938,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Cunywe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429589
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d5dc59026f78df6f6787a2acca0a293f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759317,
+            "locality_id":1276524205,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1276524205,
+    "wof:lastmodified":1537019449,
+    "wof:name":"Cunywe",
+    "wof:parent_id":1108759317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8938,
+    -3.2392,
+    29.8938,
+    -3.2392
+],
+  "geometry": {"coordinates":[29.8938,-3.2392],"type":"Point"}
+}

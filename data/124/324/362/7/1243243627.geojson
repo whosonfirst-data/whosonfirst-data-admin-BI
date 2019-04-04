@@ -1,0 +1,67 @@
+{
+  "id": 1243243627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1804,-2.8432,29.1804,-2.8432",
+    "geom:latitude":-2.8432,
+    "geom:longitude":29.1804,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kivumvu",
+    "gn:country_code":"BI",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429982,
+    "gn:latitude":-2.8432,
+    "gn:longitude":29.1804,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kivumvu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429982
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"39a89850f4351c093cbf183455f88429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759485,
+            "locality_id":1243243627,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1243243627,
+    "wof:lastmodified":1537094658,
+    "wof:name":"Kivumvu",
+    "wof:parent_id":1108759485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1804,
+    -2.8432,
+    29.1804,
+    -2.8432
+],
+  "geometry": {"coordinates":[29.1804,-2.8432],"type":"Point"}
+}

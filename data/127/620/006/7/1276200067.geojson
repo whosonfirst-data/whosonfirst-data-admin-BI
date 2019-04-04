@@ -1,0 +1,71 @@
+{
+  "id": 1276200067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4569,-3.518,30.4569,-3.518",
+    "geom:latitude":-3.518,
+    "geom:longitude":30.4569,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Rwamahasa",
+    "gn:country_code":"BI",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":425014,
+    "gn:latitude":-3.518,
+    "gn:longitude":30.4569,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rwamahasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rwamabasa",
+        "Rwamahasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425014
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"55048f19e63c013e98c01ef45f6a4268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1276200067,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1276200067,
+    "wof:lastmodified":1537587827,
+    "wof:name":"Rwamahasa",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4569,
+    -3.518,
+    30.4569,
+    -3.518
+],
+  "geometry": {"coordinates":[30.4569,-3.518],"type":"Point"}
+}

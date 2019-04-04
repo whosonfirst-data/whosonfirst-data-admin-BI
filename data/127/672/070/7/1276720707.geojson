@@ -1,0 +1,67 @@
+{
+  "id": 1276720707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3799,-3.6366,30.3799,-3.6366",
+    "geom:latitude":-3.6366,
+    "geom:longitude":30.3799,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ruhongoro",
+    "gn:country_code":"BI",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":425104,
+    "gn:latitude":-3.6366,
+    "gn:longitude":30.3799,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ruhongoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425104
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"fc6aaeebdd35229c394c17214e9365fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759429,
+            "locality_id":1276720707,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1276720707,
+    "wof:lastmodified":1536757011,
+    "wof:name":"Ruhongoro",
+    "wof:parent_id":1108759429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3799,
+    -3.6366,
+    30.3799,
+    -3.6366
+],
+  "geometry": {"coordinates":[30.3799,-3.6366],"type":"Point"}
+}

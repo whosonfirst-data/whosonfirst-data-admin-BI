@@ -1,0 +1,103 @@
+{
+  "id": 421202509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66667,-3.5,29.66667,-3.5",
+    "geom:latitude":-3.5,
+    "geom:longitude":29.66667,
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mwaro"
+    ],
+    "name:eng_x_variant":[
+        "Mwaro Province"
+    ],
+    "name:fra_x_preferred":[
+        "Province de Mwaro"
+    ],
+    "name:fra_x_variant":[
+        "Mwaro"
+    ],
+    "name:run_x_preferred":[
+        "iProvense ya Mwaro"
+    ],
+    "qs:gn_country":"BI",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":434386,
+    "qs:gn_pop":274890,
+    "qs:name":"Mwaro",
+    "qs:name_adm0":"Burundi",
+    "qs:name_adm1":"Mwaro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":127,
+    "qs:photos_sr":0,
+    "qs:placetype":"State",
+    "qs:pop_sr":"10",
+    "qs:qs_id":223953,
+    "qs:woe_adm0":23424774,
+    "qs:woe_id":56017454,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434386,
+        "gp:id":56017454,
+        "qs:id":223953,
+        "wd:id":"Q847718",
+        "wk:page":"Mwaro Province"
+    },
+    "wof:country":"BI",
+    "wof:created":1459010120,
+    "wof:geomhash":"8b1a5c37a49310564035a98e10f7eede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "region_id":421202509
+        }
+    ],
+    "wof:id":421202509,
+    "wof:lang_x_official":[
+        "run",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "run",
+        "fra"
+    ],
+    "wof:lastmodified":1529541198,
+    "wof:name":"Mwaro",
+    "wof:parent_id":85632285,
+    "wof:placetype":"region",
+    "wof:population":274890,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66667,
+    -3.5,
+    29.66667,
+    -3.5
+],
+  "geometry": {"coordinates":[29.66667,-3.5],"type":"Point"}
+}

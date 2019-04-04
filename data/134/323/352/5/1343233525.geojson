@@ -1,0 +1,67 @@
+{
+  "id": 1343233525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9749,-3.7182,29.9749,-3.7182",
+    "geom:latitude":-3.7182,
+    "geom:longitude":29.9749,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rugabano",
+    "gn:country_code":"BI",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424525,
+    "gn:latitude":-3.7182,
+    "gn:longitude":29.9749,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rugabano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424525
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b20791d1bd9fa24e357605d1326fafb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759333,
+            "locality_id":1343233525,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1343233525,
+    "wof:lastmodified":1537070883,
+    "wof:name":"Rugabano",
+    "wof:parent_id":1108759333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9749,
+    -3.7182,
+    29.9749,
+    -3.7182
+],
+  "geometry": {"coordinates":[29.9749,-3.7182],"type":"Point"}
+}

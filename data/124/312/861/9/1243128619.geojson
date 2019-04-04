@@ -1,0 +1,67 @@
+{
+  "id": 1243128619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6622,-3.3759,29.6622,-3.3759",
+    "geom:latitude":-3.3759,
+    "geom:longitude":29.6622,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Gahweza",
+    "gn:country_code":"BI",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425751,
+    "gn:latitude":-3.3759,
+    "gn:longitude":29.6622,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gahweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425751
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"aedf1bee93ef992ff06594ed2df2b60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759427,
+            "locality_id":1243128619,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1243128619,
+    "wof:lastmodified":1536767347,
+    "wof:name":"Gahweza",
+    "wof:parent_id":1108759427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6622,
+    -3.3759,
+    29.6622,
+    -3.3759
+],
+  "geometry": {"coordinates":[29.6622,-3.3759],"type":"Point"}
+}

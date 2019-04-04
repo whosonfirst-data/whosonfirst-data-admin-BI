@@ -1,0 +1,68 @@
+{
+  "id": 1343746397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37306,-3.20694,29.37306,-3.20694",
+    "geom:latitude":-3.20694,
+    "geom:longitude":29.37306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kigwati",
+    "gn:country_code":"BI",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428674,
+    "gn:latitude":-3.20694,
+    "gn:longitude":29.37306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kigwati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428674,
+        "wk:page":"Kigwati"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"87c92af9e490a6e1d21e18bed45309d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759457,
+            "locality_id":1343746397,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1343746397,
+    "wof:lastmodified":1537487819,
+    "wof:name":"Kigwati",
+    "wof:parent_id":1108759457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37306,
+    -3.20694,
+    29.37306,
+    -3.20694
+],
+  "geometry": {"coordinates":[29.37306,-3.20694],"type":"Point"}
+}

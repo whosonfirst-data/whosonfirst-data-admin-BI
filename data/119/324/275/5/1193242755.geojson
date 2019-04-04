@@ -1,0 +1,63 @@
+{
+  "id": 1193242755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31037,-3.24768,30.31037,-3.24768",
+    "geom:latitude":-3.24768,
+    "geom:longitude":30.31037,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Rubande",
+    "gn:country_code":"BI",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428073,
+    "gn:latitude":-3.24768,
+    "gn:longitude":30.31037,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Rubande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428073
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"401fcd98084bbe04a097fe7d66be3e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193242755,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193242755,
+    "wof:lastmodified":1536376654,
+    "wof:name":"Rubande",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31037,
+    -3.24768,
+    30.31037,
+    -3.24768
+],
+  "geometry": {"coordinates":[30.31037,-3.24768],"type":"Point"}
+}

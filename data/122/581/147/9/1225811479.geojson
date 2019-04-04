@@ -1,0 +1,67 @@
+{
+  "id": 1225811479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.334,-2.8368,30.334,-2.8368",
+    "geom:latitude":-2.8368,
+    "geom:longitude":30.334,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muyaga",
+    "gn:country_code":"BI",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431736,
+    "gn:latitude":-2.8368,
+    "gn:longitude":30.334,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Muyaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431736
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c492b684642bc2340f3698c9108b8e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759499,
+            "locality_id":1225811479,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1225811479,
+    "wof:lastmodified":1537060550,
+    "wof:name":"Muyaga",
+    "wof:parent_id":1108759499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.334,
+    -2.8368,
+    30.334,
+    -2.8368
+],
+  "geometry": {"coordinates":[30.334,-2.8368],"type":"Point"}
+}

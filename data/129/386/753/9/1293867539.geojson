@@ -1,0 +1,67 @@
+{
+  "id": 1293867539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25856,-3.18733,30.25856,-3.18733",
+    "geom:latitude":-3.18733,
+    "geom:longitude":30.25856,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kabangira",
+    "gn:country_code":"BI",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428000,
+    "gn:latitude":-3.18733,
+    "gn:longitude":30.25856,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kabangira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428000
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6ab8b7e0f1cbea2823491f33891a2ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759497,
+            "locality_id":1293867539,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1293867539,
+    "wof:lastmodified":1536736400,
+    "wof:name":"Kabangira",
+    "wof:parent_id":1108759497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25856,
+    -3.18733,
+    30.25856,
+    -3.18733
+],
+  "geometry": {"coordinates":[30.25856,-3.18733],"type":"Point"}
+}

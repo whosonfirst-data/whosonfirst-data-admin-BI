@@ -1,0 +1,67 @@
+{
+  "id": 1226009141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.39895,-3.49035,30.39895,-3.49035",
+    "geom:latitude":-3.49035,
+    "geom:longitude":30.39895,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kaniro",
+    "gn:country_code":"BI",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427128,
+    "gn:latitude":-3.49035,
+    "gn:longitude":30.39895,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kaniro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427128
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"712d07331f20188c69056691bcc49f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1226009141,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1226009141,
+    "wof:lastmodified":1536778578,
+    "wof:name":"Kaniro",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.39895,
+    -3.49035,
+    30.39895,
+    -3.49035
+],
+  "geometry": {"coordinates":[30.39895,-3.49035],"type":"Point"}
+}

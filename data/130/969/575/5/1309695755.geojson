@@ -1,0 +1,67 @@
+{
+  "id": 1309695755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02648,-3.05095,30.02648,-3.05095",
+    "geom:latitude":-3.05095,
+    "geom:longitude":30.02648,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mikinya",
+    "gn:country_code":"BI",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428146,
+    "gn:latitude":-3.05095,
+    "gn:longitude":30.02648,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mikinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428146
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"9ce85573e91ac8a263ca422d3531e60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759319,
+            "locality_id":1309695755,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1309695755,
+    "wof:lastmodified":1537086601,
+    "wof:name":"Mikinya",
+    "wof:parent_id":1108759319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02648,
+    -3.05095,
+    30.02648,
+    -3.05095
+],
+  "geometry": {"coordinates":[30.02648,-3.05095],"type":"Point"}
+}

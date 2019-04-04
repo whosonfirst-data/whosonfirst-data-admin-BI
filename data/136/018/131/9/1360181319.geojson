@@ -1,0 +1,68 @@
+{
+  "id": 1360181319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4373,-2.9835,29.4373,-2.9835",
+    "geom:latitude":-2.9835,
+    "geom:longitude":29.4373,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ntamba",
+    "gn:country_code":"BI",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429866,
+    "gn:latitude":-2.9835,
+    "gn:longitude":29.4373,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ntamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429866,
+        "wk:page":"Ntamba"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"57f83118958184566f3ed7a0317fabdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1360181319,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1360181319,
+    "wof:lastmodified":1537487820,
+    "wof:name":"Ntamba",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4373,
+    -2.9835,
+    29.4373,
+    -2.9835
+],
+  "geometry": {"coordinates":[29.4373,-2.9835],"type":"Point"}
+}

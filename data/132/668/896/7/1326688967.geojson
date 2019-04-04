@@ -1,0 +1,67 @@
+{
+  "id": 1326688967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.433,-3.5488,30.433,-3.5488",
+    "geom:latitude":-3.5488,
+    "geom:longitude":30.433,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyundwe",
+    "gn:country_code":"BI",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425051,
+    "gn:latitude":-3.5488,
+    "gn:longitude":30.433,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyundwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425051
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"cf9d35188915d36cce6996619e5e0958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1326688967,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1326688967,
+    "wof:lastmodified":1536758371,
+    "wof:name":"Nyundwe",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.433,
+    -3.5488,
+    30.433,
+    -3.5488
+],
+  "geometry": {"coordinates":[30.433,-3.5488],"type":"Point"}
+}

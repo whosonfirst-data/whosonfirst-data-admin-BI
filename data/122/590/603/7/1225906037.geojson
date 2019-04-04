@@ -1,0 +1,67 @@
+{
+  "id": 1225906037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26,-3.6755,30.26,-3.6755",
+    "geom:latitude":-3.6755,
+    "geom:longitude":30.26,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Nyagahara",
+    "gn:country_code":"BI",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425131,
+    "gn:latitude":-3.6755,
+    "gn:longitude":30.26,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyagahara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425131
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e01eb07b1024a512b68edbb09f1460dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1225906037,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1225906037,
+    "wof:lastmodified":1536927678,
+    "wof:name":"Nyagahara",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26,
+    -3.6755,
+    30.26,
+    -3.6755
+],
+  "geometry": {"coordinates":[30.26,-3.6755],"type":"Point"}
+}

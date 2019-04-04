@@ -1,0 +1,67 @@
+{
+  "id": 1226216371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27009,-3.20925,30.27009,-3.20925",
+    "geom:latitude":-3.20925,
+    "geom:longitude":30.27009,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mishindwe",
+    "gn:country_code":"BI",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428021,
+    "gn:latitude":-3.20925,
+    "gn:longitude":30.27009,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mishindwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428021
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b57769eeead84733f76323bee9c86f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759497,
+            "locality_id":1226216371,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1226216371,
+    "wof:lastmodified":1536975533,
+    "wof:name":"Mishindwe",
+    "wof:parent_id":1108759497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27009,
+    -3.20925,
+    30.27009,
+    -3.20925
+],
+  "geometry": {"coordinates":[30.27009,-3.20925],"type":"Point"}
+}

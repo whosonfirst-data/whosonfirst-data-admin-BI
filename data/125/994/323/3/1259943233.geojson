@@ -1,0 +1,67 @@
+{
+  "id": 1259943233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2703,-2.7546,30.2703,-2.7546",
+    "geom:latitude":-2.7546,
+    "geom:longitude":30.2703,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ndera",
+    "gn:country_code":"BI",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":431633,
+    "gn:latitude":-2.7546,
+    "gn:longitude":30.2703,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ndera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431633
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"36851358e37c3622f7e45fd53a23ff65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759353,
+            "locality_id":1259943233,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1259943233,
+    "wof:lastmodified":1536693449,
+    "wof:name":"Ndera",
+    "wof:parent_id":1108759353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2703,
+    -2.7546,
+    30.2703,
+    -2.7546
+],
+  "geometry": {"coordinates":[30.2703,-2.7546],"type":"Point"}
+}

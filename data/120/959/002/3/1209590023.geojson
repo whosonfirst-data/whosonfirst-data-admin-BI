@@ -1,0 +1,61 @@
+{
+  "id": 1209590023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1865,-3.7303,30.1865,-3.7303",
+    "geom:latitude":-3.7303,
+    "geom:longitude":30.1865,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kagoma",
+    "gn:country_code":"BI",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424949,
+    "gn:latitude":-3.7303,
+    "gn:longitude":30.1865,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kagoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424949
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"faae0a97260bf45497523243ab628591",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209590023
+        }
+    ],
+    "wof:id":1209590023,
+    "wof:lastmodified":1536282510,
+    "wof:name":"Kagoma",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1865,
+    -3.7303,
+    30.1865,
+    -3.7303
+],
+  "geometry": {"coordinates":[30.1865,-3.7303],"type":"Point"}
+}

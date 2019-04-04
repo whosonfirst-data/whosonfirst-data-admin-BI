@@ -1,0 +1,67 @@
+{
+  "id": 1243030603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6732,-2.8375,29.6732,-2.8375",
+    "geom:latitude":-2.8375,
+    "geom:longitude":29.6732,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mparamirundi",
+    "gn:country_code":"BI",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":430775,
+    "gn:latitude":-2.8375,
+    "gn:longitude":29.6732,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Mparamirundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430775
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6228c2a14fb36ac4fcca5cc73db283fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759341,
+            "locality_id":1243030603,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1243030603,
+    "wof:lastmodified":1536908382,
+    "wof:name":"Mparamirundi",
+    "wof:parent_id":1108759341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6732,
+    -2.8375,
+    29.6732,
+    -2.8375
+],
+  "geometry": {"coordinates":[29.6732,-2.8375],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343933059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8405,-2.8716,29.8405,-2.8716",
+    "geom:latitude":-2.8716,
+    "geom:longitude":29.8405,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Macamba",
+    "gn:country_code":"BI",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430493,
+    "gn:latitude":-2.8716,
+    "gn:longitude":29.8405,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Macamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430493
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"386da0f3018afe6d6765fc29269fe8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759369,
+            "locality_id":1343933059,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1343933059,
+    "wof:lastmodified":1537057098,
+    "wof:name":"Macamba",
+    "wof:parent_id":1108759369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8405,
+    -2.8716,
+    29.8405,
+    -2.8716
+],
+  "geometry": {"coordinates":[29.8405,-2.8716],"type":"Point"}
+}

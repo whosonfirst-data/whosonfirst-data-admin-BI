@@ -1,0 +1,67 @@
+{
+  "id": 1260048515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7324,-3.3627,29.7324,-3.3627",
+    "geom:latitude":-3.3627,
+    "geom:longitude":29.7324,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Buyori",
+    "gn:country_code":"BI",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425721,
+    "gn:latitude":-3.3627,
+    "gn:longitude":29.7324,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Buyori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668801,
+        1108759505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425721
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"df49ea2edcc68d8fd3fd41a743d99d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759505,
+            "locality_id":1260048515,
+            "region_id":85668801
+        }
+    ],
+    "wof:id":1260048515,
+    "wof:lastmodified":1537036948,
+    "wof:name":"Buyori",
+    "wof:parent_id":1108759505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7324,
+    -3.3627,
+    29.7324,
+    -3.3627
+],
+  "geometry": {"coordinates":[29.7324,-3.3627],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276850231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0575,-3.6117,30.0575,-3.6117",
+    "geom:latitude":-3.6117,
+    "geom:longitude":30.0575,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Martyazo",
+    "gn:country_code":"BI",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":424769,
+    "gn:latitude":-3.6117,
+    "gn:longitude":30.0575,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Martyazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424769
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"93396fc6821531901c7496f2d90dce37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759407,
+            "locality_id":1276850231,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1276850231,
+    "wof:lastmodified":1537077751,
+    "wof:name":"Martyazo",
+    "wof:parent_id":1108759407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0575,
+    -3.6117,
+    30.0575,
+    -3.6117
+],
+  "geometry": {"coordinates":[30.0575,-3.6117],"type":"Point"}
+}

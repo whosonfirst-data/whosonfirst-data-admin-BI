@@ -1,0 +1,67 @@
+{
+  "id": 1209703929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.663,-3.0653,30.663,-3.0653",
+    "geom:latitude":-3.0653,
+    "geom:longitude":30.663,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mugera",
+    "gn:country_code":"BI",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427528,
+    "gn:latitude":-3.0653,
+    "gn:longitude":30.663,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mugera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427528
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"f9dee86010ee85578988b7a7f01aa33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759453,
+            "locality_id":1209703929,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1209703929,
+    "wof:lastmodified":1536393720,
+    "wof:name":"Mugera",
+    "wof:parent_id":1108759453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.663,
+    -3.0653,
+    30.663,
+    -3.0653
+],
+  "geometry": {"coordinates":[30.663,-3.0653],"type":"Point"}
+}

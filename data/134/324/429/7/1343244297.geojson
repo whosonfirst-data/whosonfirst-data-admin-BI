@@ -1,0 +1,67 @@
+{
+  "id": 1343244297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0277,-2.6941,30.0277,-2.6941",
+    "geom:latitude":-2.6941,
+    "geom:longitude":30.0277,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rugasa",
+    "gn:country_code":"BI",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432628,
+    "gn:latitude":-2.6941,
+    "gn:longitude":30.0277,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rugasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432628
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"20809544c51f916f0546776bd4085ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1343244297,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1343244297,
+    "wof:lastmodified":1537055889,
+    "wof:name":"Rugasa",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0277,
+    -2.6941,
+    30.0277,
+    -2.6941
+],
+  "geometry": {"coordinates":[30.0277,-2.6941],"type":"Point"}
+}

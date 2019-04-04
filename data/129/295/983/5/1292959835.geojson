@@ -1,0 +1,67 @@
+{
+  "id": 1292959835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3409,-3.7057,30.3409,-3.7057",
+    "geom:latitude":-3.7057,
+    "geom:longitude":30.3409,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kibimba",
+    "gn:country_code":"BI",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425148,
+    "gn:latitude":-3.7057,
+    "gn:longitude":30.3409,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kibimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425148
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"57a5b7b2618a5fd6029b70900f1f9e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759429,
+            "locality_id":1292959835,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1292959835,
+    "wof:lastmodified":1537048759,
+    "wof:name":"Kibimba",
+    "wof:parent_id":1108759429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3409,
+    -3.7057,
+    30.3409,
+    -3.7057
+],
+  "geometry": {"coordinates":[30.3409,-3.7057],"type":"Point"}
+}

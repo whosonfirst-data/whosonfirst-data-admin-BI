@@ -1,0 +1,67 @@
+{
+  "id": 1343226503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3943,-3.233,30.3943,-3.233",
+    "geom:latitude":-3.233,
+    "geom:longitude":30.3943,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kidatemba",
+    "gn:country_code":"BI",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428056,
+    "gn:latitude":-3.233,
+    "gn:longitude":30.3943,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kidatemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428056
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b54780d59f8b53c174e4ada7fc380776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1343226503,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343226503,
+    "wof:lastmodified":1537080977,
+    "wof:name":"Kidatemba",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3943,
+    -3.233,
+    30.3943,
+    -3.233
+],
+  "geometry": {"coordinates":[30.3943,-3.233],"type":"Point"}
+}

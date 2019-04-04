@@ -1,0 +1,67 @@
+{
+  "id": 1259672761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8733,-3.8817,29.8733,-3.8817",
+    "geom:latitude":-3.8817,
+    "geom:longitude":29.8733,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nyabisiga",
+    "gn:country_code":"BI",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7622543,
+    "gn:latitude":-3.8817,
+    "gn:longitude":29.8733,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Nyabisiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622543
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7177eee8a45abe5cbe6def27efdbca34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759543,
+            "locality_id":1259672761,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1259672761,
+    "wof:lastmodified":1537079310,
+    "wof:name":"Nyabisiga",
+    "wof:parent_id":1108759543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8733,
+    -3.8817,
+    29.8733,
+    -3.8817
+],
+  "geometry": {"coordinates":[29.8733,-3.8817],"type":"Point"}
+}

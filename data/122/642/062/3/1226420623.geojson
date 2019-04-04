@@ -1,0 +1,63 @@
+{
+  "id": 1226420623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5295,-3.0764,30.5295,-3.0764",
+    "geom:latitude":-3.0764,
+    "geom:longitude":30.5295,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kigamba",
+    "gn:country_code":"BI",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427541,
+    "gn:latitude":-3.0764,
+    "gn:longitude":30.5295,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kigamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427541
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"12df51d0cdc7b1b0f9252830a0fed4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226420623,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226420623,
+    "wof:lastmodified":1536681686,
+    "wof:name":"Kigamba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5295,
+    -3.0764,
+    30.5295,
+    -3.0764
+],
+  "geometry": {"coordinates":[30.5295,-3.0764],"type":"Point"}
+}

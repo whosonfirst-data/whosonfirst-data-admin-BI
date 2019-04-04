@@ -1,0 +1,67 @@
+{
+  "id": 1310475587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06292,-3.08,30.06292,-3.08",
+    "geom:latitude":-3.08,
+    "geom:longitude":30.06292,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rwinjugushu",
+    "gn:country_code":"BI",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428185,
+    "gn:latitude":-3.08,
+    "gn:longitude":30.06292,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rwinjugushu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428185
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d7655f8227a7d399d7e5a8646e5ffad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759319,
+            "locality_id":1310475587,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1310475587,
+    "wof:lastmodified":1536960048,
+    "wof:name":"Rwinjugushu",
+    "wof:parent_id":1108759319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06292,
+    -3.08,
+    30.06292,
+    -3.08
+],
+  "geometry": {"coordinates":[30.06292,-3.08],"type":"Point"}
+}

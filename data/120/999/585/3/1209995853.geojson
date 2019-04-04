@@ -1,0 +1,67 @@
+{
+  "id": 1209995853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9945,-3.614,29.9945,-3.614",
+    "geom:latitude":-3.614,
+    "geom:longitude":29.9945,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ntita",
+    "gn:country_code":"BI",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424338,
+    "gn:latitude":-3.614,
+    "gn:longitude":29.9945,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Ntita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424338
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"850c229fc71b8dd6d5da6c3137354b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759443,
+            "locality_id":1209995853,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1209995853,
+    "wof:lastmodified":1536383943,
+    "wof:name":"Ntita",
+    "wof:parent_id":1108759443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9945,
+    -3.614,
+    29.9945,
+    -3.614
+],
+  "geometry": {"coordinates":[29.9945,-3.614],"type":"Point"}
+}

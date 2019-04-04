@@ -1,0 +1,67 @@
+{
+  "id": 1343925637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.398,-3.3019,29.398,-3.3019",
+    "geom:latitude":-3.3019,
+    "geom:longitude":29.398,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Cibitoke",
+    "gn:country_code":"BI",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":425273,
+    "gn:latitude":-3.3019,
+    "gn:longitude":29.398,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Cibitoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        421204423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425273
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"89f72daea12762d85ef89e1b4aa92289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421204423,
+            "locality_id":1343925637,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1343925637,
+    "wof:lastmodified":1537067395,
+    "wof:name":"Cibitoke",
+    "wof:parent_id":421204423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.398,
+    -3.3019,
+    29.398,
+    -3.3019
+],
+  "geometry": {"coordinates":[29.398,-3.3019],"type":"Point"}
+}

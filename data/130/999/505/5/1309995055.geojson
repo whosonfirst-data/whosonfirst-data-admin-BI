@@ -1,0 +1,67 @@
+{
+  "id": 1309995055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.54727,-3.69021,29.54727,-3.69021",
+    "geom:latitude":-3.69021,
+    "geom:longitude":29.54727,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mpota",
+    "gn:country_code":"BI",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424058,
+    "gn:latitude":-3.69021,
+    "gn:longitude":29.54727,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mpota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424058
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"5606f57eb43f2f457697b760a89cd37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759463,
+            "locality_id":1309995055,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1309995055,
+    "wof:lastmodified":1536658481,
+    "wof:name":"Mpota",
+    "wof:parent_id":1108759463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.54727,
+    -3.69021,
+    29.54727,
+    -3.69021
+],
+  "geometry": {"coordinates":[29.54727,-3.69021],"type":"Point"}
+}

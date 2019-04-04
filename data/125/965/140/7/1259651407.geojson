@@ -1,0 +1,67 @@
+{
+  "id": 1259651407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5621,-3.4625,29.5621,-3.4625",
+    "geom:latitude":-3.4625,
+    "geom:longitude":29.5621,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mugoyi",
+    "gn:country_code":"BI",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425884,
+    "gn:latitude":-3.4625,
+    "gn:longitude":29.5621,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mugoyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668799,
+        1108759467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425884
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"688a3ae0808f820a373ad920e95bec07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759467,
+            "locality_id":1259651407,
+            "region_id":85668799
+        }
+    ],
+    "wof:id":1259651407,
+    "wof:lastmodified":1536614600,
+    "wof:name":"Mugoyi",
+    "wof:parent_id":1108759467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5621,
+    -3.4625,
+    29.5621,
+    -3.4625
+],
+  "geometry": {"coordinates":[29.5621,-3.4625],"type":"Point"}
+}

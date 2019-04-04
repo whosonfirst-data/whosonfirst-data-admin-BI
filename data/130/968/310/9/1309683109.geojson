@@ -1,0 +1,67 @@
+{
+  "id": 1309683109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2267,-2.9853,30.2267,-2.9853",
+    "geom:latitude":-2.9853,
+    "geom:longitude":30.2267,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marembo",
+    "gn:country_code":"BI",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432336,
+    "gn:latitude":-2.9853,
+    "gn:longitude":30.2267,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Marembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432336
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"86298a326a54b61b1b4681fe9b4d54c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759395,
+            "locality_id":1309683109,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1309683109,
+    "wof:lastmodified":1536608379,
+    "wof:name":"Marembo",
+    "wof:parent_id":1108759395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2267,
+    -2.9853,
+    30.2267,
+    -2.9853
+],
+  "geometry": {"coordinates":[30.2267,-2.9853],"type":"Point"}
+}

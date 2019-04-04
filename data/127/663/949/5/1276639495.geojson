@@ -1,0 +1,71 @@
+{
+  "id": 1276639495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7232,-3.9295,29.7232,-3.9295",
+    "geom:latitude":-3.9295,
+    "geom:longitude":29.7232,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mudaraza",
+    "gn:country_code":"BI",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":423302,
+    "gn:latitude":-3.9295,
+    "gn:longitude":29.7232,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mudaraza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mudafraza",
+        "Mudaraza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668745,
+        1108759339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":423302
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"44cc4eeb982435534536e577cc70cd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759339,
+            "locality_id":1276639495,
+            "region_id":85668745
+        }
+    ],
+    "wof:id":1276639495,
+    "wof:lastmodified":1537587824,
+    "wof:name":"Mudaraza",
+    "wof:parent_id":1108759339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7232,
+    -3.9295,
+    29.7232,
+    -3.9295
+],
+  "geometry": {"coordinates":[29.7232,-3.9295],"type":"Point"}
+}

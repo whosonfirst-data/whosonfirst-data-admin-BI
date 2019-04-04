@@ -1,0 +1,67 @@
+{
+  "id": 1259845003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8314,-2.9879,29.8314,-2.9879",
+    "geom:latitude":-2.9879,
+    "geom:longitude":29.8314,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Makaba",
+    "gn:country_code":"BI",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430709,
+    "gn:latitude":-2.9879,
+    "gn:longitude":29.8314,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Makaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        421201115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430709
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8d9a1924cc3c35e1fcd40548ae1221ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421201115,
+            "locality_id":1259845003,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1259845003,
+    "wof:lastmodified":1536833664,
+    "wof:name":"Makaba",
+    "wof:parent_id":421201115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8314,
+    -2.9879,
+    29.8314,
+    -2.9879
+],
+  "geometry": {"coordinates":[29.8314,-2.9879],"type":"Point"}
+}

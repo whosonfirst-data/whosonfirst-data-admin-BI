@@ -1,0 +1,67 @@
+{
+  "id": 1209904369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7468,-3.0717,30.7468,-3.0717",
+    "geom:latitude":-3.0717,
+    "geom:longitude":30.7468,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rukwega",
+    "gn:country_code":"BI",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427534,
+    "gn:latitude":-3.0717,
+    "gn:longitude":30.7468,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rukwega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427534
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"bc5eee26c59f8b088ce00f8cbd61e4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759453,
+            "locality_id":1209904369,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1209904369,
+    "wof:lastmodified":1536384986,
+    "wof:name":"Rukwega",
+    "wof:parent_id":1108759453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7468,
+    -3.0717,
+    30.7468,
+    -3.0717
+],
+  "geometry": {"coordinates":[30.7468,-3.0717],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226013665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7641,-3.3371,29.7641,-3.3371",
+    "geom:latitude":-3.3371,
+    "geom:longitude":29.7641,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Rushemeza",
+    "gn:country_code":"BI",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426113,
+    "gn:latitude":-3.3371,
+    "gn:longitude":29.7641,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Rushemeza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668797,
+        1108759541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426113
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"38c4b02a93ca32337412f654cdef9bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759541,
+            "locality_id":1226013665,
+            "region_id":85668797
+        }
+    ],
+    "wof:id":1226013665,
+    "wof:lastmodified":1536772128,
+    "wof:name":"Rushemeza",
+    "wof:parent_id":1108759541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7641,
+    -3.3371,
+    29.7641,
+    -3.3371
+],
+  "geometry": {"coordinates":[29.7641,-3.3371],"type":"Point"}
+}

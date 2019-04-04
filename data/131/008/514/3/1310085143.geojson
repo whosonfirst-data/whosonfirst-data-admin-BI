@@ -1,0 +1,67 @@
+{
+  "id": 1310085143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8178,-3.704,29.8178,-3.704",
+    "geom:latitude":-3.704,
+    "geom:longitude":29.8178,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Murama",
+    "gn:country_code":"BI",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424505,
+    "gn:latitude":-3.704,
+    "gn:longitude":29.8178,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Murama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424505
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"6dc335d99527a48dc8648ad93294f529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759549,
+            "locality_id":1310085143,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1310085143,
+    "wof:lastmodified":1537024811,
+    "wof:name":"Murama",
+    "wof:parent_id":1108759549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8178,
+    -3.704,
+    29.8178,
+    -3.704
+],
+  "geometry": {"coordinates":[29.8178,-3.704],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293749243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9641,-3.0109,29.9641,-3.0109",
+    "geom:latitude":-3.0109,
+    "geom:longitude":29.9641,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gaheka",
+    "gn:country_code":"BI",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429222,
+    "gn:latitude":-3.0109,
+    "gn:longitude":29.9641,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gaheka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429222
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"72be5e01a20e28b20a61cae3b0a184ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759535,
+            "locality_id":1293749243,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1293749243,
+    "wof:lastmodified":1536907221,
+    "wof:name":"Gaheka",
+    "wof:parent_id":1108759535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9641,
+    -3.0109,
+    29.9641,
+    -3.0109
+],
+  "geometry": {"coordinates":[29.9641,-3.0109],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209297889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0167,-3.3601,30.0167,-3.3601",
+    "geom:latitude":-3.3601,
+    "geom:longitude":30.0167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kiryama",
+    "gn:country_code":"BI",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":426540,
+    "gn:latitude":-3.3601,
+    "gn:longitude":30.0167,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kiryama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426540
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"85590fa388f419c9e5f39a3ac9e46d43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209297889
+        }
+    ],
+    "wof:id":1209297889,
+    "wof:lastmodified":1536291459,
+    "wof:name":"Kiryama",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0167,
+    -3.3601,
+    30.0167,
+    -3.3601
+],
+  "geometry": {"coordinates":[30.0167,-3.3601],"type":"Point"}
+}

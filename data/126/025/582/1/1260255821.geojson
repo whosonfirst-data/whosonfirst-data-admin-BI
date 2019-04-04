@@ -1,0 +1,67 @@
+{
+  "id": 1260255821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7216,-2.9533,29.7216,-2.9533",
+    "geom:latitude":-2.9533,
+    "geom:longitude":29.7216,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mikoni",
+    "gn:country_code":"BI",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430999,
+    "gn:latitude":-2.9533,
+    "gn:longitude":29.7216,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Mikoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668757,
+        1108759367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430999
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b439e6ee15d4974b2317297a85cc824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759367,
+            "locality_id":1260255821,
+            "region_id":85668757
+        }
+    ],
+    "wof:id":1260255821,
+    "wof:lastmodified":1536749198,
+    "wof:name":"Mikoni",
+    "wof:parent_id":1108759367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7216,
+    -2.9533,
+    29.7216,
+    -2.9533
+],
+  "geometry": {"coordinates":[29.7216,-2.9533],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276188521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0603,-4.1487,30.0603,-4.1487",
+    "geom:latitude":-4.1487,
+    "geom:longitude":30.0603,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mugeregere",
+    "gn:country_code":"BI",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422439,
+    "gn:latitude":-4.1487,
+    "gn:longitude":30.0603,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mugeregere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugelegele",
+        "Mugeregere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668763,
+        1108759417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422439
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"93b72290f386b104d1523b38a2638f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759417,
+            "locality_id":1276188521,
+            "region_id":85668763
+        }
+    ],
+    "wof:id":1276188521,
+    "wof:lastmodified":1537587822,
+    "wof:name":"Mugeregere",
+    "wof:parent_id":1108759417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0603,
+    -4.1487,
+    30.0603,
+    -4.1487
+],
+  "geometry": {"coordinates":[30.0603,-4.1487],"type":"Point"}
+}

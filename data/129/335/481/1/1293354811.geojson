@@ -1,0 +1,70 @@
+{
+  "id": 1293354811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45597,-3.33809,30.45597,-3.33809",
+    "geom:latitude":-3.33809,
+    "geom:longitude":30.45597,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kibonangoma",
+    "gn:country_code":"BI",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426902,
+    "gn:latitude":-3.33809,
+    "gn:longitude":30.45597,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kibonangoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibonangona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426902
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"602376479d28f0949bd230e7bd3a5125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1293354811,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1293354811,
+    "wof:lastmodified":1537587830,
+    "wof:name":"Kibonangoma",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45597,
+    -3.33809,
+    30.45597,
+    -3.33809
+],
+  "geometry": {"coordinates":[30.45597,-3.33809],"type":"Point"}
+}

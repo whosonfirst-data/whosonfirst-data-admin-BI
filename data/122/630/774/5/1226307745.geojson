@@ -1,0 +1,67 @@
+{
+  "id": 1226307745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0018,-3.92467,30.0018,-3.92467",
+    "geom:latitude":-3.92467,
+    "geom:longitude":30.0018,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"SOS Children's Village Rutana",
+    "gn:country_code":"BI",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9178549,
+    "gn:latitude":-3.92467,
+    "gn:longitude":30.0018,
+    "gn:modification_date":"2014-06-30",
+    "gn:name":"SOS Children's Village Rutana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9178549
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ad27697d9872a187b752486d64d9eba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1226307745,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1226307745,
+    "wof:lastmodified":1536843364,
+    "wof:name":"SOS Children's Village Rutana",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0018,
+    -3.92467,
+    30.0018,
+    -3.92467
+],
+  "geometry": {"coordinates":[30.0018,-3.92467],"type":"Point"}
+}

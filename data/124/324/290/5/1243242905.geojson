@@ -1,0 +1,67 @@
+{
+  "id": 1243242905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8348,-3.7028,29.8348,-3.7028",
+    "geom:latitude":-3.7028,
+    "geom:longitude":29.8348,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Muyuga",
+    "gn:country_code":"BI",
+    "gn:dem":1773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":424503,
+    "gn:latitude":-3.7028,
+    "gn:longitude":29.8348,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Muyuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424503
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"14cdf41fcd13287d55a6ffae9b0b9059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759549,
+            "locality_id":1243242905,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1243242905,
+    "wof:lastmodified":1537095694,
+    "wof:name":"Muyuga",
+    "wof:parent_id":1108759549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8348,
+    -3.7028,
+    29.8348,
+    -3.7028
+],
+  "geometry": {"coordinates":[29.8348,-3.7028],"type":"Point"}
+}

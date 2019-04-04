@@ -1,0 +1,67 @@
+{
+  "id": 1310376457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25718,-3.03029,30.25718,-3.03029",
+    "geom:latitude":-3.03029,
+    "geom:longitude":30.25718,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kigarama",
+    "gn:country_code":"BI",
+    "gn:dem":1798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427789,
+    "gn:latitude":-3.03029,
+    "gn:longitude":30.25718,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kigarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427789
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"63e183642c0ca11a9fb81b26d47009ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1310376457,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1310376457,
+    "wof:lastmodified":1536602633,
+    "wof:name":"Kigarama",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25718,
+    -3.03029,
+    30.25718,
+    -3.03029
+],
+  "geometry": {"coordinates":[30.25718,-3.03029],"type":"Point"}
+}

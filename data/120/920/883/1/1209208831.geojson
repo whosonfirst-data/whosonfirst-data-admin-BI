@@ -1,0 +1,61 @@
+{
+  "id": 1209208831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5381,-3.6619,29.5381,-3.6619",
+    "geom:latitude":-3.6619,
+    "geom:longitude":29.5381,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nyagishiha",
+    "gn:country_code":"BI",
+    "gn:dem":2414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424019,
+    "gn:latitude":-3.6619,
+    "gn:longitude":29.5381,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nyagishiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424019
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ebf90a502661eac279d91fc0de6af5bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209208831
+        }
+    ],
+    "wof:id":1209208831,
+    "wof:lastmodified":1536294358,
+    "wof:name":"Nyagishiha",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5381,
+    -3.6619,
+    29.5381,
+    -3.6619
+],
+  "geometry": {"coordinates":[29.5381,-3.6619],"type":"Point"}
+}

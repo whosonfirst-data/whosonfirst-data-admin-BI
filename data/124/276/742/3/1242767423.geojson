@@ -1,0 +1,68 @@
+{
+  "id": 1242767423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3251,-3.1817,29.3251,-3.1817",
+    "geom:latitude":-3.1817,
+    "geom:longitude":29.3251,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Murira",
+    "gn:country_code":"BI",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428644,
+    "gn:latitude":-3.1817,
+    "gn:longitude":29.3251,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Murira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428644,
+        "wk:page":"Murira"
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e3f025bf23c8ad2b61ab4dc107b11755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759377,
+            "locality_id":1242767423,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1242767423,
+    "wof:lastmodified":1537487818,
+    "wof:name":"Murira",
+    "wof:parent_id":1108759377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3251,
+    -3.1817,
+    29.3251,
+    -3.1817
+],
+  "geometry": {"coordinates":[29.3251,-3.1817],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310681299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38963,-2.87302,29.38963,-2.87302",
+    "geom:latitude":-2.87302,
+    "geom:longitude":29.38963,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kirumura",
+    "gn:country_code":"BI",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429709,
+    "gn:latitude":-2.87302,
+    "gn:longitude":29.38963,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kirumura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429709
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d363aec9679de1f3c7f6af2d1e24c4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759331,
+            "locality_id":1310681299,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1310681299,
+    "wof:lastmodified":1536663354,
+    "wof:name":"Kirumura",
+    "wof:parent_id":1108759331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38963,
+    -2.87302,
+    29.38963,
+    -2.87302
+],
+  "geometry": {"coordinates":[29.38963,-2.87302],"type":"Point"}
+}

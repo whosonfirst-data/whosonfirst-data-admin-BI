@@ -1,0 +1,70 @@
+{
+  "id": 1343726493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36556,-3.21691,30.36556,-3.21691",
+    "geom:latitude":-3.21691,
+    "geom:longitude":30.36556,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gitohwe",
+    "gn:country_code":"BI",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428025,
+    "gn:latitude":-3.21691,
+    "gn:longitude":30.36556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gitohwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gitonwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428025
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"72fdd45c0a8e770c85df6a5638b53ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759359,
+            "locality_id":1343726493,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343726493,
+    "wof:lastmodified":1537587831,
+    "wof:name":"Gitohwe",
+    "wof:parent_id":1108759359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36556,
+    -3.21691,
+    30.36556,
+    -3.21691
+],
+  "geometry": {"coordinates":[30.36556,-3.21691],"type":"Point"}
+}

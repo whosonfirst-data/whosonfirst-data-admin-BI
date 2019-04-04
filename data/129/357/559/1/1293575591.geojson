@@ -1,0 +1,67 @@
+{
+  "id": 1293575591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8844,-3.6333,29.8844,-3.6333",
+    "geom:latitude":-3.6333,
+    "geom:longitude":29.8844,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Remera",
+    "gn:country_code":"BI",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":424366,
+    "gn:latitude":-3.6333,
+    "gn:longitude":29.8844,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Remera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":424366
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"d86ebd557d2d2ee5294e1c36cf3f6930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759389,
+            "locality_id":1293575591,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1293575591,
+    "wof:lastmodified":1536660174,
+    "wof:name":"Remera",
+    "wof:parent_id":1108759389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8844,
+    -3.6333,
+    29.8844,
+    -3.6333
+],
+  "geometry": {"coordinates":[29.8844,-3.6333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276839605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1657,-2.5232,30.1657,-2.5232",
+    "geom:latitude":-2.5232,
+    "geom:longitude":30.1657,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Renda",
+    "gn:country_code":"BI",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432377,
+    "gn:latitude":-2.5232,
+    "gn:longitude":30.1657,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Renda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432377
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"953c3aa22a9796e36011a3d0cdabb904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759343,
+            "locality_id":1276839605,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1276839605,
+    "wof:lastmodified":1537091900,
+    "wof:name":"Renda",
+    "wof:parent_id":1108759343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1657,
+    -2.5232,
+    30.1657,
+    -2.5232
+],
+  "geometry": {"coordinates":[30.1657,-2.5232],"type":"Point"}
+}

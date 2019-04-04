@@ -1,0 +1,71 @@
+{
+  "id": 1259956365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9097,-3.0879,29.9097,-3.0879",
+    "geom:latitude":-3.0879,
+    "geom:longitude":29.9097,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nyangwe",
+    "gn:country_code":"BI",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429358,
+    "gn:latitude":-3.0879,
+    "gn:longitude":29.9097,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nyangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyangwa",
+        "Nyangwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429358
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"94fdace0247a7a7452db412b220cc2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1259956365,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1259956365,
+    "wof:lastmodified":1537587833,
+    "wof:name":"Nyangwe",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9097,
+    -3.0879,
+    29.9097,
+    -3.0879
+],
+  "geometry": {"coordinates":[29.9097,-3.0879],"type":"Point"}
+}

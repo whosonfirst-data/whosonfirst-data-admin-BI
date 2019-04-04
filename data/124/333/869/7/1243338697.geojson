@@ -1,0 +1,71 @@
+{
+  "id": 1243338697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8848,-2.9496,29.8848,-2.9496",
+    "geom:latitude":-2.9496,
+    "geom:longitude":29.8848,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bwiza-Bweranka",
+    "gn:country_code":"BI",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":430638,
+    "gn:latitude":-2.9496,
+    "gn:longitude":29.8848,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bwiza-Bweranka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bwiza",
+        "Bweranka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        421201115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430638
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"7c0c80842438c8f8e133d06677c088a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421201115,
+            "locality_id":1243338697,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1243338697,
+    "wof:lastmodified":1537587834,
+    "wof:name":"Bwiza-Bweranka",
+    "wof:parent_id":421201115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8848,
+    -2.9496,
+    29.8848,
+    -2.9496
+],
+  "geometry": {"coordinates":[29.8848,-2.9496],"type":"Point"}
+}

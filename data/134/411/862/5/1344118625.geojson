@@ -1,0 +1,67 @@
+{
+  "id": 1344118625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18786,-3.94129,30.18786,-3.94129",
+    "geom:latitude":-3.94129,
+    "geom:longitude":30.18786,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Buhumbi",
+    "gn:country_code":"BI",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422951,
+    "gn:latitude":-3.94129,
+    "gn:longitude":30.18786,
+    "gn:modification_date":"2009-10-28",
+    "gn:name":"Buhumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422951
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"33e136cace4e49178ecb0c083e5a8b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1344118625,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1344118625,
+    "wof:lastmodified":1536792147,
+    "wof:name":"Buhumbi",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18786,
+    -3.94129,
+    30.18786,
+    -3.94129
+],
+  "geometry": {"coordinates":[30.18786,-3.94129],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226221727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9764,-3.2186,29.9764,-3.2186",
+    "geom:latitude":-3.2186,
+    "geom:longitude":29.9764,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gatunguru",
+    "gn:country_code":"BI",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429554,
+    "gn:latitude":-3.2186,
+    "gn:longitude":29.9764,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gatunguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429554
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"ff11906d9354ba61cedd400e31e65ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759317,
+            "locality_id":1226221727,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1226221727,
+    "wof:lastmodified":1536968019,
+    "wof:name":"Gatunguru",
+    "wof:parent_id":1108759317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9764,
+    -3.2186,
+    29.9764,
+    -3.2186
+],
+  "geometry": {"coordinates":[29.9764,-3.2186],"type":"Point"}
+}

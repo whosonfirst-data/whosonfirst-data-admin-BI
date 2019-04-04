@@ -1,0 +1,67 @@
+{
+  "id": 1243530375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3076,-2.7318,30.3076,-2.7318",
+    "geom:latitude":-2.7318,
+    "geom:longitude":30.3076,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kabuyogoma",
+    "gn:country_code":"BI",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431605,
+    "gn:latitude":-2.7318,
+    "gn:longitude":30.3076,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kabuyogoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431605
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"a5bce24d650d8937a8525ef3adcfab0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759353,
+            "locality_id":1243530375,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1243530375,
+    "wof:lastmodified":1536684596,
+    "wof:name":"Kabuyogoma",
+    "wof:parent_id":1108759353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3076,
+    -2.7318,
+    30.3076,
+    -2.7318
+],
+  "geometry": {"coordinates":[30.3076,-2.7318],"type":"Point"}
+}

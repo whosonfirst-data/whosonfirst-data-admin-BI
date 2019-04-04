@@ -1,0 +1,67 @@
+{
+  "id": 1226031199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8982,-3.1952,29.8982,-3.1952",
+    "geom:latitude":-3.1952,
+    "geom:longitude":29.8982,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Murogwe",
+    "gn:country_code":"BI",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306394,
+    "gn:latitude":-3.1952,
+    "gn:longitude":29.8982,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Murogwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306394
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"aa5ffac98f8e9785d0185bfd9abdafd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759493,
+            "locality_id":1226031199,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1226031199,
+    "wof:lastmodified":1536745872,
+    "wof:name":"Murogwe",
+    "wof:parent_id":1108759493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8982,
+    -3.1952,
+    29.8982,
+    -3.1952
+],
+  "geometry": {"coordinates":[29.8982,-3.1952],"type":"Point"}
+}

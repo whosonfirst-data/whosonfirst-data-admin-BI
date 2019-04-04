@@ -1,0 +1,67 @@
+{
+  "id": 1310269667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2291,-3.8668,30.2291,-3.8668",
+    "geom:latitude":-3.8668,
+    "geom:longitude":30.2291,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gasunu",
+    "gn:country_code":"BI",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422859,
+    "gn:latitude":-3.8668,
+    "gn:longitude":30.2291,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Gasunu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        1108759379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422859
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"4cf096686c6850df9c742d6f31553d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759379,
+            "locality_id":1310269667,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1310269667,
+    "wof:lastmodified":1536759903,
+    "wof:name":"Gasunu",
+    "wof:parent_id":1108759379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2291,
+    -3.8668,
+    30.2291,
+    -3.8668
+],
+  "geometry": {"coordinates":[30.2291,-3.8668],"type":"Point"}
+}

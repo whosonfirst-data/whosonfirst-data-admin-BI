@@ -1,0 +1,67 @@
+{
+  "id": 1259359017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3624,-2.6075,30.3624,-2.6075",
+    "geom:latitude":-2.6075,
+    "geom:longitude":30.3624,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kungoma",
+    "gn:country_code":"BI",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431453,
+    "gn:latitude":-2.6075,
+    "gn:longitude":30.3624,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kungoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431453
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c8889f98327c7da37fffab99e32ed1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759353,
+            "locality_id":1259359017,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1259359017,
+    "wof:lastmodified":1537035985,
+    "wof:name":"Kungoma",
+    "wof:parent_id":1108759353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3624,
+    -2.6075,
+    30.3624,
+    -2.6075
+],
+  "geometry": {"coordinates":[30.3624,-2.6075],"type":"Point"}
+}

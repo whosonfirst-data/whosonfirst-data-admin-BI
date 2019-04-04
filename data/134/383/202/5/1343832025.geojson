@@ -1,0 +1,67 @@
+{
+  "id": 1343832025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3133,-3.6786,30.3133,-3.6786",
+    "geom:latitude":-3.6786,
+    "geom:longitude":30.3133,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kibari",
+    "gn:country_code":"BI",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425132,
+    "gn:latitude":-3.6786,
+    "gn:longitude":30.3133,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kibari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425132
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0c736503ed53088ba53881fe609febdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759429,
+            "locality_id":1343832025,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343832025,
+    "wof:lastmodified":1536708007,
+    "wof:name":"Kibari",
+    "wof:parent_id":1108759429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3133,
+    -3.6786,
+    30.3133,
+    -3.6786
+],
+  "geometry": {"coordinates":[30.3133,-3.6786],"type":"Point"}
+}

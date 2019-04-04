@@ -1,0 +1,67 @@
+{
+  "id": 1309686631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9136,-3.84,29.9136,-3.84",
+    "geom:latitude":-3.84,
+    "geom:longitude":29.9136,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gashirwe",
+    "gn:country_code":"BI",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7622397,
+    "gn:latitude":-3.84,
+    "gn:longitude":29.9136,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Gashirwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668731,
+        421196575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622397
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"766090359d587094dcfab9a991210252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421196575,
+            "locality_id":1309686631,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":1309686631,
+    "wof:lastmodified":1536602918,
+    "wof:name":"Gashirwe",
+    "wof:parent_id":421196575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9136,
+    -3.84,
+    29.9136,
+    -3.84
+],
+  "geometry": {"coordinates":[29.9136,-3.84],"type":"Point"}
+}

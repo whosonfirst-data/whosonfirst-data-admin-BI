@@ -1,0 +1,67 @@
+{
+  "id": 1293849537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.009,-2.7236,30.009,-2.7236",
+    "geom:latitude":-2.7236,
+    "geom:longitude":30.009,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Majuri",
+    "gn:country_code":"BI",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432678,
+    "gn:latitude":-2.7236,
+    "gn:longitude":30.009,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Majuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432678
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c4262aefa7b4e5488d42ea72665da594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759445,
+            "locality_id":1293849537,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1293849537,
+    "wof:lastmodified":1536762655,
+    "wof:name":"Majuri",
+    "wof:parent_id":1108759445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.009,
+    -2.7236,
+    30.009,
+    -2.7236
+],
+  "geometry": {"coordinates":[30.009,-2.7236],"type":"Point"}
+}

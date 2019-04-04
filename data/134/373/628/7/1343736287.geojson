@@ -1,0 +1,67 @@
+{
+  "id": 1343736287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4421,-3.5543,30.4421,-3.5543",
+    "geom:latitude":-3.5543,
+    "geom:longitude":30.4421,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nyamirambo",
+    "gn:country_code":"BI",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425056,
+    "gn:latitude":-3.5543,
+    "gn:longitude":30.4421,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Nyamirambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668735,
+        1108759393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425056
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"b05bb01953b4799974141c28d83878cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759393,
+            "locality_id":1343736287,
+            "region_id":85668735
+        }
+    ],
+    "wof:id":1343736287,
+    "wof:lastmodified":1536844731,
+    "wof:name":"Nyamirambo",
+    "wof:parent_id":1108759393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4421,
+    -3.5543,
+    30.4421,
+    -3.5543
+],
+  "geometry": {"coordinates":[30.4421,-3.5543],"type":"Point"}
+}

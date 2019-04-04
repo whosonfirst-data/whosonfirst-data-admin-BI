@@ -1,0 +1,61 @@
+{
+  "id": 1209064683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6195,-3.4426,29.6195,-3.4426",
+    "geom:latitude":-3.4426,
+    "geom:longitude":29.6195,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Gahetsi",
+    "gn:country_code":"BI",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":425856,
+    "gn:latitude":-3.4426,
+    "gn:longitude":29.6195,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Gahetsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425856
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"01cb1f1d98df820343fd2d08d5e859a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632285,
+            "locality_id":1209064683
+        }
+    ],
+    "wof:id":1209064683,
+    "wof:lastmodified":1536298842,
+    "wof:name":"Gahetsi",
+    "wof:parent_id":85632285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6195,
+    -3.4426,
+    29.6195,
+    -3.4426
+],
+  "geometry": {"coordinates":[29.6195,-3.4426],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310696403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4473,-2.9804,29.4473,-2.9804",
+    "geom:latitude":-2.9804,
+    "geom:longitude":29.4473,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gihinga",
+    "gn:country_code":"BI",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429861,
+    "gn:latitude":-2.9804,
+    "gn:longitude":29.4473,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Gihinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429861
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e29d5c26055a00fe72450e4eb34a1871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759487,
+            "locality_id":1310696403,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1310696403,
+    "wof:lastmodified":1536640622,
+    "wof:name":"Gihinga",
+    "wof:parent_id":1108759487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4473,
+    -2.9804,
+    29.4473,
+    -2.9804
+],
+  "geometry": {"coordinates":[29.4473,-2.9804],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259556101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1029,-2.7401,30.1029,-2.7401",
+    "geom:latitude":-2.7401,
+    "geom:longitude":30.1029,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mihama",
+    "gn:country_code":"BI",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":432708,
+    "gn:latitude":-2.7401,
+    "gn:longitude":30.1029,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mihama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668783,
+        1108759559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432708
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c4f5439bb1996802e30ca65fce479198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759559,
+            "locality_id":1259556101,
+            "region_id":85668783
+        }
+    ],
+    "wof:id":1259556101,
+    "wof:lastmodified":1536754427,
+    "wof:name":"Mihama",
+    "wof:parent_id":1108759559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1029,
+    -2.7401,
+    30.1029,
+    -2.7401
+],
+  "geometry": {"coordinates":[30.1029,-2.7401],"type":"Point"}
+}

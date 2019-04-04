@@ -1,0 +1,67 @@
+{
+  "id": 1209982775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3718,-2.6736,30.3718,-2.6736",
+    "geom:latitude":-2.6736,
+    "geom:longitude":30.3718,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wingoma",
+    "gn:country_code":"BI",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":431527,
+    "gn:latitude":-2.6736,
+    "gn:longitude":30.3718,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Wingoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":431527
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"e6c1e4a05adda11dec22fd887cd38bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759353,
+            "locality_id":1209982775,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1209982775,
+    "wof:lastmodified":1536389972,
+    "wof:name":"Wingoma",
+    "wof:parent_id":1108759353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3718,
+    -2.6736,
+    30.3718,
+    -2.6736
+],
+  "geometry": {"coordinates":[30.3718,-2.6736],"type":"Point"}
+}

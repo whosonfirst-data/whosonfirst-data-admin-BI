@@ -1,0 +1,67 @@
+{
+  "id": 1310282283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2554,-2.9683,29.2554,-2.9683",
+    "geom:latitude":-2.9683,
+    "geom:longitude":29.2554,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mutumba",
+    "gn:country_code":"BI",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":429842,
+    "gn:latitude":-2.9683,
+    "gn:longitude":29.2554,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Mutumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668749,
+        1108759313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429842
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"12558ea1d15d6411a45e496e3f1549fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759313,
+            "locality_id":1310282283,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":1310282283,
+    "wof:lastmodified":1536741255,
+    "wof:name":"Mutumba",
+    "wof:parent_id":1108759313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2554,
+    -2.9683,
+    29.2554,
+    -2.9683
+],
+  "geometry": {"coordinates":[29.2554,-2.9683],"type":"Point"}
+}

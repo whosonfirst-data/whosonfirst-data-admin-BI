@@ -1,0 +1,67 @@
+{
+  "id": 1293583749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3748,-3.0911,29.3748,-3.0911",
+    "geom:latitude":-3.0911,
+    "geom:longitude":29.3748,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rusagamba",
+    "gn:country_code":"BI",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":428533,
+    "gn:latitude":-3.0911,
+    "gn:longitude":29.3748,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Rusagamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668739,
+        1108759307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428533
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"af835e60701b26ff4272184f2168e4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759307,
+            "locality_id":1293583749,
+            "region_id":85668739
+        }
+    ],
+    "wof:id":1293583749,
+    "wof:lastmodified":1536648021,
+    "wof:name":"Rusagamba",
+    "wof:parent_id":1108759307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3748,
+    -3.0911,
+    29.3748,
+    -3.0911
+],
+  "geometry": {"coordinates":[29.3748,-3.0911],"type":"Point"}
+}

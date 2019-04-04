@@ -1,0 +1,67 @@
+{
+  "id": 1226230385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48307,-3.26844,30.48307,-3.26844",
+    "geom:latitude":-3.26844,
+    "geom:longitude":30.48307,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kigende",
+    "gn:country_code":"BI",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":426787,
+    "gn:latitude":-3.26844,
+    "gn:longitude":30.48307,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kigende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":426787
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"585d4c540c1490721ba639fd44671026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759361,
+            "locality_id":1226230385,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1226230385,
+    "wof:lastmodified":1536955859,
+    "wof:name":"Kigende",
+    "wof:parent_id":1108759361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48307,
+    -3.26844,
+    30.48307,
+    -3.26844
+],
+  "geometry": {"coordinates":[30.48307,-3.26844],"type":"Point"}
+}

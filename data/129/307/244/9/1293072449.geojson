@@ -1,0 +1,67 @@
+{
+  "id": 1293072449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8777,-3.7716,29.8777,-3.7716",
+    "geom:latitude":-3.7716,
+    "geom:longitude":29.8777,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kirinzi",
+    "gn:country_code":"BI",
+    "gn:dem":1895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":422485,
+    "gn:latitude":-3.7716,
+    "gn:longitude":29.8777,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kirinzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668753,
+        1108759337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":422485
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"0455ec7dccdd8e7f072384526d11b845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759337,
+            "locality_id":1293072449,
+            "region_id":85668753
+        }
+    ],
+    "wof:id":1293072449,
+    "wof:lastmodified":1536888122,
+    "wof:name":"Kirinzi",
+    "wof:parent_id":1108759337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8777,
+    -3.7716,
+    29.8777,
+    -3.7716
+],
+  "geometry": {"coordinates":[29.8777,-3.7716],"type":"Point"}
+}

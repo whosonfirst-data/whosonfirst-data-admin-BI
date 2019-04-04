@@ -1,0 +1,67 @@
+{
+  "id": 1243150387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5889,-3.2841,30.5889,-3.2841",
+    "geom:latitude":-3.2841,
+    "geom:longitude":30.5889,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kibande",
+    "gn:country_code":"BI",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":427191,
+    "gn:latitude":-3.2841,
+    "gn:longitude":30.5889,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Kibande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668725,
+        1108759363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427191
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"319d4d9c60f9294ad071aafed8534106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759363,
+            "locality_id":1243150387,
+            "region_id":85668725
+        }
+    ],
+    "wof:id":1243150387,
+    "wof:lastmodified":1536735557,
+    "wof:name":"Kibande",
+    "wof:parent_id":1108759363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5889,
+    -3.2841,
+    30.5889,
+    -3.2841
+],
+  "geometry": {"coordinates":[30.5889,-3.2841],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276523651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2814,-3.0992,30.2814,-3.0992",
+    "geom:latitude":-3.0992,
+    "geom:longitude":30.2814,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muryamvubu",
+    "gn:country_code":"BI",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":427891,
+    "gn:latitude":-3.0992,
+    "gn:longitude":30.2814,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Muryamvubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":427891
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"505435dc5a8a668f8b1a840eb211a6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759501,
+            "locality_id":1276523651,
+            "region_id":85668787
+        }
+    ],
+    "wof:id":1276523651,
+    "wof:lastmodified":1537020146,
+    "wof:name":"Muryamvubu",
+    "wof:parent_id":1108759501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2814,
+    -3.0992,
+    30.2814,
+    -3.0992
+],
+  "geometry": {"coordinates":[30.2814,-3.0992],"type":"Point"}
+}

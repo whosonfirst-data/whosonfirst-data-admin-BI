@@ -1,0 +1,67 @@
+{
+  "id": 1293560063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24454,-3.00889,30.24454,-3.00889",
+    "geom:latitude":-3.00889,
+    "geom:longitude":30.24454,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gikombe",
+    "gn:country_code":"BI",
+    "gn:dem":1654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":428087,
+    "gn:latitude":-3.00889,
+    "gn:longitude":30.24454,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gikombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668727,
+        1108759321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":428087
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"c9d3be7f9dfc1d904e100bd7ef9e024a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759321,
+            "locality_id":1293560063,
+            "region_id":85668727
+        }
+    ],
+    "wof:id":1293560063,
+    "wof:lastmodified":1536682502,
+    "wof:name":"Gikombe",
+    "wof:parent_id":1108759321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24454,
+    -3.00889,
+    30.24454,
+    -3.00889
+],
+  "geometry": {"coordinates":[30.24454,-3.00889],"type":"Point"}
+}

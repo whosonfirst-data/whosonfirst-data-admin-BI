@@ -1,0 +1,67 @@
+{
+  "id": 1226824289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7426,-2.8414,29.7426,-2.8414",
+    "geom:latitude":-2.8414,
+    "geom:longitude":29.7426,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Muremera",
+    "gn:country_code":"BI",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":430784,
+    "gn:latitude":-2.8414,
+    "gn:longitude":29.7426,
+    "gn:modification_date":"2009-10-26",
+    "gn:name":"Muremera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bujumbura",
+    "iso:country":"BI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668781,
+        1108759341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":430784
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"287bc07abc8893774a85cc23a0752179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759341,
+            "locality_id":1226824289,
+            "region_id":85668781
+        }
+    ],
+    "wof:id":1226824289,
+    "wof:lastmodified":1537096039,
+    "wof:name":"Muremera",
+    "wof:parent_id":1108759341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7426,
+    -2.8414,
+    29.7426,
+    -2.8414
+],
+  "geometry": {"coordinates":[29.7426,-2.8414],"type":"Point"}
+}
