@@ -10,6 +10,12 @@
     "geom:latitude":-2.98153,
     "geom:longitude":30.358794,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Buhinyuza Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.99019,
     "lbl:longitude":30.360351,
     "meso:adm1_en":"Muyinga",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759323,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718713,
     "wof:name":"Buhinyuza",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

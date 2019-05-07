@@ -10,6 +10,12 @@
     "geom:latitude":-3.364994,
     "geom:longitude":30.192332,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Butezi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.349354,
     "lbl:longitude":30.257178,
     "meso:adm1_en":"Ruyigi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759351,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Butezi",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

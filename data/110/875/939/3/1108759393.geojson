@@ -10,6 +10,12 @@
     "geom:latitude":-3.445958,
     "geom:longitude":30.498205,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Gisuru Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.440772,
     "lbl:longitude":30.495633,
     "meso:adm1_en":"Ruyigi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759393,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718714,
     "wof:name":"Gisuru",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

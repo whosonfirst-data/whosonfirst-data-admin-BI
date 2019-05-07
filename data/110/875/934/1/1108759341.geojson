@@ -10,6 +10,12 @@
     "geom:latitude":-2.857914,
     "geom:longitude":29.710086,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Busiga Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.851689,
     "lbl:longitude":29.725439,
     "meso:adm1_en":"Ngozi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759341,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Busiga",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

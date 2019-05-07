@@ -10,6 +10,12 @@
     "geom:latitude":-3.530587,
     "geom:longitude":29.369833,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Kabezi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.529887,
     "lbl:longitude":29.370622,
     "meso:adm1_en":"Bujumbura Rural",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759411,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718715,
     "wof:name":"Kabezi",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

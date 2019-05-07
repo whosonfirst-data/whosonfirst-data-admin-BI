@@ -10,6 +10,12 @@
     "geom:latitude":-3.670348,
     "geom:longitude":29.586604,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mugamba Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.662396,
     "lbl:longitude":29.586604,
     "meso:adm1_en":"Bururi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759463,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mugamba",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

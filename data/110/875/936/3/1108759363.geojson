@@ -10,6 +10,12 @@
     "geom:latitude":-3.310538,
     "geom:longitude":30.60657,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Cendajuru Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.312172,
     "lbl:longitude":30.607834,
     "meso:adm1_en":"Cankuzo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759363,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718714,
     "wof:name":"Cendajuru",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.82166,
     "geom:longitude":29.094503,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Rugombo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.820484,
     "lbl:longitude":29.092778,
     "meso:adm1_en":"Cibitoke",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759533,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718717,
     "wof:name":"Rugombo",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

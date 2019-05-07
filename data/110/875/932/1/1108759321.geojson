@@ -10,6 +10,12 @@
     "geom:latitude":-3.085492,
     "geom:longitude":30.187614,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Buhiga Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.080314,
     "lbl:longitude":30.194317,
     "meso:adm1_en":"Karuzi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759321,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718713,
     "wof:name":"Buhiga",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

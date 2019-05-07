@@ -10,6 +10,12 @@
     "geom:latitude":-3.045141,
     "geom:longitude":29.456777,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Musigati Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.050416,
     "lbl:longitude":29.457884,
     "meso:adm1_en":"Bubanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759487,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718717,
     "wof:name":"Musigati",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

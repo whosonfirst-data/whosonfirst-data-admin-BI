@@ -10,6 +10,12 @@
     "geom:latitude":-3.43674,
     "geom:longitude":29.358587,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Muha Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.437044,
     "lbl:longitude":29.359118,
     "meso:adm1_en":"Bujumbura Mairie",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759469,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Muha",
     "wof:parent_id":85668791,
     "wof:placetype":"county",

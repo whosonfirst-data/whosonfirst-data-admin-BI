@@ -10,6 +10,12 @@
     "geom:latitude":-3.363488,
     "geom:longitude":29.470307,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Isale Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.357602,
     "lbl:longitude":29.465472,
     "meso:adm1_en":"Bujumbura Rural",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759405,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718714,
     "wof:name":"Isale",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

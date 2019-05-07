@@ -10,6 +10,12 @@
     "geom:latitude":-3.798641,
     "geom:longitude":29.452423,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Burambi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.788252,
     "lbl:longitude":29.453795,
     "meso:adm1_en":"Rumonge",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759335,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718713,
     "wof:name":"Burambi",
     "wof:parent_id":1108803107,
     "wof:placetype":"county",

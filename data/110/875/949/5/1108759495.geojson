@@ -10,6 +10,12 @@
     "geom:latitude":-3.5285,
     "geom:longitude":29.43279,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mutambu Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.529534,
     "lbl:longitude":29.441689,
     "meso:adm1_en":"Bujumbura Rural",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759495,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mutambu",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

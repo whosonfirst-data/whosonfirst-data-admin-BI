@@ -10,6 +10,12 @@
     "geom:latitude":-3.185867,
     "geom:longitude":29.408516,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mpanda Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.160983,
     "lbl:longitude":29.420576,
     "meso:adm1_en":"Bubanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759457,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mpanda",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

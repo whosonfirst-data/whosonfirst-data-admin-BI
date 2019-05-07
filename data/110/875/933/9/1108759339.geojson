@@ -10,6 +10,12 @@
     "geom:latitude":-3.963275,
     "geom:longitude":29.673862,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bururi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.959587,
     "lbl:longitude":29.67617,
     "meso:adm1_en":"Bururi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759339,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Bururi",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

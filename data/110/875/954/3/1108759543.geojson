@@ -10,6 +10,12 @@
     "geom:latitude":-3.878173,
     "geom:longitude":29.831989,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Rutovu Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.859011,
     "lbl:longitude":29.837796,
     "meso:adm1_en":"Bururi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759543,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Rutovu",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

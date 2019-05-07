@@ -10,6 +10,12 @@
     "geom:latitude":-3.336233,
     "geom:longitude":29.882025,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Giheta Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.342725,
     "lbl:longitude":29.880382,
     "meso:adm1_en":"Gitega",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759381,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718714,
     "wof:name":"Giheta",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

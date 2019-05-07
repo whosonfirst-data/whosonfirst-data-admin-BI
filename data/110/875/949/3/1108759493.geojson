@@ -10,6 +10,12 @@
     "geom:latitude":-3.144877,
     "geom:longitude":29.866504,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mutaho Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.100168,
     "lbl:longitude":29.877127,
     "meso:adm1_en":"Gitega",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759493,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mutaho",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.391557,
     "geom:longitude":29.753431,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Ndava Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.37579,
     "lbl:longitude":29.791867,
     "meso:adm1_en":"Mwaro",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759505,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718717,
     "wof:name":"Ndava",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

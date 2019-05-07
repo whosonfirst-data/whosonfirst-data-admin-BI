@@ -10,6 +10,12 @@
     "geom:latitude":-2.700838,
     "geom:longitude":30.093543,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Vumbi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.719282,
     "lbl:longitude":30.094929,
     "meso:adm1_en":"Kirundo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759559,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Vumbi",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

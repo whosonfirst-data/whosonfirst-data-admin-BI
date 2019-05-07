@@ -10,6 +10,12 @@
     "geom:latitude":-3.85336,
     "geom:longitude":29.667589,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Songa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.85737,
     "lbl:longitude":29.665848,
     "meso:adm1_en":"Bururi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759553,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Songa",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

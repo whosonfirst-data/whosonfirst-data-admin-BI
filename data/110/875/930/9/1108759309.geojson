@@ -10,6 +10,12 @@
     "geom:latitude":-2.429716,
     "geom:longitude":30.019506,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bugabira Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.431746,
     "lbl:longitude":30.021019,
     "meso:adm1_en":"Kirundo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759309,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718712,
     "wof:name":"Bugabira",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

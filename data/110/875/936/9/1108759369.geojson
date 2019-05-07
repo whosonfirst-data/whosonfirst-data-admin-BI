@@ -10,6 +10,12 @@
     "geom:latitude":-2.896168,
     "geom:longitude":29.909653,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Gashikanwa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.900411,
     "lbl:longitude":29.90277,
     "meso:adm1_en":"Ngozi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759369,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718714,
     "wof:name":"Gashikanwa",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

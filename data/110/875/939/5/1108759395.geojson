@@ -10,6 +10,12 @@
     "geom:latitude":-2.975034,
     "geom:longitude":30.163167,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Gitaramuka Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.971701,
     "lbl:longitude":30.161344,
     "meso:adm1_en":"Karuzi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759395,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718714,
     "wof:name":"Gitaramuka",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

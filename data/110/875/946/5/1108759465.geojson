@@ -10,6 +10,12 @@
     "geom:latitude":-2.692257,
     "geom:longitude":29.12169,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mugina Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.669914,
     "lbl:longitude":29.114578,
     "meso:adm1_en":"Cibitoke",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759465,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mugina",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

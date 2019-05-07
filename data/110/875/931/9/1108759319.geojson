@@ -10,6 +10,12 @@
     "geom:latitude":-3.078736,
     "geom:longitude":30.06062,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bugenyuzi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.095721,
     "lbl:longitude":30.066809,
     "meso:adm1_en":"Karuzi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759319,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718712,
     "wof:name":"Bugenyuzi",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

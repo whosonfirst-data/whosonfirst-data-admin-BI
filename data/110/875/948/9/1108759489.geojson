@@ -10,6 +10,12 @@
     "geom:latitude":-3.755145,
     "geom:longitude":30.069588,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Musongati Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.760352,
     "lbl:longitude":30.052934,
     "meso:adm1_en":"Rutana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759489,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Musongati",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

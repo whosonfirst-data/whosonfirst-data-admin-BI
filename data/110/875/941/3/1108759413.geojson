@@ -10,6 +10,12 @@
     "geom:latitude":-3.430745,
     "geom:longitude":29.415276,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Kanyosha1 Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.431739,
     "lbl:longitude":29.416057,
     "meso:adm1_en":"Bujumbura Rural",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759413,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718715,
     "wof:name":"Kanyosha1",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

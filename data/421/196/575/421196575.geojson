@@ -10,6 +10,12 @@
     "geom:latitude":-3.886803,
     "geom:longitude":29.983377,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Rutana Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.8903,
     "lbl:longitude":29.982077,
     "meso:adm1_en":"Rutana",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421196575,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1553717537,
     "wof:name":"Rutana",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

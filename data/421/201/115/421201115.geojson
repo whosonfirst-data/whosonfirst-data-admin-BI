@@ -10,6 +10,12 @@
     "geom:latitude":-2.950272,
     "geom:longitude":29.826904,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Ngozi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.949397,
     "lbl:longitude":29.81065,
     "meso:adm1_en":"Ngozi",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421201115,
-    "wof:lastmodified":1536616139,
+    "wof:lastmodified":1553717554,
     "wof:name":"Ngozi",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

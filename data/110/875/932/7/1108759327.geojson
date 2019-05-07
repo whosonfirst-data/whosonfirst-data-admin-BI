@@ -10,6 +10,12 @@
     "geom:latitude":-3.192886,
     "geom:longitude":29.604324,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bukeye Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.192023,
     "lbl:longitude":29.598136,
     "meso:adm1_en":"Muramvya",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759327,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718713,
     "wof:name":"Bukeye",
     "wof:parent_id":85668797,
     "wof:placetype":"county",

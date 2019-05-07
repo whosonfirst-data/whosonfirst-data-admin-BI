@@ -10,6 +10,12 @@
     "geom:latitude":-3.623513,
     "geom:longitude":29.415219,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Muhuta Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.621523,
     "lbl:longitude":29.416448,
     "meso:adm1_en":"Rumonge",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759475,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Muhuta",
     "wof:parent_id":1108803107,
     "wof:placetype":"county",

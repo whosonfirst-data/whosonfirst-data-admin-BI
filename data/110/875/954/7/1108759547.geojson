@@ -10,6 +10,12 @@
     "geom:latitude":-3.436853,
     "geom:longitude":30.278775,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Ruyigi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.449833,
     "lbl:longitude":30.26172,
     "meso:adm1_en":"Ruyigi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759547,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Ruyigi",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

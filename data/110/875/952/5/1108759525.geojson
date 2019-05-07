@@ -10,6 +10,12 @@
     "geom:latitude":-4.302253,
     "geom:longitude":29.646543,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Nyanza-Lac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.298782,
     "lbl:longitude":29.645028,
     "meso:adm1_en":"Makamba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759525,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Nyanza-Lac",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-4.069808,
     "geom:longitude":29.596384,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Vyanda Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.075172,
     "lbl:longitude":29.594753,
     "meso:adm1_en":"Bururi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759561,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Vyanda",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.905328,
     "geom:longitude":29.248531,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Murwi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.877185,
     "lbl:longitude":29.213254,
     "meso:adm1_en":"Cibitoke",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759485,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Murwi",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

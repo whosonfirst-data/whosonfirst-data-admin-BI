@@ -10,6 +10,12 @@
     "geom:latitude":-3.457596,
     "geom:longitude":29.475245,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Nyabiraba Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.468614,
     "lbl:longitude":29.475259,
     "meso:adm1_en":"Bujumbura Rural",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759517,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718717,
     "wof:name":"Nyabiraba",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

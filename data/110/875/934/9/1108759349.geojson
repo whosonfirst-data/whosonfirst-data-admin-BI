@@ -10,6 +10,12 @@
     "geom:latitude":-3.10229,
     "geom:longitude":29.694791,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Butaganzwa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.105386,
     "lbl:longitude":29.687735,
     "meso:adm1_en":"Kayanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759349,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Butaganzwa",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

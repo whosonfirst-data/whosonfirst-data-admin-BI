@@ -10,6 +10,12 @@
     "geom:latitude":-3.804894,
     "geom:longitude":30.139861,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mpinga-Kayove Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.825517,
     "lbl:longitude":30.130348,
     "meso:adm1_en":"Rutana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759459,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mpinga-Kayove",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

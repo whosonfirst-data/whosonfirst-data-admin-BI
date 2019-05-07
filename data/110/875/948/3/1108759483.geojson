@@ -10,6 +10,12 @@
     "geom:latitude":-2.956309,
     "geom:longitude":29.558883,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Muruta Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.958004,
     "lbl:longitude":29.55777,
     "meso:adm1_en":"Kayanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759483,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Muruta",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

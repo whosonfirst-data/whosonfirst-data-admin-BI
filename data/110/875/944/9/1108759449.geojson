@@ -10,6 +10,12 @@
     "geom:latitude":-3.077223,
     "geom:longitude":29.603972,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Matongo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.076813,
     "lbl:longitude":29.60282,
     "meso:adm1_en":"Kayanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759449,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718715,
     "wof:name":"Matongo",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

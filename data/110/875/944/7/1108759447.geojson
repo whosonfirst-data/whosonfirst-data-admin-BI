@@ -10,6 +10,12 @@
     "geom:latitude":-3.744836,
     "geom:longitude":29.714417,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Matana Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.750672,
     "lbl:longitude":29.71566,
     "meso:adm1_en":"Bururi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759447,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Matana",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

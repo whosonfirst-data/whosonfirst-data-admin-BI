@@ -10,6 +10,12 @@
     "geom:latitude":-2.71093,
     "geom:longitude":30.322362,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Butihinda Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.71401,
     "lbl:longitude":30.324082,
     "meso:adm1_en":"Muyinga",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759353,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Butihinda",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

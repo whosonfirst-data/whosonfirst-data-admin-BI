@@ -10,6 +10,12 @@
     "geom:latitude":-3.285236,
     "geom:longitude":30.053915,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Shombo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.320511,
     "lbl:longitude":30.041401,
     "meso:adm1_en":"Karuzi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759551,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Shombo",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

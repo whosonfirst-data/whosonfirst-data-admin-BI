@@ -10,6 +10,12 @@
     "geom:latitude":-3.533299,
     "geom:longitude":30.148111,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Butaganzwa1 Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.491839,
     "lbl:longitude":30.123858,
     "meso:adm1_en":"Ruyigi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759345,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Butaganzwa1",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

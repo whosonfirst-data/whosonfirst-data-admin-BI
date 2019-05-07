@@ -10,6 +10,12 @@
     "geom:latitude":-4.023724,
     "geom:longitude":30.073913,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bukemba Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.020137,
     "lbl:longitude":30.052162,
     "meso:adm1_en":"Rutana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759325,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718713,
     "wof:name":"Bukemba",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

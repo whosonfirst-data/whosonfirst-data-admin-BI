@@ -10,6 +10,12 @@
     "geom:latitude":-3.564572,
     "geom:longitude":29.513916,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mukike Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.559326,
     "lbl:longitude":29.509047,
     "meso:adm1_en":"Bujumbura Rural",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759479,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mukike",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

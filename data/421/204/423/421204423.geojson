@@ -10,6 +10,12 @@
     "geom:latitude":-3.30424,
     "geom:longitude":29.321196,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mutimbuzi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.286343,
     "lbl:longitude":29.35998,
     "meso:adm1_en":"Bujumbura Rural",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421204423,
-    "wof:lastmodified":1536616165,
+    "wof:lastmodified":1553717583,
     "wof:name":"Mutimbuzi",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

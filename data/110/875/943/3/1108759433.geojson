@@ -10,6 +10,12 @@
     "geom:latitude":-2.558002,
     "geom:longitude":30.108472,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Kirundo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.558761,
     "lbl:longitude":30.113541,
     "meso:adm1_en":"Kirundo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759433,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718715,
     "wof:name":"Kirundo",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.920374,
     "geom:longitude":30.07586,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Tangara Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.934598,
     "lbl:longitude":30.067324,
     "meso:adm1_en":"Ngozi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759555,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Tangara",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

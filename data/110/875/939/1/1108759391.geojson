@@ -10,6 +10,12 @@
     "geom:latitude":-3.55691,
     "geom:longitude":29.63371,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Gisozi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.572506,
     "lbl:longitude":29.647131,
     "meso:adm1_en":"Mwaro",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759391,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718714,
     "wof:name":"Gisozi",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

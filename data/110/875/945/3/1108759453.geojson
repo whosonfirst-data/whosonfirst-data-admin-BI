@@ -10,6 +10,12 @@
     "geom:latitude":-3.066786,
     "geom:longitude":30.727587,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mishiha Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.068551,
     "lbl:longitude":30.725223,
     "meso:adm1_en":"Cankuzo",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759453,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mishiha",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

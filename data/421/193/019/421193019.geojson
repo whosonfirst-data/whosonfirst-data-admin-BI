@@ -10,6 +10,12 @@
     "geom:latitude":-4.007563,
     "geom:longitude":29.901988,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Gitanga Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.005082,
     "lbl:longitude":29.893452,
     "meso:adm1_en":"Rutana",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421193019,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1553717517,
     "wof:name":"Gitanga",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

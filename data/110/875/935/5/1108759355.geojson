@@ -10,6 +10,12 @@
     "geom:latitude":-3.848742,
     "geom:longitude":29.532997,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Buyengero Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.830962,
     "lbl:longitude":29.540768,
     "meso:adm1_en":"Rumonge",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759355,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718714,
     "wof:name":"Buyengero",
     "wof:parent_id":1108803107,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.45706,
     "geom:longitude":30.447854,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Giteranyi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.434409,
     "lbl:longitude":30.463365,
     "meso:adm1_en":"Muyinga",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759399,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718714,
     "wof:name":"Giteranyi",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

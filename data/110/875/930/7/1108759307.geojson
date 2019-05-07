@@ -10,6 +10,12 @@
     "geom:latitude":-3.058997,
     "geom:longitude":29.365707,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bubanza Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.057732,
     "lbl:longitude":29.365667,
     "meso:adm1_en":"Bubanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759307,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718712,
     "wof:name":"Bubanza",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

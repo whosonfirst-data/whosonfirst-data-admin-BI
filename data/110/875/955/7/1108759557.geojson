@@ -10,6 +10,12 @@
     "geom:latitude":-4.153846,
     "geom:longitude":29.678495,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Vugizo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.155574,
     "lbl:longitude":29.679921,
     "meso:adm1_en":"Makamba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759557,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Vugizo",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

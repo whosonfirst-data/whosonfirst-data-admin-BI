@@ -10,6 +10,12 @@
     "geom:latitude":-3.04449,
     "geom:longitude":29.803411,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Muhanga Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.051754,
     "lbl:longitude":29.80896,
     "meso:adm1_en":"Kayanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759471,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Muhanga",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

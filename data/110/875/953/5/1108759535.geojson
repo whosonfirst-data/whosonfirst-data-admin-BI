@@ -10,6 +10,12 @@
     "geom:latitude":-3.008288,
     "geom:longitude":29.941379,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Ruhororo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.012959,
     "lbl:longitude":29.942591,
     "meso:adm1_en":"Ngozi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759535,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718717,
     "wof:name":"Ruhororo",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

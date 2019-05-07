@@ -10,6 +10,12 @@
     "geom:latitude":-3.141034,
     "geom:longitude":29.980185,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Gihogazi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.116588,
     "lbl:longitude":29.97206,
     "meso:adm1_en":"Karuzi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759385,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718714,
     "wof:name":"Gihogazi",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

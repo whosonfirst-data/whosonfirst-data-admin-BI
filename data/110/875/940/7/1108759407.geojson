@@ -10,6 +10,12 @@
     "geom:latitude":-3.604429,
     "geom:longitude":30.047296,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Itaba Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.604159,
     "lbl:longitude":30.059198,
     "meso:adm1_en":"Gitega",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759407,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718715,
     "wof:name":"Itaba",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

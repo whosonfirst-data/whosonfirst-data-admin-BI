@@ -10,6 +10,12 @@
     "geom:latitude":-2.846664,
     "geom:longitude":29.545803,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Kabarore Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.864235,
     "lbl:longitude":29.527768,
     "meso:adm1_en":"Kayanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759409,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718715,
     "wof:name":"Kabarore",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

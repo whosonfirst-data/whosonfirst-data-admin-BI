@@ -10,6 +10,12 @@
     "geom:latitude":-3.306938,
     "geom:longitude":30.396453,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bweru Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.307908,
     "lbl:longitude":30.396434,
     "meso:adm1_en":"Ruyigi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759359,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Bweru",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

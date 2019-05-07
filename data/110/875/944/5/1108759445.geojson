@@ -10,6 +10,12 @@
     "geom:latitude":-2.734075,
     "geom:longitude":29.962137,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Marangara Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.731706,
     "lbl:longitude":29.960893,
     "meso:adm1_en":"Ngozi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759445,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718715,
     "wof:name":"Marangara",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

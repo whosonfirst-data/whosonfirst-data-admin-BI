@@ -10,6 +10,12 @@
     "geom:latitude":-4.307305,
     "geom:longitude":29.768003,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mabanda Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.264983,
     "lbl:longitude":29.772853,
     "meso:adm1_en":"Makamba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759435,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718715,
     "wof:name":"Mabanda",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

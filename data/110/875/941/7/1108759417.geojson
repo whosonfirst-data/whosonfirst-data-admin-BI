@@ -10,6 +10,12 @@
     "geom:latitude":-4.150201,
     "geom:longitude":30.024338,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Kayogoro Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.165448,
     "lbl:longitude":29.997122,
     "meso:adm1_en":"Makamba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759417,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718715,
     "wof:name":"Kayogoro",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

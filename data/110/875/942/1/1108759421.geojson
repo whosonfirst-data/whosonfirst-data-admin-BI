@@ -10,6 +10,12 @@
     "geom:latitude":-3.522509,
     "geom:longitude":29.744312,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Kayokwe Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.522855,
     "lbl:longitude":29.743352,
     "meso:adm1_en":"Mwaro",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759421,
-    "wof:lastmodified":1536615746,
+    "wof:lastmodified":1553718715,
     "wof:name":"Kayokwe",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

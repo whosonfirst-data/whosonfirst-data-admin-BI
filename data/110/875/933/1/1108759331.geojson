@@ -10,6 +10,12 @@
     "geom:latitude":-2.877656,
     "geom:longitude":29.345058,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Bukinanyana Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.863156,
     "lbl:longitude":29.32371,
     "meso:adm1_en":"Cibitoke",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759331,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718713,
     "wof:name":"Bukinanyana",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

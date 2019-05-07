@@ -10,6 +10,12 @@
     "geom:latitude":-4.125403,
     "geom:longitude":29.815434,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Makamba Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.139595,
     "lbl:longitude":29.813622,
     "meso:adm1_en":"Makamba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759441,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Makamba",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

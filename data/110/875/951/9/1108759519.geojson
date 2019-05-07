@@ -10,6 +10,12 @@
     "geom:latitude":-3.578129,
     "geom:longitude":30.270374,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Nyabitsinda Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.614276,
     "lbl:longitude":30.254445,
     "meso:adm1_en":"Ruyigi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759519,
-    "wof:lastmodified":1536615748,
+    "wof:lastmodified":1553718717,
     "wof:name":"Nyabitsinda",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

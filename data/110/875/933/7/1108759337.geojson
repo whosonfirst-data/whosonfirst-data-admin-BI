@@ -10,6 +10,12 @@
     "geom:latitude":-3.756134,
     "geom:longitude":29.905967,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Buraza Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.761779,
     "lbl:longitude":29.893772,
     "meso:adm1_en":"Gitega",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759337,
-    "wof:lastmodified":1536615745,
+    "wof:lastmodified":1553718713,
     "wof:name":"Buraza",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

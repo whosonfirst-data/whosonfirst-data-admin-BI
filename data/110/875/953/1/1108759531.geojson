@@ -10,6 +10,12 @@
     "geom:latitude":-3.21104,
     "geom:longitude":29.475553,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Rugazi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.215282,
     "lbl:longitude":29.483625,
     "meso:adm1_en":"Bubanza",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759531,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718717,
     "wof:name":"Rugazi",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

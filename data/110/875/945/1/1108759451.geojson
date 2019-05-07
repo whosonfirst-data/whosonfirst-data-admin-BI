@@ -10,6 +10,12 @@
     "geom:latitude":-3.240135,
     "geom:longitude":29.747115,
     "iso:country":"BI",
+    "label:eng_x_preferred_longname":[
+        "Mbuye Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-3.250833,
     "lbl:longitude":29.715926,
     "meso:adm1_en":"Muramvya",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108759451,
-    "wof:lastmodified":1536615747,
+    "wof:lastmodified":1553718716,
     "wof:name":"Mbuye",
     "wof:parent_id":85668797,
     "wof:placetype":"county",
