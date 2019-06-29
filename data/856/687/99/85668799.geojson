@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u064a\u0645\u0628\u0648\u0631\u0627 \u0627\u0644\u0631\u064a\u0641\u064a\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Bujumbura Rural probintzia"
-    ],
     "name:bel_x_variant":[
         "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430-\u0420\u0443\u0440\u0430\u043b\u044c"
     ],
@@ -43,16 +40,10 @@
     "name:ceb_x_preferred":[
         "Bujumbura Rural Province"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u677e\u5e03\u62c9\u9109\u6751\u7701"
-    ],
     "name:dan_x_preferred":[
         "Bujumbura Rural Province"
     ],
     "name:deu_x_preferred":[
-        "Bujumbura Rural"
-    ],
-    "name:dut_x_preferred":[
         "Bujumbura Rural"
     ],
     "name:ell_x_preferred":[
@@ -80,22 +71,11 @@
         "Province de Bujumbura rural"
     ],
     "name:fra_x_variant":[
-        "Bujumbura Rural"
-    ],
-    "name:fre_x_preferred":[
+        "Bujumbura Rural",
         "province de Bujumbura rural"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10df\u10e3\u10db\u10d1\u10e3\u10e0\u10d0-\u10e0\u10e3\u10e0\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bujumbura Rural"
     ],
     "name:glg_x_preferred":[
         "Bujumbura Rural"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03b6\u03bf\u03c5\u03bc\u03c0\u03bf\u03c5\u03c1\u03ac-\u03a1\u03bf\u03c5\u03c1\u03ac\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9c\u0ac1\u0aae\u0acd\u0aac\u0ac1\u0ab0\u0abe \u0ab0\u0ac2\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -130,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u091c\u0941\u0902\u092c\u0941\u0930\u093e \u0917\u094d\u0930\u093e\u092e\u0940\u0923 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bujumbura Rural Province"
     ],
     "name:nld_x_preferred":[
@@ -149,9 +129,6 @@
         "Bujumbura Rural"
     ],
     "name:ron_x_preferred":[
-        "Provincia Bujumbura Rural\u0103"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Bujumbura Rural\u0103"
     ],
     "name:run_x_preferred":[
@@ -322,7 +299,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1553550312,
+    "wof:lastmodified":1561839489,
     "wof:name":"Bujumbura Rural",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

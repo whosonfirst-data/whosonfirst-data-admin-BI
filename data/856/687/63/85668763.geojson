@@ -28,26 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0643\u0627\u0645\u0628\u0627"
     ],
-    "name:arm_x_preferred":[
-        "Makamba"
-    ],
-    "name:baq_x_preferred":[
-        "Makamba probintzia"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0995\u09be\u09ae\u09cd\u09ac\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Makamba"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u574e\u5df4\u7701"
-    ],
     "name:dan_x_preferred":[
         "Makamba Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Makamba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Makamba Province"
@@ -58,6 +52,9 @@
     "name:epo_x_preferred":[
         "Provinco Makamba"
     ],
+    "name:eus_x_preferred":[
+        "Makamba probintzia"
+    ],
     "name:fin_x_preferred":[
         "Makamban provinssi"
     ],
@@ -65,28 +62,20 @@
         "Makamba"
     ],
     "name:fra_x_variant":[
-        "Province de Makamba"
-    ],
-    "name:fre_x_preferred":[
+        "Province de Makamba",
         "province de Makamba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d9\u10d0\u10db\u10d1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Makamba"
     ],
     "name:glg_x_preferred":[
         "Provincia de Makamba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03ba\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0abe\u0aae\u0acd\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0915\u092e\u094d\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "Makamba"
     ],
     "name:ind_x_preferred":[
         "Provinsi Makamba"
@@ -100,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0c95\u0cbe\u0c82\u0cac \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d9\u10d0\u10db\u10d1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\uce84\ubc14 \uc8fc"
     ],
@@ -112,8 +104,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0915\u0941\u092e\u094d\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Makamba Province"
+    ],
+    "name:nld_x_preferred":[
+        "Makamba"
     ],
     "name:nob_x_preferred":[
         "Makamba"
@@ -127,7 +122,7 @@
     "name:por_x_preferred":[
         "Makamba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Makamba"
     ],
     "name:run_x_preferred":[
@@ -171,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Makamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u574e\u5df4\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BDI",
@@ -297,7 +295,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1553550313,
+    "wof:lastmodified":1561839489,
     "wof:name":"Makamba",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
