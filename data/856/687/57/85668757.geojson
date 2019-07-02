@@ -28,23 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u064a\u0627\u0646\u0632\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Kayanza probintzia"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u099c\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Kayanza"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u63da\u624e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kayanza Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kayanza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b3\u03b9\u03ac\u03bd\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kayanza Province"
@@ -55,6 +52,9 @@
     "name:epo_x_preferred":[
         "Provinco Kayanza"
     ],
+    "name:eus_x_preferred":[
+        "Kayanza probintzia"
+    ],
     "name:fin_x_preferred":[
         "Kayanzan provinssi"
     ],
@@ -62,22 +62,11 @@
         "Kayanza"
     ],
     "name:fra_x_variant":[
-        "Province de Kayanza"
-    ],
-    "name:fre_x_preferred":[
+        "Province de Kayanza",
         "province de Kayanza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d8\u10d0\u10dc\u10d6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kayanza"
     ],
     "name:glg_x_preferred":[
         "Provincia de Kayanza"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03b3\u03b9\u03ac\u03bd\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aa8\u0acd\u0a9c\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -97,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0caf\u0cbe\u0ca8\u0ccd\u0c9c\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10d0\u10dc\u10d6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uce74\uc580\uc790 \uc8fc"
     ],
@@ -109,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0928\u093e\u091d\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kayanza Province"
+    ],
+    "name:nld_x_preferred":[
+        "Kayanza"
     ],
     "name:nob_x_preferred":[
         "Kayanza"
@@ -124,7 +119,7 @@
     "name:por_x_preferred":[
         "Kayanza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Kayanza"
     ],
     "name:run_x_preferred":[
@@ -165,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Kayanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u63da\u624e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BDI",
@@ -291,7 +289,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1553550313,
+    "wof:lastmodified":1561839488,
     "wof:name":"Kayanza",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

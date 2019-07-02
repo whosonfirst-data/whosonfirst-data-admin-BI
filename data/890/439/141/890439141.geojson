@@ -24,8 +24,11 @@
     "name:dan_x_preferred":[
         "Cibitoke"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cibitoke"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03c0\u03b9\u03c4\u03cc\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Cibitoke"
@@ -33,17 +36,14 @@
     "name:est_x_preferred":[
         "Cibitoke"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9\u060c \u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Cibitoke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cibitoke"
-    ],
-    "name:ger_x_preferred":[
-        "Cibitoke"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bc\u03c0\u03b9\u03c4\u03cc\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac0\u0aac\u0ac0\u0a9f\u0acb\u0a95"
@@ -75,19 +75,19 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u092c\u093f\u091f\u094b\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Cibitoke"
+    ],
+    "name:nld_x_preferred":[
         "Cibitoke"
     ],
     "name:nob_x_preferred":[
         "Cibitoke"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9\u060c \u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Cibitoke"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cibitoke"
     ],
     "name:run_x_preferred":[
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":890439141,
-    "wof:lastmodified":1527729733,
+    "wof:lastmodified":1561839502,
     "wof:name":"Cibitoke",
     "wof:parent_id":1108759533,
     "wof:placetype":"locality",

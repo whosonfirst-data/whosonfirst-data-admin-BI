@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u064a\u0648\u0645\u0628\u0648\u0631\u0627 \u0645\u0627\u064a\u0631\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Bujumbura Mairie probintzia"
-    ],
     "name:bel_x_variant":[
         "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430-\u041c\u044d\u0440\u044b"
     ],
@@ -46,8 +43,11 @@
     "name:dan_x_preferred":[
         "Bujumbura Mairie Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bujumbura Mairie"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c4\u03b6\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bujumbura Mairie Province"
@@ -72,22 +72,11 @@
     ],
     "name:fra_x_variant":[
         "Bujumbura",
-        "Bujumbura Mairie"
-    ],
-    "name:fre_x_preferred":[
+        "Bujumbura Mairie",
         "province de Bujumbura Mairie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10df\u10e3\u10db\u10d1\u10e3\u10e0\u10d0-\u10db\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bujumbura Mairie"
     ],
     "name:glg_x_preferred":[
         "Bujumbura Mairie"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03c4\u03b6\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9c\u0ac1\u0aae\u0acd\u0aac\u0ac1\u0ab0\u0abe \u0aae\u0ac8\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -123,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u091c\u0941\u0902\u092c\u0941\u0930\u093e \u092e\u093e\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bujumbura Mairie Province"
     ],
     "name:nld_x_preferred":[
@@ -145,9 +134,6 @@
         "Bujumbura Mairie"
     ],
     "name:ron_x_preferred":[
-        "Provincia Bujumbura Mairie"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Bujumbura Mairie"
     ],
     "name:run_x_preferred":[
@@ -318,7 +304,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1553550312,
+    "wof:lastmodified":1561839489,
     "wof:name":"Bujumbura Mairie",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
