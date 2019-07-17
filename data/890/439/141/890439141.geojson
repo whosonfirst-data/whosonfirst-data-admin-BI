@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u064a\u062a\u0648\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09ac\u09bf\u099f\u09cb\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Cibitoke"
     ],
     "name:dan_x_preferred":[
         "Cibitoke"
@@ -39,10 +45,16 @@
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9\u060c \u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Cibitoke"
     ],
     "name:fra_x_preferred":[
+        "Cibitoke"
+    ],
+    "name:frr_x_preferred":[
         "Cibitoke"
     ],
     "name:guj_x_preferred":[
@@ -126,6 +138,9 @@
     "name:vie_x_preferred":[
         "Cibitoke"
     ],
+    "name:zho_x_preferred":[
+        "\u932b\u6bd4\u6258\u51f1"
+    ],
     "qs:name":"Cibitoke",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -159,7 +174,7 @@
         }
     ],
     "wof:id":890439141,
-    "wof:lastmodified":1561839502,
+    "wof:lastmodified":1563346388,
     "wof:name":"Cibitoke",
     "wof:parent_id":1108759533,
     "wof:placetype":"locality",

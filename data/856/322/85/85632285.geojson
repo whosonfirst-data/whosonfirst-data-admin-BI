@@ -220,6 +220,9 @@
     "name:fry_x_preferred":[
         "Boer\u00fbndy"
     ],
+    "name:fry_x_variant":[
+        "B\u00fbr\u00fbndy"
+    ],
     "name:ful_x_preferred":[
         "Burunndi"
     ],
@@ -255,6 +258,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab0\u0ac1\u0a82\u0aa1\u0ac0"
+    ],
+    "name:guj_x_variant":[
+        "\u0aac\u0ac1\u0ab0\u0ac1\u0aa8\u0acd\u0aa1\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Burundi"
@@ -392,6 +398,9 @@
     "name:lav_x_preferred":[
         "Burundi"
     ],
+    "name:lfn_x_preferred":[
+        "Burundi"
+    ],
     "name:lij_x_preferred":[
         "Burundi"
     ],
@@ -421,6 +430,9 @@
     ],
     "name:lug_x_preferred":[
         "Burundi"
+    ],
+    "name:lzh_x_preferred":[
+        "\u84b2\u9686\u5730"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d31\u0d41\u0d23\u0d4d\u0d1f\u0d3f"
@@ -609,6 +621,9 @@
     "name:sna_x_preferred":[
         "Burundi"
     ],
+    "name:snd_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u068a\u064a"
+    ],
     "name:som_x_preferred":[
         "Burundi"
     ],
@@ -756,6 +771,9 @@
         "\u5e03\u9686\u8fea"
     ],
     "name:zea_x_preferred":[
+        "Burundi"
+    ],
+    "name:zha_x_preferred":[
         "Burundi"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -925,7 +943,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839490,
+    "wof:lastmodified":1563345584,
     "wof:name":"Burundi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

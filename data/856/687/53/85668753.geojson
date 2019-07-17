@@ -35,6 +35,9 @@
     "name:bre_x_preferred":[
         "Gitega"
     ],
+    "name:ceb_x_preferred":[
+        "Gitega Province"
+    ],
     "name:dan_x_preferred":[
         "Gitega Province"
     ],
@@ -65,6 +68,9 @@
     "name:fra_x_variant":[
         "Province de Gitega",
         "province de Gitega"
+    ],
+    "name:frr_x_preferred":[
+        "Gitega"
     ],
     "name:glg_x_preferred":[
         "Provincia de Gitega"
@@ -294,7 +300,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839489,
+    "wof:lastmodified":1563345573,
     "wof:name":"Gitega",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

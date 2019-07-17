@@ -38,6 +38,9 @@
     "name:bre_x_preferred":[
         "Bururi"
     ],
+    "name:ceb_x_preferred":[
+        "Bururi Province"
+    ],
     "name:dan_x_preferred":[
         "Bururi Province"
     ],
@@ -59,6 +62,9 @@
     "name:eus_x_preferred":[
         "Bururi probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0631\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bururin provinssi"
     ],
@@ -68,6 +74,9 @@
     "name:fra_x_variant":[
         "Province de Bururi",
         "province de Bururi"
+    ],
+    "name:frr_x_preferred":[
+        "Bururi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Bururi"
@@ -294,7 +303,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839488,
+    "wof:lastmodified":1563345569,
     "wof:name":"Bururi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

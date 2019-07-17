@@ -35,6 +35,9 @@
     "name:bre_x_preferred":[
         "Cibitoke"
     ],
+    "name:ceb_x_preferred":[
+        "Cibitoke Province"
+    ],
     "name:dan_x_preferred":[
         "Cibitoke Province"
     ],
@@ -68,6 +71,9 @@
     "name:fra_x_variant":[
         "Province de Cibitoke",
         "province de Cibitoke"
+    ],
+    "name:frr_x_preferred":[
+        "Cibitoke"
     ],
     "name:glg_x_preferred":[
         "Provincia de Cibitoke"
@@ -291,7 +297,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839489,
+    "wof:lastmodified":1563345579,
     "wof:name":"Cibitoke",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

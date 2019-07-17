@@ -34,6 +34,9 @@
     "name:bre_x_preferred":[
         "Muyinga"
     ],
+    "name:ceb_x_preferred":[
+        "Muyinga Province"
+    ],
     "name:dan_x_preferred":[
         "Muyinga Province"
     ],
@@ -64,6 +67,9 @@
     "name:fra_x_variant":[
         "Province de Muyinga",
         "province de Muyinga"
+    ],
+    "name:frr_x_preferred":[
+        "Muyinga"
     ],
     "name:glg_x_preferred":[
         "Provincia de Muyinga"
@@ -292,7 +298,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839488,
+    "wof:lastmodified":1563345569,
     "wof:name":"Muyinga",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

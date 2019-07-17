@@ -35,6 +35,9 @@
     "name:bre_x_preferred":[
         "Karuzi"
     ],
+    "name:ceb_x_preferred":[
+        "Karuzi Province"
+    ],
     "name:dan_x_preferred":[
         "Karuzi Province"
     ],
@@ -56,6 +59,9 @@
     "name:eus_x_preferred":[
         "Karuzi probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0631\u0648\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Karuzin provinssi"
     ],
@@ -65,6 +71,9 @@
     "name:fra_x_variant":[
         "Province de Karuzi",
         "province de Karuzi"
+    ],
+    "name:frr_x_preferred":[
+        "Karuzi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Karuzi"
@@ -294,7 +303,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839488,
+    "wof:lastmodified":1563345567,
     "wof:name":"Karuzi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
