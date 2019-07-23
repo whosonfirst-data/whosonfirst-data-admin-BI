@@ -35,6 +35,9 @@
     "name:bre_x_preferred":[
         "Rutana"
     ],
+    "name:ceb_x_preferred":[
+        "Rutana Province"
+    ],
     "name:dan_x_preferred":[
         "Rutana Province"
     ],
@@ -56,6 +59,9 @@
     "name:eus_x_preferred":[
         "Rutana probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u062a\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rutanan provinssi"
     ],
@@ -65,6 +71,9 @@
     "name:fra_x_variant":[
         "Province de Rutana",
         "province de Rutana"
+    ],
+    "name:frr_x_preferred":[
+        "Rutana"
     ],
     "name:glg_x_preferred":[
         "Provincia de Rutana"
@@ -294,7 +303,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839488,
+    "wof:lastmodified":1563345571,
     "wof:name":"Rutana",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

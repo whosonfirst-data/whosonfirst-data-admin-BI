@@ -34,6 +34,9 @@
     "name:bre_x_preferred":[
         "Cankuzo"
     ],
+    "name:ceb_x_preferred":[
+        "Cankuzo Province"
+    ],
     "name:dan_x_preferred":[
         "Cankuzo Province"
     ],
@@ -55,6 +58,9 @@
     "name:eus_x_preferred":[
         "Cankuzo probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0646\u06a9\u0648\u0632\u0648"
+    ],
     "name:fin_x_preferred":[
         "Cankuzon provinssi"
     ],
@@ -64,6 +70,9 @@
     "name:fra_x_variant":[
         "Province de Cankuzo",
         "province de Cankuzo"
+    ],
+    "name:frr_x_preferred":[
+        "Cankuzo"
     ],
     "name:glg_x_preferred":[
         "Provincia de Cankuzo"
@@ -289,7 +298,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839489,
+    "wof:lastmodified":1563345580,
     "wof:name":"Cankuzo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

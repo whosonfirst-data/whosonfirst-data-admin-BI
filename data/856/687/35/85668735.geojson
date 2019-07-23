@@ -34,6 +34,9 @@
     "name:bre_x_preferred":[
         "Ruyigi"
     ],
+    "name:ceb_x_preferred":[
+        "Ruyigi Province"
+    ],
     "name:dan_x_preferred":[
         "Ruyigi Province"
     ],
@@ -64,6 +67,9 @@
     "name:fra_x_variant":[
         "Province de Ruyigi",
         "province de Ruyigi"
+    ],
+    "name:frr_x_preferred":[
+        "Ruyigi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Ruyigi"
@@ -292,7 +298,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839488,
+    "wof:lastmodified":1563345566,
     "wof:name":"Ruyigi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

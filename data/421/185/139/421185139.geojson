@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0628\u064a\u062a\u0648\u0643\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09ac\u09bf\u099f\u09cb\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Cibitoke"
     ],
@@ -22,14 +31,35 @@
     "name:deu_x_preferred":[
         "Cibitoke"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03c0\u03b9\u03c4\u03cc\u03ba\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Cibitoke"
+    ],
     "name:est_x_preferred":[
         "Cibitoke"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9\u060c \u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Cibitoke"
+    ],
     "name:fra_x_preferred":[
         "Cibitoke"
+    ],
+    "name:frr_x_preferred":[
+        "Cibitoke"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac0\u0aac\u0ac0\u0a9f\u0acb\u0a95"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u092c\u093f\u091f\u094b\u0915\u0940"
     ],
     "name:ind_x_preferred":[
         "Cibitoke"
@@ -37,10 +67,31 @@
     "name:ita_x_preferred":[
         "Cibitoke"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30d3\u30c8\u30b1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0cac\u0cbf\u0c9f\u0ccb\u0c95\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ube44\ud1a0\ud06c"
+    ],
+    "name:lav_x_preferred":[
+        "\u0136ibotoke"
+    ],
+    "name:lit_x_preferred":[
+        "Kibitok\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u092c\u093f\u091f\u094b\u0915"
+    ],
     "name:msa_x_preferred":[
         "Cibitoke"
     ],
     "name:nld_x_preferred":[
+        "Cibitoke"
+    ],
+    "name:nob_x_preferred":[
         "Cibitoke"
     ],
     "name:pol_x_preferred":[
@@ -55,14 +106,38 @@
     "name:rus_x_preferred":[
         "\u0427\u0438\u0431\u0438\u0442\u043e\u043a\u0435"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0db6\u0dd2\u0da7\u0ddd\u0d9a\u0dda"
+    ],
     "name:swa_x_preferred":[
         "Cibitoke"
     ],
     "name:swe_x_preferred":[
         "Cibitoke"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baa\u0bc0\u0b9f\u0bcb\u0b95\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c2c\u0c3f\u0c1f\u0c4a\u0c15\u0c46"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e34\u0e1a\u0e34\u0e42\u0e15\u0e40\u0e04\u0e48"
+    ],
+    "name:tur_x_preferred":[
+        "Cibitoke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0456\u0431\u0456\u0442\u043e\u043a\u0435"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Cibitoke"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u6bd4\u6258\u51f1"
     ],
     "qs:gn_country":"BI",
     "qs:gn_fcode":"PPLX",
@@ -85,10 +160,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":45,
     "wof:belongsto":[
+        85668791,
         102191573,
         85632285,
-        1108759507,
-        85668791
+        1108759507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +186,7 @@
         }
     ],
     "wof:id":421185139,
-    "wof:lastmodified":1531858569,
+    "wof:lastmodified":1563346387,
     "wof:name":"Cibitoke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,23 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0627\u0631\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0627\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0989\u09b0\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Mwaro"
+    ],
+    "name:dan_x_preferred":[
+        "Mwaro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ac\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mwaro"
@@ -36,6 +51,12 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0627\u0631\u0648\u060c \u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0627\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Mwaro"
+    ],
     "name:fra_x_preferred":[
         "Mwaro"
     ],
@@ -43,13 +64,52 @@
         "Muramvya",
         "Province de Mwaro"
     ],
+    "name:frr_x_preferred":[
+        "Mwaro"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ab5\u0abe\u0ab0\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094d\u0935\u093e\u0930\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Mwaro"
+    ],
     "name:ita_x_preferred":[
+        "Mwaro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30ef\u30ed"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccd\u0cb5\u0cbe\u0cb0\u0ccb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubac4\ub85c"
+    ],
+    "name:lav_x_preferred":[
+        "Mvaro"
+    ],
+    "name:lit_x_preferred":[
+        "Muaras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0935\u093e\u0930\u094b"
+    ],
+    "name:msa_x_preferred":[
         "Mwaro"
     ],
     "name:nld_x_preferred":[
         "Mwaro"
     ],
+    "name:nob_x_preferred":[
+        "Mwaro"
+    ],
     "name:pol_x_preferred":[
+        "Mwaro"
+    ],
+    "name:por_x_preferred":[
         "Mwaro"
     ],
     "name:ron_x_preferred":[
@@ -64,14 +124,38 @@
     "name:rus_x_preferred":[
         "\u041c\u0432\u0430\u0440\u043e"
     ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0db8\u0dca\u0dc0\u0dbb\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Mwaro"
+    ],
     "name:swa_x_preferred":[
         "Mwaro"
     ],
     "name:swe_x_preferred":[
         "Mwaro"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcd\u0bb5\u0bbe\u0bb0\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c35\u0c3e\u0c30\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e27\u0e32\u0e42\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Mwaro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0432\u0430\u0440\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0627\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Mwaro"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u74e6\u6d1b"
@@ -200,7 +284,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1553550312,
+    "wof:lastmodified":1563345564,
     "wof:name":"Mwaro",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

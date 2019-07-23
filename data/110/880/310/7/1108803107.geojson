@@ -28,14 +28,23 @@
     "name:eng_x_preferred":[
         "Rumonge"
     ],
+    "name:eng_x_variant":[
+        "Rumonge Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Rumonge"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u0645\u0648\u0646\u06af\u0647"
     ],
     "name:fin_x_preferred":[
         "Rumongen provinssi"
     ],
     "name:fra_x_preferred":[
         "Province de Rumonge"
+    ],
+    "name:frr_x_preferred":[
+        "Rumonge"
     ],
     "name:ita_x_preferred":[
         "Provincia di Rumonge"
@@ -54,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0645\u0648\u0646\u06af\u06cc \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u8499\u76d6\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +112,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839498,
+    "wof:lastmodified":1563346185,
     "wof:name":"Rumonge",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

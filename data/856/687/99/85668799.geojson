@@ -67,12 +67,16 @@
     "name:fin_x_preferred":[
         "Bujumburan provinssi"
     ],
+    "name:fin_x_variant":[
+        "Bujumbura Rural"
+    ],
     "name:fra_x_preferred":[
         "Province de Bujumbura rural"
     ],
     "name:fra_x_variant":[
         "Bujumbura Rural",
-        "province de Bujumbura rural"
+        "province de Bujumbura rural",
+        "Bujumbura rural"
     ],
     "name:glg_x_preferred":[
         "Bujumbura Rural"
@@ -143,6 +147,9 @@
     "name:spa_x_preferred":[
         "Provincia de Buyumbura Rural"
     ],
+    "name:swa_x_preferred":[
+        "Bujumbura Vijijini"
+    ],
     "name:swe_x_preferred":[
         "Bujumbura Rural"
     ],
@@ -160,6 +167,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430-\u0420\u0443\u0440\u0430\u043b"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Bujumbura"
@@ -299,7 +309,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839489,
+    "wof:lastmodified":1563345575,
     "wof:name":"Bujumbura Rural",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

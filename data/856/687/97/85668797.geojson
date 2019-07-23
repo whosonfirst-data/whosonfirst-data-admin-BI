@@ -34,6 +34,9 @@
     "name:bre_x_preferred":[
         "Muramvya"
     ],
+    "name:ceb_x_preferred":[
+        "Muramvya Province"
+    ],
     "name:dan_x_preferred":[
         "Muramvya Province"
     ],
@@ -55,6 +58,9 @@
     "name:eus_x_preferred":[
         "Muramvya probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0631\u0627\u0645\u0648\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Muramvyan provinssi"
     ],
@@ -64,6 +70,9 @@
     "name:fra_x_variant":[
         "Province de Muramvya",
         "province de Muramvya"
+    ],
+    "name:frr_x_preferred":[
+        "Muramvya"
     ],
     "name:glg_x_preferred":[
         "Provincia de Muramvya"
@@ -287,7 +296,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839489,
+    "wof:lastmodified":1563345576,
     "wof:name":"Muramvya",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

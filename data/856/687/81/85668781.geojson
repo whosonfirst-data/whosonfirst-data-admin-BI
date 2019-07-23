@@ -34,6 +34,9 @@
     "name:bre_x_preferred":[
         "Ngozi"
     ],
+    "name:ceb_x_preferred":[
+        "Ngozi Province"
+    ],
     "name:dan_x_preferred":[
         "Ngozi Province"
     ],
@@ -67,6 +70,9 @@
     "name:fra_x_variant":[
         "Province de Ngozi",
         "province de Ngozi"
+    ],
+    "name:frr_x_preferred":[
+        "Ngozi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Ngozi"
@@ -295,7 +301,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1561839488,
+    "wof:lastmodified":1563345570,
     "wof:name":"Ngozi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
