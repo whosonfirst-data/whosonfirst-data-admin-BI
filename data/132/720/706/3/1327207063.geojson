@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Kibaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327207063,
-    "wof:lastmodified":1537005577,
+    "wof:lastmodified":1564180124,
     "wof:name":"Kibaya",
     "wof:parent_id":1108759483,
     "wof:placetype":"locality",

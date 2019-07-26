@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Itaba"
     ],
+    "name:ita_x_preferred":[
+        "Itaba"
+    ],
+    "name:swa_x_preferred":[
+        "Itaba"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759407,
-    "wof:lastmodified":1553718715,
+    "wof:lastmodified":1564180688,
     "wof:name":"Itaba",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

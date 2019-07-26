@@ -31,7 +31,16 @@
     "mps:longitude":29.594753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vyanda"
+    ],
     "name:eng_x_preferred":[
+        "Vyanda"
+    ],
+    "name:fra_x_preferred":[
+        "Vyanda"
+    ],
+    "name:run_x_preferred":[
         "Vyanda"
     ],
     "src:geom":"meso",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1108759561,
-    "wof:lastmodified":1553718718,
+    "wof:lastmodified":1564180692,
     "wof:name":"Vyanda",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

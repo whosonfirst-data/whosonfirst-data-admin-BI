@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Gisuru"
     ],
+    "name:fra_x_preferred":[
+        "Gisuru"
+    ],
+    "name:run_x_preferred":[
+        "Gisuru"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759393,
-    "wof:lastmodified":1553718714,
+    "wof:lastmodified":1564180681,
     "wof:name":"Gisuru",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

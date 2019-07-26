@@ -25,6 +25,18 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karama"
+    ],
+    "name:fra_x_preferred":[
+        "Karama"
+    ],
+    "name:ita_x_preferred":[
+        "Karama"
+    ],
+    "name:swe_x_preferred":[
+        "Karama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276201249,
-    "wof:lastmodified":1536956093,
+    "wof:lastmodified":1564180399,
     "wof:name":"Karama",
     "wof:parent_id":421201115,
     "wof:placetype":"locality",

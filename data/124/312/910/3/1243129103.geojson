@@ -25,6 +25,60 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631\u0648\u0646\u062f\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0631\u0648\u0646\u062f\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirundo"
+    ],
+    "name:deu_x_preferred":[
+        "Kirundo"
+    ],
+    "name:est_x_preferred":[
+        "Kirundo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u0648\u0646\u062f\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kirundo"
+    ],
+    "name:frr_x_preferred":[
+        "Kirundo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0580\u0578\u0582\u0576\u0564\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Kirundo"
+    ],
+    "name:nld_x_preferred":[
+        "Kirundo"
+    ],
+    "name:pol_x_preferred":[
+        "Kirundo"
+    ],
+    "name:ron_x_preferred":[
+        "Kirundo"
+    ],
+    "name:run_x_preferred":[
+        "Kirundo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0443\u043d\u0434\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Kirundo"
+    ],
+    "name:swe_x_preferred":[
+        "Kirundo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0631\u0648\u0646\u062f\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1243129103,
-    "wof:lastmodified":1536766621,
+    "wof:lastmodified":1564180901,
     "wof:name":"Kirundo",
     "wof:parent_id":1108759315,
     "wof:placetype":"locality",

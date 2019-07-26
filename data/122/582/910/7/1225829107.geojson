@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:run_x_preferred":[
+        "Gahama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225829107,
-    "wof:lastmodified":1537036125,
+    "wof:lastmodified":1564181156,
     "wof:name":"Gahama",
     "wof:parent_id":1108759447,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kitara"
+    ],
+    "name:slv_x_preferred":[
+        "Kitara"
+    ],
     "name:und_x_variant":[
         "Gitara"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326894081,
-    "wof:lastmodified":1537587822,
+    "wof:lastmodified":1564180038,
     "wof:name":"Kitara",
     "wof:parent_id":1108759435,
     "wof:placetype":"locality",

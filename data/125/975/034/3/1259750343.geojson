@@ -25,6 +25,18 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Cewe"
+    ],
+    "name:dan_x_preferred":[
+        "CeWe Color"
+    ],
+    "name:deu_x_preferred":[
+        "Cewe"
+    ],
+    "name:ita_x_preferred":[
+        "Cewe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259750343,
-    "wof:lastmodified":1536970629,
+    "wof:lastmodified":1564181034,
     "wof:name":"Cewe",
     "wof:parent_id":1108759355,
     "wof:placetype":"locality",

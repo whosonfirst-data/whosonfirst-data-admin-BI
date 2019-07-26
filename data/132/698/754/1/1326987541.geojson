@@ -25,6 +25,12 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gazi"
+    ],
+    "name:swe_x_preferred":[
+        "Gazi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326987541,
-    "wof:lastmodified":1536824432,
+    "wof:lastmodified":1564180109,
     "wof:name":"Gasi",
     "wof:parent_id":1108759517,
     "wof:placetype":"locality",

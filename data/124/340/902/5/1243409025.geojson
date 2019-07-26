@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mananga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243409025,
-    "wof:lastmodified":1536858241,
+    "wof:lastmodified":1564180902,
     "wof:name":"Mananga",
     "wof:parent_id":1108759355,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bunya"
+    ],
+    "name:fra_x_preferred":[
+        "Bunya"
+    ],
+    "name:swe_x_preferred":[
+        "Bunya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260243469,
-    "wof:lastmodified":1536766641,
+    "wof:lastmodified":1564180632,
     "wof:name":"Bunya",
     "wof:parent_id":1108759459,
     "wof:placetype":"locality",

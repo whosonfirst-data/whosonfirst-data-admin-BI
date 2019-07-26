@@ -25,6 +25,15 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ruwenzori"
+    ],
+    "name:fra_x_preferred":[
+        "Ruwenzori"
+    ],
+    "name:swe_x_preferred":[
+        "Ruwenzori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209192455,
-    "wof:lastmodified":1536294886,
+    "wof:lastmodified":1564180583,
     "wof:name":"Ruwenzori",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",

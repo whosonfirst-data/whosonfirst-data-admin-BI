@@ -34,6 +34,21 @@
     "name:eng_x_preferred":[
         "Musigati"
     ],
+    "name:nld_x_preferred":[
+        "Musigati"
+    ],
+    "name:ron_x_preferred":[
+        "Musigati"
+    ],
+    "name:run_x_preferred":[
+        "Musigati"
+    ],
+    "name:spa_x_preferred":[
+        "Musigati"
+    ],
+    "name:swe_x_preferred":[
+        "Musigati"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1108759487,
-    "wof:lastmodified":1553718717,
+    "wof:lastmodified":1564180685,
     "wof:name":"Musigati",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

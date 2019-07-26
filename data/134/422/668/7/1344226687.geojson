@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Nunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1344226687,
-    "wof:lastmodified":1536634551,
+    "wof:lastmodified":1564180150,
     "wof:name":"Nunga",
     "wof:parent_id":1108759433,
     "wof:placetype":"locality",

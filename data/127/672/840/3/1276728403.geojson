@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Suture"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276728403,
-    "wof:lastmodified":1536746306,
+    "wof:lastmodified":1564180376,
     "wof:name":"Suture",
     "wof:parent_id":1108759499,
     "wof:placetype":"locality",

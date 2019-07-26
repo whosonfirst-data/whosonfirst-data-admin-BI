@@ -25,6 +25,12 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gisuru"
+    ],
+    "name:run_x_preferred":[
+        "Gisuru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293371249,
-    "wof:lastmodified":1536954726,
+    "wof:lastmodified":1564180274,
     "wof:name":"Gisuru",
     "wof:parent_id":1108759363,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Muruta"
     ],
+    "name:fra_x_preferred":[
+        "Muruta"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108759483,
-    "wof:lastmodified":1553718716,
+    "wof:lastmodified":1564180685,
     "wof:name":"Muruta",
     "wof:parent_id":85668757,
     "wof:placetype":"county",
