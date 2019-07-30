@@ -25,6 +25,21 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bugarama"
+    ],
+    "name:deu_x_preferred":[
+        "Bugarama"
+    ],
+    "name:est_x_preferred":[
+        "Bugarama"
+    ],
+    "name:ita_x_preferred":[
+        "Bugarama"
+    ],
+    "name:pol_x_preferred":[
+        "Bugarama"
+    ],
     "name:und_x_variant":[
         "Bagarama",
         "Bugarama"
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209188345,
-    "wof:lastmodified":1537587826,
+    "wof:lastmodified":1564180574,
     "wof:name":"Bugarama",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",

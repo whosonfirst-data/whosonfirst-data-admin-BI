@@ -25,6 +25,21 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sigi"
+    ],
+    "name:fra_x_preferred":[
+        "Sigi"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uae30"
+    ],
+    "name:nld_x_preferred":[
+        "Sigi"
+    ],
+    "name:spa_x_preferred":[
+        "Sigi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276942933,
-    "wof:lastmodified":1536956922,
+    "wof:lastmodified":1564180411,
     "wof:name":"Sigi",
     "wof:parent_id":1108759369,
     "wof:placetype":"locality",

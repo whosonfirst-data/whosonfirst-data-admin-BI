@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:run_x_preferred":[
+        "Mitakataka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243359353,
-    "wof:lastmodified":1536931907,
+    "wof:lastmodified":1564180921,
     "wof:name":"Mitakataka",
     "wof:parent_id":1108759457,
     "wof:placetype":"locality",

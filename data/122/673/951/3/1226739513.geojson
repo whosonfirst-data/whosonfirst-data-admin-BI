@@ -25,6 +25,21 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shishi"
+    ],
+    "name:cym_x_preferred":[
+        "Shishi"
+    ],
+    "name:deu_x_preferred":[
+        "Shishi"
+    ],
+    "name:nor_x_preferred":[
+        "Shishi"
+    ],
+    "name:swe_x_preferred":[
+        "Shishi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1226739513,
-    "wof:lastmodified":1536724863,
+    "wof:lastmodified":1564181062,
     "wof:name":"Shishi",
     "wof:parent_id":1108759487,
     "wof:placetype":"locality",

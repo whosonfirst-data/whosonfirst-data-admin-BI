@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Murambi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243245605,
-    "wof:lastmodified":1537091793,
+    "wof:lastmodified":1564180892,
     "wof:name":"Murambi",
     "wof:parent_id":1108759343,
     "wof:placetype":"locality",

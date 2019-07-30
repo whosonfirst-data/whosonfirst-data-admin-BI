@@ -25,9 +25,21 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabarore"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03b1\u03c1\u03cc\u03c1\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Kabarore"
+    ],
     "name:und_x_variant":[
         "Bureau d\u2019arrondissement Kabarore",
         "Kabarore"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5df4\u7f85\u96f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327404145,
-    "wof:lastmodified":1537587835,
+    "wof:lastmodified":1564180071,
     "wof:name":"Kabarore",
     "wof:parent_id":1108759409,
     "wof:placetype":"locality",

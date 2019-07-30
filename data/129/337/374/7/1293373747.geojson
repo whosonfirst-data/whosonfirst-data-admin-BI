@@ -25,6 +25,30 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0441\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Ru\u0219i"
+    ],
+    "name:deu_x_preferred":[
+        "Ru\u0219i"
+    ],
+    "name:epo_x_preferred":[
+        "Ru\u0219i"
+    ],
+    "name:fin_x_preferred":[
+        "Rusi"
+    ],
+    "name:hun_x_preferred":[
+        "Ru\u0219i"
+    ],
+    "name:ron_x_preferred":[
+        "Ru\u0219i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0441\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293373747,
-    "wof:lastmodified":1536951249,
+    "wof:lastmodified":1564180274,
     "wof:name":"Rusi",
     "wof:parent_id":1108759463,
     "wof:placetype":"locality",

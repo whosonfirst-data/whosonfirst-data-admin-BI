@@ -25,6 +25,15 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiga"
+    ],
+    "name:deu_x_preferred":[
+        "Kiga"
+    ],
+    "name:fra_x_preferred":[
+        "Kiga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209972967,
-    "wof:lastmodified":1536394202,
+    "wof:lastmodified":1564180515,
     "wof:name":"Kiga",
     "wof:parent_id":1108759539,
     "wof:placetype":"locality",

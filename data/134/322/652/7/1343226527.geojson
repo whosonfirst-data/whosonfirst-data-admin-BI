@@ -25,6 +25,27 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Benga"
+    ],
+    "name:deu_x_preferred":[
+        "Benga"
+    ],
+    "name:fin_x_preferred":[
+        "Benga"
+    ],
+    "name:fra_x_preferred":[
+        "Benga"
+    ],
+    "name:por_x_preferred":[
+        "Benga"
+    ],
+    "name:ron_x_preferred":[
+        "Benga"
+    ],
+    "name:swe_x_preferred":[
+        "Benga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343226527,
-    "wof:lastmodified":1537080943,
+    "wof:lastmodified":1564180192,
     "wof:name":"Benga",
     "wof:parent_id":1108759351,
     "wof:placetype":"locality",

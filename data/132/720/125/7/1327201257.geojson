@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nyamirambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327201257,
-    "wof:lastmodified":1537013957,
+    "wof:lastmodified":1564180128,
     "wof:name":"Nyamirambo",
     "wof:parent_id":1108759537,
     "wof:placetype":"locality",

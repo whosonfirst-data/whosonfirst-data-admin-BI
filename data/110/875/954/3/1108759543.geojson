@@ -34,6 +34,15 @@
     "name:eng_x_preferred":[
         "Rutovu"
     ],
+    "name:run_x_preferred":[
+        "Rutovu"
+    ],
+    "name:spa_x_preferred":[
+        "Rutovu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0442\u043e\u0432\u0443"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1108759543,
-    "wof:lastmodified":1553718718,
+    "wof:lastmodified":1564180678,
     "wof:name":"Rutovu",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

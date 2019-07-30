@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Kizenga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343914387,
-    "wof:lastmodified":1537083433,
+    "wof:lastmodified":1564180129,
     "wof:name":"Kizenga",
     "wof:parent_id":1108759427,
     "wof:placetype":"locality",

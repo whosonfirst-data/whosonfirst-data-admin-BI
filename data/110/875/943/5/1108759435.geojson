@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Mabanda"
     ],
+    "name:run_x_preferred":[
+        "Mabanda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0628\u0627\u0646\u0688\u0627"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759435,
-    "wof:lastmodified":1553718715,
+    "wof:lastmodified":1564180698,
     "wof:name":"Mabanda",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

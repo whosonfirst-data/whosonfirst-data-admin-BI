@@ -25,6 +25,24 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u0627\u0646\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Butana"
+    ],
+    "name:deu_x_preferred":[
+        "Butana"
+    ],
+    "name:hun_x_preferred":[
+        "But\u00e1na"
+    ],
+    "name:pol_x_preferred":[
+        "Butana"
+    ],
+    "name:spa_x_preferred":[
+        "Butana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242850225,
-    "wof:lastmodified":1536671013,
+    "wof:lastmodified":1564180941,
     "wof:name":"Butana",
     "wof:parent_id":1108759501,
     "wof:placetype":"locality",

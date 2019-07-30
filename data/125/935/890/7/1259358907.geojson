@@ -25,6 +25,18 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kinama"
+    ],
+    "name:run_x_preferred":[
+        "Kinama"
+    ],
+    "name:swa_x_preferred":[
+        "Kinama"
+    ],
+    "name:swe_x_preferred":[
+        "Kinama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259358907,
-    "wof:lastmodified":1537036136,
+    "wof:lastmodified":1564181008,
     "wof:name":"Kinama",
     "wof:parent_id":1108759501,
     "wof:placetype":"locality",

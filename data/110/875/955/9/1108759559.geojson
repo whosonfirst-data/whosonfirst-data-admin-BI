@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Vumbi"
     ],
+    "name:run_x_preferred":[
+        "Vumbi"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108759559,
-    "wof:lastmodified":1553718718,
+    "wof:lastmodified":1564180683,
     "wof:name":"Vumbi",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

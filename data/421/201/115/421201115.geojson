@@ -35,6 +35,9 @@
     "name:bel_x_variant":[
         "\u041d\u0433\u0430\u0437\u0456"
     ],
+    "name:ceb_x_preferred":[
+        "Ngozi"
+    ],
     "name:deu_x_preferred":[
         "Ngozi"
     ],
@@ -54,6 +57,9 @@
         "Ngozi"
     ],
     "name:swa_x_preferred":[
+        "Ngozi"
+    ],
+    "name:swe_x_preferred":[
         "Ngozi"
     ],
     "name:ukr_x_preferred":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421201115,
-    "wof:lastmodified":1553717554,
+    "wof:lastmodified":1564180852,
     "wof:name":"Ngozi",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

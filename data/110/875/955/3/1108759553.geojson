@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Songa"
     ],
+    "name:run_x_preferred":[
+        "Songa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108759553,
-    "wof:lastmodified":1553718718,
+    "wof:lastmodified":1564180684,
     "wof:name":"Songa",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

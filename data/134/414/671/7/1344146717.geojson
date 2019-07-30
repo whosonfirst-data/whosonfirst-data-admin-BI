@@ -25,6 +25,15 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mubungere"
+    ],
+    "name:run_x_preferred":[
+        "Mubungere"
+    ],
+    "name:swe_x_preferred":[
+        "Mubungere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1344146717,
-    "wof:lastmodified":1537487819,
+    "wof:lastmodified":1564180159,
     "wof:name":"Mubungere",
     "wof:parent_id":1108759531,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kamira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193102681,
-    "wof:lastmodified":1536381799,
+    "wof:lastmodified":1564180627,
     "wof:name":"Kamira",
     "wof:parent_id":1108759555,
     "wof:placetype":"locality",
