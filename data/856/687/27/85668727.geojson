@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KR"
+    ],
     "lbl:latitude":-3.116341,
     "lbl:longitude":30.096625,
     "mps:latitude":-3.117886,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85668727,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -303,7 +303,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345567,
+    "wof:lastmodified":1565654161,
     "wof:name":"Karuzi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

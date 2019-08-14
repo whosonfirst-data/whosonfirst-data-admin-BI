@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RY"
+    ],
     "lbl:latitude":-3.490289,
     "lbl:longitude":30.295561,
     "mps:latitude":-3.41984,
@@ -287,9 +290,6 @@
         }
     ],
     "wof:id":85668735,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -298,7 +298,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345566,
+    "wof:lastmodified":1565654161,
     "wof:name":"Ruyigi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

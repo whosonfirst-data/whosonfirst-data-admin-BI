@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MV"
+    ],
     "lbl:latitude":-3.278657,
     "lbl:longitude":29.654477,
     "mps:latitude":-3.276977,
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85668797,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -296,7 +296,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345576,
+    "wof:lastmodified":1565654162,
     "wof:name":"Muramvya",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

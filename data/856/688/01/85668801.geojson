@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MW"
+    ],
     "lbl:latitude":-3.487889,
     "lbl:longitude":29.712851,
     "mps:latitude":-3.471759,
@@ -284,7 +287,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345564,
+    "wof:lastmodified":1565654160,
     "wof:name":"Mwaro",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

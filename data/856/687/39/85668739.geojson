@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":-3.13933,
     "lbl:longitude":29.396142,
     "mps:latitude":-3.137893,
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85668739,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -304,7 +304,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345574,
+    "wof:lastmodified":1565654162,
     "wof:name":"Bubanza",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

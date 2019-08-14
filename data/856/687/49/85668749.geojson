@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CI"
+    ],
     "lbl:latitude":-2.78013,
     "lbl:longitude":29.166605,
     "mps:latitude":-2.833786,
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85668749,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -297,7 +297,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345579,
+    "wof:lastmodified":1565654162,
     "wof:name":"Cibitoke",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

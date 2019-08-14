@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BL"
+    ],
     "lbl:latitude":-3.47503,
     "lbl:longitude":29.477642,
     "mps:latitude":-3.500204,
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85668799,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -309,7 +309,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345575,
+    "wof:lastmodified":1565654162,
     "wof:name":"Bujumbura Rural",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

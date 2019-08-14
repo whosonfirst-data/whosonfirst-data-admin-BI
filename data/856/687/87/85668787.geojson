@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MY"
+    ],
     "lbl:latitude":-2.806589,
     "lbl:longitude":30.300958,
     "mps:latitude":-2.803039,
@@ -287,9 +290,6 @@
         }
     ],
     "wof:id":85668787,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -298,7 +298,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345569,
+    "wof:lastmodified":1565654161,
     "wof:name":"Muyinga",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

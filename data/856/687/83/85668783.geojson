@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KI"
+    ],
     "lbl:latitude":-2.577717,
     "lbl:longitude":30.119939,
     "mps:latitude":-2.571236,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85668783,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -306,7 +306,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345578,
+    "wof:lastmodified":1565654162,
     "wof:name":"Kirundo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

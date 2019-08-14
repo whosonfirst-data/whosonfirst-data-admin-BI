@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BI"
+    ],
     "lbl:latitude":-3.915744,
     "lbl:longitude":29.676207,
     "mps:latitude":-3.918051,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85668745,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -303,7 +303,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345569,
+    "wof:lastmodified":1565654161,
     "wof:name":"Bururi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

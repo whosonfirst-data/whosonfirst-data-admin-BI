@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RT"
+    ],
     "lbl:latitude":-3.893763,
     "lbl:longitude":30.090395,
     "mps:latitude":-3.873467,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85668731,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -303,7 +303,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345571,
+    "wof:lastmodified":1565654161,
     "wof:name":"Rutana",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NG"
+    ],
     "lbl:latitude":-2.88413,
     "lbl:longitude":29.928838,
     "mps:latitude":-2.875028,
@@ -290,9 +293,6 @@
         }
     ],
     "wof:id":85668781,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "run",
         "fra"
@@ -301,7 +301,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1563345570,
+    "wof:lastmodified":1565654161,
     "wof:name":"Ngozi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
