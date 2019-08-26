@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.7124,-3.3827,29.7524,-3.3427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260048515,
-    "wof:lastmodified":1537036948,
+    "wof:lastmodified":1566614796,
     "wof:name":"Buyori",
     "wof:parent_id":1108759505,
     "wof:placetype":"locality",

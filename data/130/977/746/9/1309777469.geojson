@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.7706,-3.5826,29.8106,-3.5426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309777469,
-    "wof:lastmodified":1536971637,
+    "wof:lastmodified":1566614912,
     "wof:name":"Nyamazi",
     "wof:parent_id":1108759523,
     "wof:placetype":"locality",

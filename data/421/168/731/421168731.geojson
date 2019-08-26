@@ -10,6 +10,9 @@
     "geom:latitude":-2.5845,
     "geom:longitude":30.0959,
     "iso:country":"BI",
+    "lbl:bbox":"30.0759,-2.6045,30.1159,-2.5645",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -212,7 +215,7 @@
     "wof:concordances":{
         "gn:id":432456,
         "gp:id":1270339,
-        "qs:id":124604,
+        "qs_pg:id":124604,
         "wd:id":"Q2640808",
         "wk:page":"Kirundo"
     },
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":421168731,
-    "wof:lastmodified":1563346372,
+    "wof:lastmodified":1566614933,
     "wof:name":"Kirundo",
     "wof:parent_id":1108759433,
     "wof:placetype":"locality",

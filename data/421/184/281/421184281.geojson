@@ -10,7 +10,12 @@
     "geom:latitude":-3.812251,
     "geom:longitude":29.901833,
     "iso:country":"BI",
+    "lbl:bbox":"29.881833,-3.8322505,29.921833,-3.7922505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1270155,
-        "qs:id":992726
+        "qs_pg:id":992726
     },
     "wof:country":"BI",
     "wof:created":1459009406,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421184281,
-    "wof:lastmodified":1496497988,
+    "wof:lastmodified":1566614937,
     "wof:name":"Colline Yamagendera",
     "wof:parent_id":1108759543,
     "wof:placetype":"locality",

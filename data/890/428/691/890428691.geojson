@@ -11,10 +11,14 @@
     "geom:longitude":29.7034,
     "gn:country":"BI",
     "gn:fcode":"PPLL",
-    "gn:pop":4924,
+    "gn:population":4924,
     "iso:country":"BI",
+    "lbl:bbox":"29.6834,-3.5472,29.7234,-3.5072",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u0631\u0648"
     ],
@@ -159,7 +163,7 @@
     "wof:concordances":{
         "gn:id":423794,
         "gp:id":1270128,
-        "qs:id":548071,
+        "qs_pg:id":548071,
         "wd:id":"Q2458075",
         "wk:page":"Mwaro"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":890428691,
-    "wof:lastmodified":1563346389,
+    "wof:lastmodified":1566614937,
     "wof:name":"Mwaro",
     "wof:parent_id":1108759391,
     "wof:placetype":"locality",

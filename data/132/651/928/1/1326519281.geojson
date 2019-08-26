@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.5423,-3.6336,29.5823,-3.5936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326519281,
-    "wof:lastmodified":1537001974,
+    "wof:lastmodified":1566614374,
     "wof:name":"Uwinryame",
     "wof:parent_id":1108759463,
     "wof:placetype":"locality",

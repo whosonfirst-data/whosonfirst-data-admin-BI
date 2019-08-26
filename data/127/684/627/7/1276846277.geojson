@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.1262,-2.7801,30.1662,-2.7401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276846277,
-    "wof:lastmodified":1537082985,
+    "wof:lastmodified":1566614658,
     "wof:name":"Gisabazuba",
     "wof:parent_id":1108759371,
     "wof:placetype":"locality",

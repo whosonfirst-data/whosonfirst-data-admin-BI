@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.7562,-2.8196,29.7962,-2.7796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260364975,
-    "wof:lastmodified":1537096480,
+    "wof:lastmodified":1566614786,
     "wof:name":"Buziragahama",
     "wof:parent_id":1108759503,
     "wof:placetype":"locality",

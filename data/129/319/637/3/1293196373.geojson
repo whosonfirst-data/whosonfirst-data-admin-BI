@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.4226,-3.0296,29.4626,-2.9896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Ngonyi"
     ],
     "name:und_x_variant":[
-        "Ngonie",
-        "Ngonyi"
+        "Ngonie"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293196373,
-    "wof:lastmodified":1564180360,
+    "wof:lastmodified":1566614592,
     "wof:name":"Ngonyi",
     "wof:parent_id":1108759487,
     "wof:placetype":"locality",

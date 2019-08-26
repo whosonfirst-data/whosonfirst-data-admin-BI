@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.949397,
     "lbl:longitude":29.81065,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Ngozi",
     "meso:dissme":"NgoziNgozi",
     "meso:gadm_adm2":"Ngozi",
@@ -31,6 +33,7 @@
     "mps:longitude":29.81065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_variant":[
         "\u041d\u0433\u0430\u0437\u0456"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-08-16",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":7670822,
         "gp:id":56017531,
         "hasc:id":"BI.NG.NG",
-        "qs:id":911965
+        "qs_pg:id":911965
     },
     "wof:country":"BI",
     "wof:created":1459010051,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421201115,
-    "wof:lastmodified":1564180852,
+    "wof:lastmodified":1566614937,
     "wof:name":"Ngozi",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

@@ -11,8 +11,11 @@
     "geom:longitude":30.17351,
     "gn:country":"BI",
     "gn:fcode":"PPL",
-    "gn:pop":10705,
+    "gn:population":10705,
     "iso:country":"BI",
+    "lbl:bbox":"30.15351,-3.12608,30.19351,-3.08608",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -253,7 +256,7 @@
     "wof:concordances":{
         "gn:id":428219,
         "gp:id":1270301,
-        "qs:id":548049,
+        "qs_pg:id":548049,
         "wd:id":"Q684152",
         "wk:page":"Karuzi"
     },
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":890442397,
-    "wof:lastmodified":1563346390,
+    "wof:lastmodified":1566614938,
     "wof:name":"Karuzi",
     "wof:parent_id":1108759321,
     "wof:placetype":"locality",

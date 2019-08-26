@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.8903,
     "lbl:longitude":29.982077,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Rutana",
     "meso:dissme":"RutanaRutana",
     "meso:gadm_adm2":"Rutana",
@@ -31,6 +33,7 @@
     "mps:longitude":29.982077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0648\u062a\u0627\u0646\u0627"
@@ -192,9 +195,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-08-16",
     "statoids:capital":"",
@@ -215,7 +218,7 @@
     "wof:concordances":{
         "gp:id":56017544,
         "hasc:id":"BI.RT.RU",
-        "qs:id":784355,
+        "qs_pg:id":784355,
         "wd:id":"Q246069"
     },
     "wof:country":"BI",
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":421196575,
-    "wof:lastmodified":1563346386,
+    "wof:lastmodified":1566614936,
     "wof:name":"Rutana",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

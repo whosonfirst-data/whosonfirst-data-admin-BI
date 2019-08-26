@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.9312,-3.1813,29.9712,-3.1413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Nyanga"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1310291239,
-    "wof:lastmodified":1564180745,
+    "wof:lastmodified":1566614855,
     "wof:name":"Nyanga",
     "wof:parent_id":1108759317,
     "wof:placetype":"locality",

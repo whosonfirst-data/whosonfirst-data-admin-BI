@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.21696,-3.13372,30.25696,-3.09372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -34,7 +38,7 @@
         "gn:id":428226
     },
     "wof:country":"BI",
-    "wof:geomhash":"d77573b3804e37028d8f714da89b1d6e",
+    "wof:geomhash":"fc19e85fc8c6d3334c888397b395fba3",
     "wof:hierarchy":[
         {
             "country_id":85632285,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209491231,
-    "wof:lastmodified":1536285479,
+    "wof:lastmodified":1566614719,
     "wof:name":"Rusheri",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.23696,
-    -3.1137200000000003,
+    -3.11372,
     30.23696,
-    -3.1137200000000003
+    -3.11372
 ],
   "geometry": {"coordinates":[30.23696,-3.11372],"type":"Point"}
 }

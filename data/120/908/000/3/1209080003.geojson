@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.05917,-3.24361,30.09917,-3.20361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0443\u0441\u0438"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1209080003,
-    "wof:lastmodified":1564180509,
+    "wof:lastmodified":1566614693,
     "wof:name":"Rusi",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",

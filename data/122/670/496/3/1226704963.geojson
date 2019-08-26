@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.4834,-3.935,29.5234,-3.895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226704963,
-    "wof:lastmodified":1536775117,
+    "wof:lastmodified":1566615135,
     "wof:name":"Maramvya",
     "wof:parent_id":1108759355,
     "wof:placetype":"locality",

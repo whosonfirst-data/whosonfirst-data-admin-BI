@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.5724,-4.0213,29.6124,-3.9813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225828901,
-    "wof:lastmodified":1537036410,
+    "wof:lastmodified":1566615156,
     "wof:name":"Mibaga",
     "wof:parent_id":1108759339,
     "wof:placetype":"locality",

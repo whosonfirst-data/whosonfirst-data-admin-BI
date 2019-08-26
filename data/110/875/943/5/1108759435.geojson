@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.264983,
     "lbl:longitude":29.772853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Makamba",
     "meso:dissme":"MabandaMakamba",
     "meso:gadm_adm2":"Mabanda",
@@ -31,6 +33,7 @@
     "mps:longitude":29.772853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mabanda"
     ],
@@ -41,9 +44,9 @@
         "\u0645\u0627\u0628\u0627\u0646\u0688\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-08-16",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108759435,
-    "wof:lastmodified":1564180698,
+    "wof:lastmodified":1566614821,
     "wof:name":"Mabanda",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

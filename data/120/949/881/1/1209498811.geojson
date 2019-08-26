@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.648,-3.6813,29.688,-3.6413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -34,7 +38,7 @@
         "gn:id":424017
     },
     "wof:country":"BI",
-    "wof:geomhash":"56c2256437bbc4eb6c849f4d658de4df",
+    "wof:geomhash":"fea4edf6bf1d1a2144b8f520531528b6",
     "wof:hierarchy":[
         {
             "country_id":85632285,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209498811,
-    "wof:lastmodified":1536285249,
+    "wof:lastmodified":1566614718,
     "wof:name":"Kanyinya",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.668000000000006,
+    29.66800000000001,
     -3.6613,
-    29.668000000000006,
+    29.66800000000001,
     -3.6613
 ],
   "geometry": {"coordinates":[29.66800000000001,-3.6613],"type":"Point"}

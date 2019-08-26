@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.983,-2.6234,30.023,-2.5834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Nyarugenge"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226014359,
-    "wof:lastmodified":1564181141,
+    "wof:lastmodified":1566615145,
     "wof:name":"Nyarugenge",
     "wof:parent_id":1108759511,
     "wof:placetype":"locality",

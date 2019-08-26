@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":-3.116341,
     "lbl:longitude":30.096625,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-3.117886,
     "mps:longitude":30.104793,
     "mz:hierarchy_label":1,
@@ -252,9 +253,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"1,457",
     "statoids:area_mi":"563",
     "statoids:as_of_date":"2008-08-16",
@@ -280,7 +281,7 @@
         "gp:id":2344907,
         "hasc:id":"BI.KR",
         "iso:id":"BI-KR",
-        "qs:id":1024615,
+        "qs_pg:id":1024615,
         "unlc:id":"BI-KR",
         "wd:id":"Q735463",
         "wk:page":"Karuzi Province"
@@ -303,11 +304,10 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1565654161,
+    "wof:lastmodified":1566614516,
     "wof:name":"Karuzi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":436443,
     "wof:population_rank":10,

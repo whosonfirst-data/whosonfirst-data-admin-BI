@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.573,-3.2275,30.613,-3.1875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309786897,
-    "wof:lastmodified":1536958328,
+    "wof:lastmodified":1566614915,
     "wof:name":"Bugabiro",
     "wof:parent_id":1108759361,
     "wof:placetype":"locality",

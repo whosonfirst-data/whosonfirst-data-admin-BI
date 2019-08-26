@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.2845,-2.5288,30.3245,-2.4888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kabanga"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259656187,
-    "wof:lastmodified":1564180970,
+    "wof:lastmodified":1566615021,
     "wof:name":"Kabanga",
     "wof:parent_id":1108759343,
     "wof:placetype":"locality",

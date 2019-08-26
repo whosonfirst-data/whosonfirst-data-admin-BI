@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.4411,-3.3978,29.4811,-3.3578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyahibande",
         "Nyakibande"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242940789,
-    "wof:lastmodified":1537587827,
+    "wof:lastmodified":1566614958,
     "wof:name":"Nyakibande",
     "wof:parent_id":1108759405,
     "wof:placetype":"locality",

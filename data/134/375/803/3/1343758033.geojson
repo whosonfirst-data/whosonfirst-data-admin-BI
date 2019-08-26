@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.6015,-4.0187,29.6415,-3.9787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Muyuga"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343758033,
-    "wof:lastmodified":1564180242,
+    "wof:lastmodified":1566614506,
     "wof:name":"Muyuga",
     "wof:parent_id":1108759339,
     "wof:placetype":"locality",

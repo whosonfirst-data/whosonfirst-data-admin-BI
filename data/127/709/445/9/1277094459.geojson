@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.5209,-3.9461,29.5609,-3.9061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277094459,
-    "wof:lastmodified":1536750667,
+    "wof:lastmodified":1566614601,
     "wof:name":"Nyange",
     "wof:parent_id":1108759339,
     "wof:placetype":"locality",

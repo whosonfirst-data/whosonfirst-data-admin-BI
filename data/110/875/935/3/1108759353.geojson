@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.71401,
     "lbl:longitude":30.324082,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Muyinga",
     "meso:dissme":"ButihindaMuyinga",
     "meso:gadm_adm2":"Butihinda",
@@ -31,6 +33,7 @@
     "mps:longitude":30.324082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Butihinda"
     ],
@@ -38,9 +41,9 @@
         "Butihinda"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-08-16",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759353,
-    "wof:lastmodified":1564180692,
+    "wof:lastmodified":1566614815,
     "wof:name":"Butihinda",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

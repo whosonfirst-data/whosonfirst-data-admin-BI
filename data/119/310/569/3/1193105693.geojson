@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.7939,-3.3936,29.8339,-3.3536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193105693,
-    "wof:lastmodified":1536378739,
+    "wof:lastmodified":1566614771,
     "wof:name":"Rabiro",
     "wof:parent_id":1108759505,
     "wof:placetype":"locality",

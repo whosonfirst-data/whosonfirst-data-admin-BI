@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.1457,-2.5432,30.1857,-2.5032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Renda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276839605,
-    "wof:lastmodified":1564180462,
+    "wof:lastmodified":1566614661,
     "wof:name":"Renda",
     "wof:parent_id":1108759343,
     "wof:placetype":"locality",

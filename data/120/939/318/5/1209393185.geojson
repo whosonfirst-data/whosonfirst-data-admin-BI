@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.40532,-3.09454,30.44532,-3.05454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -34,7 +38,7 @@
         "gn:id":427858
     },
     "wof:country":"BI",
-    "wof:geomhash":"9f3c81f1d75cd0c194dc7161c2d9b0f3",
+    "wof:geomhash":"0502e89bf592f95b65ce664d2fdf949f",
     "wof:hierarchy":[
         {
             "country_id":85632285,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209393185,
-    "wof:lastmodified":1536288390,
+    "wof:lastmodified":1566614688,
     "wof:name":"Karinzi",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.425320000000006,
-    -3.0745400000000003,
-    30.425320000000006,
-    -3.0745400000000003
+    30.42532000000001,
+    -3.07454,
+    30.42532000000001,
+    -3.07454
 ],
   "geometry": {"coordinates":[30.42532000000001,-3.07454],"type":"Point"}
 }
