@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.1331,-2.7937,29.1731,-2.7537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kihanira"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226229397,
-    "wof:lastmodified":1537587834,
+    "wof:lastmodified":1566615119,
     "wof:name":"Kinanira",
     "wof:parent_id":1108759465,
     "wof:placetype":"locality",

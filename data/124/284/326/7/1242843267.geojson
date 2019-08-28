@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.699,-3.3202,29.739,-3.2802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242843267,
-    "wof:lastmodified":1536681065,
+    "wof:lastmodified":1566614997,
     "wof:name":"Migera",
     "wof:parent_id":1108759541,
     "wof:placetype":"locality",

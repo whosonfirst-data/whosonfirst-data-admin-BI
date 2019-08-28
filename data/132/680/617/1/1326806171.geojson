@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.247,-3.0802,30.287,-3.0402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326806171,
-    "wof:lastmodified":1537083216,
+    "wof:lastmodified":1566614369,
     "wof:name":"Gasenyi",
     "wof:parent_id":1108759501,
     "wof:placetype":"locality",

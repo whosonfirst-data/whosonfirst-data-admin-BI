@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.2416,-3.1478,29.2816,-3.1078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Kagwena"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209209595,
-    "wof:lastmodified":1564180569,
+    "wof:lastmodified":1566614735,
     "wof:name":"Kagwena",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",

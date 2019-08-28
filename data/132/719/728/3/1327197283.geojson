@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.4823,-2.509,30.5223,-2.469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327197283,
-    "wof:lastmodified":1537019567,
+    "wof:lastmodified":1566614418,
     "wof:name":"Bihemba",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

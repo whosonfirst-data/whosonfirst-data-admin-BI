@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-3.146155,
     "lbl:longitude":30.689242,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-3.13074,
     "mps:longitude":30.594385,
     "mz:hierarchy_label":1,
@@ -150,7 +151,7 @@
         "Cankuzo"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0b99\u0bcd\u0b95\u0bc1\u0bb8\u0bcd\u0bb5\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0b99\u0bcd\u0b95\u0bc1\u0bb8\u0bcd\u0bb5\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c02\u0c15\u0c41\u0c1c\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -163,9 +164,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0427\u0430\u043d\u043a\u0443\u0437\u043e"
-    ],
-    "name:unk_x_variant":[
-        "iProvense ya Cankuzo"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0646\u06a9\u0648\u0632\u0648 \u0635\u0648\u0628\u06c1"
@@ -248,9 +246,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"1,965",
     "statoids:area_mi":"759",
     "statoids:as_of_date":"2008-08-16",
@@ -275,7 +273,7 @@
         "gp:id":2344904,
         "hasc:id":"BI.CA",
         "iso:id":"BI-CA",
-        "qs:id":318327,
+        "qs_pg:id":318327,
         "unlc:id":"BI-CA",
         "wd:id":"Q645033",
         "wk:page":"Cankuzo Province"
@@ -298,11 +296,10 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1565654162,
+    "wof:lastmodified":1566614520,
     "wof:name":"Cankuzo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":228873,
     "wof:population_rank":10,

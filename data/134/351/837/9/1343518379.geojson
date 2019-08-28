@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.4288,-3.6323,29.4688,-3.5923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343518379,
-    "wof:lastmodified":1536662777,
+    "wof:lastmodified":1566614482,
     "wof:name":"Masara",
     "wof:parent_id":1108759475,
     "wof:placetype":"locality",

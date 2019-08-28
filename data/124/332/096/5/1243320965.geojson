@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.4992,-3.5154,29.5392,-3.4754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanamira"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243320965,
-    "wof:lastmodified":1537587828,
+    "wof:lastmodified":1566614984,
     "wof:name":"Kananira",
     "wof:parent_id":1108759467,
     "wof:placetype":"locality",

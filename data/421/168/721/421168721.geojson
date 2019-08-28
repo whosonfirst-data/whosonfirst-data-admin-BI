@@ -10,6 +10,9 @@
     "geom:latitude":-3.0804,
     "geom:longitude":29.391,
     "iso:country":"BI",
+    "lbl:bbox":"29.371,-3.1004,29.411,-3.0604",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -272,7 +275,7 @@
     "wof:concordances":{
         "gn:id":428515,
         "gp:id":56125620,
-        "qs:id":124601,
+        "qs_pg:id":124601,
         "wd:id":"Q2020432",
         "wk:page":"Bubanza"
     },
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421168721,
-    "wof:lastmodified":1563346375,
+    "wof:lastmodified":1566614934,
     "wof:name":"Bubanza",
     "wof:parent_id":1108759307,
     "wof:placetype":"locality",

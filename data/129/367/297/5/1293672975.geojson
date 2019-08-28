@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.5994,-4.0962,29.6394,-4.0562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buhama",
         "Buhana"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293672975,
-    "wof:lastmodified":1537587822,
+    "wof:lastmodified":1566614566,
     "wof:name":"Buhana",
     "wof:parent_id":1108759561,
     "wof:placetype":"locality",

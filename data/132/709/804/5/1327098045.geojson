@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.8305,-4.1377,29.8705,-4.0977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327098045,
-    "wof:lastmodified":1536665887,
+    "wof:lastmodified":1566614360,
     "wof:name":"Marindye",
     "wof:parent_id":1108759441,
     "wof:placetype":"locality",

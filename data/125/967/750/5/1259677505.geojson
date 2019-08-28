@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.7181,-3.6935,29.7581,-3.6535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Musagare",
         "Musagara"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259677505,
-    "wof:lastmodified":1537587825,
+    "wof:lastmodified":1566615051,
     "wof:name":"Musagara",
     "wof:parent_id":1108759447,
     "wof:placetype":"locality",

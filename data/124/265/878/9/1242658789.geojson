@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.47092,-3.24277,30.51092,-3.20277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242658789,
-    "wof:lastmodified":1536947285,
+    "wof:lastmodified":1566615006,
     "wof:name":"Minyare",
     "wof:parent_id":1108759361,
     "wof:placetype":"locality",

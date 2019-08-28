@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15370413.409328,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.351933,-3.37149,29.351933,-3.37149",
     "geom:latitude":-3.37149,
     "geom:longitude":29.351933,
     "gn:latitude":-3.3529,
     "gn:longitude":29.3704,
     "iso:country":"BI",
+    "lbl:bbox":"29.346933,-3.37649,29.356933,-3.36649",
     "lbl:latitude":-3.37149,
     "lbl:longitude":29.351933,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-3.373598,
     "mps:longitude":29.353907,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Ngagara"
-    ],
-    "name:unk_x_variant":[
         "Ngagara"
     ],
     "qs:gn_adm0_cc":"BI",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85668791,
         102191573,
         85632285,
-        1108759477,
-        85668791
+        1108759477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":425343,
         "gp:id":1270567,
-        "qs:id":241138,
         "qs_pg:id":241138
     },
     "wof:country":"BI",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531859466,
+    "wof:lastmodified":1566614515,
     "wof:name":"Ngagara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.816,-2.8365,29.856,-2.7965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242948175,
-    "wof:lastmodified":1537025845,
+    "wof:lastmodified":1566614957,
     "wof:name":"Kabataha",
     "wof:parent_id":1108759503,
     "wof:placetype":"locality",

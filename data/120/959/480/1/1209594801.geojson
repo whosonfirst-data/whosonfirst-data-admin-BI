@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.828,-3.1366,29.868,-3.0966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -34,7 +38,7 @@
         "gn:id":429399
     },
     "wof:country":"BI",
-    "wof:geomhash":"d40573d4ff8af6332f613ca862b4f54a",
+    "wof:geomhash":"8640700134af79e9f08a7313517e40ca",
     "wof:hierarchy":[
         {
             "country_id":85632285,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209594801,
-    "wof:lastmodified":1536282359,
+    "wof:lastmodified":1566614724,
     "wof:name":"Kidasha",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.848000000000006,
+    29.84800000000001,
     -3.1166,
-    29.848000000000006,
+    29.84800000000001,
     -3.1166
 ],
   "geometry": {"coordinates":[29.84800000000001,-3.1166],"type":"Point"}

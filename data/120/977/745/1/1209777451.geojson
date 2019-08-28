@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.8947,-3.8749,29.9347,-3.8349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209777451,
-    "wof:lastmodified":1536377353,
+    "wof:lastmodified":1566614706,
     "wof:name":"Ntirwonza",
     "wof:parent_id":421196575,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.1265,-2.6566,29.1665,-2.6166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rubona"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226626379,
-    "wof:lastmodified":1564181145,
+    "wof:lastmodified":1566615147,
     "wof:name":"Rubona",
     "wof:parent_id":1108759465,
     "wof:placetype":"locality",

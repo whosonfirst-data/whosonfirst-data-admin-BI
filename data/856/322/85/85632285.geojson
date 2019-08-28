@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-3.397104,
     "lbl:longitude":29.877803,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-3.397104,
     "mps:longitude":29.877803,
     "mz:hierarchy_label":1,
@@ -710,9 +712,7 @@
     ],
     "name:und_x_variant":[
         "B\u00farund\u00ed",
-        "Republika Burundi"
-    ],
-    "name:unk_x_variant":[
+        "Republika Burundi",
         "Urundi"
     ],
     "name:urd_x_preferred":[
@@ -875,7 +875,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"257",
     "statoids:ds":"RU",
@@ -919,7 +919,7 @@
         "mzb:id":"burundi",
         "ne:adm0_a3":"BDI",
         "nyt:id":"62275133523722320321",
-        "qs:id":80327,
+        "qs_pg:id":80327,
         "uncrt:id":"RU",
         "wd:id":"Q967",
         "wk:page":"Burundi",
@@ -943,7 +943,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1565654163,
+    "wof:lastmodified":1566614520,
     "wof:name":"Burundi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

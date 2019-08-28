@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-2.806589,
     "lbl:longitude":30.300958,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-2.803039,
     "mps:longitude":30.298072,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
         "Muyinga"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc1\u0baf\u0b99\u0bcd\u0b95  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0bc1\u0baf\u0b99\u0bcd\u0b95 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c41\u0c2f\u0c3f\u0c02\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -248,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-08-16",
+    "src:population_date":"2008-08-16",
     "statoids:area_km":"1,836",
     "statoids:area_mi":"709",
     "statoids:as_of_date":"2008-08-16",
@@ -275,7 +276,7 @@
         "gp:id":2344911,
         "hasc:id":"BI.MY",
         "iso:id":"BI-MY",
-        "qs:id":191314,
+        "qs_pg:id":191314,
         "unlc:id":"BI-MY",
         "wd:id":"Q822571",
         "wk:page":"Muyinga Province"
@@ -298,11 +299,10 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1565654161,
+    "wof:lastmodified":1566614516,
     "wof:name":"Muyinga",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":632409,
     "wof:population_rank":11,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.9108,-3.5414,29.9508,-3.5014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260377197,
-    "wof:lastmodified":1537080286,
+    "wof:lastmodified":1566614788,
     "wof:name":"Gikobe",
     "wof:parent_id":1108759443,
     "wof:placetype":"locality",

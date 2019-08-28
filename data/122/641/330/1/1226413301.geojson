@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.0292,-3.3541,30.0692,-3.3141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kigo"
     ],
@@ -59,8 +63,7 @@
         "Kigo"
     ],
     "name:und_x_variant":[
-        "Mukigo",
-        "Kigo"
+        "Mukigo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1226413301,
-    "wof:lastmodified":1564181125,
+    "wof:lastmodified":1566615133,
     "wof:name":"Kigo",
     "wof:parent_id":1108759551,
     "wof:placetype":"locality",

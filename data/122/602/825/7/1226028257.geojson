@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.0243,-3.2936,30.0643,-3.2536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226028257,
-    "wof:lastmodified":1536750280,
+    "wof:lastmodified":1566615095,
     "wof:name":"Gitaramuka",
     "wof:parent_id":1108759551,
     "wof:placetype":"locality",

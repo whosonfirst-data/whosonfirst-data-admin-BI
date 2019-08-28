@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.66032,-3.32198,30.70032,-3.28198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -34,7 +38,7 @@
         "gn:id":427231
     },
     "wof:country":"BI",
-    "wof:geomhash":"efbff3dc87d10e58f30be764b8650b69",
+    "wof:geomhash":"d0c2280e26a9e4e77cbb3eb5b5c21c95",
     "wof:hierarchy":[
         {
             "country_id":85632285,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209203015,
-    "wof:lastmodified":1536294545,
+    "wof:lastmodified":1566614735,
     "wof:name":"Kagondo",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.68032,
-    -3.3019800000000004,
+    -3.30198,
     30.68032,
-    -3.3019800000000004
+    -3.30198
 ],
   "geometry": {"coordinates":[30.68032,-3.30198],"type":"Point"}
 }

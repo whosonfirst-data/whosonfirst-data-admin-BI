@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.8481,-4.2028,29.8881,-4.1628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343725651,
-    "wof:lastmodified":1536859837,
+    "wof:lastmodified":1566614510,
     "wof:name":"Kirare",
     "wof:parent_id":1108759441,
     "wof:placetype":"locality",

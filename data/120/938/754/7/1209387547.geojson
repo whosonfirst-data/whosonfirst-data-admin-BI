@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.203,-2.6607,30.243,-2.6207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632285
@@ -34,7 +38,7 @@
         "gn:id":432546
     },
     "wof:country":"BI",
-    "wof:geomhash":"68c8044c336eff181bf8f5be9361cfda",
+    "wof:geomhash":"1cc79d6a442f49cdc2829ce5909f1395",
     "wof:hierarchy":[
         {
             "country_id":85632285,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209387547,
-    "wof:lastmodified":1536288572,
+    "wof:lastmodified":1566614680,
     "wof:name":"Runama",
     "wof:parent_id":85632285,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.223000000000006,
+    30.22300000000001,
     -2.6407,
-    30.223000000000006,
+    30.22300000000001,
     -2.6407
 ],
   "geometry": {"coordinates":[30.22300000000001,-2.6407],"type":"Point"}

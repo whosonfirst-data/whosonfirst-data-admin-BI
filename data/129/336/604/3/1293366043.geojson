@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.1373,-2.7938,30.1773,-2.7538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293366043,
-    "wof:lastmodified":1536962065,
+    "wof:lastmodified":1566614525,
     "wof:name":"Kobero",
     "wof:parent_id":1108759371,
     "wof:placetype":"locality",

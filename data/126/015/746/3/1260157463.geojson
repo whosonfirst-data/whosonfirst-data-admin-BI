@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.7245,-3.6472,29.7645,-3.6072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260157463,
-    "wof:lastmodified":1536883100,
+    "wof:lastmodified":1566614779,
     "wof:name":"Ivi",
     "wof:parent_id":1108759549,
     "wof:placetype":"locality",

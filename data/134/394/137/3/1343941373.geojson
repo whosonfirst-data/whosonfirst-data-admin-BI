@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.0084,-3.1775,30.0484,-3.1375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343941373,
-    "wof:lastmodified":1537045710,
+    "wof:lastmodified":1566614485,
     "wof:name":"Kabungere",
     "wof:parent_id":1108759385,
     "wof:placetype":"locality",

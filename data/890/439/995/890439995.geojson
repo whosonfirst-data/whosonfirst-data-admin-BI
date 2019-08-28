@@ -11,8 +11,11 @@
     "geom:longitude":29.62438,
     "gn:country":"BI",
     "gn:fcode":"PPLA",
-    "gn:pop":19740,
+    "gn:population":19740,
     "iso:country":"BI",
+    "lbl:bbox":"29.60438,-3.96877,29.64438,-3.92877",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mont Bururi"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":423328,
         "gp:id":1470038,
-        "qs:id":124588,
+        "qs_pg:id":124588,
         "wd:id":"Q992247",
         "wk:page":"Bururi"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":890439995,
-    "wof:lastmodified":1563346388,
+    "wof:lastmodified":1566614937,
     "wof:name":"Bururi",
     "wof:parent_id":1108759339,
     "wof:placetype":"locality",

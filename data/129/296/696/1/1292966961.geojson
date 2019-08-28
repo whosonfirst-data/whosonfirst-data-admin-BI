@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.31884,-3.153,30.35884,-3.113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1292966961,
-    "wof:lastmodified":1537038854,
+    "wof:lastmodified":1566614572,
     "wof:name":"Rutyazo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

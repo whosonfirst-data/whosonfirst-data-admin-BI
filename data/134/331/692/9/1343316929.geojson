@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.5323,-3.844,29.5723,-3.804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343316929,
-    "wof:lastmodified":1536953655,
+    "wof:lastmodified":1566614429,
     "wof:name":"Higiro",
     "wof:parent_id":1108759355,
     "wof:placetype":"locality",

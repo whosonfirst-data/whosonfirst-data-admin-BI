@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"30.2731,-3.816,30.3131,-3.776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kigogo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343236465,
-    "wof:lastmodified":1564180182,
+    "wof:lastmodified":1566614468,
     "wof:name":"Kigogo",
     "wof:parent_id":1108759379,
     "wof:placetype":"locality",

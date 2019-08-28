@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bujumbura",
     "iso:country":"BI",
+    "lbl:bbox":"29.4647,-2.8391,29.5047,-2.7991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buvumu",
         "Buvumo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242946105,
-    "wof:lastmodified":1537587834,
+    "wof:lastmodified":1566614957,
     "wof:name":"Buvumo",
     "wof:parent_id":1108759409,
     "wof:placetype":"locality",
