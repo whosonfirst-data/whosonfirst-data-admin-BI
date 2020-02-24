@@ -282,6 +282,9 @@
         "wk:page":"Ngozi Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6d42e9dd22f2c0667b321d590be658f",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614517,
+    "wof:lastmodified":1582345855,
     "wof:name":"Ngozi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

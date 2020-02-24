@@ -287,6 +287,9 @@
         "wk:page":"Rutana Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"572980a89266745e30b750b5cf184a1b",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614517,
+    "wof:lastmodified":1582345855,
     "wof:name":"Rutana",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

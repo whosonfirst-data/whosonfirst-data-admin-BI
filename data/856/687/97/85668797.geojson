@@ -280,6 +280,9 @@
         "wk:page":"Muramvya Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bbb2d88c87983efd49caa880d868d785",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614518,
+    "wof:lastmodified":1582345855,
     "wof:name":"Muramvya",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

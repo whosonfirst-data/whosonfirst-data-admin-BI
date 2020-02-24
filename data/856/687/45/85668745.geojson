@@ -287,6 +287,9 @@
         "wk:page":"Bururi Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33c7a800de647d6fe83a04ec34ea811f",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614516,
+    "wof:lastmodified":1582345855,
     "wof:name":"Bururi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

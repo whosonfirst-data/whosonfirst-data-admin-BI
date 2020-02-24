@@ -281,6 +281,9 @@
         "wk:page":"Cibitoke Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6212c20c5d2e446bde162e3ea6580ec",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614519,
+    "wof:lastmodified":1582345856,
     "wof:name":"Cibitoke",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

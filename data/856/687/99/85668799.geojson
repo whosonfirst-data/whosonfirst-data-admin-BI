@@ -293,6 +293,9 @@
         "wk:page":"Bujumbura Rural Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"421168bfffc64a7542744817da220e48",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614518,
+    "wof:lastmodified":1582345855,
     "wof:name":"Bujumbura Rural",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

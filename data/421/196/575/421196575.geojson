@@ -223,6 +223,9 @@
     },
     "wof:country":"BI",
     "wof:created":1459009886,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"784cc94a482c36dc79d3e8c5cbfb0da7",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":421196575,
-    "wof:lastmodified":1566614936,
+    "wof:lastmodified":1582345863,
     "wof:name":"Rutana",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

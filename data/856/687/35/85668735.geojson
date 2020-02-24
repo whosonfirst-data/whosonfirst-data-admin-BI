@@ -279,6 +279,9 @@
         "wk:page":"Ruyigi Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"696c88cc18f76865cfe5b0e5a9e804b5",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614516,
+    "wof:lastmodified":1582345854,
     "wof:name":"Ruyigi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

@@ -290,6 +290,9 @@
         "wk:page":"Kirundo Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e3b2d0effa7438d903facc0082118cf",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614519,
+    "wof:lastmodified":1582345856,
     "wof:name":"Kirundo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

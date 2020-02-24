@@ -284,6 +284,9 @@
         "wk:page":"Gitega Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f419029fb4466a05c71d904167b69262",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614518,
+    "wof:lastmodified":1582345855,
     "wof:name":"Gitega",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

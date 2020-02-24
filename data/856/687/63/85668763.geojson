@@ -285,6 +285,9 @@
         "wk:page":"Makamba Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bae4245fe62fd12a271845edf7439be7",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614519,
+    "wof:lastmodified":1582345855,
     "wof:name":"Makamba",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
