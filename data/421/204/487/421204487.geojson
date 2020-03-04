@@ -589,6 +589,9 @@
     },
     "wof:country":"BI",
     "wof:created":1459010187,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"12cfbcf85d3cb82d0835640b38f4bf43",
     "wof:hierarchy":[
         {
@@ -600,7 +603,7 @@
         }
     ],
     "wof:id":421204487,
-    "wof:lastmodified":1566614935,
+    "wof:lastmodified":1582345863,
     "wof:name":"Bujumbura",
     "wof:parent_id":1108759477,
     "wof:placetype":"locality",

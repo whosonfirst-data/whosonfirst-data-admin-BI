@@ -291,6 +291,9 @@
         "wk:page":"Bujumbura Mairie Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d70a804d1f34366beb9f129c88aac63d",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614517,
+    "wof:lastmodified":1582345855,
     "wof:name":"Bujumbura Mairie",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

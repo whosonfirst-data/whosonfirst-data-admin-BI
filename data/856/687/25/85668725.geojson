@@ -279,6 +279,9 @@
         "wk:page":"Cankuzo Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4fdfb8b06795829256b724aa535d3799",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614520,
+    "wof:lastmodified":1582345856,
     "wof:name":"Cankuzo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

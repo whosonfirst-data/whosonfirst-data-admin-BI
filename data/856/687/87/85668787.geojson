@@ -282,6 +282,9 @@
         "wk:page":"Muyinga Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f16033885f578ce6c4bb807e3c0e8b97",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614516,
+    "wof:lastmodified":1582345855,
     "wof:name":"Muyinga",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

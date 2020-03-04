@@ -288,6 +288,9 @@
         "wk:page":"Bubanza Province"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a49b6ee4448f0625c7c091bc04810d1e",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614518,
+    "wof:lastmodified":1582345855,
     "wof:name":"Bubanza",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

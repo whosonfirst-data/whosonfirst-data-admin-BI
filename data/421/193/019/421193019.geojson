@@ -266,6 +266,9 @@
     },
     "wof:country":"BI",
     "wof:created":1459009757,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00278aeb974b86d64b51a10b7dc456ad",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         }
     ],
     "wof:id":421193019,
-    "wof:lastmodified":1566614934,
+    "wof:lastmodified":1582345863,
     "wof:name":"Gitanga",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

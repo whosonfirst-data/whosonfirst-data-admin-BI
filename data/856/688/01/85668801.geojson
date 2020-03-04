@@ -271,6 +271,9 @@
         "wd:id":"Q2458075"
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34eef2578c1dec5f3ec8fbcf30ef885e",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614515,
+    "wof:lastmodified":1582345854,
     "wof:name":"Mwaro",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

@@ -118,6 +118,9 @@
     },
     "wof:country":"BI",
     "wof:created":1459010051,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62f495d59ec96b0deff4b34f7789ff43",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421201115,
-    "wof:lastmodified":1566614937,
+    "wof:lastmodified":1582345863,
     "wof:name":"Ngozi",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

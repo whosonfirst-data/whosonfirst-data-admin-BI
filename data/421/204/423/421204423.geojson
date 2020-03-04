@@ -86,6 +86,9 @@
     },
     "wof:country":"BI",
     "wof:created":1459010185,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd36e4f7dbfe823bdb982f300dc6af7f",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421204423,
-    "wof:lastmodified":1566614935,
+    "wof:lastmodified":1582345863,
     "wof:name":"Mutimbuzi",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

@@ -927,6 +927,11 @@
     },
     "wof:country":"BI",
     "wof:country_alpha3":"BDI",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"4bd9bbaa99d1ac96fecd027901d1de7e",
     "wof:hierarchy":[
         {
@@ -943,7 +948,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1566614520,
+    "wof:lastmodified":1582345856,
     "wof:name":"Burundi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

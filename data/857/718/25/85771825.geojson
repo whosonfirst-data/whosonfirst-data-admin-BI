@@ -73,6 +73,10 @@
         "qs_pg:id":241138
     },
     "wof:country":"BI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61356b3982d76e2031b5453d3820feac",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566614515,
+    "wof:lastmodified":1582345854,
     "wof:name":"Ngagara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
