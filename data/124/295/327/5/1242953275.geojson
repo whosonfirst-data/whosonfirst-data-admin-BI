@@ -32,6 +32,12 @@
     "name:deu_x_preferred":[
         "Nimba"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05de\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nimba"
+    ],
     "name:ita_x_preferred":[
         "Nimba"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1242953275,
-    "wof:lastmodified":1566614956,
+    "wof:lastmodified":1636500695,
     "wof:name":"Nimba",
     "wof:parent_id":1108759313,
     "wof:placetype":"locality",

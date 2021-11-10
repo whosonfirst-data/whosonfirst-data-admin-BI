@@ -59,8 +59,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0abe\u0aae\u0acd\u0aac\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d0\u05d8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0915\u093e\u092e\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Makamba"
     ],
     "name:ind_x_preferred":[
         "Makamba"
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":421167099,
-    "wof:lastmodified":1566614935,
+    "wof:lastmodified":1636500692,
     "wof:name":"Makamba",
     "wof:parent_id":1108759441,
     "wof:placetype":"locality",

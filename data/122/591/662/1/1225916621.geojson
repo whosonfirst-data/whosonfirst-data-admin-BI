@@ -53,6 +53,9 @@
     "name:eus_x_preferred":[
         "Gisenyi"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0633\u0646\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Gisenyi"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1225916621,
-    "wof:lastmodified":1566615118,
+    "wof:lastmodified":1636500699,
     "wof:name":"Gisenyi",
     "wof:parent_id":1108759343,
     "wof:placetype":"locality",

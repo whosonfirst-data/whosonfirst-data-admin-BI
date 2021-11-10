@@ -179,7 +179,16 @@
         "\u06a9\u06cc\u0631\u0648\u0646\u062f\u0648 \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Kirundo"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Kirundo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u9686\u591a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57fa\u9f8d\u591a"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u9f8d\u591a\u7701"
@@ -310,7 +319,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1582345856,
+    "wof:lastmodified":1636500677,
     "wof:name":"Kirundo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

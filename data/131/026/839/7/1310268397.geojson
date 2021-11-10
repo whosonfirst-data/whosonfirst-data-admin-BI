@@ -77,6 +77,9 @@
     "name:hrv_x_preferred":[
         "Mutare"
     ],
+    "name:hun_x_preferred":[
+        "Mutare"
+    ],
     "name:ita_x_preferred":[
         "Mutare"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1310268397,
-    "wof:lastmodified":1566614863,
+    "wof:lastmodified":1636500689,
     "wof:name":"Mutare",
     "wof:parent_id":1108759441,
     "wof:placetype":"locality",

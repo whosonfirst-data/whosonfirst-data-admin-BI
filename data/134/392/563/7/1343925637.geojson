@@ -56,6 +56,12 @@
     "name:frr_x_preferred":[
         "Cibitoke"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d1\u05d9\u05d8\u05d5\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Cibitoke"
+    ],
     "name:ind_x_preferred":[
         "Cibitoke"
     ],
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1343925637,
-    "wof:lastmodified":1566614478,
+    "wof:lastmodified":1636500673,
     "wof:name":"Cibitoke",
     "wof:parent_id":421204423,
     "wof:placetype":"locality",

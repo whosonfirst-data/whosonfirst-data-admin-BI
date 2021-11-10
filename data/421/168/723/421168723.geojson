@@ -68,6 +68,9 @@
     "name:hrv_x_preferred":[
         "Ngozi"
     ],
+    "name:hun_x_preferred":[
+        "Ngozi"
+    ],
     "name:ind_x_preferred":[
         "Ngozi"
     ],
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421168723,
-    "wof:lastmodified":1566614934,
+    "wof:lastmodified":1636500692,
     "wof:name":"Ngozi",
     "wof:parent_id":421201115,
     "wof:placetype":"locality",

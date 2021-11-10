@@ -56,6 +56,12 @@
     "name:frr_x_preferred":[
         "Rutana"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d8\u05d0\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Rutana"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u0582\u057f\u0561\u0576\u0561"
     ],
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1326519929,
-    "wof:lastmodified":1566614372,
+    "wof:lastmodified":1636500669,
     "wof:name":"Rutana",
     "wof:parent_id":1108759307,
     "wof:placetype":"locality",

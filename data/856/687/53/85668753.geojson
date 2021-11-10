@@ -82,8 +82,14 @@
     "name:guj_x_preferred":[
         "\u0a97\u0ac0\u0aa4\u0ac7\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d8\u05d2\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u093f\u091f\u0947\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Gitega"
     ],
     "name:ind_x_preferred":[
         "Provinsi Gitega"
@@ -304,7 +310,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1582345855,
+    "wof:lastmodified":1636500676,
     "wof:name":"Gitega",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

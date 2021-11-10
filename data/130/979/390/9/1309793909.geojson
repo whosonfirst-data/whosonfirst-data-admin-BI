@@ -44,6 +44,12 @@
     "name:frr_x_preferred":[
         "Cankuzo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05e7\u05d5\u05d6\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Cankuzo"
+    ],
     "name:ita_x_preferred":[
         "Cankuzo"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1309793909,
-    "wof:lastmodified":1566614914,
+    "wof:lastmodified":1636500691,
     "wof:name":"Cankuzo",
     "wof:parent_id":1108759361,
     "wof:placetype":"locality",

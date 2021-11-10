@@ -53,6 +53,12 @@
     "name:frr_x_preferred":[
         "Muramvya"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e6\u05e8 \u05de\u05d5\u05e8\u05e6'\u05d9\u05e1\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Muramvya"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u0580\u0561\u0574\u057e\u0575\u0561"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1293644581,
-    "wof:lastmodified":1566614537,
+    "wof:lastmodified":1636500678,
     "wof:name":"Muramvya",
     "wof:parent_id":1108759495,
     "wof:placetype":"locality",

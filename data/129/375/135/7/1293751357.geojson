@@ -56,6 +56,12 @@
     "name:frr_x_preferred":[
         "Bubanza"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d1\u05d0\u05e0\u05d6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bubanza"
+    ],
     "name:ind_x_preferred":[
         "Bubanza"
     ],
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1293751357,
-    "wof:lastmodified":1566614595,
+    "wof:lastmodified":1636500679,
     "wof:name":"Bubanza",
     "wof:parent_id":1108759495,
     "wof:placetype":"locality",

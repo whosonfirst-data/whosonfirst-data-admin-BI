@@ -65,6 +65,9 @@
     "name:hrv_x_preferred":[
         "Bururi"
     ],
+    "name:hun_x_preferred":[
+        "Bururi"
+    ],
     "name:ind_x_preferred":[
         "Bururi"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1226629987,
-    "wof:lastmodified":1566615146,
+    "wof:lastmodified":1636500700,
     "wof:name":"Bururi",
     "wof:parent_id":1108759339,
     "wof:placetype":"locality",
