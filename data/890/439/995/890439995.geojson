@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Bururi"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0631\u06cc"
     ],
@@ -41,6 +47,12 @@
         "\u039c\u03c0\u03bf\u03c5\u03c1\u03bf\u03cd\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Bururi"
+    ],
+    "name:epo_x_preferred":[
+        "Bururo"
+    ],
+    "name:eus_x_preferred":[
         "Bururi"
     ],
     "name:fas_x_preferred":[
@@ -115,6 +127,9 @@
     "name:por_x_preferred":[
         "Bururi"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0631\u064a"
+    ],
     "name:ron_x_preferred":[
         "Bururi"
     ],
@@ -165,6 +180,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u9c81\u91cc"
+    ],
+    "name:zul_x_preferred":[
+        "Bururi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burundi",
@@ -291,7 +309,7 @@
         }
     ],
     "wof:id":890439995,
-    "wof:lastmodified":1636500694,
+    "wof:lastmodified":1690857400,
     "wof:name":"Bururi",
     "wof:parent_id":1108759339,
     "wof:placetype":"locality",

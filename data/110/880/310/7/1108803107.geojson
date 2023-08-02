@@ -26,6 +26,15 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0631\u0648\u0645\u0646\u063a\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u043c\u043e\u043d\u0433\u0435"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Rumonge"
+    ],
     "name:deu_x_preferred":[
         "Rumonge"
     ],
@@ -37,6 +46,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Rumonge"
+    ],
+    "name:est_x_preferred":[
+        "Rumonge provints"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u0645\u0648\u0646\u06af\u0647"
@@ -53,6 +65,9 @@
     "name:frr_x_preferred":[
         "Rumonge"
     ],
+    "name:ind_x_preferred":[
+        "Provinsi Rumonge"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Rumonge"
     ],
@@ -62,8 +77,17 @@
     "name:kor_x_preferred":[
         "\ub8e8\ubabd\uac8c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub8e8\ubabd\uac8c\uc8fc"
+    ],
+    "name:nan_x_preferred":[
+        "Rumonge S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Rumonge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043c\u043e\u043d\u0433\u0435"
     ],
     "name:swe_x_preferred":[
         "Rumonge"
@@ -71,8 +95,14 @@
     "name:urd_x_preferred":[
         "\u0631\u0648\u0645\u0648\u0646\u06af\u06cc \u0635\u0648\u0628\u06c1"
     ],
+    "name:vie_x_preferred":[
+        "Rumonge"
+    ],
     "name:zho_x_preferred":[
         "\u9c81\u8499\u76d6\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Rumonge Province"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -119,7 +149,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1614893068,
+    "wof:lastmodified":1690857394,
     "wof:name":"Rumonge",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

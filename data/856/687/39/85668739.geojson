@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0628\u0627\u0646\u0632\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0628\u0648\u0628\u0627\u0646\u0632\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09ac\u09be\u099e\u09cd\u099c\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ceb_x_preferred":[
         "Bubanza Province"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Bubanza"
     ],
     "name:dan_x_preferred":[
         "Bubanza Province"
@@ -61,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Bubanza"
+    ],
+    "name:est_x_preferred":[
+        "Bubanza provints"
     ],
     "name:eus_x_preferred":[
         "Bubanza probintzia"
@@ -116,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\ubc18\uc790 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\ubc18\uc790\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bubanzas province"
@@ -188,6 +200,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u73ed\u624e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Bubanza Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BDI",
@@ -314,7 +329,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1636500676,
+    "wof:lastmodified":1690857390,
     "wof:name":"Bubanza",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

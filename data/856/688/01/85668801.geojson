@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0627\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Mwaro"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0627\u0631\u0648"
     ],
@@ -170,6 +176,9 @@
     "name:zho_x_preferred":[
         "\u7a46\u74e6\u6d1b"
     ],
+    "name:zul_x_preferred":[
+        "Mwaro"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BDI",
     "ne:adm0_label":"2",
@@ -297,7 +306,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1636500674,
+    "wof:lastmodified":1690857386,
     "wof:name":"Mwaro",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

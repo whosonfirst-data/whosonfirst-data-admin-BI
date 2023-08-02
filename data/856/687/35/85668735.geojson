@@ -32,14 +32,23 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0648\u064a\u064a\u063a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0631\u0648\u064a\u064a\u063a\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u0987\u0997\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Ruyigi"
     ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0439\u0438\u0433\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Ruyigi Province"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Ruyigi"
     ],
     "name:dan_x_preferred":[
         "Ruyigi Province"
@@ -59,8 +68,14 @@
     "name:epo_x_preferred":[
         "Provinco Ruyigi"
     ],
+    "name:est_x_preferred":[
+        "Ruyigi provints"
+    ],
     "name:eus_x_preferred":[
         "Ruyigi probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u06cc\u06cc\u06af\u06cc"
     ],
     "name:fin_x_preferred":[
         "Ruyigin provinssi"
@@ -108,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ub8e8\uc774\uae30 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc774\uae30\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Rujigi province"
     ],
@@ -119,6 +137,9 @@
     ],
     "name:msa_x_preferred":[
         "Ruyigi Province"
+    ],
+    "name:nan_x_preferred":[
+        "Ruyigi S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Ruyigi"
@@ -179,6 +200,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9c81\u4f0a\u5409\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Ruyigi Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BDI",
@@ -305,7 +329,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1636500674,
+    "wof:lastmodified":1690857387,
     "wof:name":"Ruyigi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

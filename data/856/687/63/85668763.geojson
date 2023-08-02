@@ -32,14 +32,23 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0643\u0627\u0645\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0645\u0627\u0643\u0627\u0645\u0628\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0995\u09be\u09ae\u09cd\u09ac\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Makamba"
     ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043c\u0431\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Makamba Province"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Makamba"
     ],
     "name:dan_x_preferred":[
         "Makamba Province"
@@ -58,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Makamba"
+    ],
+    "name:est_x_preferred":[
+        "Makamba provints"
     ],
     "name:eus_x_preferred":[
         "Makamba probintzia"
@@ -114,6 +126,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\uce84\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uce84\ubc14\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Makambas province"
     ],
@@ -125,6 +140,9 @@
     ],
     "name:msa_x_preferred":[
         "Makamba Province"
+    ],
+    "name:nan_x_preferred":[
+        "Makamba S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Makamba"
@@ -171,6 +189,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e04\u0e31\u0e21\u0e1a\u0e32"
     ],
+    "name:tuk_x_preferred":[
+        "Makamba wela\u00fdaty"
+    ],
     "name:tur_x_preferred":[
         "Makamba Province"
     ],
@@ -185,6 +206,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u574e\u5df4\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Makamba Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BDI",
@@ -311,7 +335,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1636500676,
+    "wof:lastmodified":1690857390,
     "wof:name":"Makamba",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

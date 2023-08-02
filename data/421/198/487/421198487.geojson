@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u064a\u062c\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u064a\u062c\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Ruyigi"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0648\u06cc\u06cc\u0642\u06cc"
     ],
@@ -39,6 +45,9 @@
         "\u03a1\u03bf\u03c5\u03b3\u03af\u03b3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Ruyigi"
+    ],
+    "name:eus_x_preferred":[
         "Ruyigi"
     ],
     "name:fas_x_preferred":[
@@ -166,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9c81\u4f0a\u5409"
+    ],
+    "name:zul_x_preferred":[
+        "Ruyigi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burundi",
@@ -307,7 +319,7 @@
         }
     ],
     "wof:id":421198487,
-    "wof:lastmodified":1636500693,
+    "wof:lastmodified":1690857399,
     "wof:name":"Ruyigi",
     "wof:parent_id":1108759547,
     "wof:placetype":"locality",
