@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Bujumbura"
     ],
+    "name:aka_x_preferred":[
+        "Bujumbura"
+    ],
     "name:amh_x_preferred":[
         "\u1261\u1301\u121d\u1261\u122b"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:arg_x_preferred":[
         "Buyumbura"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062c\u0648\u0645\u0628\u0648\u0631\u0627"
     ],
     "name:ast_x_preferred":[
         "Buxumbura"
@@ -40,6 +46,9 @@
     "name:aze_x_preferred":[
         "Bujumbura"
     ],
+    "name:ban_x_preferred":[
+        "Bujumbura"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09c1\u099c\u09c1\u09ae\u09cd\u09ac\u09c1\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c1\u099c\u09c1\u09ae\u09cd\u09ac\u09c1\u09b0\u09be"
     ],
     "name:bod_x_preferred":[
         "\u0f56\u0f74\u0f0b\u0f47\u0f74\u0f58\u0f0b\u0f56\u0f74\u0f0b\u0f62\u0f0d"
@@ -310,6 +322,9 @@
     "name:ori_x_preferred":[
         "\u0b2c\u0b41\u0b1c\u0b41\u0b2e\u0b2c\u0b41\u0b30\u0b3e"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u00e6"
+    ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a41\u0a1c\u0a41\u0a70\u0a2c\u0a41\u0a30\u0a3e"
     ],
@@ -349,6 +364,9 @@
     "name:sco_x_preferred":[
         "Bujumbura"
     ],
+    "name:shi_x_preferred":[
+        "Bujumbura"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd4\u0da2\u0dd4\u0db8\u0dca\u0db6\u0dd4\u0dbb\u0dcf"
     ],
@@ -356,6 +374,9 @@
         "Bujumbura"
     ],
     "name:slv_x_preferred":[
+        "Bujumbura"
+    ],
+    "name:smn_x_preferred":[
         "Bujumbura"
     ],
     "name:sna_x_preferred":[
@@ -396,6 +417,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e08\u0e38\u0e21\u0e1a\u0e39\u0e23\u0e32"
+    ],
+    "name:tuk_x_preferred":[
+        "Bujumbura"
     ],
     "name:tur_x_preferred":[
         "Bujumbura"
@@ -456,6 +480,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u5e03\u677e\u5e03\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Bujumbura"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Burundi",
@@ -575,8 +602,8 @@
     "wof:belongsto":[
         102191573,
         85632285,
-        1108759477,
-        85668791
+        85668791,
+        1108759477
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -605,7 +632,7 @@
         }
     ],
     "wof:id":421204487,
-    "wof:lastmodified":1607390892,
+    "wof:lastmodified":1690857398,
     "wof:name":"Bujumbura",
     "wof:parent_id":1108759477,
     "wof:placetype":"locality",

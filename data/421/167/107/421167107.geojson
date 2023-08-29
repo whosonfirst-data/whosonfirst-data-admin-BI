@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0645\u0648\u0631\u0627\u0645\u0641\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0645\u0641\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Muramvya"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0631\u0627\u0645\u0648\u06cc\u0627"
     ],
@@ -42,6 +48,9 @@
         "\u039c\u03bf\u03c5\u03c1\u03ac\u03bc\u03b2\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Muramvya"
+    ],
+    "name:eus_x_preferred":[
         "Muramvya"
     ],
     "name:fas_x_preferred":[
@@ -160,6 +169,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u62c9\u59c6\u7ef4\u4e9a"
+    ],
+    "name:zul_x_preferred":[
+        "Muramvya"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burundi",
@@ -301,7 +313,7 @@
         }
     ],
     "wof:id":421167107,
-    "wof:lastmodified":1636500693,
+    "wof:lastmodified":1690857397,
     "wof:name":"Muramvya",
     "wof:parent_id":1108759481,
     "wof:placetype":"locality",

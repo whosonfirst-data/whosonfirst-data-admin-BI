@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0627\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0643\u0627\u0645\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Makamba"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u06a9\u0627\u0645\u0628\u0627"
     ],
@@ -150,6 +156,9 @@
         "\u0645\u0627\u06a9\u0627\u0645\u0628\u0627"
     ],
     "name:vie_x_preferred":[
+        "Makamba"
+    ],
+    "name:zul_x_preferred":[
         "Makamba"
     ],
     "ne:ADM0CAP":0.0,
@@ -292,7 +301,7 @@
         }
     ],
     "wof:id":421167099,
-    "wof:lastmodified":1636500692,
+    "wof:lastmodified":1690857397,
     "wof:name":"Makamba",
     "wof:parent_id":1108759441,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u064a\u062a\u0648\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0628\u064a\u062a\u0648\u0643\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0628\u06cc\u062a\u0648\u06a9"
     ],
@@ -151,6 +154,9 @@
     "name:zho_x_preferred":[
         "\u932b\u6bd4\u6258\u51f1"
     ],
+    "name:zul_x_preferred":[
+        "Cibitoke"
+    ],
     "qs:name":"Cibitoke",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":890439141,
-    "wof:lastmodified":1636500694,
+    "wof:lastmodified":1690857400,
     "wof:name":"Cibitoke",
     "wof:parent_id":1108759533,
     "wof:placetype":"locality",

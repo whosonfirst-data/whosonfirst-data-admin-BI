@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u062a\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u062a\u0627\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Rutana"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0648\u062a\u0627\u0646\u0627"
     ],
@@ -42,6 +48,9 @@
         "Rutana"
     ],
     "name:epo_x_preferred":[
+        "Rutana"
+    ],
+    "name:eus_x_preferred":[
         "Rutana"
     ],
     "name:fas_x_preferred":[
@@ -163,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u5854\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Rutana"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burundi",
@@ -303,7 +315,7 @@
         }
     ],
     "wof:id":421167109,
-    "wof:lastmodified":1636500692,
+    "wof:lastmodified":1690857397,
     "wof:name":"Rutana",
     "wof:parent_id":421196575,
     "wof:placetype":"locality",
