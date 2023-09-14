@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.183108,
-    "geom:area_square_m":26946966393.041061,
+    "geom:area_square_m":26946966393.03793,
     "geom:bbox":"29.000993,-4.46918,30.850173,-2.309987",
     "geom:latitude":-3.365469,
     "geom:longitude":29.891759,
@@ -13,6 +13,9 @@
     "iso:country":"BI",
     "itu:country_code":[
         "257"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BI"
@@ -1069,7 +1072,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"257",
     "statoids:ds":"RU",
     "statoids:fifa":"BDI",
@@ -1127,7 +1131,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"54df2d2c8d8ed07559ebb8381a9ff4bc",
+    "wof:geomhash":"586ef71069ab0324e62d6c6999624220",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1143,12 +1147,12 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857392,
+    "wof:lastmodified":1694639530,
     "wof:name":"Burundi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":10162532,
-    "wof:population_rank":14,
+    "wof:population":11530580,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bi",
     "wof:shortcode":"BI",
     "wof:superseded_by":[],
