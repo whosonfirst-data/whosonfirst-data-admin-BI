@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096113,
-    "geom:area_square_m":1186815148.331651,
+    "geom:area_square_m":1186815147.930345,
     "geom:bbox":"29.430283,-3.22926,29.879236,-2.786472",
     "geom:latitude":-3.007043,
     "geom:longitude":29.658924,
@@ -302,17 +302,19 @@
         "gn:id":430951,
         "gp:id":2344908,
         "hasc:id":"BI.KY",
+        "iso:code":"BI-KY",
         "iso:id":"BI-KY",
         "qs_pg:id":1168623,
         "unlc:id":"BI-KY",
         "wd:id":"Q720848",
         "wk:page":"Kayanza Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f7e5d204f22e1dabcd70dd80ad558525",
+    "wof:geomhash":"cb18263aceb591b59a712629138b3351",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857387,
+    "wof:lastmodified":1695884873,
     "wof:name":"Kayanza",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

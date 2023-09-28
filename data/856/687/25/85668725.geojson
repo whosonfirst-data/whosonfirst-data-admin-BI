@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124712,
-    "geom:area_square_m":1539754476.488998,
+    "geom:area_square_m":1539754465.601202,
     "geom:bbox":"30.363733,-3.396795,30.850906,-2.892831",
     "geom:latitude":-3.151907,
     "geom:longitude":30.638142,
@@ -302,17 +302,19 @@
         "gn:id":427700,
         "gp:id":2344904,
         "hasc:id":"BI.CA",
+        "iso:code":"BI-CA",
         "iso:id":"BI-CA",
         "qs_pg:id":318327,
         "unlc:id":"BI-CA",
         "wd:id":"Q645033",
         "wk:page":"Cankuzo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"709edd8055f638b918a923c509ea29d7",
+    "wof:geomhash":"eb4c7857052b3c6391a9ecb7d3d827aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857391,
+    "wof:lastmodified":1695884874,
     "wof:name":"Cankuzo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

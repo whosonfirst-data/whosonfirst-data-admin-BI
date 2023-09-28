@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154477,
-    "geom:area_square_m":1906583242.443003,
+    "geom:area_square_m":1906583242.442977,
     "geom:bbox":"29.717616,-3.845078,30.104959,-3.05869",
     "geom:latitude":-3.492271,
     "geom:longitude":29.922229,
@@ -319,17 +319,19 @@
         "gn:id":426271,
         "gp:id":2344906,
         "hasc:id":"BI.GI",
+        "iso:code":"BI-GI",
         "iso:id":"BI-GI",
         "qs_pg:id":80323,
         "unlc:id":"BI-GI",
         "wd:id":"Q720843",
         "wk:page":"Gitega Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f419029fb4466a05c71d904167b69262",
+    "wof:geomhash":"f10d701cb03e8cddbc3966757ede4579",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857389,
+    "wof:lastmodified":1695884874,
     "wof:name":"Gitega",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

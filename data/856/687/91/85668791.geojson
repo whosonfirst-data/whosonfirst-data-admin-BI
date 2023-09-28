@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009896,
-    "geom:area_square_m":122149091.02558,
+    "geom:area_square_m":122149129.48424,
     "geom:bbox":"29.306256,-3.485524,29.425915,-3.30321",
     "geom:latitude":-3.375117,
     "geom:longitude":29.364127,
@@ -311,17 +311,19 @@
         "gn:id":7303939,
         "gp:id":2344900,
         "hasc:id":"BI.BM",
+        "iso:code":"BI-BM",
         "iso:id":"BI-BM",
         "qs_pg:id":219519,
         "unlc:id":"BI-BM",
         "wd:id":"Q1816580",
         "wk:page":"Bujumbura Mairie Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a8e88f470c969492321f25a05ae240e",
+    "wof:geomhash":"1d26c270c53aee86edfd85b10df47847",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -338,7 +340,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857389,
+    "wof:lastmodified":1695884874,
     "wof:name":"Bujumbura Mairie",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

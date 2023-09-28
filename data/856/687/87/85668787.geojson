@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137542,
-    "geom:area_square_m":1698746393.045354,
+    "geom:area_square_m":1698746393.045429,
     "geom:bbox":"30.077131,-3.154604,30.543543,-2.30907",
     "geom:latitude":-2.76314,
     "geom:longitude":30.343246,
@@ -302,17 +302,19 @@
         "gn:id":431747,
         "gp:id":2344911,
         "hasc:id":"BI.MY",
+        "iso:code":"BI-MY",
         "iso:id":"BI-MY",
         "qs_pg:id":191314,
         "unlc:id":"BI-MY",
         "wd:id":"Q822571",
         "wk:page":"Muyinga Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f16033885f578ce6c4bb807e3c0e8b97",
+    "wof:geomhash":"82748d7efd9c514bc68525b9b9e0a313",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857388,
+    "wof:lastmodified":1695884874,
     "wof:name":"Muyinga",
     "wof:parent_id":85632285,
     "wof:placetype":"region",
