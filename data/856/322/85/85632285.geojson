@@ -1111,6 +1111,7 @@
         "hasc:id":"BI",
         "icao:code":"9Y",
         "ioc:id":"BDI",
+        "iso:code":"BI",
         "itu:id":"BDI",
         "m49:code":"108",
         "marc:id":"bd",
@@ -1124,6 +1125,7 @@
         "wk:page":"Burundi",
         "wmo:id":"BI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:country_alpha3":"BDI",
     "wof:geom_alt":[
@@ -1147,7 +1149,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1694639530,
+    "wof:lastmodified":1695881187,
     "wof:name":"Burundi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
