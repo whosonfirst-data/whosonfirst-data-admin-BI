@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01,
-    "geom:area_square_m":123492040.426634,
+    "geom:area_square_m":123492040.426651,
     "geom:bbox":"29.635974,-2.937505,29.766614,-2.790961",
     "geom:latitude":-2.857914,
     "geom:longitude":29.710086,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324425,
-    "wof:geomhash":"ac8f217b54c42e7af1f6e28272cb4894",
+    "wof:geomhash":"92aef78beb8336708d1ac4598cdc7269",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759341,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Busiga",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

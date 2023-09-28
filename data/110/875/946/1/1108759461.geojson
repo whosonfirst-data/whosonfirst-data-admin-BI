@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005643,
-    "geom:area_square_m":69658704.533192,
+    "geom:area_square_m":69658704.533201,
     "geom:bbox":"29.42772,-3.341726,29.534042,-3.249048",
     "geom:latitude":-3.295743,
     "geom:longitude":29.484035,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BL.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324489,
-    "wof:geomhash":"79e270f01dcdb011f708f9d2748e68a8",
+    "wof:geomhash":"099950fbda451afa500070b3ca1da3f0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759461,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886178,
     "wof:name":"Mubimbi",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

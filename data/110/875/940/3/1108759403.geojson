@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01404,
-    "geom:area_square_m":173420928.314044,
+    "geom:area_square_m":173420928.314035,
     "geom:bbox":"30.144267,-2.736522,30.336387,-2.51808",
     "geom:latitude":-2.642072,
     "geom:longitude":30.22952,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KI.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324457,
-    "wof:geomhash":"475fef8dcb80df0499657a7178312695",
+    "wof:geomhash":"53772c38ea6b90ad06d9a63284f952a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759403,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Gitobe",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

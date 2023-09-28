@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012677,
-    "geom:area_square_m":156508232.653982,
+    "geom:area_square_m":156508214.446699,
     "geom:bbox":"30.169889,-3.31992,30.349889,-3.122261",
     "geom:latitude":-3.193563,
     "geom:longitude":30.244207,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KR.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324514,
-    "wof:geomhash":"40e5cf67bbec1c60c74482422399522e",
+    "wof:geomhash":"c64d515c9b4af9169e4adeb5e4a1bb47",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759497,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886180,
     "wof:name":"Mutumba",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

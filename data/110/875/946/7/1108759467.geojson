@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009064,
-    "geom:area_square_m":111875556.731774,
+    "geom:area_square_m":111875556.731788,
     "geom:bbox":"29.496127,-3.510268,29.598558,-3.340657",
     "geom:latitude":-3.441415,
     "geom:longitude":29.548534,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BL.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324492,
-    "wof:geomhash":"88e2817369c32f25214cdad95bc67461",
+    "wof:geomhash":"ddfe404e037ba5c1a1ad5b66ed4c3621",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759467,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Mugongomanga",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016614,
-    "geom:area_square_m":205206843.715835,
+    "geom:area_square_m":205206843.553119,
     "geom:bbox":"29.149936,-2.836746,29.304231,-2.609588",
     "geom:latitude":-2.724012,
     "geom:longitude":29.229355,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CI.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324476,
-    "wof:geomhash":"6844cbd0376339bb14f7e3ec27a46a5b",
+    "wof:geomhash":"a2b51d38058fd6a87664e1512fe11bca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759439,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886178,
     "wof:name":"Mabayi",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

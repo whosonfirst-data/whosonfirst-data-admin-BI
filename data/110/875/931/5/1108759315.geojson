@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010563,
-    "geom:area_square_m":130336949.559928,
+    "geom:area_square_m":130336949.559971,
     "geom:bbox":"29.310495,-3.731394,29.499244,-3.642242",
     "geom:latitude":-3.690479,
     "geom:longitude":29.400409,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RU.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324411,
-    "wof:geomhash":"4cbf482245d56c3c8354085f534a0305",
+    "wof:geomhash":"50546f354fa143a1db43d49370433900",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759315,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886172,
     "wof:name":"Bugarama",
     "wof:parent_id":1108803107,
     "wof:placetype":"county",

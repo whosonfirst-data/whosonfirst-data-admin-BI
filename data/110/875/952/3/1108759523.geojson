@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009467,
-    "geom:area_square_m":116830202.317697,
+    "geom:area_square_m":116830202.31768,
     "geom:bbox":"29.76947,-3.650064,29.908092,-3.509918",
     "geom:latitude":-3.568078,
     "geom:longitude":29.830186,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.GI.NS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324535,
-    "wof:geomhash":"c25c61f084085f03af79d9ae7688ea77",
+    "wof:geomhash":"d9ea297079df9e3bb6f91d0331ce9e05",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759523,
-    "wof:lastmodified":1627521599,
+    "wof:lastmodified":1695886181,
     "wof:name":"Nyanrusange",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021908,
-    "geom:area_square_m":270235065.730793,
+    "geom:area_square_m":270235065.730821,
     "geom:bbox":"29.813434,-4.097801,30.018314,-3.877507",
     "geom:latitude":-4.007563,
     "geom:longitude":29.901988,
@@ -378,12 +378,13 @@
         "qs_pg:id":97146,
         "wd:id":"Q167551"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1459009757,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b3dd702872b6526c0c472c8292481a8",
+    "wof:geomhash":"d06cee34e5b7ae1e975925fda267877f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -393,7 +394,7 @@
         }
     ],
     "wof:id":421193019,
-    "wof:lastmodified":1690857396,
+    "wof:lastmodified":1695886784,
     "wof:name":"Gitanga",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

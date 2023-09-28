@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02738,
-    "geom:area_square_m":337917570.109114,
+    "geom:area_square_m":337917570.109128,
     "geom:bbox":"30.05466,-3.683321,30.261056,-3.418524",
     "geom:latitude":-3.533299,
     "geom:longitude":30.148111,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324428,
-    "wof:geomhash":"f939877ab6ce4c443392c7aa4aa9081c",
+    "wof:geomhash":"a3269c2434d6deda73abbe05ee7f8369",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759345,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Butaganzwa1",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

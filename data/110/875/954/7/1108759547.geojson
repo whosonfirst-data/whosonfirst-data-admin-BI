@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022114,
-    "geom:area_square_m":272946576.484298,
+    "geom:area_square_m":272946576.484348,
     "geom:bbox":"30.171235,-3.526375,30.396674,-3.346972",
     "geom:latitude":-3.436853,
     "geom:longitude":30.278775,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324548,
-    "wof:geomhash":"0d3daf95ea27606821833f02881aa1c5",
+    "wof:geomhash":"f95bf94a8db5ca9c957678a9ba292e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108759547,
-    "wof:lastmodified":1636500686,
+    "wof:lastmodified":1695886763,
     "wof:name":"Ruyigi",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01082,
-    "geom:area_square_m":133520376.227466,
+    "geom:area_square_m":133520376.227497,
     "geom:bbox":"29.833602,-3.697365,29.936637,-3.516361",
     "geom:latitude":-3.615297,
     "geom:longitude":29.890179,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.GI.GB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324450,
-    "wof:geomhash":"3217569feffd4c075218fd29a9db1eeb",
+    "wof:geomhash":"f7836ebb1c22c839ee4163d1f3924cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759389,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gishubi",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

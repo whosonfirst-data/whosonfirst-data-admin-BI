@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010068,
-    "geom:area_square_m":124249548.332114,
+    "geom:area_square_m":124249548.332107,
     "geom:bbox":"29.643768,-3.720205,29.80458,-3.559845",
     "geom:latitude":-3.626878,
     "geom:longitude":29.711656,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MW.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324406,
-    "wof:geomhash":"2f137aba39b73f1f3f9cedf809753d6d",
+    "wof:geomhash":"be70e824ac90bd3953f74b949c1f4b19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759305,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886172,
     "wof:name":"Bisoro",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

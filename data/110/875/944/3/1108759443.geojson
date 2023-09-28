@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013802,
-    "geom:area_square_m":170332825.369611,
+    "geom:area_square_m":170332825.369646,
     "geom:bbox":"29.901836,-3.666482,30.017684,-3.487333",
     "geom:latitude":-3.572357,
     "geom:longitude":29.966593,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.GI.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324479,
-    "wof:geomhash":"5e09e856e6519f45aa3dddc29e24a2ad",
+    "wof:geomhash":"05c46d854ae7c9e466c7d98cf4dee174",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759443,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886178,
     "wof:name":"Makebuko",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

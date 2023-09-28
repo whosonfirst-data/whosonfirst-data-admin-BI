@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020028,
-    "geom:area_square_m":247391955.145242,
+    "geom:area_square_m":247391955.145223,
     "geom:bbox":"29.920284,-2.69101,30.08839,-2.479533",
     "geom:latitude":-2.590176,
     "geom:longitude":29.991112,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KI.NT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324527,
-    "wof:geomhash":"3c081f232626e3f56b680b4eb431c54a",
+    "wof:geomhash":"c890a5753fa994427dc2b30c22c96154",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759511,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886181,
     "wof:name":"Ntega",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

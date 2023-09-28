@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013404,
-    "geom:area_square_m":165471864.793732,
+    "geom:area_square_m":165471864.793787,
     "geom:bbox":"29.981284,-3.393871,30.118448,-3.170613",
     "geom:latitude":-3.285236,
     "geom:longitude":30.053915,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KR.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324551,
-    "wof:geomhash":"5e84b61c321b5e9328f5e8861edc0fd6",
+    "wof:geomhash":"f1b93cb0ff1c02024cf071cb3dd1b7b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759551,
-    "wof:lastmodified":1627521599,
+    "wof:lastmodified":1695886182,
     "wof:name":"Shombo",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

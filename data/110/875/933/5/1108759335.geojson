@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022236,
-    "geom:area_square_m":274351041.728019,
+    "geom:area_square_m":274351041.727977,
     "geom:bbox":"29.357124,-3.925153,29.53519,-3.705421",
     "geom:latitude":-3.798641,
     "geom:longitude":29.452423,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RU.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324422,
-    "wof:geomhash":"a39dae8dc665ee444f0fc2eeaaa16ce1",
+    "wof:geomhash":"00f7b562ddd128bdecb2b7a21685603f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759335,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Burambi",
     "wof:parent_id":1108803107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017339,
-    "geom:area_square_m":214103879.218806,
+    "geom:area_square_m":214103879.218828,
     "geom:bbox":"30.274595,-3.071769,30.436574,-2.89436",
     "geom:latitude":-2.98153,
     "geom:longitude":30.358794,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MY.BH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324416,
-    "wof:geomhash":"8f83845162c0a99b9ec015270d213e76",
+    "wof:geomhash":"ce4dd005530ffa747cc7c743dbb22778",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759323,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Buhinyuza",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026802,
-    "geom:area_square_m":330895928.588954,
+    "geom:area_square_m":330895928.588937,
     "geom:bbox":"30.6093,-3.320949,30.848867,-3.099343",
     "geom:latitude":-3.21329,
     "geom:longitude":30.737815,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CA.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324449,
-    "wof:geomhash":"19befd25804b4e17d6ab88b2cd51569f",
+    "wof:geomhash":"e17ae23971a999a439710abb0becf353",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759387,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gisagara",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

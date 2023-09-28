@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009129,
-    "geom:area_square_m":112672670.393549,
+    "geom:area_square_m":112672670.393538,
     "geom:bbox":"29.690141,-3.598758,29.814626,-3.445343",
     "geom:latitude":-3.522509,
     "geom:longitude":29.744312,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MW.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324467,
-    "wof:geomhash":"b9e4650dd8b9ebdc94df0d8cd6eda15d",
+    "wof:geomhash":"39049ef29e01ee6ef2e56a11b26c37d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759421,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886177,
     "wof:name":"Kayokwe",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

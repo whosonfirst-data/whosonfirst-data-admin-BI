@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014679,
-    "geom:area_square_m":181270534.822062,
+    "geom:area_square_m":181270534.822048,
     "geom:bbox":"29.748185,-3.017148,29.928083,-2.882509",
     "geom:latitude":-2.950272,
     "geom:longitude":29.826904,
@@ -122,12 +122,13 @@
         "hasc:id":"BI.NG.NG",
         "qs_pg:id":911965
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1459010051,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"43094e28ca62f336bd2e66ff0899d60c",
+    "wof:geomhash":"941404ccffb6ea86869581fa04f8b6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421201115,
-    "wof:lastmodified":1636500693,
+    "wof:lastmodified":1695886764,
     "wof:name":"Ngozi",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006703,
-    "geom:area_square_m":82711486.645827,
+    "geom:area_square_m":82711486.645838,
     "geom:bbox":"29.924323,-3.758889,30.020538,-3.646508",
     "geom:latitude":-3.701768,
     "geom:longitude":29.966754,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.GI.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324421,
-    "wof:geomhash":"8707fe72b2b473085abed9dc7f67aa02",
+    "wof:geomhash":"80e0e398fc1c1e524358bbe24df229c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759333,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Bukirasazi",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

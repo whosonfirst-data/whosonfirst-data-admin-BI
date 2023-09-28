@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014797,
-    "geom:area_square_m":182709732.059344,
+    "geom:area_square_m":182709732.059355,
     "geom:bbox":"29.383939,-3.158397,29.527889,-2.935853",
     "geom:latitude":-3.045141,
     "geom:longitude":29.456777,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BB.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324508,
-    "wof:geomhash":"0bec200b4aa0aaaac04807d4167e5027",
+    "wof:geomhash":"1443e515d43765a1e7a173eae4418555",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759487,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Musigati",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

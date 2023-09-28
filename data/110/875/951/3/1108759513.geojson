@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011202,
-    "geom:area_square_m":138264505.002349,
+    "geom:area_square_m":138264505.002342,
     "geom:bbox":"29.735938,-3.528744,29.875007,-3.366646",
     "geom:latitude":-3.449181,
     "geom:longitude":29.812064,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MW.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324529,
-    "wof:geomhash":"d71afe8950457c54ec9d4b386dd380f0",
+    "wof:geomhash":"3f089f13599a2d03f0ae7ff743399eec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759513,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886181,
     "wof:name":"Nyabihanga",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022535,
-    "geom:area_square_m":278336365.256322,
+    "geom:area_square_m":278336365.256371,
     "geom:bbox":"30.203924,-2.820977,30.434031,-2.597477",
     "geom:latitude":-2.71093,
     "geom:longitude":30.322362,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MY.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324431,
-    "wof:geomhash":"897156ae189054d56ff872cca6c67bf6",
+    "wof:geomhash":"5d20cf08d118b3b58e5ffdb3c4a85c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759353,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Butihinda",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

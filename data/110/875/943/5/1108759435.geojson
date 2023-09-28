@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022203,
-    "geom:area_square_m":273771741.73351,
+    "geom:area_square_m":273771741.733452,
     "geom:bbox":"29.709274,-4.470001,29.852262,-4.173084",
     "geom:latitude":-4.307305,
     "geom:longitude":29.768003,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MA.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324475,
-    "wof:geomhash":"9e7434ae97521d6f0cf67fd893e4dba3",
+    "wof:geomhash":"c2442a751b164a4ae708f755d0fbdb73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759435,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886177,
     "wof:name":"Mabanda",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

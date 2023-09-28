@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015093,
-    "geom:area_square_m":186442938.318753,
+    "geom:area_square_m":186442938.318778,
     "geom:bbox":"30.263166,-2.692925,30.41793,-2.412859",
     "geom:latitude":-2.552294,
     "geom:longitude":30.355591,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KI.BW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324433,
-    "wof:geomhash":"472096675f55af9cf8f06404fc0773c6",
+    "wof:geomhash":"bdebac03ffa57e98991fff133e8076ed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759357,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Bwambarangwe",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

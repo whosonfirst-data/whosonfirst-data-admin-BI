@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019892,
-    "geom:area_square_m":245547877.046431,
+    "geom:area_square_m":245547877.040964,
     "geom:bbox":"30.041065,-3.433373,30.341388,-3.275023",
     "geom:latitude":-3.364994,
     "geom:longitude":30.192332,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.BZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324430,
-    "wof:geomhash":"0b4784b93ac9002c7a43c45ec7b19a0a",
+    "wof:geomhash":"f7becefa58dbe69f36bc63e8ebae770a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759351,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Butezi",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

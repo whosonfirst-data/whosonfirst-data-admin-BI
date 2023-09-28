@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021839,
-    "geom:area_square_m":269501793.818642,
+    "geom:area_square_m":269501793.818492,
     "geom:bbox":"30.286529,-3.727752,30.458054,-3.496403",
     "geom:latitude":-3.624188,
     "geom:longitude":30.364488,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324472,
-    "wof:geomhash":"510e6f74f6123340baf64388a9fd3f14",
+    "wof:geomhash":"e0d2f3b45496a0584ff7fc8bdd665426",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759429,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886177,
     "wof:name":"Kinyinya",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

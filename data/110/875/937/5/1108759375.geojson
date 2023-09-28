@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008322,
-    "geom:area_square_m":102765795.967008,
+    "geom:area_square_m":102765795.967003,
     "geom:bbox":"29.629434,-3.073492,29.719528,-2.910069",
     "geom:latitude":-2.992259,
     "geom:longitude":29.677416,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324443,
-    "wof:geomhash":"467a03d438310a8ba0c5960e9eb750ff",
+    "wof:geomhash":"20c4758b1ecb1f9c69ac59c201fa0bab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759375,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gatara",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

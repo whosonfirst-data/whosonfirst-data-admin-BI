@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030075,
-    "geom:area_square_m":370838884.134385,
+    "geom:area_square_m":370838884.134267,
     "geom:bbox":"29.536874,-4.462447,29.736875,-4.156426",
     "geom:latitude":-4.302253,
     "geom:longitude":29.646543,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MA.NL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324536,
-    "wof:geomhash":"57e6ac5ef9d69da3cb94c6e2084c5c1f",
+    "wof:geomhash":"ab0f7d227925eee6b0cbed0ef3676e41",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759525,
-    "wof:lastmodified":1627521599,
+    "wof:lastmodified":1695886181,
     "wof:name":"Nyanza-Lac",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

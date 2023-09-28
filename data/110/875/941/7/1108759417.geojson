@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036957,
-    "geom:area_square_m":455786615.774255,
+    "geom:area_square_m":455786613.561506,
     "geom:bbox":"29.891771,-4.285195,30.191719,-4.039942",
     "geom:latitude":-4.150201,
     "geom:longitude":30.024338,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MA.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324465,
-    "wof:geomhash":"647cb3933fa406411e83859db10a1f10",
+    "wof:geomhash":"8ce4cdf90aab338f46541bdcd6b7be76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759417,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886176,
     "wof:name":"Kayogoro",
     "wof:parent_id":85668763,
     "wof:placetype":"county",

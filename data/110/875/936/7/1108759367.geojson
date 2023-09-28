@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006357,
-    "geom:area_square_m":78497098.262259,
+    "geom:area_square_m":78497098.262295,
     "geom:bbox":"29.688117,-3.065697,29.768705,-2.913182",
     "geom:latitude":-2.99278,
     "geom:longitude":29.732465,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324438,
-    "wof:geomhash":"16bfa885827ad31bdaec5fc8cf4666ba",
+    "wof:geomhash":"dee8deea4a5966f1837df92cb367f448",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759367,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Gahombo",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

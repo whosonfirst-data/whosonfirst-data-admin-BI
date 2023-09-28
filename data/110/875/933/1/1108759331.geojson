@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01891,
-    "geom:area_square_m":233529347.620459,
+    "geom:area_square_m":233529347.690987,
     "geom:bbox":"29.2422,-2.965971,29.477227,-2.783173",
     "geom:latitude":-2.877656,
     "geom:longitude":29.345058,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CI.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324419,
-    "wof:geomhash":"9047b3d321c215d57484f3a6b11b9310",
+    "wof:geomhash":"40acd20aa5e3e79f489e0a68be2e19dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759331,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Bukinanyana",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

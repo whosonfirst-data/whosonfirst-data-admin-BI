@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00755,
-    "geom:area_square_m":93248491.390435,
+    "geom:area_square_m":93248491.390431,
     "geom:bbox":"29.834504,-2.866756,29.937433,-2.749417",
     "geom:latitude":-2.813086,
     "geom:longitude":29.880914,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324534,
-    "wof:geomhash":"e690a07a0c00c1c6d2758c4263e52c2a",
+    "wof:geomhash":"9a79fa4a4d4d3fe1e8bd98d6b7672615",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759521,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886181,
     "wof:name":"Nyamurenza",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

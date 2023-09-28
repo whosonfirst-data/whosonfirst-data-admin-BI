@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01427,
-    "geom:area_square_m":176234319.145678,
+    "geom:area_square_m":176234319.145685,
     "geom:bbox":"30.153398,-2.925705,30.320716,-2.772475",
     "geom:latitude":-2.851156,
     "geom:longitude":30.235764,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MY.GW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324441,
-    "wof:geomhash":"45759696c4c9745f1b1226407de02673",
+    "wof:geomhash":"f67610344d6c3ed3ddd2da3289f13151",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759373,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gasorwe",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

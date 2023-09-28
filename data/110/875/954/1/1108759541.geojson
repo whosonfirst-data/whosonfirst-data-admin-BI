@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006434,
-    "geom:area_square_m":79429465.476161,
+    "geom:area_square_m":79429465.476166,
     "geom:bbox":"29.695514,-3.371844,29.810022,-3.252579",
     "geom:latitude":-3.315532,
     "geom:longitude":29.744079,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MV.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324546,
-    "wof:geomhash":"78fb7226dc57798d1b035d481d28ed8a",
+    "wof:geomhash":"20b6eb07e8cd449b0d019f1f32c89bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759541,
-    "wof:lastmodified":1627521599,
+    "wof:lastmodified":1695886182,
     "wof:name":"Rutegama",
     "wof:parent_id":85668797,
     "wof:placetype":"county",

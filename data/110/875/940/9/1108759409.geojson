@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015467,
-    "geom:area_square_m":191011362.324127,
+    "geom:area_square_m":191011365.401706,
     "geom:bbox":"29.430283,-2.91729,29.668923,-2.786472",
     "geom:latitude":-2.846664,
     "geom:longitude":29.545803,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324460,
-    "wof:geomhash":"356a5750dfdfbe9bde176459f80c567d",
+    "wof:geomhash":"469329c94aecbe94b3f8393f3ee4a4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108759409,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Kabarore",
     "wof:parent_id":85668757,
     "wof:placetype":"county",
