@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011477,
-    "geom:area_square_m":141684165.529597,
+    "geom:area_square_m":141684145.208898,
     "geom:bbox":"29.211046,-3.359957,29.444312,-3.255562",
     "geom:latitude":-3.30424,
     "geom:longitude":29.321196,
@@ -87,12 +87,13 @@
         "hasc:id":"BI.BL.MZ",
         "qs_pg:id":1307303
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1459010185,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d028867512278c3edcef4d396156045f",
+    "wof:geomhash":"ecf288292cb2bf7bbb8c7a60388a5416",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421204423,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886180,
     "wof:name":"Mutimbuzi",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

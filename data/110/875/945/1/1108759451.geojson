@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0095,
-    "geom:area_square_m":117286298.721529,
+    "geom:area_square_m":117286298.721525,
     "geom:bbox":"29.664829,-3.287245,29.851808,-3.191817",
     "geom:latitude":-3.240135,
     "geom:longitude":29.747115,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MV.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324484,
-    "wof:geomhash":"3e0413b03b8aee70b4ba71e7d8349290",
+    "wof:geomhash":"4782c1895c5089dca4dc3f6918d63b76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759451,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886178,
     "wof:name":"Mbuye",
     "wof:parent_id":85668797,
     "wof:placetype":"county",

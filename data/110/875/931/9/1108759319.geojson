@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01797,
-    "geom:area_square_m":221881870.222324,
+    "geom:area_square_m":221881870.222424,
     "geom:bbox":"29.970813,-3.199286,30.153501,-2.984664",
     "geom:latitude":-3.078736,
     "geom:longitude":30.06062,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KR.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324414,
-    "wof:geomhash":"c051c3f4e3040d411312f43a4cc833b5",
+    "wof:geomhash":"8cd435f839bf004b666fa36692d86b49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759319,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886172,
     "wof:name":"Bugenyuzi",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

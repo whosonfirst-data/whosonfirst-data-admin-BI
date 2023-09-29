@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018024,
-    "geom:area_square_m":222313442.781613,
+    "geom:area_square_m":222313442.781604,
     "geom:bbox":"29.517783,-4.161577,29.690551,-3.991374",
     "geom:latitude":-4.069808,
     "geom:longitude":29.596384,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BI.VY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324559,
-    "wof:geomhash":"5b270bbe9ebb8f105a98ddc9e9d4c065",
+    "wof:geomhash":"d9e3116392875d87bd38bb259dd44420",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759561,
-    "wof:lastmodified":1566614815,
+    "wof:lastmodified":1695886850,
     "wof:name":"Vyanda",
     "wof:parent_id":85668745,
     "wof:placetype":"county",

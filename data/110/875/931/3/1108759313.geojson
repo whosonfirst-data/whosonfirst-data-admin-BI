@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014483,
-    "geom:area_square_m":178840570.560382,
+    "geom:area_square_m":178840570.560474,
     "geom:bbox":"29.127366,-3.10391,29.303478,-2.873188",
     "geom:latitude":-2.990516,
     "geom:longitude":29.225914,
@@ -162,9 +162,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CI.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324410,
-    "wof:geomhash":"4c71ad932f92421b250a8e1bfd475d5f",
+    "wof:geomhash":"df918bf687cdaaaf814d67c35101d677",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108759313,
-    "wof:lastmodified":1566614804,
+    "wof:lastmodified":1695886849,
     "wof:name":"Buganda",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

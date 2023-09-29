@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014141,
-    "geom:area_square_m":174591209.091739,
+    "geom:area_square_m":174591209.091722,
     "geom:bbox":"29.674363,-3.22926,29.851285,-3.088094",
     "geom:latitude":-3.155712,
     "geom:longitude":29.762118,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324537,
-    "wof:geomhash":"b2ce4219e0d6320bbf974a99e388fe98",
+    "wof:geomhash":"2f8569dd77c534ad8cfbc178352f5f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108759529,
-    "wof:lastmodified":1566614808,
+    "wof:lastmodified":1695886849,
     "wof:name":"Rango",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

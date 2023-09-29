@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009801,
-    "geom:area_square_m":121019234.228531,
+    "geom:area_square_m":121019234.228529,
     "geom:bbox":"29.746591,-3.102958,29.879236,-2.97561",
     "geom:latitude":-3.04449,
     "geom:longitude":29.803411,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324495,
-    "wof:geomhash":"de3a2652ce57dcd1858d1ff9f47bdeca",
+    "wof:geomhash":"fb8dd8ee0e7981a936bca8be80c261b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108759471,
-    "wof:lastmodified":1566614812,
+    "wof:lastmodified":1695886850,
     "wof:name":"Muhanga",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

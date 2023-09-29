@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003022,
-    "geom:area_square_m":37305097.851994,
+    "geom:area_square_m":37305096.763982,
     "geom:bbox":"29.329871,-3.485524,29.386557,-3.395865",
     "geom:latitude":-3.43674,
     "geom:longitude":29.358587,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BM.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324494,
-    "wof:geomhash":"8e482c0f460675d3418e2dcb1aedb38a",
+    "wof:geomhash":"1c891d72f60383a5f9ed60caaf391e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759469,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Muha",
     "wof:parent_id":85668791,
     "wof:placetype":"county",

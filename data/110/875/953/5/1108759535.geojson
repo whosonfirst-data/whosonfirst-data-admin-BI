@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01296,
-    "geom:area_square_m":160034494.047296,
+    "geom:area_square_m":160034494.047247,
     "geom:bbox":"29.861579,-3.0876,30.020824,-2.933979",
     "geom:latitude":-3.008288,
     "geom:longitude":29.941379,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324542,
-    "wof:geomhash":"7f37d43e26a28989f6e5fca68edbe4dc",
+    "wof:geomhash":"8b87a04db3d2671f32216d9f5e708fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759535,
-    "wof:lastmodified":1627521599,
+    "wof:lastmodified":1695886182,
     "wof:name":"Ruhororo",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

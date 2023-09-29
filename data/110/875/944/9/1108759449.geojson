@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012682,
-    "geom:area_square_m":156594554.936766,
+    "geom:area_square_m":156594551.457784,
     "geom:bbox":"29.533786,-3.167393,29.662408,-3.003353",
     "geom:latitude":-3.077223,
     "geom:longitude":29.603972,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324483,
-    "wof:geomhash":"6863b0c4bed2e235c12d9f8d804a3655",
+    "wof:geomhash":"3a260a2603880b2f473813c22954f899",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759449,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886178,
     "wof:name":"Matongo",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

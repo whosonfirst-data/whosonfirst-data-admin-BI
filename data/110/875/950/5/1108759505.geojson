@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013685,
-    "geom:area_square_m":168916717.983154,
+    "geom:area_square_m":168916717.983184,
     "geom:bbox":"29.655479,-3.480119,29.840318,-3.297831",
     "geom:latitude":-3.391557,
     "geom:longitude":29.753431,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MW.ND"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324524,
-    "wof:geomhash":"0b5ccd757a9f071ce1fbea7ab0f1315f",
+    "wof:geomhash":"8f251c9f93969ff1028ae7fc0f57de45",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759505,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886180,
     "wof:name":"Ndava",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

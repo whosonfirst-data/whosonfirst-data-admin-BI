@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011496,
-    "geom:area_square_m":141946010.492411,
+    "geom:area_square_m":141946010.492385,
     "geom:bbox":"30.23068,-3.154604,30.390294,-3.021723",
     "geom:latitude":-3.092484,
     "geom:longitude":30.299998,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MY.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324521,
-    "wof:geomhash":"08908f1c6c0ce82012d481ad52b6518b",
+    "wof:geomhash":"394bec8f5bfe1e9f3acfc1a7808308d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759501,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886180,
     "wof:name":"Mwakiro",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

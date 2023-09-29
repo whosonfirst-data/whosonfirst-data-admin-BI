@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016735,
-    "geom:area_square_m":206650049.212042,
+    "geom:area_square_m":206650049.212066,
     "geom:bbox":"30.03844,-3.054796,30.279226,-2.904144",
     "geom:latitude":-2.975034,
     "geom:longitude":30.163167,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KR.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324454,
-    "wof:geomhash":"5b90c84bdb01681a12eae44358ce051a",
+    "wof:geomhash":"b2166b84dd366069916ee5869e0334d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759395,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Gitaramuka",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

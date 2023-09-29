@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015535,
-    "geom:area_square_m":191780267.137096,
+    "geom:area_square_m":191780267.137106,
     "geom:bbox":"29.502488,-3.399936,29.678041,-3.231581",
     "geom:latitude":-3.300947,
     "geom:longitude":29.587042,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MV.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324499,
-    "wof:geomhash":"b6c8c133b3dc267d2b217760bc59bd96",
+    "wof:geomhash":"894956138fa1e740e14c3f18e42f4e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108759481,
-    "wof:lastmodified":1636500687,
+    "wof:lastmodified":1695886764,
     "wof:name":"Muramvya",
     "wof:parent_id":85668797,
     "wof:placetype":"county",

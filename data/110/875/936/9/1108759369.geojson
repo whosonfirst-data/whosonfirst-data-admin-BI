@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010509,
-    "geom:area_square_m":129776419.274931,
+    "geom:area_square_m":129776419.274948,
     "geom:bbox":"29.835668,-2.971324,29.976198,-2.839823",
     "geom:latitude":-2.896168,
     "geom:longitude":29.909653,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324439,
-    "wof:geomhash":"360a85ec962dc02ec3cd97684dd21bb5",
+    "wof:geomhash":"c6f68bab847f91d4471904e2d21c9490",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759369,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Gashikanwa",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

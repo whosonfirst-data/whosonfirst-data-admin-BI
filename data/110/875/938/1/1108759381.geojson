@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01239,
-    "geom:area_square_m":152939428.135334,
+    "geom:area_square_m":152939428.135347,
     "geom:bbox":"29.780164,-3.391866,29.992168,-3.269963",
     "geom:latitude":-3.336233,
     "geom:longitude":29.882025,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.GI.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324446,
-    "wof:geomhash":"8b5424353d487c42af9d7f41332b8730",
+    "wof:geomhash":"8b27a21e94de72961b3fc8824a53cfcb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759381,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886175,
     "wof:name":"Giheta",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

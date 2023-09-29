@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017855,
-    "geom:area_square_m":220350293.066132,
+    "geom:area_square_m":220350293.066148,
     "geom:bbox":"30.153249,-3.693304,30.363494,-3.46135",
     "geom:latitude":-3.578129,
     "geom:longitude":30.270374,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324533,
-    "wof:geomhash":"bc0a770f5aab98e1fd68a6f49a34c276",
+    "wof:geomhash":"84a6f8c184524b00e9304f4319a1d24c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759519,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886181,
     "wof:name":"Nyabitsinda",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

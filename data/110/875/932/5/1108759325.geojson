@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018134,
-    "geom:area_square_m":223679034.748204,
+    "geom:area_square_m":223679036.961025,
     "geom:bbox":"29.942844,-4.071244,30.230178,-3.959476",
     "geom:latitude":-4.023724,
     "geom:longitude":30.073913,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RT.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324417,
-    "wof:geomhash":"4e76a886e9401c7149bcc35a6f720891",
+    "wof:geomhash":"c8d84282767560996bef356fea817d93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759325,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Bukemba",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

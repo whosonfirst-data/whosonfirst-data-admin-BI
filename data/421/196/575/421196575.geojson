@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021122,
-    "geom:area_square_m":260582889.106216,
+    "geom:area_square_m":260582889.106207,
     "geom:bbox":"29.890106,-3.988693,30.059703,-3.767638",
     "geom:latitude":-3.886803,
     "geom:longitude":29.983377,
@@ -239,12 +239,13 @@
         "qs_pg:id":784355,
         "wd:id":"Q246069"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1459009886,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc1c47c0cace6bc4ada67b47e61e7d26",
+    "wof:geomhash":"ec3cbe790a28ca9b531c3e1213a8c18d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -254,7 +255,7 @@
         }
     ],
     "wof:id":421196575,
-    "wof:lastmodified":1690857399,
+    "wof:lastmodified":1695886764,
     "wof:name":"Rutana",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005905,
-    "geom:area_square_m":72872118.430009,
+    "geom:area_square_m":72872120.654017,
     "geom:bbox":"29.33415,-3.595695,29.41706,-3.474916",
     "geom:latitude":-3.530587,
     "geom:longitude":29.369833,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BL.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324461,
-    "wof:geomhash":"c9d19ac8944b6822c0d8257c12962e0b",
+    "wof:geomhash":"f21eec31b9a2f152a7b486c92b1246bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759411,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Kabezi",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045944,
-    "geom:area_square_m":566829409.991813,
+    "geom:area_square_m":566829409.992028,
     "geom:bbox":"30.056869,-4.005235,30.411067,-3.651277",
     "geom:latitude":-3.835444,
     "geom:longitude":30.234545,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RT.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324445,
-    "wof:geomhash":"2224a6f6835cf6424e04086e54980865",
+    "wof:geomhash":"5d2ed575667064b82c42fb8a7974f914",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759379,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886175,
     "wof:name":"Giharo",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

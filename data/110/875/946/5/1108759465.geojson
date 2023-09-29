@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022881,
-    "geom:area_square_m":282611404.702704,
+    "geom:area_square_m":282611404.702628,
     "geom:bbox":"29.045468,-2.819129,29.216819,-2.590879",
     "geom:latitude":-2.692257,
     "geom:longitude":29.12169,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CI.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324491,
-    "wof:geomhash":"3d6743aae43bfabd8915d93e136fb8db",
+    "wof:geomhash":"9b48df9d73e9afacac2f6608668b0869",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759465,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Mugina",
     "wof:parent_id":85668749,
     "wof:placetype":"county",

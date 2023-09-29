@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017908,
-    "geom:area_square_m":221122252.899823,
+    "geom:area_square_m":221122252.899789,
     "geom:bbox":"29.288829,-3.162894,29.436326,-2.945545",
     "geom:latitude":-3.058997,
     "geom:longitude":29.365707,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BB.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324408,
-    "wof:geomhash":"e83740a97b7e9e44c6ec2d7f6691778a",
+    "wof:geomhash":"ca67d8b245713310f28da01238710d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108759307,
-    "wof:lastmodified":1636500687,
+    "wof:lastmodified":1695886764,
     "wof:name":"Bubanza",
     "wof:parent_id":85668739,
     "wof:placetype":"county",

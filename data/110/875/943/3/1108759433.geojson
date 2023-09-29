@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018082,
-    "geom:area_square_m":223366522.36488,
+    "geom:area_square_m":223366522.364959,
     "geom:bbox":"30.028531,-2.666904,30.177167,-2.425",
     "geom:latitude":-2.558002,
     "geom:longitude":30.108472,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KI.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324474,
-    "wof:geomhash":"d600f46ab49e56b00059f0716159a07c",
+    "wof:geomhash":"ca444dbd774138c1f7db8493fb371254",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108759433,
-    "wof:lastmodified":1636500688,
+    "wof:lastmodified":1695886764,
     "wof:name":"Kirundo",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

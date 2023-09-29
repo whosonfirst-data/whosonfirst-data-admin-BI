@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016026,
-    "geom:area_square_m":197867997.057235,
+    "geom:area_square_m":197867997.057195,
     "geom:bbox":"29.896781,-3.248101,30.061416,-3.044462",
     "geom:latitude":-3.141034,
     "geom:longitude":29.980185,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KR.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324448,
-    "wof:geomhash":"e88b7da2e2989fe949ce09e2ba13c771",
+    "wof:geomhash":"4bf661565a862bc6423279c8ffbd1678",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759385,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gihogazi",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

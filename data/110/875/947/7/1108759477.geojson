@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00148,
-    "geom:area_square_m":18268879.803396,
+    "geom:area_square_m":18268838.469976,
     "geom:bbox":"29.336072,-3.401418,29.403185,-3.362605",
     "geom:latitude":-3.382413,
     "geom:longitude":29.370585,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BM.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324497,
-    "wof:geomhash":"9042c3aef32e2627bdad0b40cd5a2b38",
+    "wof:geomhash":"c6948115d4b8b8071cc189c37c29049c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759477,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Mukaza",
     "wof:parent_id":85668791,
     "wof:placetype":"county",

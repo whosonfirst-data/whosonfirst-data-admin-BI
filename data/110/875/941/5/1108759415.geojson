@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009642,
-    "geom:area_square_m":119069933.228777,
+    "geom:area_square_m":119069933.228723,
     "geom:bbox":"29.58249,-3.010978,29.712968,-2.859947",
     "geom:latitude":-2.918539,
     "geom:longitude":29.639736,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KY.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324464,
-    "wof:geomhash":"2e5cc1f75c09d0211bedf86e37850807",
+    "wof:geomhash":"9f1a7baf8e2c2b4b5efd69b92da1faf4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108759415,
-    "wof:lastmodified":1636500687,
+    "wof:lastmodified":1695886764,
     "wof:name":"Kayanza",
     "wof:parent_id":85668757,
     "wof:placetype":"county",

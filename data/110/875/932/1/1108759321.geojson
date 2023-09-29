@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021394,
-    "geom:area_square_m":264154454.233378,
+    "geom:area_square_m":264154454.233389,
     "geom:bbox":"30.08102,-3.201842,30.277843,-2.975971",
     "geom:latitude":-3.085492,
     "geom:longitude":30.187614,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KR.BH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324415,
-    "wof:geomhash":"65e9c7f35c9015345ac997c2e4b70223",
+    "wof:geomhash":"7add4a29a4d096d2b47680590fbc09de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759321,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Buhiga",
     "wof:parent_id":85668727,
     "wof:placetype":"county",

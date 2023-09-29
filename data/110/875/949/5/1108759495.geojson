@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006585,
-    "geom:area_square_m":81274260.24205,
+    "geom:area_square_m":81274260.24203,
     "geom:bbox":"29.376918,-3.591856,29.49438,-3.461878",
     "geom:latitude":-3.5285,
     "geom:longitude":29.43279,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BL.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324512,
-    "wof:geomhash":"6623174c80dfbd3c337bce86f786136e",
+    "wof:geomhash":"51501acc7f897ea5ed7f9e5529592282",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759495,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886180,
     "wof:name":"Mutambu",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

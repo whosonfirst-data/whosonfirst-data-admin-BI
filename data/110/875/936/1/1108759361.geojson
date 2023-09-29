@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026825,
-    "geom:area_square_m":331175280.040937,
+    "geom:area_square_m":331175271.425766,
     "geom:bbox":"30.363733,-3.31443,30.66806,-3.110642",
     "geom:latitude":-3.218905,
     "geom:longitude":30.523672,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CA.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324436,
-    "wof:geomhash":"b05840b9586cd54c6fbb0b9da7186dca",
+    "wof:geomhash":"36de68b937b6b6d3069cde1d8acaf845",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108759361,
-    "wof:lastmodified":1636500686,
+    "wof:lastmodified":1695886763,
     "wof:name":"Cankuzo",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

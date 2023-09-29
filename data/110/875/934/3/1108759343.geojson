@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034768,
-    "geom:area_square_m":429511062.002573,
+    "geom:area_square_m":429511062.002567,
     "geom:bbox":"30.103113,-2.621762,30.385448,-2.349049",
     "geom:latitude":-2.485815,
     "geom:longitude":30.239614,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.KI.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324426,
-    "wof:geomhash":"bd7fdc59bed51e34bc3ca94f58194c20",
+    "wof:geomhash":"bd20a33acbe30e5a89738f817e67f200",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759343,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Busoni",
     "wof:parent_id":85668783,
     "wof:placetype":"county",

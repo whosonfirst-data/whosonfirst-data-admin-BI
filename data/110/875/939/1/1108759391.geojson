@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009561,
-    "geom:area_square_m":117993698.272859,
+    "geom:area_square_m":117993698.27287,
     "geom:bbox":"29.566116,-3.625855,29.713573,-3.476923",
     "geom:latitude":-3.55691,
     "geom:longitude":29.63371,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MW.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324451,
-    "wof:geomhash":"842d59958fc2ac0a9b72960344f21009",
+    "wof:geomhash":"8e368fbfb4a9a19d75acad76b96cace3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759391,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Gisozi",
     "wof:parent_id":85668801,
     "wof:placetype":"county",

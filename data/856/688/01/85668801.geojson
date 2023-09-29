@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066804,
-    "geom:area_square_m":824505642.04491,
+    "geom:area_square_m":824505642.045026,
     "geom:bbox":"29.566116,-3.720205,29.875007,-3.297831",
     "geom:latitude":-3.490551,
     "geom:longitude":29.715299,
@@ -281,15 +281,17 @@
         "gn:id":434386,
         "gp:id":-2344901,
         "hasc:id":"BI.MW",
+        "iso:code":"BI-MW",
         "iso:id":"BI-MW",
         "unlc:id":"BI-MW",
         "wd:id":"Q2458075"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34eef2578c1dec5f3ec8fbcf30ef885e",
+    "wof:geomhash":"3331165952c9fe7920b3f3020b312e21",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857386,
+    "wof:lastmodified":1695884874,
     "wof:name":"Mwaro",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

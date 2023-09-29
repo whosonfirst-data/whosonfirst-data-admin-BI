@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137548,
-    "geom:area_square_m":1699122339.510585,
+    "geom:area_square_m":1699122339.510602,
     "geom:bbox":"29.920284,-2.784194,30.41793,-2.327129",
     "geom:latitude":-2.550407,
     "geom:longitude":30.149527,
@@ -310,17 +310,19 @@
         "gn:id":432455,
         "gp:id":2344909,
         "hasc:id":"BI.KI",
+        "iso:code":"BI-KI",
         "iso:id":"BI-KI",
         "qs_pg:id":263282,
         "unlc:id":"BI-KI",
         "wd:id":"Q600840",
         "wk:page":"Kirundo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e3b2d0effa7438d903facc0082118cf",
+    "wof:geomhash":"d58efef5475ff2b6c8d0bab30629baab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857391,
+    "wof:lastmodified":1695884875,
     "wof:name":"Kirundo",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

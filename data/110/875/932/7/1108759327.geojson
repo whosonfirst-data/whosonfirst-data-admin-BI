@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014032,
-    "geom:area_square_m":173233241.049818,
+    "geom:area_square_m":173233241.049832,
     "geom:bbox":"29.522558,-3.260561,29.702911,-3.10749",
     "geom:latitude":-3.192886,
     "geom:longitude":29.604324,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MV.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324418,
-    "wof:geomhash":"7084b8aa6ddd2d7aa317f255074e339f",
+    "wof:geomhash":"6cfc3a80047c4b022ee750a1778eeee7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759327,
-    "wof:lastmodified":1627521593,
+    "wof:lastmodified":1695886173,
     "wof:name":"Bukeye",
     "wof:parent_id":85668797,
     "wof:placetype":"county",

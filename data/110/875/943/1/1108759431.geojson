@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018715,
-    "geom:area_square_m":231129644.69195,
+    "geom:area_square_m":231129644.691907,
     "geom:bbox":"29.930015,-2.906184,30.136262,-2.753675",
     "geom:latitude":-2.836068,
     "geom:longitude":30.032446,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324473,
-    "wof:geomhash":"b90ddc52486f6ed7006d463fdf2de6a9",
+    "wof:geomhash":"554f835b18df28193f1a201ff266988b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759431,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886177,
     "wof:name":"Kiremba",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

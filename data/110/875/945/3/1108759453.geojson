@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029727,
-    "geom:area_square_m":367050463.049125,
+    "geom:area_square_m":367050463.0491,
     "geom:bbox":"30.604253,-3.174021,30.850906,-2.9696",
     "geom:latitude":-3.066786,
     "geom:longitude":30.727587,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CA.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324485,
-    "wof:geomhash":"a1115c2e5640c7633b8e0313086b5874",
+    "wof:geomhash":"0825cdd3657adc15e48ee61158596a55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759453,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886178,
     "wof:name":"Mishiha",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

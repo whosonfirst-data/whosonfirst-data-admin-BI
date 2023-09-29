@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173779,
-    "geom:area_square_m":2144877438.428162,
+    "geom:area_square_m":2144877438.422749,
     "geom:bbox":"30.041065,-3.727752,30.678121,-3.206507",
     "geom:latitude":-3.467331,
     "geom:longitude":30.326766,
@@ -302,17 +302,19 @@
         "gn:id":426699,
         "gp:id":2344914,
         "hasc:id":"BI.RY",
+        "iso:code":"BI-RY",
         "iso:id":"BI-RY",
         "qs_pg:id":318339,
         "unlc:id":"BI-RY",
         "wd:id":"Q822578",
         "wk:page":"Ruyigi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e79039f50323f923177647a3cdc7d7f",
+    "wof:geomhash":"5075113b1ec5f95103bdfb70665763ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857387,
+    "wof:lastmodified":1695884873,
     "wof:name":"Ruyigi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

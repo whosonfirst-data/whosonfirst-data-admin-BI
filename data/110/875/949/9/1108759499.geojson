@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03011,
-    "geom:area_square_m":371865748.643768,
+    "geom:area_square_m":371865748.643755,
     "geom:bbox":"30.248597,-2.963352,30.530062,-2.653022",
     "geom:latitude":-2.809402,
     "geom:longitude":30.382719,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MY.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324520,
-    "wof:geomhash":"f0e76570a1dfcad5414edd4bb7e88480",
+    "wof:geomhash":"85bcd8755e74e85b0e476be08d36f799",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108759499,
-    "wof:lastmodified":1636500687,
+    "wof:lastmodified":1695886764,
     "wof:name":"Muyinga",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

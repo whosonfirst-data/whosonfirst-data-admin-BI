@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014671,
-    "geom:area_square_m":181109244.518953,
+    "geom:area_square_m":181109244.518943,
     "geom:bbox":"30.519075,-3.396795,30.68769,-3.230171",
     "geom:latitude":-3.310538,
     "geom:longitude":30.60657,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CA.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324437,
-    "wof:geomhash":"01c63a30a9b77b1b74a5199edeaa73b5",
+    "wof:geomhash":"f8a3e45c7d3bbe32798c148c5dd1a963",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759363,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Cendajuru",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

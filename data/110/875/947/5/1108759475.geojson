@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010543,
-    "geom:area_square_m":130109860.375052,
+    "geom:area_square_m":130109860.375039,
     "geom:bbox":"29.335889,-3.67466,29.499908,-3.558816",
     "geom:latitude":-3.623513,
     "geom:longitude":29.415219,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RU.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324496,
-    "wof:geomhash":"c56c572dd09b9f14d9febb5bf2ee6469",
+    "wof:geomhash":"68b2bd03bde20defb550f7207731a395",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759475,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Muhuta",
     "wof:parent_id":1108803107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009663,
-    "geom:area_square_m":119344628.459408,
+    "geom:area_square_m":119344628.459397,
     "geom:bbox":"29.751176,-2.887007,29.853029,-2.757068",
     "geom:latitude":-2.824435,
     "geom:longitude":29.800495,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324523,
-    "wof:geomhash":"156168961b9dcb31faf18a3f4da7bd03",
+    "wof:geomhash":"0db14e95c6afa7f7b4c752c102f302ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759503,
-    "wof:lastmodified":1627521598,
+    "wof:lastmodified":1695886180,
     "wof:name":"Mwumba",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

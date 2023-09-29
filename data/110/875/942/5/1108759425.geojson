@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026687,
-    "geom:area_square_m":329523560.291094,
+    "geom:area_square_m":329523558.018386,
     "geom:bbox":"30.411012,-3.171652,30.671855,-2.892831",
     "geom:latitude":-3.030519,
     "geom:longitude":30.570822,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.CA.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324470,
-    "wof:geomhash":"ab1b0513cadeb321c51018ed14599484",
+    "wof:geomhash":"79f4b7fca8ea881a4d701f9cc3b4a0e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759425,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886177,
     "wof:name":"Kigamba",
     "wof:parent_id":85668725,
     "wof:placetype":"county",

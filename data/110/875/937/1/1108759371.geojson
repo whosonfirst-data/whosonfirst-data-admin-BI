@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012132,
-    "geom:area_square_m":149837791.620581,
+    "geom:area_square_m":149837791.620556,
     "geom:bbox":"30.077131,-2.857461,30.265886,-2.67713",
     "geom:latitude":-2.765893,
     "geom:longitude":30.173511,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.MY.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324440,
-    "wof:geomhash":"c2686895c054539e27a35071b05b1b4f",
+    "wof:geomhash":"e74da84c5e5a2da96db2467564fad6de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759371,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gashoho",
     "wof:parent_id":85668787,
     "wof:placetype":"county",

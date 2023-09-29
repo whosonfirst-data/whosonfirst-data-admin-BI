@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150467,
-    "geom:area_square_m":1856301949.031042,
+    "geom:area_square_m":1856301951.243611,
     "geom:bbox":"29.813434,-4.097801,30.411067,-3.632638",
     "geom:latitude":-3.875027,
     "geom:longitude":30.094935,
@@ -310,17 +310,19 @@
         "gn:id":434147,
         "gp:id":2344913,
         "hasc:id":"BI.RT",
+        "iso:code":"BI-RT",
         "iso:id":"BI-RT",
         "qs_pg:id":263283,
         "unlc:id":"BI-RT",
         "wd:id":"Q822566",
         "wk:page":"Rutana Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d1dfee2413478f4d6b11f56c0b76e1c",
+    "wof:geomhash":"64d23ce8910bb94d60b009c83ebe4928",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857389,
+    "wof:lastmodified":1695884874,
     "wof:name":"Rutana",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

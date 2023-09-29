@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017438,
-    "geom:area_square_m":215203098.487662,
+    "geom:area_square_m":215203098.4877,
     "geom:bbox":"29.973459,-3.724396,30.104959,-3.47261",
     "geom:latitude":-3.604429,
     "geom:longitude":30.047296,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BI.GI.IT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324459,
-    "wof:geomhash":"a174746d3006868a1875577902dfe0f4",
+    "wof:geomhash":"563912b0c392f8c67acffc1faea0b73c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759407,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Itaba",
     "wof:parent_id":85668753,
     "wof:placetype":"county",

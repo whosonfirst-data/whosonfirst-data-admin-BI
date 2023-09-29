@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019887,
-    "geom:area_square_m":245377651.819326,
+    "geom:area_square_m":245377651.819313,
     "geom:bbox":"29.973825,-3.894691,30.157445,-3.632638",
     "geom:latitude":-3.755145,
     "geom:longitude":30.069588,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RT.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324510,
-    "wof:geomhash":"7e6c5190f39edc1b7910eb52dd18786f",
+    "wof:geomhash":"d996e8b1c94a317002729ab7703e1d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759489,
-    "wof:lastmodified":1627521597,
+    "wof:lastmodified":1695886179,
     "wof:name":"Musongati",
     "wof:parent_id":85668731,
     "wof:placetype":"county",

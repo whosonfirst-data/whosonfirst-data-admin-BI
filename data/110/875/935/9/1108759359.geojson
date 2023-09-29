@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022425,
-    "geom:area_square_m":276829524.339231,
+    "geom:area_square_m":276829524.339277,
     "geom:bbox":"30.289535,-3.406316,30.54277,-3.206507",
     "geom:latitude":-3.306938,
     "geom:longitude":30.396453,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.BW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324434,
-    "wof:geomhash":"922f1bc2678647f60264f30f76add58a",
+    "wof:geomhash":"5cb2ce50b8bdf482e93a77e92022d730",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759359,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886174,
     "wof:name":"Bweru",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113334,
-    "geom:area_square_m":1399300465.722183,
+    "geom:area_square_m":1399300447.447105,
     "geom:bbox":"29.896781,-3.393871,30.349889,-2.904144",
     "geom:latitude":-3.135593,
     "geom:longitude":30.118855,
@@ -313,17 +313,19 @@
         "gn:id":428218,
         "gp:id":2344907,
         "hasc:id":"BI.KR",
+        "iso:code":"BI-KR",
         "iso:id":"BI-KR",
         "qs_pg:id":1024615,
         "unlc:id":"BI-KR",
         "wd:id":"Q735463",
         "wk:page":"Karuzi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"639591ca601338de2caf402803bf43f4",
+    "wof:geomhash":"5fd7670b90b5d62c7450b6d0ed83cce0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -340,7 +342,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857387,
+    "wof:lastmodified":1695884873,
     "wof:name":"Karuzi",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

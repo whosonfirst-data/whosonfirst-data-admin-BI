@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042274,
-    "geom:area_square_m":521783803.564396,
+    "geom:area_square_m":521783803.564477,
     "geom:bbox":"30.342149,-3.579256,30.678121,-3.323255",
     "geom:latitude":-3.445958,
     "geom:longitude":30.498205,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"BI.RY.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324452,
-    "wof:geomhash":"fa94e1c84cd4890cc82f4f47ab880963",
+    "wof:geomhash":"c476a57975c5a46fc8cd3e8dbb4cfda5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759393,
-    "wof:lastmodified":1566614807,
+    "wof:lastmodified":1695886849,
     "wof:name":"Gisuru",
     "wof:parent_id":85668735,
     "wof:placetype":"county",

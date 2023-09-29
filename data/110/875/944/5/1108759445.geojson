@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014124,
-    "geom:area_square_m":174445065.439763,
+    "geom:area_square_m":174445065.439765,
     "geom:bbox":"29.889541,-2.808321,30.052799,-2.655063",
     "geom:latitude":-2.734075,
     "geom:longitude":29.962137,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.NG.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324480,
-    "wof:geomhash":"b4b32eb7e80c39667ab3e20f00dae773",
+    "wof:geomhash":"03c10e4cec0946ab56542004f555e468",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759445,
-    "wof:lastmodified":1627521596,
+    "wof:lastmodified":1695886178,
     "wof:name":"Marangara",
     "wof:parent_id":85668781,
     "wof:placetype":"county",

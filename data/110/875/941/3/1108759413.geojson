@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006457,
-    "geom:area_square_m":79701847.621025,
+    "geom:area_square_m":79701832.763091,
     "geom:bbox":"29.37074,-3.485822,29.474231,-3.378191",
     "geom:latitude":-3.430745,
     "geom:longitude":29.415276,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BL.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324463,
-    "wof:geomhash":"890f99ed8d8e457faebb106fc78c8a57",
+    "wof:geomhash":"d6fcf1f8b0a4b32338869c1a01ff9c37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759413,
-    "wof:lastmodified":1627521595,
+    "wof:lastmodified":1695886176,
     "wof:name":"Kanyosha1",
     "wof:parent_id":85668799,
     "wof:placetype":"county",

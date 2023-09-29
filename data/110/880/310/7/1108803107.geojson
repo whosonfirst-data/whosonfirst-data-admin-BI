@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085681,
-    "geom:area_square_m":1057104655.742223,
+    "geom:area_square_m":1057104656.383815,
     "geom:bbox":"29.310495,-4.19135,29.607332,-3.558816",
     "geom:latitude":-3.822398,
     "geom:longitude":29.458588,
@@ -127,12 +127,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"BI.RU",
+        "iso:code":"BI-RM",
         "iso:id":"BI-RM",
         "wd:id":"Q20669646"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BI",
     "wof:created":1485278604,
-    "wof:geomhash":"b6aaf416397279ea97807bd117415bec",
+    "wof:geomhash":"139a70ea70227fc2b0faae894fc7f48a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +151,7 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1690857394,
+    "wof:lastmodified":1695884484,
     "wof:name":"Rumonge",
     "wof:parent_id":85632285,
     "wof:placetype":"region",

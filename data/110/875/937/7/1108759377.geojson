@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022295,
-    "geom:area_square_m":275252899.819327,
+    "geom:area_square_m":275252899.819282,
     "geom:bbox":"29.222623,-3.31922,29.385703,-3.096447",
     "geom:latitude":-3.197397,
     "geom:longitude":29.294436,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"BI.BB.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BI",
     "wof:created":1481324444,
-    "wof:geomhash":"ac3027924f501da0b208fa9df478d949",
+    "wof:geomhash":"de431d6bac6c880463ca414c467d7649",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759377,
-    "wof:lastmodified":1627521594,
+    "wof:lastmodified":1695886175,
     "wof:name":"Gihanga",
     "wof:parent_id":85668739,
     "wof:placetype":"county",
